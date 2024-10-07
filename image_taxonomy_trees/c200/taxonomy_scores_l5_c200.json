@@ -1,0 +1,128 @@
+[
+  {
+    "name": "covering (artifact)",
+    "father": "artifact",
+    "definition": "an artifact that covers something else (usually to protect or shelter or conceal it)",
+    "scores": {
+      "clip_score_scores": 0.5454592480583765,
+      "pick_score_scores": 0.5270954937369292,
+      "vqa_score_scores": 0.5629553230522207,
+      "tifa_score_scores": 0.26874980236420454,
+      "image_reward_score_scores": 0.4673336948036611
+    },
+    "level": 5,
+    "total_descendants": 955
+  },
+  {
+    "name": "creation",
+    "father": "artifact",
+    "definition": "an artifact that has been brought into existence by someone",
+    "scores": {
+      "clip_score_scores": 0.5378676010329435,
+      "pick_score_scores": 0.5157046337359245,
+      "vqa_score_scores": 0.6147093219302635,
+      "tifa_score_scores": 0.21844778290795136,
+      "image_reward_score_scores": 0.4939484953108115
+    },
+    "level": 5,
+    "total_descendants": 633
+  },
+  {
+    "name": "decoration",
+    "father": "artifact",
+    "definition": "something used to beautify",
+    "scores": {
+      "clip_score_scores": 0.5532008268884407,
+      "pick_score_scores": 0.5106459314348089,
+      "vqa_score_scores": 0.5524949416332006,
+      "tifa_score_scores": 0.2864841451920187,
+      "image_reward_score_scores": 0.4910747687531998
+    },
+    "level": 5,
+    "total_descendants": 276
+  },
+  {
+    "name": "fabric",
+    "father": "artifact",
+    "definition": "artifact made by weaving or felting or knitting or crocheting natural or synthetic fibers",
+    "scores": {
+      "clip_score_scores": 0.5490066069600512,
+      "pick_score_scores": 0.49615212592748636,
+      "vqa_score_scores": 0.5311732225979551,
+      "tifa_score_scores": 0.23309887983541203,
+      "image_reward_score_scores": 0.4641930531961319
+    },
+    "level": 5,
+    "total_descendants": 280
+  },
+  {
+    "name": "instrumentality",
+    "father": "artifact",
+    "definition": "an artifact (or system of artifacts) that is instrumental in accomplishing some end",
+    "scores": {
+      "clip_score_scores": 0.5493789649130222,
+      "pick_score_scores": 0.5155635637992869,
+      "vqa_score_scores": 0.5556586606179894,
+      "tifa_score_scores": 0.2534298298967411,
+      "image_reward_score_scores": 0.48819716848514716
+    },
+    "level": 5,
+    "total_descendants": 5379
+  },
+  {
+    "name": "structure",
+    "father": "artifact",
+    "definition": "a thing constructed; a complex entity constructed of many parts",
+    "scores": {
+      "clip_score_scores": 0.5398023408934766,
+      "pick_score_scores": 0.5105289908732733,
+      "vqa_score_scores": 0.5543851018038743,
+      "tifa_score_scores": 0.2472529897752175,
+      "image_reward_score_scores": 0.4669074363981625
+    },
+    "level": 5,
+    "total_descendants": 1361
+  },
+  {
+    "name": "way",
+    "father": "artifact",
+    "definition": "any artifact consisting of a road or path affording passage from one place to another",
+    "scores": {
+      "clip_score_scores": 0.5155194076867249,
+      "pick_score_scores": 0.5212500064291596,
+      "vqa_score_scores": 0.5236662570511077,
+      "tifa_score_scores": 0.24888168140942712,
+      "image_reward_score_scores": 0.49132705420167966
+    },
+    "level": 5,
+    "total_descendants": 264
+  },
+  {
+    "name": "organism",
+    "father": "living thing",
+    "definition": "a living thing that has (or can develop) the ability to act or function independently",
+    "scores": {
+      "clip_score_scores": 0.5513822634809037,
+      "pick_score_scores": 0.5096774053048851,
+      "vqa_score_scores": 0.5744559360409581,
+      "tifa_score_scores": 0.21984106943665976,
+      "image_reward_score_scores": 0.46993074625022035
+    },
+    "level": 5,
+    "total_descendants": 15684
+  },
+  {
+    "name": "plant part",
+    "father": "natural object",
+    "definition": "any part of a plant or fungus",
+    "scores": {
+      "clip_score_scores": 0.5448711159015845,
+      "pick_score_scores": 0.5130769752723556,
+      "vqa_score_scores": 0.5437257593702329,
+      "tifa_score_scores": 0.21540653333626059,
+      "image_reward_score_scores": 0.46781400022281616
+    },
+    "level": 5,
+    "total_descendants": 671
+  }
+]

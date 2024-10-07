@@ -1,0 +1,226 @@
+[
+  {
+    "name": "clothing",
+    "father": "covering (artifact)",
+    "definition": "a covering designed to be worn on a person's body",
+    "scores": {
+      "clip_score_scores": 0.5510511357276093,
+      "pick_score_scores": 0.5060243700869685,
+      "vqa_score_scores": 0.5761937539147239,
+      "tifa_score_scores": 0.283042345188691,
+      "image_reward_score_scores": 0.4893795005791822
+    },
+    "level": 6,
+    "total_descendants": 539
+  },
+  {
+    "name": "product",
+    "father": "creation",
+    "definition": "an artifact that has been created by someone or some process",
+    "scores": {
+      "clip_score_scores": 0.5539709743412458,
+      "pick_score_scores": 0.5178748528705126,
+      "vqa_score_scores": 0.5839507392919226,
+      "tifa_score_scores": 0.23256128515740945,
+      "image_reward_score_scores": 0.48027093377278124
+    },
+    "level": 6,
+    "total_descendants": 210
+  },
+  {
+    "name": "representation",
+    "father": "creation",
+    "definition": "a creation that is a visual or tangible rendering of someone or something",
+    "scores": {
+      "clip_score_scores": 0.5570761935858694,
+      "pick_score_scores": 0.5158458522949553,
+      "vqa_score_scores": 0.581280214675065,
+      "tifa_score_scores": 0.23408379126688036,
+      "image_reward_score_scores": 0.48601439780150624
+    },
+    "level": 6,
+    "total_descendants": 222
+  },
+  {
+    "name": "container",
+    "father": "instrumentality",
+    "definition": "any object that can be used to hold things (especially a large metal boxlike object of standardized dimensions that can be loaded from one form of transport to another)",
+    "scores": {
+      "clip_score_scores": 0.5688337119618814,
+      "pick_score_scores": 0.5209754783853241,
+      "vqa_score_scores": 0.5389864133660829,
+      "tifa_score_scores": 0.2583847961125414,
+      "image_reward_score_scores": 0.48451166597547546
+    },
+    "level": 6,
+    "total_descendants": 478
+  },
+  {
+    "name": "conveyance",
+    "father": "instrumentality",
+    "definition": "something that serves as a means of transportation",
+    "scores": {
+      "clip_score_scores": 0.5371994972619948,
+      "pick_score_scores": 0.5256744323529506,
+      "vqa_score_scores": 0.5303645645345961,
+      "tifa_score_scores": 0.2481367207210963,
+      "image_reward_score_scores": 0.4714965194878975
+    },
+    "level": 6,
+    "total_descendants": 527
+  },
+  {
+    "name": "device (instrumentality)",
+    "father": "instrumentality",
+    "definition": "an instrumentality invented for a particular purpose",
+    "scores": {
+      "clip_score_scores": 0.5481779659652393,
+      "pick_score_scores": 0.5213401110721121,
+      "vqa_score_scores": 0.5398486010303548,
+      "tifa_score_scores": 0.23317744222935063,
+      "image_reward_score_scores": 0.4656389434916023
+    },
+    "level": 6,
+    "total_descendants": 2610
+  },
+  {
+    "name": "equipment",
+    "father": "instrumentality",
+    "definition": "an instrumentality needed for an undertaking or to perform a service",
+    "scores": {
+      "clip_score_scores": 0.5683779391714776,
+      "pick_score_scores": 0.5338643786723378,
+      "vqa_score_scores": 0.5808733846191486,
+      "tifa_score_scores": 0.2538710455582854,
+      "image_reward_score_scores": 0.5236408896260758
+    },
+    "level": 6,
+    "total_descendants": 453
+  },
+  {
+    "name": "furnishing (instrumentality)",
+    "father": "instrumentality",
+    "definition": "(usually plural) the instrumentalities (furniture and appliances and other movable accessories including curtains and rugs) that make a home (or other area) livable",
+    "scores": {
+      "clip_score_scores": 0.5813388447412903,
+      "pick_score_scores": 0.5260155110766424,
+      "vqa_score_scores": 0.5995552991196099,
+      "tifa_score_scores": 0.2642608163218913,
+      "image_reward_score_scores": 0.5183405756808824
+    },
+    "level": 6,
+    "total_descendants": 216
+  },
+  {
+    "name": "implement",
+    "father": "instrumentality",
+    "definition": "instrumentation (a piece of equipment or tool) used to effect an end",
+    "scores": {
+      "clip_score_scores": 0.5456518848526789,
+      "pick_score_scores": 0.5112512197006124,
+      "vqa_score_scores": 0.5353206078679381,
+      "tifa_score_scores": 0.23127578706567656,
+      "image_reward_score_scores": 0.4829334641054075
+    },
+    "level": 6,
+    "total_descendants": 709
+  },
+  {
+    "name": "area (structure)",
+    "father": "structure",
+    "definition": "a part of a structure having some specific characteristic or function",
+    "scores": {
+      "clip_score_scores": 0.5480218010048579,
+      "pick_score_scores": 0.5198707151777652,
+      "vqa_score_scores": 0.5293085262999575,
+      "tifa_score_scores": 0.22594218288834858,
+      "image_reward_score_scores": 0.4437546377981697
+    },
+    "level": 6,
+    "total_descendants": 325
+  },
+  {
+    "name": "animal",
+    "father": "organism",
+    "definition": "a living organism characterized by voluntary movement",
+    "scores": {
+      "clip_score_scores": 0.5402475536802155,
+      "pick_score_scores": 0.49678248923364665,
+      "vqa_score_scores": 0.5472457914038559,
+      "tifa_score_scores": 0.22786778091958357,
+      "image_reward_score_scores": 0.4522712649525663
+    },
+    "level": 6,
+    "total_descendants": 3930
+  },
+  {
+    "name": "fungus",
+    "father": "organism",
+    "definition": "an organism of the kingdom Fungi lacking chlorophyll and feeding on organic matter; ranging from unicellular or multicellular organisms to spore-bearing syncytia",
+    "scores": {
+      "clip_score_scores": 0.5488205020077416,
+      "pick_score_scores": 0.5162789944447246,
+      "vqa_score_scores": 0.5443326317049813,
+      "tifa_score_scores": 0.22729225569846065,
+      "image_reward_score_scores": 0.46426296313884774
+    },
+    "level": 6,
+    "total_descendants": 304
+  },
+  {
+    "name": "microorganism",
+    "father": "organism",
+    "definition": "any organism of microscopic size",
+    "scores": {
+      "clip_score_scores": 0.5832474105095138,
+      "pick_score_scores": 0.5500773976427413,
+      "vqa_score_scores": 0.6048580733896946,
+      "tifa_score_scores": 0.22870949573148064,
+      "image_reward_score_scores": 0.4934286329504485
+    },
+    "level": 6,
+    "total_descendants": 255
+  },
+  {
+    "name": "person (causal agent)",
+    "father": "organism",
+    "definition": "a human being",
+    "scores": {
+      "clip_score_scores": 0.5459959192136359,
+      "pick_score_scores": 0.5067097612848018,
+      "vqa_score_scores": 0.5539895852700466,
+      "tifa_score_scores": 0.21082971616218799,
+      "image_reward_score_scores": 0.47535697711121666
+    },
+    "level": 6,
+    "total_descendants": 6874
+  },
+  {
+    "name": "plant (organism)",
+    "father": "organism",
+    "definition": "(botany) a living organism lacking the power of locomotion",
+    "scores": {
+      "clip_score_scores": 0.5301176500374619,
+      "pick_score_scores": 0.5013687555164835,
+      "vqa_score_scores": 0.5404777532644213,
+      "tifa_score_scores": 0.20718063210476578,
+      "image_reward_score_scores": 0.4564899066131753
+    },
+    "level": 6,
+    "total_descendants": 4237
+  },
+  {
+    "name": "plant organ",
+    "father": "plant part",
+    "definition": "a functional and structural unit of a plant or fungus",
+    "scores": {
+      "clip_score_scores": 0.530942764954465,
+      "pick_score_scores": 0.5176276727280564,
+      "vqa_score_scores": 0.5274758994193475,
+      "tifa_score_scores": 0.26159586284401665,
+      "image_reward_score_scores": 0.4992038067745925
+    },
+    "level": 6,
+    "total_descendants": 595
+  }
+]

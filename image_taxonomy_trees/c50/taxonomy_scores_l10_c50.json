@@ -1,0 +1,352 @@
+[
+  {
+    "name": "motor vehicle",
+    "father": "self-propelled vehicle",
+    "definition": "a self-propelled wheeled vehicle that does not run on rails",
+    "scores": {
+      "clip_score_scores": 0.5936627123451734,
+      "pick_score_scores": 0.5129880567331779,
+      "vqa_score_scores": 0.5891634077233945,
+      "tifa_score_scores": 0.28990247395296503,
+      "image_reward_score_scores": 0.5491470754790773
+    },
+    "level": 10,
+    "total_descendants": 76
+  },
+  {
+    "name": "boat",
+    "father": "vessel (craft)",
+    "definition": "a small vessel for travel on water",
+    "scores": {
+      "clip_score_scores": 0.5308936449614738,
+      "pick_score_scores": 0.521894279278164,
+      "vqa_score_scores": 0.5225323657818877,
+      "tifa_score_scores": 0.20802344183873472,
+      "image_reward_score_scores": 0.4731809093484009
+    },
+    "level": 10,
+    "total_descendants": 63
+  },
+  {
+    "name": "firearm",
+    "father": "gun",
+    "definition": "a portable gun",
+    "scores": {
+      "clip_score_scores": 0.5565671929920472,
+      "pick_score_scores": 0.5126834058402627,
+      "vqa_score_scores": 0.5208071836132706,
+      "tifa_score_scores": 0.2104243611607978,
+      "image_reward_score_scores": 0.45459863184577537
+    },
+    "level": 10,
+    "total_descendants": 57
+  },
+  {
+    "name": "edge tool",
+    "father": "cutter (cutting implement)",
+    "definition": "any cutting tool with a sharp cutting edge (as a chisel or knife or plane or gouge)",
+    "scores": {
+      "clip_score_scores": 0.5642939106771274,
+      "pick_score_scores": 0.5347252371634307,
+      "vqa_score_scores": 0.5236177642199563,
+      "tifa_score_scores": 0.23139464679390273,
+      "image_reward_score_scores": 0.44694208820230524
+    },
+    "level": 10,
+    "total_descendants": 74
+  },
+  {
+    "name": "frog (amphibian)",
+    "father": "amphibian (vertebrate)",
+    "definition": "any of various tailless stout-bodied amphibians with long hind limbs for leaping; semiaquatic and terrestrial species",
+    "scores": {
+      "clip_score_scores": 0.5444117111583526,
+      "pick_score_scores": 0.5081449178686483,
+      "vqa_score_scores": 0.5181707087445071,
+      "tifa_score_scores": 0.21347858309990664,
+      "image_reward_score_scores": 0.5457431154039726
+    },
+    "level": 10,
+    "total_descendants": 53
+  },
+  {
+    "name": "fish",
+    "father": "aquatic vertebrate",
+    "definition": "any of various mostly cold-blooded aquatic vertebrates usually having scales and breathing through gills",
+    "scores": {
+      "clip_score_scores": 0.5414106015894165,
+      "pick_score_scores": 0.4876028992622621,
+      "vqa_score_scores": 0.530152549401282,
+      "tifa_score_scores": 0.20318958447555033,
+      "image_reward_score_scores": 0.4306240509347288
+    },
+    "level": 10,
+    "total_descendants": 596
+  },
+  {
+    "name": "aquatic bird",
+    "father": "bird",
+    "definition": "wading and swimming and diving birds of either fresh or salt water",
+    "scores": {
+      "clip_score_scores": 0.5733801993328115,
+      "pick_score_scores": 0.5057304290046124,
+      "vqa_score_scores": 0.5583280023330659,
+      "tifa_score_scores": 0.22443514421804997,
+      "image_reward_score_scores": 0.5110889890394491
+    },
+    "level": 10,
+    "total_descendants": 277
+  },
+  {
+    "name": "bird of prey",
+    "father": "bird",
+    "definition": "any of numerous carnivorous birds that hunt and kill other animals",
+    "scores": {
+      "clip_score_scores": 0.5820773303317786,
+      "pick_score_scores": 0.5112283821338599,
+      "vqa_score_scores": 0.5961665167855916,
+      "tifa_score_scores": 0.20514509231989034,
+      "image_reward_score_scores": 0.5019751779526007
+    },
+    "level": 10,
+    "total_descendants": 77
+  },
+  {
+    "name": "gallinaceous bird",
+    "father": "bird",
+    "definition": "heavy-bodied largely ground-feeding domestic or game birds",
+    "scores": {
+      "clip_score_scores": 0.5747082261595473,
+      "pick_score_scores": 0.4971931007538366,
+      "vqa_score_scores": 0.5548536659196868,
+      "tifa_score_scores": 0.2523259233580849,
+      "image_reward_score_scores": 0.5218079755976678
+    },
+    "level": 10,
+    "total_descendants": 67
+  },
+  {
+    "name": "passerine",
+    "father": "bird",
+    "definition": "perching birds mostly small and living near the ground with feet having 4 toes arranged to allow for gripping the perch; most are songbirds; hatchlings are helpless",
+    "scores": {
+      "clip_score_scores": 0.5576431624760537,
+      "pick_score_scores": 0.5180509890271241,
+      "vqa_score_scores": 0.5349973716056508,
+      "tifa_score_scores": 0.20770617192350954,
+      "image_reward_score_scores": 0.4737443226541932
+    },
+    "level": 10,
+    "total_descendants": 273
+  },
+  {
+    "name": "placental",
+    "father": "mammal",
+    "definition": "mammals having a placenta; all mammals except monotremes and marsupials",
+    "scores": {
+      "clip_score_scores": 0.557477678709123,
+      "pick_score_scores": 0.5064753200181952,
+      "vqa_score_scores": 0.5481907588966114,
+      "tifa_score_scores": 0.2392887467480063,
+      "image_reward_score_scores": 0.5052615861341261
+    },
+    "level": 10,
+    "total_descendants": 878
+  },
+  {
+    "name": "diapsid",
+    "father": "reptile",
+    "definition": "reptile having a pair of openings in the skull behind each eye",
+    "scores": {
+      "clip_score_scores": 0.5613476287894456,
+      "pick_score_scores": 0.48176337887929027,
+      "vqa_score_scores": 0.5059541520133487,
+      "tifa_score_scores": 0.21050435448817142,
+      "image_reward_score_scores": 0.4893463623475481
+    },
+    "level": 10,
+    "total_descendants": 248
+  },
+  {
+    "name": "beetle",
+    "father": "insect",
+    "definition": "insect having biting mouthparts and front wings modified to form horny covers overlying the membranous rear wings",
+    "scores": {
+      "clip_score_scores": 0.583388694679613,
+      "pick_score_scores": 0.534672163671739,
+      "vqa_score_scores": 0.5374479966844905,
+      "tifa_score_scores": 0.2215870432374339,
+      "image_reward_score_scores": 0.48996539837090947
+    },
+    "level": 10,
+    "total_descendants": 62
+  },
+  {
+    "name": "hymenopterous insect",
+    "father": "insect",
+    "definition": "insects having two pairs of membranous wings and an ovipositor specialized for stinging or piercing",
+    "scores": {
+      "clip_score_scores": 0.5424895755449055,
+      "pick_score_scores": 0.5277688438406876,
+      "vqa_score_scores": 0.5536894210923864,
+      "tifa_score_scores": 0.18800279910338502,
+      "image_reward_score_scores": 0.4598597428236362
+    },
+    "level": 10,
+    "total_descendants": 52
+  },
+  {
+    "name": "lepidopterous insect",
+    "father": "insect",
+    "definition": "insect that in the adult state has four wings more or less covered with tiny scales",
+    "scores": {
+      "clip_score_scores": 0.5537391522203379,
+      "pick_score_scores": 0.4937564093161084,
+      "vqa_score_scores": 0.5823402651879955,
+      "tifa_score_scores": 0.2201398319146682,
+      "image_reward_score_scores": 0.49205794644226436
+    },
+    "level": 10,
+    "total_descendants": 103
+  },
+  {
+    "name": "medical practitioner",
+    "father": "health professional",
+    "definition": "someone who practices medicine",
+    "scores": {
+      "clip_score_scores": 0.556792172287541,
+      "pick_score_scores": 0.507683295931792,
+      "vqa_score_scores": 0.5235084304032274,
+      "tifa_score_scores": 0.1734418193251053,
+      "image_reward_score_scores": 0.5355285678428492
+    },
+    "level": 10,
+    "total_descendants": 63
+  },
+  {
+    "name": "criminal",
+    "father": "principal (wrongdoer)",
+    "definition": "someone who has committed a crime or has been legally convicted of a crime",
+    "scores": {
+      "clip_score_scores": 0.5322298372779032,
+      "pick_score_scores": 0.47845308805230324,
+      "vqa_score_scores": 0.5283277053218127,
+      "tifa_score_scores": 0.188094219118058,
+      "image_reward_score_scores": 0.449015307409873
+    },
+    "level": 10,
+    "total_descendants": 68
+  },
+  {
+    "name": "laborer",
+    "father": "workman",
+    "definition": "someone who works with their hands; someone engaged in manual labor",
+    "scores": {
+      "clip_score_scores": 0.5394931809043464,
+      "pick_score_scores": 0.5024469509129196,
+      "vqa_score_scores": 0.5673734946944894,
+      "tifa_score_scores": 0.20326349326599324,
+      "image_reward_score_scores": 0.47915901846687087
+    },
+    "level": 10,
+    "total_descendants": 77
+  },
+  {
+    "name": "enlisted person",
+    "father": "serviceman",
+    "definition": "a serviceman who ranks below a commissioned officer",
+    "scores": {
+      "clip_score_scores": 0.5335009072906116,
+      "pick_score_scores": 0.5089298471045152,
+      "vqa_score_scores": 0.5240729896843231,
+      "tifa_score_scores": 0.3138374844453249,
+      "image_reward_score_scores": 0.4563359421877772
+    },
+    "level": 10,
+    "total_descendants": 61
+  },
+  {
+    "name": "military officer",
+    "father": "serviceman",
+    "definition": "any person in the armed services who holds a position of authority or command",
+    "scores": {
+      "clip_score_scores": 0.5537226375913715,
+      "pick_score_scores": 0.5028577333741022,
+      "vqa_score_scores": 0.510608283106725,
+      "tifa_score_scores": 0.22226067963121535,
+      "image_reward_score_scores": 0.477327949011562
+    },
+    "level": 10,
+    "total_descendants": 82
+  },
+  {
+    "name": "grass",
+    "father": "gramineous plant",
+    "definition": "narrow-leaved green herbage: grown as lawns; used as pasture for grazing animals; cut and dried as hay",
+    "scores": {
+      "clip_score_scores": 0.5421175885305245,
+      "pick_score_scores": 0.5152528410281271,
+      "vqa_score_scores": 0.5234090886629823,
+      "tifa_score_scores": 0.2665136460349685,
+      "image_reward_score_scores": 0.4543374352782895
+    },
+    "level": 10,
+    "total_descendants": 165
+  },
+  {
+    "name": "flower (angiosperm)",
+    "father": "angiosperm",
+    "definition": "a plant cultivated for its blooms or blossoms",
+    "scores": {
+      "clip_score_scores": 0.5508165501686176,
+      "pick_score_scores": 0.5058542889082392,
+      "vqa_score_scores": 0.5358196820734006,
+      "tifa_score_scores": 0.24770981130318614,
+      "image_reward_score_scores": 0.477034304807267
+    },
+    "level": 10,
+    "total_descendants": 425
+  },
+  {
+    "name": "subshrub",
+    "father": "shrub",
+    "definition": "low-growing woody shrub or perennial with woody base",
+    "scores": {
+      "clip_score_scores": 0.5413859163228317,
+      "pick_score_scores": 0.5053100912112893,
+      "vqa_score_scores": 0.5162642663770131,
+      "tifa_score_scores": 0.20901630123850892,
+      "image_reward_score_scores": 0.43931686982559426
+    },
+    "level": 10,
+    "total_descendants": 131
+  },
+  {
+    "name": "angiospermous tree",
+    "father": "tree",
+    "definition": "any tree having seeds and ovules contained in the ovary",
+    "scores": {
+      "clip_score_scores": 0.5361069263561141,
+      "pick_score_scores": 0.5070530545642121,
+      "vqa_score_scores": 0.5118220710751105,
+      "tifa_score_scores": 0.21539975498340524,
+      "image_reward_score_scores": 0.4587926827006685
+    },
+    "level": 10,
+    "total_descendants": 308
+  },
+  {
+    "name": "gymnospermous tree",
+    "father": "tree",
+    "definition": "any tree of the division Gymnospermophyta",
+    "scores": {
+      "clip_score_scores": 0.5025238392002548,
+      "pick_score_scores": 0.5168453204734431,
+      "vqa_score_scores": 0.5746832314986728,
+      "tifa_score_scores": 0.22508685036641857,
+      "image_reward_score_scores": 0.4236127822582241
+    },
+    "level": 10,
+    "total_descendants": 154
+  }
+]

@@ -1,0 +1,254 @@
+[
+  {
+    "name": "garment",
+    "father": "clothing",
+    "definition": "an article of clothing",
+    "scores": {
+      "clip_score_scores": 0.5489214180098853,
+      "pick_score_scores": 0.5174630942274813,
+      "vqa_score_scores": 0.5613175732888066,
+      "tifa_score_scores": 0.2643345119912126,
+      "image_reward_score_scores": 0.5043413220014442
+    },
+    "level": 7,
+    "total_descendants": 265
+  },
+  {
+    "name": "vehicle (conveyance)",
+    "father": "conveyance",
+    "definition": "a conveyance that transports people or objects",
+    "scores": {
+      "clip_score_scores": 0.563564893261996,
+      "pick_score_scores": 0.5409959312311935,
+      "vqa_score_scores": 0.5636020610560176,
+      "tifa_score_scores": 0.30039616942206954,
+      "image_reward_score_scores": 0.5430906516157755
+    },
+    "level": 7,
+    "total_descendants": 482
+  },
+  {
+    "name": "instrument (device)",
+    "father": "device (instrumentality)",
+    "definition": "a device that requires skill for proper use",
+    "scores": {
+      "clip_score_scores": 0.5707620006574171,
+      "pick_score_scores": 0.5257479465711594,
+      "vqa_score_scores": 0.5386819086150392,
+      "tifa_score_scores": 0.23206905031759703,
+      "image_reward_score_scores": 0.4501916220642289
+    },
+    "level": 7,
+    "total_descendants": 628
+  },
+  {
+    "name": "machine (device)",
+    "father": "device (instrumentality)",
+    "definition": "any mechanical or electrical device that transmits or modifies energy to perform or assist in the performance of human tasks",
+    "scores": {
+      "clip_score_scores": 0.5498821062926664,
+      "pick_score_scores": 0.515794577967161,
+      "vqa_score_scores": 0.5477511479306646,
+      "tifa_score_scores": 0.23437066022677416,
+      "image_reward_score_scores": 0.46668894308200526
+    },
+    "level": 7,
+    "total_descendants": 224
+  },
+  {
+    "name": "mechanism (device)",
+    "father": "device (instrumentality)",
+    "definition": "device consisting of a piece of machinery; has moving parts that perform some function",
+    "scores": {
+      "clip_score_scores": 0.5487963104419362,
+      "pick_score_scores": 0.5265695021848104,
+      "vqa_score_scores": 0.54997491312113,
+      "tifa_score_scores": 0.24797111603832037,
+      "image_reward_score_scores": 0.48752494872121416
+    },
+    "level": 7,
+    "total_descendants": 297
+  },
+  {
+    "name": "tool",
+    "father": "implement",
+    "definition": "an implement used in the practice of a vocation",
+    "scores": {
+      "clip_score_scores": 0.549040386320445,
+      "pick_score_scores": 0.5286870544843882,
+      "vqa_score_scores": 0.5182383708686107,
+      "tifa_score_scores": 0.21937325353328305,
+      "image_reward_score_scores": 0.45614874890997
+    },
+    "level": 7,
+    "total_descendants": 345
+  },
+  {
+    "name": "chordate",
+    "father": "animal",
+    "definition": "any animal of the phylum Chordata having a notochord or spinal column",
+    "scores": {
+      "clip_score_scores": 0.5557385537363307,
+      "pick_score_scores": 0.5277944759967118,
+      "vqa_score_scores": 0.5650320120187627,
+      "tifa_score_scores": 0.2613616152172649,
+      "image_reward_score_scores": 0.4849227964111364
+    },
+    "level": 7,
+    "total_descendants": 2757
+  },
+  {
+    "name": "domestic animal",
+    "father": "animal",
+    "definition": "any of various animals that have been tamed and made fit for a human environment",
+    "scores": {
+      "clip_score_scores": 0.5632481088420335,
+      "pick_score_scores": 0.494580794653564,
+      "vqa_score_scores": 0.4940816277301348,
+      "tifa_score_scores": 0.3312200516741062,
+      "image_reward_score_scores": 0.5567544530203932
+    },
+    "level": 7,
+    "total_descendants": 207
+  },
+  {
+    "name": "invertebrate",
+    "father": "animal",
+    "definition": "any animal lacking a backbone or notochord; the term is not used as a scientific classification",
+    "scores": {
+      "clip_score_scores": 0.534482878651409,
+      "pick_score_scores": 0.5026890466485713,
+      "vqa_score_scores": 0.5290562201863134,
+      "tifa_score_scores": 0.2229666054342345,
+      "image_reward_score_scores": 0.45591180983538493
+    },
+    "level": 7,
+    "total_descendants": 758
+  },
+  {
+    "name": "adult (person)",
+    "father": "person (causal agent)",
+    "definition": "a fully developed person from maturity onward",
+    "scores": {
+      "clip_score_scores": 0.5264695631358339,
+      "pick_score_scores": 0.4953730176250511,
+      "vqa_score_scores": 0.5404631886972376,
+      "tifa_score_scores": 0.2123878943182136,
+      "image_reward_score_scores": 0.4385560057099484
+    },
+    "level": 7,
+    "total_descendants": 260
+  },
+  {
+    "name": "communicator",
+    "father": "person (causal agent)",
+    "definition": "a person who communicates with others",
+    "scores": {
+      "clip_score_scores": 0.5347855358896395,
+      "pick_score_scores": 0.48756947607482104,
+      "vqa_score_scores": 0.5554901466481296,
+      "tifa_score_scores": 0.20432459718425008,
+      "image_reward_score_scores": 0.4747155980170485
+    },
+    "level": 7,
+    "total_descendants": 282
+  },
+  {
+    "name": "contestant",
+    "father": "person (causal agent)",
+    "definition": "a person who participates in competitions",
+    "scores": {
+      "clip_score_scores": 0.5520203908884747,
+      "pick_score_scores": 0.4903594203259847,
+      "vqa_score_scores": 0.5357414775136202,
+      "tifa_score_scores": 0.19528992389614777,
+      "image_reward_score_scores": 0.4206400066314249
+    },
+    "level": 7,
+    "total_descendants": 201
+  },
+  {
+    "name": "inhabitant",
+    "father": "person (causal agent)",
+    "definition": "a person who inhabits a particular place",
+    "scores": {
+      "clip_score_scores": 0.532071080420644,
+      "pick_score_scores": 0.49858771305955135,
+      "vqa_score_scores": 0.5293416531172149,
+      "tifa_score_scores": 0.18315710191225404,
+      "image_reward_score_scores": 0.4703914345218597
+    },
+    "level": 7,
+    "total_descendants": 336
+  },
+  {
+    "name": "leader",
+    "father": "person (causal agent)",
+    "definition": "a person who rules or guides or inspires others",
+    "scores": {
+      "clip_score_scores": 0.5454679799828894,
+      "pick_score_scores": 0.5014479019962816,
+      "vqa_score_scores": 0.5415203220963357,
+      "tifa_score_scores": 0.20375210757726067,
+      "image_reward_score_scores": 0.4875326493358685
+    },
+    "level": 7,
+    "total_descendants": 391
+  },
+  {
+    "name": "person of color",
+    "father": "person (causal agent)",
+    "definition": "(formal) any non-European non-white person",
+    "scores": {
+      "clip_score_scores": 0.5819286263391602,
+      "pick_score_scores": 0.5082994526237922,
+      "vqa_score_scores": 0.5858210337557134,
+      "tifa_score_scores": 0.23702572194242005,
+      "image_reward_score_scores": 0.4916230760301884
+    },
+    "level": 7,
+    "total_descendants": 318
+  },
+  {
+    "name": "worker (person)",
+    "father": "person (causal agent)",
+    "definition": "a person who works at a specific occupation",
+    "scores": {
+      "clip_score_scores": 0.5528788718402611,
+      "pick_score_scores": 0.4972994159189531,
+      "vqa_score_scores": 0.5391540511468115,
+      "tifa_score_scores": 0.21259546051045358,
+      "image_reward_score_scores": 0.4789815432201621
+    },
+    "level": 7,
+    "total_descendants": 903
+  },
+  {
+    "name": "vascular plant",
+    "father": "plant (organism)",
+    "definition": "green plant having a vascular system: ferns, gymnosperms, angiosperms",
+    "scores": {
+      "clip_score_scores": 0.5363152280392646,
+      "pick_score_scores": 0.5217901765622701,
+      "vqa_score_scores": 0.5573345261932628,
+      "tifa_score_scores": 0.25057889885223233,
+      "image_reward_score_scores": 0.4608529172097801
+    },
+    "level": 7,
+    "total_descendants": 4000
+  },
+  {
+    "name": "reproductive structure",
+    "father": "plant organ",
+    "definition": "the parts of a plant involved in its reproduction",
+    "scores": {
+      "clip_score_scores": 0.5247528446441467,
+      "pick_score_scores": 0.5183550835288321,
+      "vqa_score_scores": 0.5256919309091768,
+      "tifa_score_scores": 0.24667476971593488,
+      "image_reward_score_scores": 0.4287212328631414
+    },
+    "level": 7,
+    "total_descendants": 413
+  }
+]

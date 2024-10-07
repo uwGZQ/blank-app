@@ -1,0 +1,100 @@
+[
+  {
+    "name": "teleost fish",
+    "father": "bony fish",
+    "definition": "a bony fish of the subclass Teleostei",
+    "scores": {
+      "clip_score_scores": 0.5406155112198401,
+      "pick_score_scores": 0.47333910670266344,
+      "vqa_score_scores": 0.4764864534842113,
+      "tifa_score_scores": 0.19190125910496897,
+      "image_reward_score_scores": 0.44028299291217293
+    },
+    "level": 12,
+    "total_descendants": 451
+  },
+  {
+    "name": "elasmobranch",
+    "father": "cartilaginous fish",
+    "definition": "any of numerous fishes of the class Chondrichthyes characterized by a cartilaginous skeleton and placoid scales: sharks; rays; skates",
+    "scores": {
+      "clip_score_scores": 0.5639983559057431,
+      "pick_score_scores": 0.488899660971152,
+      "vqa_score_scores": 0.5721534625238748,
+      "tifa_score_scores": 0.23925142288745582,
+      "image_reward_score_scores": 0.4952464809652198
+    },
+    "level": 12,
+    "total_descendants": 59
+  },
+  {
+    "name": "shorebird",
+    "father": "wading bird",
+    "definition": "any of numerous wading birds that frequent mostly seashores and estuaries",
+    "scores": {
+      "clip_score_scores": 0.5605052139639162,
+      "pick_score_scores": 0.48311251930566357,
+      "vqa_score_scores": 0.5165500759676023,
+      "tifa_score_scores": 0.19549329202374072,
+      "image_reward_score_scores": 0.46753225191750314
+    },
+    "level": 12,
+    "total_descendants": 62
+  },
+  {
+    "name": "anseriform bird",
+    "father": "waterfowl",
+    "definition": "chiefly web-footed swimming birds",
+    "scores": {
+      "clip_score_scores": 0.5611244525699184,
+      "pick_score_scores": 0.4965693373998152,
+      "vqa_score_scores": 0.5272904820107334,
+      "tifa_score_scores": 0.19440232415567238,
+      "image_reward_score_scores": 0.4471331733026065
+    },
+    "level": 12,
+    "total_descendants": 55
+  },
+  {
+    "name": "even-toed ungulate",
+    "father": "ungulate",
+    "definition": "placental mammal having hooves with an even number of functional toes on each foot",
+    "scores": {
+      "clip_score_scores": 0.5945038051365588,
+      "pick_score_scores": 0.5131925815644323,
+      "vqa_score_scores": 0.555203543088655,
+      "tifa_score_scores": 0.2635892225299522,
+      "image_reward_score_scores": 0.506160990025762
+    },
+    "level": 12,
+    "total_descendants": 180
+  },
+  {
+    "name": "odd-toed ungulate",
+    "father": "ungulate",
+    "definition": "placental mammals having hooves with an odd number of toes on each foot",
+    "scores": {
+      "clip_score_scores": 0.5987529513561218,
+      "pick_score_scores": 0.4960991024147972,
+      "vqa_score_scores": 0.6153852321905153,
+      "tifa_score_scores": 0.22536837544983174,
+      "image_reward_score_scores": 0.5137843593101019
+    },
+    "level": 12,
+    "total_descendants": 105
+  },
+  {
+    "name": "lizard",
+    "father": "saurian",
+    "definition": "relatively long-bodied reptile with usually two pairs of legs and a tapering tail",
+    "scores": {
+      "clip_score_scores": 0.5724576825185899,
+      "pick_score_scores": 0.50972415180503,
+      "vqa_score_scores": 0.5157122898115685,
+      "tifa_score_scores": 0.2453933797683798,
+      "image_reward_score_scores": 0.5554509522785311
+    },
+    "level": 12,
+    "total_descendants": 62
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "obj",
+    "father": "root",
+    "definition": "a tangible and visible entity; an entity that can cast a shadow",
+    "scores": {
+      "clip_score_scores": 0.5552949259334702,
+      "pick_score_scores": 0.5140469571635159,
+      "vqa_score_scores": 0.5589289011150042,
+      "tifa_score_scores": 0.23381204862827829,
+      "image_reward_score_scores": 0.5100602913251053
+    },
+    "level": 2,
+    "total_descendants": 28855
+  }
+]

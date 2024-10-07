@@ -1,0 +1,394 @@
+[
+  {
+    "name": "charm",
+    "father": "obj",
+    "definition": "something believed to bring good luck",
+    "scores": {
+      "clip_score_scores": 0.5805097231676744,
+      "pick_score_scores": 0.5031786484923653,
+      "vqa_score_scores": 0.6823362733158368,
+      "tifa_score_scores": 0.195,
+      "image_reward_score_scores": 0.4829508513048966
+    },
+    "level": 3,
+    "total_descendants": 3
+  },
+  {
+    "name": "curio",
+    "father": "obj",
+    "definition": "something unusual -- perhaps worthy of collecting",
+    "scores": {
+      "clip_score_scores": 0.5506516271849087,
+      "pick_score_scores": 0.5603452898635325,
+      "vqa_score_scores": 0.6030116087565748,
+      "tifa_score_scores": 0.3496527777777778,
+      "image_reward_score_scores": 0.6134081555650253
+    },
+    "level": 3,
+    "total_descendants": 5
+  },
+  {
+    "name": "film (object)",
+    "father": "obj",
+    "definition": "a thin coating or layer",
+    "scores": {
+      "clip_score_scores": 0.5317407248171425,
+      "pick_score_scores": 0.5112129785294243,
+      "vqa_score_scores": 0.5272436463352622,
+      "tifa_score_scores": 0.14183807319223984,
+      "image_reward_score_scores": 0.5501244528361836
+    },
+    "level": 3,
+    "total_descendants": 6
+  },
+  {
+    "name": "geological formation",
+    "father": "obj",
+    "definition": "(geology) the geological features of the earth",
+    "scores": {
+      "clip_score_scores": 0.5387694860484749,
+      "pick_score_scores": 0.5254878114770517,
+      "vqa_score_scores": 0.5523126159792834,
+      "tifa_score_scores": 0.268842333809615,
+      "image_reward_score_scores": 0.49680082767561046
+    },
+    "level": 3,
+    "total_descendants": 169
+  },
+  {
+    "name": "growth",
+    "father": "obj",
+    "definition": "something grown or growing",
+    "scores": {
+      "clip_score_scores": 0.5420809701805893,
+      "pick_score_scores": 0.4816271850847663,
+      "vqa_score_scores": 0.6232278485411211,
+      "tifa_score_scores": 0.17613636363636362,
+      "image_reward_score_scores": 0.3774228905543993
+    },
+    "level": 3,
+    "total_descendants": 1
+  },
+  {
+    "name": "ice (object)",
+    "father": "obj",
+    "definition": "the frozen part of a body of water",
+    "scores": {
+      "clip_score_scores": 0.565677898194636,
+      "pick_score_scores": 0.5460672598556683,
+      "vqa_score_scores": 0.5550860211239622,
+      "tifa_score_scores": 0.2564125380792048,
+      "image_reward_score_scores": 0.5438960808451356
+    },
+    "level": 3,
+    "total_descendants": 5
+  },
+  {
+    "name": "keepsake",
+    "father": "obj",
+    "definition": "something of sentimental value",
+    "scores": {
+      "clip_score_scores": 0.558486957709657,
+      "pick_score_scores": 0.5195186495362338,
+      "vqa_score_scores": 0.6963959176649124,
+      "tifa_score_scores": 0.22222222222222224,
+      "image_reward_score_scores": 0.5712995450673511
+    },
+    "level": 3,
+    "total_descendants": 3
+  },
+  {
+    "name": "cultivated land",
+    "father": "obj",
+    "definition": "arable land that is worked by plowing and sowing and raising crops",
+    "scores": {
+      "clip_score_scores": 0.6184940719431499,
+      "pick_score_scores": 0.4300442270633916,
+      "vqa_score_scores": 0.31843999870630824,
+      "tifa_score_scores": 0.32857142857142857,
+      "image_reward_score_scores": 0.5655852265750846
+    },
+    "level": 3,
+    "total_descendants": 1
+  },
+  {
+    "name": "turf (land)",
+    "father": "obj",
+    "definition": "surface layer of ground containing a mat of grass and grass roots",
+    "scores": {
+      "clip_score_scores": null,
+      "pick_score_scores": null,
+      "vqa_score_scores": null,
+      "tifa_score_scores": null,
+      "image_reward_score_scores": null
+    },
+    "level": 3,
+    "total_descendants": 1
+  },
+  {
+    "name": "wetland",
+    "father": "obj",
+    "definition": "a low area where the land is saturated with water",
+    "scores": {
+      "clip_score_scores": 0.5581823342653766,
+      "pick_score_scores": 0.4962050878978547,
+      "vqa_score_scores": 0.5609178409771195,
+      "tifa_score_scores": 0.28473695286195283,
+      "image_reward_score_scores": 0.4277870911665398
+    },
+    "level": 3,
+    "total_descendants": 7
+  },
+  {
+    "name": "cape (land)",
+    "father": "obj",
+    "definition": "a strip of land projecting into a body of water",
+    "scores": {
+      "clip_score_scores": 0.5118582603695394,
+      "pick_score_scores": 0.47392252846945515,
+      "vqa_score_scores": 0.5422248993134394,
+      "tifa_score_scores": 0.2516666666666666,
+      "image_reward_score_scores": 0.4332253944891459
+    },
+    "level": 3,
+    "total_descendants": 1
+  },
+  {
+    "name": "coastal plain",
+    "father": "obj",
+    "definition": "a plain adjacent to a coast",
+    "scores": {
+      "clip_score_scores": 0.5040730243899216,
+      "pick_score_scores": 0.46599306010531166,
+      "vqa_score_scores": 0.48620419731196546,
+      "tifa_score_scores": 0.1086111111111111,
+      "image_reward_score_scores": 0.39519616389677564
+    },
+    "level": 3,
+    "total_descendants": 1
+  },
+  {
+    "name": "forest",
+    "father": "obj",
+    "definition": "land that is covered with trees and shrubs",
+    "scores": {
+      "clip_score_scores": 0.5366282297567528,
+      "pick_score_scores": 0.5032003408139336,
+      "vqa_score_scores": 0.5245073260095585,
+      "tifa_score_scores": 0.2961904761904762,
+      "image_reward_score_scores": 0.3948429285685251
+    },
+    "level": 3,
+    "total_descendants": 5
+  },
+  {
+    "name": "island (land)",
+    "father": "obj",
+    "definition": "a land mass (smaller than a continent) that is surrounded by water",
+    "scores": {
+      "clip_score_scores": 0.5093791935816498,
+      "pick_score_scores": 0.484576555627436,
+      "vqa_score_scores": 0.5123732066946552,
+      "tifa_score_scores": 0.18205627705627703,
+      "image_reward_score_scores": 0.4586512960846279
+    },
+    "level": 3,
+    "total_descendants": 4
+  },
+  {
+    "name": "landmass",
+    "father": "obj",
+    "definition": "a large continuous extent of land",
+    "scores": {
+      "clip_score_scores": 0.5679140996130411,
+      "pick_score_scores": 0.5264463440105522,
+      "vqa_score_scores": 0.6022129489707481,
+      "tifa_score_scores": 0.23537878787878785,
+      "image_reward_score_scores": 0.4595027203527817
+    },
+    "level": 3,
+    "total_descendants": 2
+  },
+  {
+    "name": "plain",
+    "father": "obj",
+    "definition": "extensive tract of level open land",
+    "scores": {
+      "clip_score_scores": 0.5126831179970577,
+      "pick_score_scores": 0.49184616320414287,
+      "vqa_score_scores": 0.5566193395183621,
+      "tifa_score_scores": 0.23927417027417028,
+      "image_reward_score_scores": 0.4221354026100575
+    },
+    "level": 3,
+    "total_descendants": 10
+  },
+  {
+    "name": "location (object)",
+    "father": "obj",
+    "definition": "a point or extent in space",
+    "scores": {
+      "clip_score_scores": 0.5449647100451243,
+      "pick_score_scores": 0.5130164505992945,
+      "vqa_score_scores": 0.5677217258045284,
+      "tifa_score_scores": 0.21708301357934404,
+      "image_reward_score_scores": 0.48016910812992075
+    },
+    "level": 3,
+    "total_descendants": 1203
+  },
+  {
+    "name": "part (object)",
+    "father": "obj",
+    "definition": "something less than the whole of a human artifact",
+    "scores": {
+      "clip_score_scores": 0.5486039964038842,
+      "pick_score_scores": 0.51880622692729,
+      "vqa_score_scores": 0.6008392603243972,
+      "tifa_score_scores": 0.2703819147202391,
+      "image_reward_score_scores": 0.513551531200031
+    },
+    "level": 3,
+    "total_descendants": 130
+  },
+  {
+    "name": "property",
+    "father": "obj",
+    "definition": "any movable articles or objects used on the set of a play or movie",
+    "scores": {
+      "clip_score_scores": 0.5293588444178067,
+      "pick_score_scores": 0.48190628944552727,
+      "vqa_score_scores": 0.6203622992207312,
+      "tifa_score_scores": 0.22499999999999998,
+      "image_reward_score_scores": 0.6995891450272432
+    },
+    "level": 3,
+    "total_descendants": 1
+  },
+  {
+    "name": "remains",
+    "father": "obj",
+    "definition": "any object that is left unused or still extant",
+    "scores": {
+      "clip_score_scores": 0.5817024854951056,
+      "pick_score_scores": 0.5176721278619969,
+      "vqa_score_scores": 0.500737342935464,
+      "tifa_score_scores": 0.17563266594516597,
+      "image_reward_score_scores": 0.5308913072140993
+    },
+    "level": 3,
+    "total_descendants": 7
+  },
+  {
+    "name": "ribbon (object)",
+    "father": "obj",
+    "definition": "any long object resembling a thin line",
+    "scores": {
+      "clip_score_scores": 0.6042084838821447,
+      "pick_score_scores": 0.5507864771404227,
+      "vqa_score_scores": 0.6249733103525221,
+      "tifa_score_scores": 0.32736111111111116,
+      "image_reward_score_scores": 0.5314134890197182
+    },
+    "level": 3,
+    "total_descendants": 1
+  },
+  {
+    "name": "shiner (object)",
+    "father": "obj",
+    "definition": "something that shines (with emitted or reflected light)",
+    "scores": {
+      "clip_score_scores": 0.6506530321937165,
+      "pick_score_scores": 0.6677457520729719,
+      "vqa_score_scores": 0.6658883239778937,
+      "tifa_score_scores": 0.29285714285714287,
+      "image_reward_score_scores": 0.7655670411573138
+    },
+    "level": 3,
+    "total_descendants": 1
+  },
+  {
+    "name": "snake (object)",
+    "father": "obj",
+    "definition": "something long, thin, and flexible that resembles a snake",
+    "scores": {
+      "clip_score_scores": 0.5346602911156257,
+      "pick_score_scores": 0.604456013987839,
+      "vqa_score_scores": 0.6076105404720102,
+      "tifa_score_scores": 0.32083333333333336,
+      "image_reward_score_scores": 0.6301428474448378
+    },
+    "level": 3,
+    "total_descendants": 2
+  },
+  {
+    "name": "stuff",
+    "father": "obj",
+    "definition": "miscellaneous unspecified objects",
+    "scores": {
+      "clip_score_scores": 0.5069763096256501,
+      "pick_score_scores": 0.5034421635000363,
+      "vqa_score_scores": 0.47463580871027605,
+      "tifa_score_scores": 0.2552910052910053,
+      "image_reward_score_scores": 0.4780453129267877
+    },
+    "level": 3,
+    "total_descendants": 3
+  },
+  {
+    "name": "triviality",
+    "father": "obj",
+    "definition": "something of small importance",
+    "scores": {
+      "clip_score_scores": 0.5059725202151046,
+      "pick_score_scores": 0.5160487926149046,
+      "vqa_score_scores": 0.5749626830148857,
+      "tifa_score_scores": 0.12083333333333333,
+      "image_reward_score_scores": 0.5638894675222468
+    },
+    "level": 3,
+    "total_descendants": 1
+  },
+  {
+    "name": "wall (object)",
+    "father": "obj",
+    "definition": "anything that suggests a wall in structure or function or effect",
+    "scores": {
+      "clip_score_scores": 0.5338567452544041,
+      "pick_score_scores": 0.5358783742021616,
+      "vqa_score_scores": 0.5251509999602173,
+      "tifa_score_scores": 0.35025252525252526,
+      "image_reward_score_scores": 0.41735077241455376
+    },
+    "level": 3,
+    "total_descendants": 2
+  },
+  {
+    "name": "web (object)",
+    "father": "obj",
+    "definition": "an intricate network suggesting something that was formed by weaving or interweaving",
+    "scores": {
+      "clip_score_scores": 0.5141282150676866,
+      "pick_score_scores": 0.5283415640997114,
+      "vqa_score_scores": 0.537540444429173,
+      "tifa_score_scores": 0.2291607142857143,
+      "image_reward_score_scores": 0.5352933842661178
+    },
+    "level": 3,
+    "total_descendants": 7
+  },
+  {
+    "name": "whole",
+    "father": "obj",
+    "definition": "an assemblage of parts that is regarded as a single entity",
+    "scores": {
+      "clip_score_scores": 0.5587105675695874,
+      "pick_score_scores": 0.4932794985865638,
+      "vqa_score_scores": 0.5754717082186835,
+      "tifa_score_scores": 0.22960615442228738,
+      "image_reward_score_scores": 0.46344692607724436
+    },
+    "level": 3,
+    "total_descendants": 27210
+  }
+]

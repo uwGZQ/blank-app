@@ -1,0 +1,170 @@
+[
+  {
+    "name": "natural depression",
+    "father": "geological formation",
+    "definition": "a sunken or depressed geological formation",
+    "scores": {
+      "clip_score_scores": 0.5276613512292216,
+      "pick_score_scores": 0.5081579899905583,
+      "vqa_score_scores": 0.49737674947073146,
+      "tifa_score_scores": 0.20980557885401635,
+      "image_reward_score_scores": 0.4502927348137753
+    },
+    "level": 4,
+    "total_descendants": 58
+  },
+  {
+    "name": "line (location)",
+    "father": "location (object)",
+    "definition": "a spatial location defined by a real or imaginary unidimensional extent",
+    "scores": {
+      "clip_score_scores": 0.5342297447980663,
+      "pick_score_scores": 0.48869279888042216,
+      "vqa_score_scores": 0.5210392702017759,
+      "tifa_score_scores": 0.24013515103478728,
+      "image_reward_score_scores": 0.46056671975523744
+    },
+    "level": 4,
+    "total_descendants": 96
+  },
+  {
+    "name": "point (location)",
+    "father": "location (object)",
+    "definition": "the precise location of something; a spatially limited location",
+    "scores": {
+      "clip_score_scores": 0.5514715529751656,
+      "pick_score_scores": 0.5028176611392822,
+      "vqa_score_scores": 0.5620925573673381,
+      "tifa_score_scores": 0.24018556101492308,
+      "image_reward_score_scores": 0.4609444433862588
+    },
+    "level": 4,
+    "total_descendants": 258
+  },
+  {
+    "name": "extremity",
+    "father": "location (object)",
+    "definition": "the outermost or farthest region or point",
+    "scores": {
+      "clip_score_scores": 0.5254809508507222,
+      "pick_score_scores": 0.514525975310298,
+      "vqa_score_scores": 0.5581621541056397,
+      "tifa_score_scores": 0.2726834143848751,
+      "image_reward_score_scores": 0.4904064986753866
+    },
+    "level": 4,
+    "total_descendants": 132
+  },
+  {
+    "name": "area (region)",
+    "father": "location (object)",
+    "definition": "a particular geographical region of indefinite boundary (usually serving some special purpose or distinguished by its people or culture or geography)",
+    "scores": {
+      "clip_score_scores": 0.5548588625828236,
+      "pick_score_scores": 0.5058870650863236,
+      "vqa_score_scores": 0.5254209636626088,
+      "tifa_score_scores": 0.26056318559631453,
+      "image_reward_score_scores": 0.4688050686265261
+    },
+    "level": 4,
+    "total_descendants": 82
+  },
+  {
+    "name": "district",
+    "father": "location (object)",
+    "definition": "a region marked off for administrative or other purposes",
+    "scores": {
+      "clip_score_scores": 0.5395981430000927,
+      "pick_score_scores": 0.5132512664640024,
+      "vqa_score_scores": 0.5200619822084795,
+      "tifa_score_scores": 0.19221995605004263,
+      "image_reward_score_scores": 0.44034366681452836
+    },
+    "level": 4,
+    "total_descendants": 113
+  },
+  {
+    "name": "geographical area",
+    "father": "location (object)",
+    "definition": "a demarcated area of the Earth",
+    "scores": {
+      "clip_score_scores": 0.5360287379055033,
+      "pick_score_scores": 0.5067752523228068,
+      "vqa_score_scores": 0.5456521953616478,
+      "tifa_score_scores": 0.22081610776577457,
+      "image_reward_score_scores": 0.4884355592132263
+    },
+    "level": 4,
+    "total_descendants": 234
+  },
+  {
+    "name": "space (amorphous shape)",
+    "father": "location (object)",
+    "definition": "an empty area (usually bounded in some way between things)",
+    "scores": {
+      "clip_score_scores": 0.5336474553705858,
+      "pick_score_scores": 0.5058054412674514,
+      "vqa_score_scores": 0.5965659326978073,
+      "tifa_score_scores": 0.24231012789349862,
+      "image_reward_score_scores": 0.46770536614050956
+    },
+    "level": 4,
+    "total_descendants": 113
+  },
+  {
+    "name": "component",
+    "father": "part (object)",
+    "definition": "an artifact that is one of the individual parts of which a composite entity is made up; especially a part that can be separated from or attached to a system",
+    "scores": {
+      "clip_score_scores": 0.5344911644597352,
+      "pick_score_scores": 0.4977077388112984,
+      "vqa_score_scores": 0.537043363970547,
+      "tifa_score_scores": 0.259223294021878,
+      "image_reward_score_scores": 0.41022737182597047
+    },
+    "level": 4,
+    "total_descendants": 52
+  },
+  {
+    "name": "artifact",
+    "father": "whole",
+    "definition": "a man-made object taken as a whole",
+    "scores": {
+      "clip_score_scores": 0.5497859623835366,
+      "pick_score_scores": 0.5170025425943412,
+      "vqa_score_scores": 0.5604486852058055,
+      "tifa_score_scores": 0.25587187172089965,
+      "image_reward_score_scores": 0.47978177644156844
+    },
+    "level": 4,
+    "total_descendants": 10290
+  },
+  {
+    "name": "living thing",
+    "father": "whole",
+    "definition": "a living (or once living) entity",
+    "scores": {
+      "clip_score_scores": 0.5736181851575499,
+      "pick_score_scores": 0.518276681008533,
+      "vqa_score_scores": 0.5821161922250855,
+      "tifa_score_scores": 0.27179038038006786,
+      "image_reward_score_scores": 0.524735956716874
+    },
+    "level": 4,
+    "total_descendants": 15824
+  },
+  {
+    "name": "natural object",
+    "father": "whole",
+    "definition": "an object occurring naturally; not made by man",
+    "scores": {
+      "clip_score_scores": 0.5433360319300703,
+      "pick_score_scores": 0.5165258817799501,
+      "vqa_score_scores": 0.5634211318321739,
+      "tifa_score_scores": 0.23098592507627347,
+      "image_reward_score_scores": 0.46572841292757844
+    },
+    "level": 4,
+    "total_descendants": 1086
+  }
+]

@@ -1,0 +1,282 @@
+[
+  {
+    "name": "bony fish",
+    "father": "fish",
+    "definition": "any fish of the class Osteichthyes",
+    "scores": {
+      "clip_score_scores": 0.5791213094623813,
+      "pick_score_scores": 0.4672605796378087,
+      "vqa_score_scores": 0.568632781713006,
+      "tifa_score_scores": 0.17296014192387854,
+      "image_reward_score_scores": 0.43263110319060966
+    },
+    "level": 11,
+    "total_descendants": 456
+  },
+  {
+    "name": "cartilaginous fish",
+    "father": "fish",
+    "definition": "fishes in which the skeleton may be calcified but not ossified",
+    "scores": {
+      "clip_score_scores": 0.5265490099558812,
+      "pick_score_scores": 0.4879874584988153,
+      "vqa_score_scores": 0.6247412242324782,
+      "tifa_score_scores": 0.26635761715296147,
+      "image_reward_score_scores": 0.4869026518993736
+    },
+    "level": 11,
+    "total_descendants": 63
+  },
+  {
+    "name": "food fish",
+    "father": "fish",
+    "definition": "any fish used for food by human beings",
+    "scores": {
+      "clip_score_scores": 0.5530248335330212,
+      "pick_score_scores": 0.5003876819723427,
+      "vqa_score_scores": 0.5216420684594931,
+      "tifa_score_scores": 0.22151367141731726,
+      "image_reward_score_scores": 0.46264838629452976
+    },
+    "level": 11,
+    "total_descendants": 61
+  },
+  {
+    "name": "seabird",
+    "father": "aquatic bird",
+    "definition": "a bird that frequents coastal waters and the open ocean: gulls; pelicans; gannets; cormorants; albatrosses; petrels; etc.",
+    "scores": {
+      "clip_score_scores": 0.545956696033913,
+      "pick_score_scores": 0.4823401983132157,
+      "vqa_score_scores": 0.5049713833260613,
+      "tifa_score_scores": 0.19827728476819087,
+      "image_reward_score_scores": 0.4661108027756044
+    },
+    "level": 11,
+    "total_descendants": 74
+  },
+  {
+    "name": "wading bird",
+    "father": "aquatic bird",
+    "definition": "any of many long-legged birds that wade in water in search of food",
+    "scores": {
+      "clip_score_scores": 0.5578091456889177,
+      "pick_score_scores": 0.4966412104218976,
+      "vqa_score_scores": 0.5417239434990649,
+      "tifa_score_scores": 0.2266796345586578,
+      "image_reward_score_scores": 0.4660508629860997
+    },
+    "level": 11,
+    "total_descendants": 123
+  },
+  {
+    "name": "waterfowl",
+    "father": "aquatic bird",
+    "definition": "freshwater aquatic bird",
+    "scores": {
+      "clip_score_scores": 0.5420333016693141,
+      "pick_score_scores": 0.4823666304115554,
+      "vqa_score_scores": 0.5274635120526071,
+      "tifa_score_scores": 0.23778083992084487,
+      "image_reward_score_scores": 0.4560599753450923
+    },
+    "level": 11,
+    "total_descendants": 60
+  },
+  {
+    "name": "oscine",
+    "father": "passerine",
+    "definition": "passerine bird having specialized vocal apparatus",
+    "scores": {
+      "clip_score_scores": 0.5431600654781176,
+      "pick_score_scores": 0.49695282420869347,
+      "vqa_score_scores": 0.5058901312637475,
+      "tifa_score_scores": 0.21045929443378286,
+      "image_reward_score_scores": 0.4459218162103592
+    },
+    "level": 11,
+    "total_descendants": 234
+  },
+  {
+    "name": "aquatic mammal",
+    "father": "placental",
+    "definition": "whales and dolphins; manatees and dugongs; walruses; seals",
+    "scores": {
+      "clip_score_scores": 0.5789445821398874,
+      "pick_score_scores": 0.49440024100549984,
+      "vqa_score_scores": 0.5300508227153073,
+      "tifa_score_scores": 0.22786799355158732,
+      "image_reward_score_scores": 0.472579312491943
+    },
+    "level": 11,
+    "total_descendants": 57
+  },
+  {
+    "name": "carnivore (placental)",
+    "father": "placental",
+    "definition": "a terrestrial or aquatic flesh-eating mammal",
+    "scores": {
+      "clip_score_scores": 0.5751605821471342,
+      "pick_score_scores": 0.5147897820747785,
+      "vqa_score_scores": 0.5161389946935766,
+      "tifa_score_scores": 0.24248805674284654,
+      "image_reward_score_scores": 0.5118156960947464
+    },
+    "level": 11,
+    "total_descendants": 148
+  },
+  {
+    "name": "primate",
+    "father": "placental",
+    "definition": "any placental mammal of the order Primates; has good eyesight and flexible hands and feet",
+    "scores": {
+      "clip_score_scores": 0.5692648484650547,
+      "pick_score_scores": 0.5189419888415964,
+      "vqa_score_scores": 0.6233668840919404,
+      "tifa_score_scores": 0.2321464101473986,
+      "image_reward_score_scores": 0.5748832204855204
+    },
+    "level": 11,
+    "total_descendants": 104
+  },
+  {
+    "name": "rodent",
+    "father": "placental",
+    "definition": "relatively small placental mammals having a single pair of constantly growing incisor teeth specialized for gnawing",
+    "scores": {
+      "clip_score_scores": 0.5735099484138296,
+      "pick_score_scores": 0.5229597285815453,
+      "vqa_score_scores": 0.5533704051939121,
+      "tifa_score_scores": 0.23816758577001163,
+      "image_reward_score_scores": 0.5463464020925796
+    },
+    "level": 11,
+    "total_descendants": 134
+  },
+  {
+    "name": "ungulate",
+    "father": "placental",
+    "definition": "any of a number of mammals with hooves that are superficially similar but not necessarily closely related taxonomically",
+    "scores": {
+      "clip_score_scores": 0.5628819641758005,
+      "pick_score_scores": 0.5018389059191475,
+      "vqa_score_scores": 0.5387057592454888,
+      "tifa_score_scores": 0.22542121767676415,
+      "image_reward_score_scores": 0.44403379717205105
+    },
+    "level": 11,
+    "total_descendants": 289
+  },
+  {
+    "name": "archosaur",
+    "father": "diapsid",
+    "definition": "extinct reptiles including: dinosaurs; plesiosaurs; pterosaurs; ichthyosaurs; thecodonts",
+    "scores": {
+      "clip_score_scores": 0.562495542612052,
+      "pick_score_scores": 0.5114729775512984,
+      "vqa_score_scores": 0.5174509112140488,
+      "tifa_score_scores": 0.20826666571911753,
+      "image_reward_score_scores": 0.562323244270143
+    },
+    "level": 11,
+    "total_descendants": 59
+  },
+  {
+    "name": "saurian",
+    "father": "diapsid",
+    "definition": "any of various reptiles of the suborder Sauria which includes lizards; in former classifications included also the crocodiles and dinosaurs",
+    "scores": {
+      "clip_score_scores": 0.5564348625674191,
+      "pick_score_scores": 0.48394899993772633,
+      "vqa_score_scores": 0.41799301502003805,
+      "tifa_score_scores": 0.2401966898841899,
+      "image_reward_score_scores": 0.4830074159659385
+    },
+    "level": 11,
+    "total_descendants": 63
+  },
+  {
+    "name": "snake (diapsid)",
+    "father": "diapsid",
+    "definition": "limbless scaly elongate reptile; some are venomous",
+    "scores": {
+      "clip_score_scores": 0.5731529313685195,
+      "pick_score_scores": 0.5165595680244373,
+      "vqa_score_scores": 0.5549949454936204,
+      "tifa_score_scores": 0.28523091105636084,
+      "image_reward_score_scores": 0.4959912669279318
+    },
+    "level": 11,
+    "total_descendants": 110
+  },
+  {
+    "name": "moth",
+    "father": "lepidopterous insect",
+    "definition": "typically crepuscular or nocturnal insect having a stout body and feathery or hairlike antennae",
+    "scores": {
+      "clip_score_scores": 0.5246076472025673,
+      "pick_score_scores": 0.497954507206443,
+      "vqa_score_scores": 0.541060013959136,
+      "tifa_score_scores": 0.19347287321915294,
+      "image_reward_score_scores": 0.4670053112095512
+    },
+    "level": 11,
+    "total_descendants": 69
+  },
+  {
+    "name": "cereal",
+    "father": "grass",
+    "definition": "grass whose starchy grains are used as food: wheat; rice; rye; oats; maize; buckwheat; millet",
+    "scores": {
+      "clip_score_scores": 0.5330371525755156,
+      "pick_score_scores": 0.5012776006593188,
+      "vqa_score_scores": 0.5172199844526323,
+      "tifa_score_scores": 0.2305788756685334,
+      "image_reward_score_scores": 0.4597361930914586
+    },
+    "level": 11,
+    "total_descendants": 54
+  },
+  {
+    "name": "orchid",
+    "father": "flower (angiosperm)",
+    "definition": "any of numerous plants of the orchid family usually having flowers of unusual shapes and beautiful colors",
+    "scores": {
+      "clip_score_scores": 0.5420407978919399,
+      "pick_score_scores": 0.49537677564753063,
+      "vqa_score_scores": 0.5287534184535497,
+      "tifa_score_scores": 0.23534214188238808,
+      "image_reward_score_scores": 0.45898669317587737
+    },
+    "level": 11,
+    "total_descendants": 113
+  },
+  {
+    "name": "fruit tree",
+    "father": "angiospermous tree",
+    "definition": "tree bearing edible fruit",
+    "scores": {
+      "clip_score_scores": 0.570970101852569,
+      "pick_score_scores": 0.5145881936127794,
+      "vqa_score_scores": 0.5035769874299907,
+      "tifa_score_scores": 0.23085602060809213,
+      "image_reward_score_scores": 0.5009274764418236
+    },
+    "level": 11,
+    "total_descendants": 142
+  },
+  {
+    "name": "conifer",
+    "father": "gymnospermous tree",
+    "definition": "any gymnospermous tree or shrub bearing cones",
+    "scores": {
+      "clip_score_scores": 0.5560880545771991,
+      "pick_score_scores": 0.4948818759374031,
+      "vqa_score_scores": 0.5428514858224112,
+      "tifa_score_scores": 0.224063130181403,
+      "image_reward_score_scores": 0.4210617852149901
+    },
+    "level": 11,
+    "total_descendants": 151
+  }
+]

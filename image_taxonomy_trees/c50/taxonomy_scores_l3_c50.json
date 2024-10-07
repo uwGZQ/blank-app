@@ -1,0 +1,58 @@
+[
+  {
+    "name": "geological formation",
+    "father": "obj",
+    "definition": "(geology) the geological features of the earth",
+    "scores": {
+      "clip_score_scores": 0.5387694860484749,
+      "pick_score_scores": 0.5254878114770517,
+      "vqa_score_scores": 0.5523126159792834,
+      "tifa_score_scores": 0.268842333809615,
+      "image_reward_score_scores": 0.49680082767561046
+    },
+    "level": 3,
+    "total_descendants": 169
+  },
+  {
+    "name": "location (object)",
+    "father": "obj",
+    "definition": "a point or extent in space",
+    "scores": {
+      "clip_score_scores": 0.5449647100451243,
+      "pick_score_scores": 0.5130164505992945,
+      "vqa_score_scores": 0.5677217258045284,
+      "tifa_score_scores": 0.21708301357934404,
+      "image_reward_score_scores": 0.48016910812992075
+    },
+    "level": 3,
+    "total_descendants": 1203
+  },
+  {
+    "name": "part (object)",
+    "father": "obj",
+    "definition": "something less than the whole of a human artifact",
+    "scores": {
+      "clip_score_scores": 0.5486039964038842,
+      "pick_score_scores": 0.51880622692729,
+      "vqa_score_scores": 0.6008392603243972,
+      "tifa_score_scores": 0.2703819147202391,
+      "image_reward_score_scores": 0.513551531200031
+    },
+    "level": 3,
+    "total_descendants": 130
+  },
+  {
+    "name": "whole",
+    "father": "obj",
+    "definition": "an assemblage of parts that is regarded as a single entity",
+    "scores": {
+      "clip_score_scores": 0.5587105675695874,
+      "pick_score_scores": 0.4932794985865638,
+      "vqa_score_scores": 0.5754717082186835,
+      "tifa_score_scores": 0.22960615442228738,
+      "image_reward_score_scores": 0.46344692607724436
+    },
+    "level": 3,
+    "total_descendants": 27210
+  }
+]

@@ -1,0 +1,492 @@
+[
+  {
+    "name": "coat (overgarment)",
+    "father": "overgarment",
+    "definition": "an outer garment that has sleeves and covers the body from shoulder down; worn outdoors",
+    "scores": {
+      "clip_score_scores": 0.5642186176422908,
+      "pick_score_scores": 0.5349380480318395,
+      "vqa_score_scores": 0.5997093733621528,
+      "tifa_score_scores": 0.26111356305325606,
+      "image_reward_score_scores": 0.5259323183457701
+    },
+    "level": 9,
+    "total_descendants": 53
+  },
+  {
+    "name": "book",
+    "father": "publication",
+    "definition": "a written work or composition that has been published (printed on pages bound together)",
+    "scores": {
+      "clip_score_scores": 0.5415127535002724,
+      "pick_score_scores": 0.4979657097419105,
+      "vqa_score_scores": 0.49579321917171637,
+      "tifa_score_scores": 0.1908301563293317,
+      "image_reward_score_scores": 0.4370919361338744
+    },
+    "level": 9,
+    "total_descendants": 82
+  },
+  {
+    "name": "self-propelled vehicle",
+    "father": "wheeled vehicle",
+    "definition": "a wheeled vehicle that carries in itself a means of propulsion",
+    "scores": {
+      "clip_score_scores": 0.5653245979586078,
+      "pick_score_scores": 0.5142979519205317,
+      "vqa_score_scores": 0.5414508553567269,
+      "tifa_score_scores": 0.2454219035775732,
+      "image_reward_score_scores": 0.5080970594100331
+    },
+    "level": 9,
+    "total_descendants": 117
+  },
+  {
+    "name": "vessel (craft)",
+    "father": "craft",
+    "definition": "a craft designed for water transportation",
+    "scores": {
+      "clip_score_scores": 0.5776467205840528,
+      "pick_score_scores": 0.5357303308424426,
+      "vqa_score_scores": 0.5609400134017385,
+      "tifa_score_scores": 0.2433288133304879,
+      "image_reward_score_scores": 0.46616594550640544
+    },
+    "level": 9,
+    "total_descendants": 146
+  },
+  {
+    "name": "gun",
+    "father": "weapon",
+    "definition": "a weapon that discharges a missile at high velocity (especially from a metal tube or barrel)",
+    "scores": {
+      "clip_score_scores": 0.5296972437584524,
+      "pick_score_scores": 0.515918793303105,
+      "vqa_score_scores": 0.5095960791991938,
+      "tifa_score_scores": 0.19388005701743888,
+      "image_reward_score_scores": 0.40544256551122076
+    },
+    "level": 9,
+    "total_descendants": 68
+  },
+  {
+    "name": "machine (mechanical device)",
+    "father": "mechanical device",
+    "definition": "a device for overcoming resistance at one point by applying force at some other point",
+    "scores": {
+      "clip_score_scores": 0.5522857928750441,
+      "pick_score_scores": 0.49287655285491105,
+      "vqa_score_scores": 0.5066547667987193,
+      "tifa_score_scores": 0.23644731541606542,
+      "image_reward_score_scores": 0.4557775309004611
+    },
+    "level": 9,
+    "total_descendants": 54
+  },
+  {
+    "name": "cutter (cutting implement)",
+    "father": "cutting implement",
+    "definition": "a cutting implement; a tool for cutting",
+    "scores": {
+      "clip_score_scores": 0.5691872671581092,
+      "pick_score_scores": 0.5098679772896667,
+      "vqa_score_scores": 0.5632718499314289,
+      "tifa_score_scores": 0.31878509384213044,
+      "image_reward_score_scores": 0.4432028715816352
+    },
+    "level": 9,
+    "total_descendants": 80
+  },
+  {
+    "name": "amphibian (vertebrate)",
+    "father": "vertebrate",
+    "definition": "cold-blooded vertebrate typically living on land but breeding in water; aquatic larvae undergo metamorphosis into adult form",
+    "scores": {
+      "clip_score_scores": 0.5586082533650334,
+      "pick_score_scores": 0.5138901560150064,
+      "vqa_score_scores": 0.5144071203473061,
+      "tifa_score_scores": 0.25493575341673924,
+      "image_reward_score_scores": 0.5269065723104487
+    },
+    "level": 9,
+    "total_descendants": 95
+  },
+  {
+    "name": "aquatic vertebrate",
+    "father": "vertebrate",
+    "definition": "animal living wholly or chiefly in or on water",
+    "scores": {
+      "clip_score_scores": 0.5594913644068514,
+      "pick_score_scores": 0.529307336149106,
+      "vqa_score_scores": 0.5840592026611402,
+      "tifa_score_scores": 0.2514377739497626,
+      "image_reward_score_scores": 0.46619827729712265
+    },
+    "level": 9,
+    "total_descendants": 611
+  },
+  {
+    "name": "bird",
+    "father": "vertebrate",
+    "definition": "warm-blooded egg-laying vertebrates characterized by feathers and forelimbs modified as wings",
+    "scores": {
+      "clip_score_scores": 0.5672954562356418,
+      "pick_score_scores": 0.5173288001068652,
+      "vqa_score_scores": 0.575813992352159,
+      "tifa_score_scores": 0.23629041877951665,
+      "image_reward_score_scores": 0.5008624322049052
+    },
+    "level": 9,
+    "total_descendants": 810
+  },
+  {
+    "name": "mammal",
+    "father": "vertebrate",
+    "definition": "any warm-blooded vertebrate having the skin more or less covered with hair; young are born alive except for the small subclass of monotremes and nourished with milk",
+    "scores": {
+      "clip_score_scores": 0.5790315902488435,
+      "pick_score_scores": 0.5144899333206877,
+      "vqa_score_scores": 0.5944262687099023,
+      "tifa_score_scores": 0.2126335603869555,
+      "image_reward_score_scores": 0.511585623726963
+    },
+    "level": 9,
+    "total_descendants": 925
+  },
+  {
+    "name": "reptile",
+    "father": "vertebrate",
+    "definition": "any cold-blooded vertebrate of the class Reptilia including tortoises, turtles, snakes, lizards, alligators, crocodiles, and extinct forms",
+    "scores": {
+      "clip_score_scores": 0.5516195285485145,
+      "pick_score_scores": 0.4795693331336473,
+      "vqa_score_scores": 0.45172978587690504,
+      "tifa_score_scores": 0.19663945490236412,
+      "image_reward_score_scores": 0.48493135629191775
+    },
+    "level": 9,
+    "total_descendants": 292
+  },
+  {
+    "name": "hunting dog",
+    "father": "dog (canine)",
+    "definition": "a dog used in hunting game",
+    "scores": {
+      "clip_score_scores": 0.6031349812765814,
+      "pick_score_scores": 0.48820806988280196,
+      "vqa_score_scores": 0.5162325109755966,
+      "tifa_score_scores": 0.2126533090816476,
+      "image_reward_score_scores": 0.5222853508741806
+    },
+    "level": 9,
+    "total_descendants": 98
+  },
+  {
+    "name": "crustacean",
+    "father": "arthropod",
+    "definition": "any mainly aquatic arthropod usually having a segmented body and chitinous exoskeleton",
+    "scores": {
+      "clip_score_scores": 0.5753743343311065,
+      "pick_score_scores": 0.5338041995662538,
+      "vqa_score_scores": 0.562126954176039,
+      "tifa_score_scores": 0.2469707460093383,
+      "image_reward_score_scores": 0.49580241551630866
+    },
+    "level": 9,
+    "total_descendants": 65
+  },
+  {
+    "name": "insect",
+    "father": "arthropod",
+    "definition": "small air-breathing arthropod",
+    "scores": {
+      "clip_score_scores": 0.5519933851028878,
+      "pick_score_scores": 0.520817934715809,
+      "vqa_score_scores": 0.5608005491217705,
+      "tifa_score_scores": 0.22048368860770456,
+      "image_reward_score_scores": 0.49285919416223933
+    },
+    "level": 9,
+    "total_descendants": 446
+  },
+  {
+    "name": "health professional",
+    "father": "professional (adult)",
+    "definition": "a person who helps in identifying or preventing or treating illness or disability",
+    "scores": {
+      "clip_score_scores": 0.563703908053787,
+      "pick_score_scores": 0.49835635381041704,
+      "vqa_score_scores": 0.5231827751070641,
+      "tifa_score_scores": 0.2118264549163776,
+      "image_reward_score_scores": 0.4683943080389577
+    },
+    "level": 9,
+    "total_descendants": 81
+  },
+  {
+    "name": "principal (wrongdoer)",
+    "father": "wrongdoer",
+    "definition": "(criminal law) any person involved in a criminal offense, regardless of whether the person profits from such involvement",
+    "scores": {
+      "clip_score_scores": 0.5937066911320557,
+      "pick_score_scores": 0.49927856576608826,
+      "vqa_score_scores": 0.5404311398183421,
+      "tifa_score_scores": 0.22654710955902901,
+      "image_reward_score_scores": 0.4256062275534592
+    },
+    "level": 9,
+    "total_descendants": 69
+  },
+  {
+    "name": "merchant",
+    "father": "businessperson",
+    "definition": "a businessperson engaged in retail trade",
+    "scores": {
+      "clip_score_scores": 0.5428047686982514,
+      "pick_score_scores": 0.5067210531982991,
+      "vqa_score_scores": 0.5590124416787958,
+      "tifa_score_scores": 0.23507900163108492,
+      "image_reward_score_scores": 0.4940841326815871
+    },
+    "level": 9,
+    "total_descendants": 58
+  },
+  {
+    "name": "representative",
+    "father": "negotiator",
+    "definition": "a person who represents others",
+    "scores": {
+      "clip_score_scores": 0.5394742988100567,
+      "pick_score_scores": 0.504061988643024,
+      "vqa_score_scores": 0.541930007872564,
+      "tifa_score_scores": 0.17791346709685557,
+      "image_reward_score_scores": 0.4909901068758608
+    },
+    "level": 9,
+    "total_descendants": 67
+  },
+  {
+    "name": "musician (performer)",
+    "father": "performer",
+    "definition": "someone who plays a musical instrument (as a profession)",
+    "scores": {
+      "clip_score_scores": 0.5559045250684966,
+      "pick_score_scores": 0.5054234945034137,
+      "vqa_score_scores": 0.5625055274711932,
+      "tifa_score_scores": 0.20842539242989053,
+      "image_reward_score_scores": 0.5409944234804483
+    },
+    "level": 9,
+    "total_descendants": 77
+  },
+  {
+    "name": "indian (amerindian)",
+    "father": "amerindian",
+    "definition": "a member of the race of people living in America when Europeans arrived",
+    "scores": {
+      "clip_score_scores": 0.5528225911280177,
+      "pick_score_scores": 0.4961374245879434,
+      "vqa_score_scores": 0.4956398170227525,
+      "tifa_score_scores": 0.20123778995326733,
+      "image_reward_score_scores": 0.45932886582610166
+    },
+    "level": 9,
+    "total_descendants": 165
+  },
+  {
+    "name": "workman",
+    "father": "employee",
+    "definition": "an employee who performs manual or industrial labor",
+    "scores": {
+      "clip_score_scores": 0.5760977656243795,
+      "pick_score_scores": 0.5294296770961265,
+      "vqa_score_scores": 0.5722096159604142,
+      "tifa_score_scores": 0.2313201413797842,
+      "image_reward_score_scores": 0.5453563724610634
+    },
+    "level": 9,
+    "total_descendants": 103
+  },
+  {
+    "name": "craftsman (skilled worker)",
+    "father": "skilled worker",
+    "definition": "a skilled worker who practices some trade or handicraft",
+    "scores": {
+      "clip_score_scores": 0.5644789112849478,
+      "pick_score_scores": 0.4946356854154519,
+      "vqa_score_scores": 0.5606829671404999,
+      "tifa_score_scores": 0.24255753634225855,
+      "image_reward_score_scores": 0.4504808112880201
+    },
+    "level": 9,
+    "total_descendants": 52
+  },
+  {
+    "name": "official (skilled worker)",
+    "father": "skilled worker",
+    "definition": "a worker who holds or is invested with an office",
+    "scores": {
+      "clip_score_scores": 0.5502292112519214,
+      "pick_score_scores": 0.5001934294347858,
+      "vqa_score_scores": 0.5371079535242044,
+      "tifa_score_scores": 0.20255840390436353,
+      "image_reward_score_scores": 0.48314989946250136
+    },
+    "level": 9,
+    "total_descendants": 109
+  },
+  {
+    "name": "serviceman",
+    "father": "skilled worker",
+    "definition": "someone who serves in the armed forces; a member of a military force",
+    "scores": {
+      "clip_score_scores": 0.5472532076820408,
+      "pick_score_scores": 0.4937186016558957,
+      "vqa_score_scores": 0.5420857563846032,
+      "tifa_score_scores": 0.2442394887053734,
+      "image_reward_score_scores": 0.48060008676333305
+    },
+    "level": 9,
+    "total_descendants": 160
+  },
+  {
+    "name": "liliaceous plant",
+    "father": "bulbous plant",
+    "definition": "plant growing from a bulb or corm or rhizome or tuber",
+    "scores": {
+      "clip_score_scores": 0.5620654208411765,
+      "pick_score_scores": 0.5171961832941109,
+      "vqa_score_scores": 0.5334253435118946,
+      "tifa_score_scores": 0.2684152076020356,
+      "image_reward_score_scores": 0.4899085273706747
+    },
+    "level": 9,
+    "total_descendants": 118
+  },
+  {
+    "name": "crucifer",
+    "father": "herb",
+    "definition": "any of various plants of the family Cruciferae",
+    "scores": {
+      "clip_score_scores": 0.57201731136591,
+      "pick_score_scores": 0.5093325164455286,
+      "vqa_score_scores": 0.555618444271486,
+      "tifa_score_scores": 0.2547327100017158,
+      "image_reward_score_scores": 0.4673623197840182
+    },
+    "level": 9,
+    "total_descendants": 53
+  },
+  {
+    "name": "gramineous plant",
+    "father": "herb",
+    "definition": "cosmopolitan herbaceous or woody plants with hollow jointed stems and long narrow leaves",
+    "scores": {
+      "clip_score_scores": 0.6122165951535578,
+      "pick_score_scores": 0.5265807161678916,
+      "vqa_score_scores": 0.6099568720217659,
+      "tifa_score_scores": 0.3037506609049254,
+      "image_reward_score_scores": 0.4921853914550387
+    },
+    "level": 9,
+    "total_descendants": 180
+  },
+  {
+    "name": "fern",
+    "father": "pteridophyte",
+    "definition": "any of numerous flowerless and seedless vascular plants having true roots from a rhizome and fronds that uncurl upward; reproduce by spores",
+    "scores": {
+      "clip_score_scores": 0.5685490021711714,
+      "pick_score_scores": 0.5091464355251083,
+      "vqa_score_scores": 0.5243463891216306,
+      "tifa_score_scores": 0.2735674007683107,
+      "image_reward_score_scores": 0.4535486422888136
+    },
+    "level": 9,
+    "total_descendants": 153
+  },
+  {
+    "name": "angiosperm",
+    "father": "spermatophyte",
+    "definition": "plants having seeds in a closed ovary",
+    "scores": {
+      "clip_score_scores": 0.5343245499164058,
+      "pick_score_scores": 0.4880719251372677,
+      "vqa_score_scores": 0.46468719017944693,
+      "tifa_score_scores": 0.29017085034785856,
+      "image_reward_score_scores": 0.4600313172072449
+    },
+    "level": 9,
+    "total_descendants": 435
+  },
+  {
+    "name": "climber (vine)",
+    "father": "vine",
+    "definition": "a vine or climbing plant that readily grows up a support or over other plants",
+    "scores": {
+      "clip_score_scores": 0.5419940255839745,
+      "pick_score_scores": 0.5265581932018227,
+      "vqa_score_scores": 0.48242370157959985,
+      "tifa_score_scores": 0.21292074019730267,
+      "image_reward_score_scores": 0.4948129263347137
+    },
+    "level": 9,
+    "total_descendants": 66
+  },
+  {
+    "name": "shrub",
+    "father": "woody plant",
+    "definition": "a low woody perennial plant usually having several major stems",
+    "scores": {
+      "clip_score_scores": 0.5452531832034436,
+      "pick_score_scores": 0.5064670588525463,
+      "vqa_score_scores": 0.5092733816990993,
+      "tifa_score_scores": 0.22371378674142717,
+      "image_reward_score_scores": 0.44712416907384833
+    },
+    "level": 9,
+    "total_descendants": 728
+  },
+  {
+    "name": "tree",
+    "father": "woody plant",
+    "definition": "a tall perennial woody plant having a main trunk and branches forming a distinct elevated crown; includes both gymnosperms and angiosperms",
+    "scores": {
+      "clip_score_scores": 0.5504781337721053,
+      "pick_score_scores": 0.5115734831969302,
+      "vqa_score_scores": 0.5217810135179664,
+      "tifa_score_scores": 0.23087739106710436,
+      "image_reward_score_scores": 0.45379362100090065
+    },
+    "level": 9,
+    "total_descendants": 968
+  },
+  {
+    "name": "edible fruit",
+    "father": "fruit",
+    "definition": "edible reproductive body of a seed plant especially one having sweet flesh",
+    "scores": {
+      "clip_score_scores": 0.5719152296322568,
+      "pick_score_scores": 0.5189468618063708,
+      "vqa_score_scores": 0.5219241868992502,
+      "tifa_score_scores": 0.24469770146360953,
+      "image_reward_score_scores": 0.45140240921548686
+    },
+    "level": 9,
+    "total_descendants": 157
+  },
+  {
+    "name": "seed (fruit)",
+    "father": "fruit",
+    "definition": "a small hard fruit",
+    "scores": {
+      "clip_score_scores": 0.5434144840756436,
+      "pick_score_scores": 0.5168819372906769,
+      "vqa_score_scores": 0.5419573302856071,
+      "tifa_score_scores": 0.22860554478590195,
+      "image_reward_score_scores": 0.4607390126566991
+    },
+    "level": 9,
+    "total_descendants": 72
+  }
+]

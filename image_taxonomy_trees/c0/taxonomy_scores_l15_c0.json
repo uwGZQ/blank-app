@@ -1,0 +1,1346 @@
+[
+  {
+    "name": "bullhead (catfish)",
+    "father": "catfish",
+    "definition": "any of several common freshwater catfishes of the United States",
+    "scores": {
+      "clip_score_scores": 0.5457478822356479,
+      "pick_score_scores": 0.4614201763313789,
+      "vqa_score_scores": 0.4461301062255145,
+      "tifa_score_scores": 0.23450126262626264,
+      "image_reward_score_scores": 0.4034650423583198
+    },
+    "level": 15,
+    "total_descendants": 2
+  },
+  {
+    "name": "channel catfish",
+    "father": "catfish",
+    "definition": "freshwater food fish common throughout central United States",
+    "scores": {
+      "clip_score_scores": 0.5284798334605538,
+      "pick_score_scores": 0.4102288521611971,
+      "vqa_score_scores": 0.4619076927106872,
+      "tifa_score_scores": 0.19308080808080808,
+      "image_reward_score_scores": 0.4163264937060239
+    },
+    "level": 15,
+    "total_descendants": 1
+  },
+  {
+    "name": "sea catfish",
+    "father": "catfish",
+    "definition": "any of numerous marine fishes most of which are mouthbreeders; not used for food",
+    "scores": {
+      "clip_score_scores": 0.6169414389862153,
+      "pick_score_scores": 0.456262504103365,
+      "vqa_score_scores": 0.492926121939183,
+      "tifa_score_scores": 0.20056818181818184,
+      "image_reward_score_scores": 0.4821888475932702
+    },
+    "level": 15,
+    "total_descendants": 1
+  },
+  {
+    "name": "silurid",
+    "father": "catfish",
+    "definition": "Old World freshwater catfishes having naked skin and a long anal fin more or less merged with the eellike caudal fin",
+    "scores": {
+      "clip_score_scores": 0.5464814238859445,
+      "pick_score_scores": 0.4909666566400343,
+      "vqa_score_scores": 0.5023824274143089,
+      "tifa_score_scores": 0.20386363636363636,
+      "image_reward_score_scores": 0.57599534108992
+    },
+    "level": 15,
+    "total_descendants": 2
+  },
+  {
+    "name": "pilchard",
+    "father": "clupeid fish",
+    "definition": "small fishes found in great schools along coasts of Europe; smaller and rounder than herring",
+    "scores": {
+      "clip_score_scores": 0.49589178337148315,
+      "pick_score_scores": 0.49583454889082096,
+      "vqa_score_scores": 0.6528002726631019,
+      "tifa_score_scores": 0.2076388888888889,
+      "image_reward_score_scores": 0.3215466573182397
+    },
+    "level": 15,
+    "total_descendants": 1
+  },
+  {
+    "name": "catostomid",
+    "father": "cypriniform fish",
+    "definition": "a cypriniform fish of the family Catostomidae",
+    "scores": {
+      "clip_score_scores": 0.5604937690140377,
+      "pick_score_scores": 0.5208567469793053,
+      "vqa_score_scores": 0.5385200888619934,
+      "tifa_score_scores": 0.33571022727272726,
+      "image_reward_score_scores": 0.5442824006470581
+    },
+    "level": 15,
+    "total_descendants": 5
+  },
+  {
+    "name": "characin",
+    "father": "cypriniform fish",
+    "definition": "any freshwater fish of the family Characinidae",
+    "scores": {
+      "clip_score_scores": 0.5283498051335257,
+      "pick_score_scores": 0.5094062991745655,
+      "vqa_score_scores": 0.44762172110876136,
+      "tifa_score_scores": 0.18493371212121212,
+      "image_reward_score_scores": 0.48777107675963416
+    },
+    "level": 15,
+    "total_descendants": 3
+  },
+  {
+    "name": "cyprinid",
+    "father": "cypriniform fish",
+    "definition": "soft-finned mainly freshwater fishes typically having toothless jaws and cycloid scales",
+    "scores": {
+      "clip_score_scores": 0.5455727161617493,
+      "pick_score_scores": 0.5027240550299585,
+      "vqa_score_scores": 0.5221952445534067,
+      "tifa_score_scores": 0.20378122745310245,
+      "image_reward_score_scores": 0.4386007730140905
+    },
+    "level": 15,
+    "total_descendants": 18
+  },
+  {
+    "name": "cyprinodont",
+    "father": "cypriniform fish",
+    "definition": "any member of the family Cyprinodontidae",
+    "scores": {
+      "clip_score_scores": 0.5492092649065543,
+      "pick_score_scores": 0.4749954559668306,
+      "vqa_score_scores": 0.5403517467066388,
+      "tifa_score_scores": 0.23745265151515152,
+      "image_reward_score_scores": 0.4780043578668408
+    },
+    "level": 15,
+    "total_descendants": 7
+  },
+  {
+    "name": "topminnow",
+    "father": "cypriniform fish",
+    "definition": "small usually brightly-colored viviparous surface-feeding fishes of fresh or brackish warm waters; often used in mosquito control",
+    "scores": {
+      "clip_score_scores": 0.5273423753310423,
+      "pick_score_scores": 0.4916956059771549,
+      "vqa_score_scores": 0.5670678159784637,
+      "tifa_score_scores": 0.2810813492063492,
+      "image_reward_score_scores": 0.5589358428049127
+    },
+    "level": 15,
+    "total_descendants": 3
+  },
+  {
+    "name": "cod",
+    "father": "gadoid",
+    "definition": "major food fish of Arctic and cold-temperate waters",
+    "scores": {
+      "clip_score_scores": 0.5294857300128121,
+      "pick_score_scores": 0.521719230485724,
+      "vqa_score_scores": 0.6116242267341119,
+      "tifa_score_scores": 0.13877946127946125,
+      "image_reward_score_scores": 0.49764008007174154
+    },
+    "level": 15,
+    "total_descendants": 5
+  },
+  {
+    "name": "hake",
+    "father": "gadoid",
+    "definition": "any of several marine food fishes related to cod",
+    "scores": {
+      "clip_score_scores": 0.5449433703287085,
+      "pick_score_scores": 0.4924593268970595,
+      "vqa_score_scores": 0.5015543550860504,
+      "tifa_score_scores": 0.24000000000000002,
+      "image_reward_score_scores": 0.3315481173793053
+    },
+    "level": 15,
+    "total_descendants": 2
+  },
+  {
+    "name": "char",
+    "father": "salmonid",
+    "definition": "any of several small trout-like fish of the genus Salvelinus",
+    "scores": {
+      "clip_score_scores": 0.5477953191728121,
+      "pick_score_scores": 0.5066582230060394,
+      "vqa_score_scores": 0.5034132398519169,
+      "tifa_score_scores": 0.18895833333333334,
+      "image_reward_score_scores": 0.5085599152278254
+    },
+    "level": 15,
+    "total_descendants": 1
+  },
+  {
+    "name": "lefteye flounder",
+    "father": "flatfish",
+    "definition": "flatfishes with both eyes on the left side of the head",
+    "scores": {
+      "clip_score_scores": 0.5248807473516577,
+      "pick_score_scores": 0.5003071692151152,
+      "vqa_score_scores": 0.5062199143963689,
+      "tifa_score_scores": 0.1890986852653519,
+      "image_reward_score_scores": 0.4415946353169409
+    },
+    "level": 15,
+    "total_descendants": 9
+  },
+  {
+    "name": "righteye flounder",
+    "father": "flatfish",
+    "definition": "flounders with both eyes on the right side of the head",
+    "scores": {
+      "clip_score_scores": 0.5319239575666697,
+      "pick_score_scores": 0.4760034549695306,
+      "vqa_score_scores": 0.5249155349806014,
+      "tifa_score_scores": 0.2839767573696145,
+      "image_reward_score_scores": 0.4355696714660117
+    },
+    "level": 15,
+    "total_descendants": 8
+  },
+  {
+    "name": "bass (percoid fish)",
+    "father": "percoid fish",
+    "definition": "nontechnical name for any of numerous edible marine and freshwater spiny-finned fishes",
+    "scores": {
+      "clip_score_scores": 0.5612256407025169,
+      "pick_score_scores": 0.4683428861043237,
+      "vqa_score_scores": 0.5534769872554111,
+      "tifa_score_scores": 0.195,
+      "image_reward_score_scores": 0.3387609411901708
+    },
+    "level": 15,
+    "total_descendants": 1
+  },
+  {
+    "name": "blennioid fish",
+    "father": "percoid fish",
+    "definition": "elongated mostly scaleless marine fishes with large pectoral fins and reduced pelvic fins",
+    "scores": {
+      "clip_score_scores": 0.5468539743383951,
+      "pick_score_scores": 0.5052596642755192,
+      "vqa_score_scores": 0.49562789839300453,
+      "tifa_score_scores": 0.16804944061425545,
+      "image_reward_score_scores": 0.4524265174605911
+    },
+    "level": 15,
+    "total_descendants": 17
+  },
+  {
+    "name": "butterfish",
+    "father": "percoid fish",
+    "definition": "small marine fish with a short compressed body and feeble spines",
+    "scores": {
+      "clip_score_scores": 0.5544076428033046,
+      "pick_score_scores": 0.4631196781588356,
+      "vqa_score_scores": 0.5573676947056827,
+      "tifa_score_scores": 0.19568272005772006,
+      "image_reward_score_scores": 0.40606117572411426
+    },
+    "level": 15,
+    "total_descendants": 4
+  },
+  {
+    "name": "butterfly fish",
+    "father": "percoid fish",
+    "definition": "small usually brilliantly colored tropical marine fishes having narrow deep bodies with large broad fins; found worldwide",
+    "scores": {
+      "clip_score_scores": 0.5773981802104012,
+      "pick_score_scores": 0.5158410352978665,
+      "vqa_score_scores": 0.5708532712171338,
+      "tifa_score_scores": 0.42363516113516114,
+      "image_reward_score_scores": 0.4534358257799445
+    },
+    "level": 15,
+    "total_descendants": 3
+  },
+  {
+    "name": "carangid fish",
+    "father": "percoid fish",
+    "definition": "a percoid fish of the family Carangidae",
+    "scores": {
+      "clip_score_scores": 0.5613076579864148,
+      "pick_score_scores": 0.507231314866932,
+      "vqa_score_scores": 0.5530145375506712,
+      "tifa_score_scores": 0.2318281901354818,
+      "image_reward_score_scores": 0.4574869869584186
+    },
+    "level": 15,
+    "total_descendants": 21
+  },
+  {
+    "name": "cardinalfish",
+    "father": "percoid fish",
+    "definition": "small red fishes of coral reefs and inshore tropical waters",
+    "scores": {
+      "clip_score_scores": 0.6242890222264785,
+      "pick_score_scores": 0.5075029770857112,
+      "vqa_score_scores": 0.5150901943914283,
+      "tifa_score_scores": 0.14886363636363634,
+      "image_reward_score_scores": 0.45323082028322415
+    },
+    "level": 15,
+    "total_descendants": 2
+  },
+  {
+    "name": "cichlid",
+    "father": "percoid fish",
+    "definition": "freshwater fishes of tropical America and Africa and Asia similar to American sunfishes; some are food fishes; many small ones are popular in aquariums",
+    "scores": {
+      "clip_score_scores": 0.5843397311118961,
+      "pick_score_scores": 0.4789431929467448,
+      "vqa_score_scores": 0.548104785166517,
+      "tifa_score_scores": 0.2,
+      "image_reward_score_scores": 0.3158041799361869
+    },
+    "level": 15,
+    "total_descendants": 1
+  },
+  {
+    "name": "clingfish",
+    "father": "percoid fish",
+    "definition": "very small (to 3 inches) flattened marine fish with a sucking disc on the abdomen for clinging to rocks etc.",
+    "scores": {
+      "clip_score_scores": 0.4871001387655351,
+      "pick_score_scores": 0.47940086064217147,
+      "vqa_score_scores": 0.6048233202908249,
+      "tifa_score_scores": 0.14,
+      "image_reward_score_scores": 0.4756293713600219
+    },
+    "level": 15,
+    "total_descendants": 1
+  },
+  {
+    "name": "damselfish",
+    "father": "percoid fish",
+    "definition": "small brilliantly colored tropical marine fishes of coral reefs",
+    "scores": {
+      "clip_score_scores": 0.5296743326691359,
+      "pick_score_scores": 0.4778213863795601,
+      "vqa_score_scores": 0.49400102653095795,
+      "tifa_score_scores": 0.16691693722943723,
+      "image_reward_score_scores": 0.5224918408774095
+    },
+    "level": 15,
+    "total_descendants": 4
+  },
+  {
+    "name": "dolphinfish",
+    "father": "percoid fish",
+    "definition": "large slender food and game fish widely distributed in warm seas (especially around Hawaii)",
+    "scores": {
+      "clip_score_scores": 0.5715008393839135,
+      "pick_score_scores": 0.5419697479561008,
+      "vqa_score_scores": 0.542459137803017,
+      "tifa_score_scores": 0.13247474747474747,
+      "image_reward_score_scores": 0.5161449975661064
+    },
+    "level": 15,
+    "total_descendants": 2
+  },
+  {
+    "name": "gempylid",
+    "father": "percoid fish",
+    "definition": "snake mackerels; elongated marine fishes with oily flesh; resembles mackerels; found worldwide",
+    "scores": {
+      "clip_score_scores": 0.539376710423619,
+      "pick_score_scores": 0.5062351855361936,
+      "vqa_score_scores": 0.4760242832283776,
+      "tifa_score_scores": 0.11896464646464647,
+      "image_reward_score_scores": 0.4475058324440643
+    },
+    "level": 15,
+    "total_descendants": 3
+  },
+  {
+    "name": "goby",
+    "father": "percoid fish",
+    "definition": "small spiny-finned fish of coastal or brackish waters having a large head and elongated tapering body having the ventral fins modified as a sucker",
+    "scores": {
+      "clip_score_scores": 0.5114728793074192,
+      "pick_score_scores": 0.49651430992732754,
+      "vqa_score_scores": 0.4057763683524695,
+      "tifa_score_scores": 0.2525,
+      "image_reward_score_scores": 0.5644156380263017
+    },
+    "level": 15,
+    "total_descendants": 1
+  },
+  {
+    "name": "grunt (percoid fish)",
+    "father": "percoid fish",
+    "definition": "medium-sized tropical marine food fishes that utter grunting sounds when caught",
+    "scores": {
+      "clip_score_scores": 0.5638347607999921,
+      "pick_score_scores": 0.4911549892110689,
+      "vqa_score_scores": 0.5745515329795692,
+      "tifa_score_scores": 0.2565353535353535,
+      "image_reward_score_scores": 0.45952599021547486
+    },
+    "level": 15,
+    "total_descendants": 8
+  },
+  {
+    "name": "mojarra",
+    "father": "percoid fish",
+    "definition": "small silvery schooling fishes with protrusible mouths found in warm coastal waters",
+    "scores": {
+      "clip_score_scores": 0.593568008767041,
+      "pick_score_scores": 0.4649885037105408,
+      "vqa_score_scores": 0.614297322604304,
+      "tifa_score_scores": 0.18470238095238095,
+      "image_reward_score_scores": 0.46494454359104526
+    },
+    "level": 15,
+    "total_descendants": 2
+  },
+  {
+    "name": "mullet (percoid fish)",
+    "father": "percoid fish",
+    "definition": "freshwater or coastal food fishes a spindle-shaped body; found worldwide",
+    "scores": {
+      "clip_score_scores": 0.5266692839803772,
+      "pick_score_scores": 0.47501790944256955,
+      "vqa_score_scores": 0.5924952660281299,
+      "tifa_score_scores": 0.21474206349206348,
+      "image_reward_score_scores": 0.5385428586743911
+    },
+    "level": 15,
+    "total_descendants": 3
+  },
+  {
+    "name": "pike-perch",
+    "father": "percoid fish",
+    "definition": "any of several pike-like fishes of the perch family",
+    "scores": {
+      "clip_score_scores": 0.5425314390373037,
+      "pick_score_scores": 0.5246052391214473,
+      "vqa_score_scores": 0.51527202124276,
+      "tifa_score_scores": 0.21969696969696967,
+      "image_reward_score_scores": 0.4561893427654026
+    },
+    "level": 15,
+    "total_descendants": 2
+  },
+  {
+    "name": "pike (percoid fish)",
+    "father": "percoid fish",
+    "definition": "any of several elongate long-snouted freshwater game and food fishes widely distributed in cooler parts of the northern hemisphere",
+    "scores": {
+      "clip_score_scores": 0.5617640858463324,
+      "pick_score_scores": 0.4929522137110307,
+      "vqa_score_scores": 0.4323909496797456,
+      "tifa_score_scores": 0.07935185185185187,
+      "image_reward_score_scores": 0.46193468074803057
+    },
+    "level": 15,
+    "total_descendants": 5
+  },
+  {
+    "name": "robalo",
+    "father": "percoid fish",
+    "definition": "a kind of percoid fish",
+    "scores": {
+      "clip_score_scores": 0.5693809401019587,
+      "pick_score_scores": 0.49209028730651233,
+      "vqa_score_scores": 0.5749222372071153,
+      "tifa_score_scores": 0.23875000000000002,
+      "image_reward_score_scores": 0.5391618131590825
+    },
+    "level": 15,
+    "total_descendants": 1
+  },
+  {
+    "name": "sciaenid fish",
+    "father": "percoid fish",
+    "definition": "widely distributed family of carnivorous percoid fishes having a large air bladder used to produce sound",
+    "scores": {
+      "clip_score_scores": 0.5446347903320736,
+      "pick_score_scores": 0.4942817574504212,
+      "vqa_score_scores": 0.4739483791657326,
+      "tifa_score_scores": 0.20815635020843357,
+      "image_reward_score_scores": 0.4379599436456805
+    },
+    "level": 15,
+    "total_descendants": 19
+  },
+  {
+    "name": "scombroid",
+    "father": "percoid fish",
+    "definition": "important marine food and game fishes found in all tropical and temperate seas; some are at least partially endothermic and can thrive in colder waters",
+    "scores": {
+      "clip_score_scores": 0.5621331311730904,
+      "pick_score_scores": 0.523330530086732,
+      "vqa_score_scores": 0.5327424999788025,
+      "tifa_score_scores": 0.22150913543026637,
+      "image_reward_score_scores": 0.4397249496585687
+    },
+    "level": 15,
+    "total_descendants": 23
+  },
+  {
+    "name": "sea bream",
+    "father": "percoid fish",
+    "definition": "any of numerous marine percoid fishes especially (but not exclusively) of the family Sparidae",
+    "scores": {
+      "clip_score_scores": 0.5448944609442952,
+      "pick_score_scores": 0.48417266059361025,
+      "vqa_score_scores": 0.4378694980721508,
+      "tifa_score_scores": 0.225762025012025,
+      "image_reward_score_scores": 0.4936187919250571
+    },
+    "level": 15,
+    "total_descendants": 7
+  },
+  {
+    "name": "sea chub",
+    "father": "percoid fish",
+    "definition": "schooling fishes mostly of Indian and western Pacific oceans; two species in western Atlantic",
+    "scores": {
+      "clip_score_scores": 0.4931226755110032,
+      "pick_score_scores": 0.5059076414384692,
+      "vqa_score_scores": 0.5438183358574727,
+      "tifa_score_scores": 0.19837962962962963,
+      "image_reward_score_scores": 0.44200592142299266
+    },
+    "level": 15,
+    "total_descendants": 1
+  },
+  {
+    "name": "serranid fish",
+    "father": "percoid fish",
+    "definition": "marine food sport fishes mainly of warm coastal waters",
+    "scores": {
+      "clip_score_scores": 0.5497741624060425,
+      "pick_score_scores": 0.4883047213763682,
+      "vqa_score_scores": 0.472933000375522,
+      "tifa_score_scores": 0.21498511904761902,
+      "image_reward_score_scores": 0.3710443017175694
+    },
+    "level": 15,
+    "total_descendants": 3
+  },
+  {
+    "name": "sparid",
+    "father": "percoid fish",
+    "definition": "spiny-finned food fishes of warm waters having well-developed teeth",
+    "scores": {
+      "clip_score_scores": 0.5405637141021525,
+      "pick_score_scores": 0.47706577608194917,
+      "vqa_score_scores": 0.5108738965747436,
+      "tifa_score_scores": 0.2047833894500561,
+      "image_reward_score_scores": 0.4754433968216601
+    },
+    "level": 15,
+    "total_descendants": 3
+  },
+  {
+    "name": "sunfish",
+    "father": "percoid fish",
+    "definition": "small carnivorous freshwater percoid fishes of North America usually having a laterally compressed body and metallic luster: crappies; black bass; bluegills; pumpkinseed",
+    "scores": {
+      "clip_score_scores": 0.5666276704280216,
+      "pick_score_scores": 0.4841982997761634,
+      "vqa_score_scores": 0.48628596826163034,
+      "tifa_score_scores": 0.23271918089626423,
+      "image_reward_score_scores": 0.47586984926719866
+    },
+    "level": 15,
+    "total_descendants": 13
+  },
+  {
+    "name": "surfperch",
+    "father": "percoid fish",
+    "definition": "small to medium-sized shallow-water fishes of the Pacific coast of North America",
+    "scores": {
+      "clip_score_scores": 0.503141060872266,
+      "pick_score_scores": 0.46155302921046454,
+      "vqa_score_scores": 0.486565395396088,
+      "tifa_score_scores": 0.1625,
+      "image_reward_score_scores": 0.36904223736972636
+    },
+    "level": 15,
+    "total_descendants": 1
+  },
+  {
+    "name": "surgeonfish",
+    "father": "percoid fish",
+    "definition": "brightly colored coral-reef fish with knifelike spines at the tail",
+    "scores": {
+      "clip_score_scores": 0.5205405918724502,
+      "pick_score_scores": 0.45380423023162436,
+      "vqa_score_scores": 0.48212900876824416,
+      "tifa_score_scores": 0.16217171717171716,
+      "image_reward_score_scores": 0.5514209345717667
+    },
+    "level": 15,
+    "total_descendants": 1
+  },
+  {
+    "name": "threadfin",
+    "father": "percoid fish",
+    "definition": "mullet-like tropical marine fishes having pectoral fins with long threadlike rays",
+    "scores": {
+      "clip_score_scores": 0.5468858470896475,
+      "pick_score_scores": 0.4927257400135428,
+      "vqa_score_scores": 0.5243065542471992,
+      "tifa_score_scores": 0.32,
+      "image_reward_score_scores": 0.4591201145399754
+    },
+    "level": 15,
+    "total_descendants": 1
+  },
+  {
+    "name": "tripletail",
+    "father": "percoid fish",
+    "definition": "large food fish of warm waters worldwide having long anal and dorsal fins that with a caudal fin suggest a three-lobed tail",
+    "scores": {
+      "clip_score_scores": 0.5949895700794602,
+      "pick_score_scores": 0.5053045875734772,
+      "vqa_score_scores": 0.42860431649877667,
+      "tifa_score_scores": 0.19999999999999998,
+      "image_reward_score_scores": 0.6225437575068479
+    },
+    "level": 15,
+    "total_descendants": 2
+  },
+  {
+    "name": "wrasse",
+    "father": "percoid fish",
+    "definition": "chiefly tropical marine fishes with fleshy lips and powerful teeth; usually brightly colored",
+    "scores": {
+      "clip_score_scores": 0.5496447877344982,
+      "pick_score_scores": 0.511520381337749,
+      "vqa_score_scores": 0.5279566689024484,
+      "tifa_score_scores": 0.1738769068233354,
+      "image_reward_score_scores": 0.43316666364377854
+    },
+    "level": 15,
+    "total_descendants": 9
+  },
+  {
+    "name": "boxfish",
+    "father": "plectognath",
+    "definition": "any of numerous small tropical fishes having body and head encased in bony plates",
+    "scores": {
+      "clip_score_scores": 0.5355340713684856,
+      "pick_score_scores": 0.534045979663792,
+      "vqa_score_scores": 0.5329615418158381,
+      "tifa_score_scores": 0.16792207792207792,
+      "image_reward_score_scores": 0.5004796606825035
+    },
+    "level": 15,
+    "total_descendants": 1
+  },
+  {
+    "name": "filefish",
+    "father": "plectognath",
+    "definition": "narrow flattened warm-water fishes with leathery skin and a long file-like dorsal spine",
+    "scores": {
+      "clip_score_scores": 0.5202494184712381,
+      "pick_score_scores": 0.48995919641348734,
+      "vqa_score_scores": 0.5905984864535105,
+      "tifa_score_scores": 0.15833333333333333,
+      "image_reward_score_scores": 0.5775227830067856
+    },
+    "level": 15,
+    "total_descendants": 1
+  },
+  {
+    "name": "ocean sunfish",
+    "father": "plectognath",
+    "definition": "among the largest bony fish; pelagic fish having an oval compressed body with high dorsal and anal fins and caudal fin reduced to a rudder-like lobe; worldwide in warm waters",
+    "scores": {
+      "clip_score_scores": 0.5312513489310502,
+      "pick_score_scores": 0.5469532841341591,
+      "vqa_score_scores": 0.48685775773273277,
+      "tifa_score_scores": 0.14933712121212123,
+      "image_reward_score_scores": 0.4063144928744598
+    },
+    "level": 15,
+    "total_descendants": 1
+  },
+  {
+    "name": "spiny puffer",
+    "father": "plectognath",
+    "definition": "puffers having rigid or erectile spines",
+    "scores": {
+      "clip_score_scores": 0.5723041340375847,
+      "pick_score_scores": 0.48584755489810144,
+      "vqa_score_scores": 0.5160958898710677,
+      "tifa_score_scores": 0.21761724386724382,
+      "image_reward_score_scores": 0.5147783831592483
+    },
+    "level": 15,
+    "total_descendants": 3
+  },
+  {
+    "name": "triggerfish",
+    "father": "plectognath",
+    "definition": "any of numerous compressed deep-bodied tropical fishes with sandpapery skin and erectile spines in the first dorsal fin",
+    "scores": {
+      "clip_score_scores": 0.5820871960264931,
+      "pick_score_scores": 0.47662283792154786,
+      "vqa_score_scores": 0.47365700528129223,
+      "tifa_score_scores": 0.39570707070707073,
+      "image_reward_score_scores": 0.41047343337085007
+    },
+    "level": 15,
+    "total_descendants": 1
+  },
+  {
+    "name": "greenling",
+    "father": "scorpaenoid",
+    "definition": "food fish of the northern Pacific",
+    "scores": {
+      "clip_score_scores": 0.4984973419655529,
+      "pick_score_scores": 0.452729101682414,
+      "vqa_score_scores": 0.4323675687981757,
+      "tifa_score_scores": 0.2125,
+      "image_reward_score_scores": 0.4374543193418263
+    },
+    "level": 15,
+    "total_descendants": 2
+  },
+  {
+    "name": "gurnard",
+    "father": "scorpaenoid",
+    "definition": "bottom-dwelling coastal fishes with spiny armored heads and fingerlike pectoral fins used for crawling along the sea bottom",
+    "scores": {
+      "clip_score_scores": 0.5467720364724297,
+      "pick_score_scores": 0.45880324244809156,
+      "vqa_score_scores": 0.5734385669701475,
+      "tifa_score_scores": 0.2712179834054834,
+      "image_reward_score_scores": 0.4466505486326841
+    },
+    "level": 15,
+    "total_descendants": 4
+  },
+  {
+    "name": "lumpfish",
+    "father": "scorpaenoid",
+    "definition": "clumsy soft thick-bodied northern Atlantic fish with pelvic fins fused into a sucker; edible roe used for caviar",
+    "scores": {
+      "clip_score_scores": 0.5254727270642016,
+      "pick_score_scores": 0.4752444563939926,
+      "vqa_score_scores": 0.5527509902432817,
+      "tifa_score_scores": 0.16477272727272727,
+      "image_reward_score_scores": 0.500422140433852
+    },
+    "level": 15,
+    "total_descendants": 1
+  },
+  {
+    "name": "poacher (scorpaenoid)",
+    "father": "scorpaenoid",
+    "definition": "small slender fish (to 8 inches) with body covered by bony plates; chiefly of deeper northern Pacific waters",
+    "scores": {
+      "clip_score_scores": 0.5971739526530131,
+      "pick_score_scores": 0.4821930992045996,
+      "vqa_score_scores": 0.46888506617655823,
+      "tifa_score_scores": 0.1200925925925926,
+      "image_reward_score_scores": 0.42376455656453
+    },
+    "level": 15,
+    "total_descendants": 2
+  },
+  {
+    "name": "scorpaenid",
+    "father": "scorpaenoid",
+    "definition": "any of numerous carnivorous usually bottom-dwelling warm-water marine fishes found worldwide but most abundant in the Pacific",
+    "scores": {
+      "clip_score_scores": 0.5541706497663321,
+      "pick_score_scores": 0.4956828962667811,
+      "vqa_score_scores": 0.4485860911057046,
+      "tifa_score_scores": 0.22925978535353533,
+      "image_reward_score_scores": 0.44483897662729316
+    },
+    "level": 15,
+    "total_descendants": 9
+  },
+  {
+    "name": "sculpin",
+    "father": "scorpaenoid",
+    "definition": "any of numerous spiny large-headed usually scaleless scorpaenoid fishes with broad mouths",
+    "scores": {
+      "clip_score_scores": 0.549058609846571,
+      "pick_score_scores": 0.45787559181167514,
+      "vqa_score_scores": 0.5541941182366159,
+      "tifa_score_scores": 0.24309050324675324,
+      "image_reward_score_scores": 0.4406207377354945
+    },
+    "level": 15,
+    "total_descendants": 4
+  },
+  {
+    "name": "smooth dogfish",
+    "father": "dogfish",
+    "definition": "small bottom-dwelling shark found along both Atlantic coasts",
+    "scores": {
+      "clip_score_scores": 0.5767051681480413,
+      "pick_score_scores": 0.48449976337452805,
+      "vqa_score_scores": 0.549473017497958,
+      "tifa_score_scores": 0.20412878787878785,
+      "image_reward_score_scores": 0.46151561449869766
+    },
+    "level": 15,
+    "total_descendants": 4
+  },
+  {
+    "name": "spiny dogfish",
+    "father": "dogfish",
+    "definition": "small bottom-dwelling dogfishes",
+    "scores": {
+      "clip_score_scores": 0.6006352757850305,
+      "pick_score_scores": 0.4748352969203283,
+      "vqa_score_scores": 0.5592542435389999,
+      "tifa_score_scores": 0.20941358024691356,
+      "image_reward_score_scores": 0.4639370809647778
+    },
+    "level": 15,
+    "total_descendants": 2
+  },
+  {
+    "name": "mako",
+    "father": "mackerel shark",
+    "definition": "powerful mackerel shark of the Atlantic and Pacific",
+    "scores": {
+      "clip_score_scores": 0.5460624926103298,
+      "pick_score_scores": 0.48988363612389624,
+      "vqa_score_scores": 0.5292861184456454,
+      "tifa_score_scores": 0.14940476190476193,
+      "image_reward_score_scores": 0.4364872238381584
+    },
+    "level": 15,
+    "total_descendants": 3
+  },
+  {
+    "name": "merganser",
+    "father": "sea duck",
+    "definition": "large crested fish-eating diving duck having a slender hooked bill with serrated edges",
+    "scores": {
+      "clip_score_scores": 0.5945853926594238,
+      "pick_score_scores": 0.49117813016354395,
+      "vqa_score_scores": 0.5571128318830989,
+      "tifa_score_scores": 0.17175189393939394,
+      "image_reward_score_scores": 0.4251510542191296
+    },
+    "level": 15,
+    "total_descendants": 5
+  },
+  {
+    "name": "scoter",
+    "father": "sea duck",
+    "definition": "large black diving duck of northern parts of the northern hemisphere",
+    "scores": {
+      "clip_score_scores": 0.5806517361975434,
+      "pick_score_scores": 0.4593971372819951,
+      "vqa_score_scores": 0.5074655465795535,
+      "tifa_score_scores": 0.18298611111111113,
+      "image_reward_score_scores": 0.4463522722560481
+    },
+    "level": 15,
+    "total_descendants": 1
+  },
+  {
+    "name": "rorqual",
+    "father": "baleen whale",
+    "definition": "any of several baleen whales of the family Balaenopteridae having longitudinal grooves on the throat and a small pointed dorsal fin",
+    "scores": {
+      "clip_score_scores": 0.5553230992878131,
+      "pick_score_scores": 0.49784411837286524,
+      "vqa_score_scores": 0.50414881039912,
+      "tifa_score_scores": 0.1496843434343434,
+      "image_reward_score_scores": 0.5105814941657867
+    },
+    "level": 15,
+    "total_descendants": 3
+  },
+  {
+    "name": "beaked whale",
+    "father": "toothed whale",
+    "definition": "any of several whales inhabiting all oceans and having beaklike jaws with vestigial teeth in the upper jaw",
+    "scores": {
+      "clip_score_scores": 0.5906737937510493,
+      "pick_score_scores": 0.568667755861116,
+      "vqa_score_scores": 0.5005596847254917,
+      "tifa_score_scores": 0.2807142857142857,
+      "image_reward_score_scores": 0.5029555819433775
+    },
+    "level": 15,
+    "total_descendants": 1
+  },
+  {
+    "name": "dolphin",
+    "father": "toothed whale",
+    "definition": "any of various small toothed whales with a beaklike snout; larger than porpoises",
+    "scores": {
+      "clip_score_scores": 0.576257832053027,
+      "pick_score_scores": 0.5049159075346098,
+      "vqa_score_scores": 0.5384932063553537,
+      "tifa_score_scores": 0.23453403078403076,
+      "image_reward_score_scores": 0.47651093409785095
+    },
+    "level": 15,
+    "total_descendants": 12
+  },
+  {
+    "name": "sea lion",
+    "father": "eared seal",
+    "definition": "any of several large eared seals of the northern Pacific related to fur seals but lacking their valuable coat",
+    "scores": {
+      "clip_score_scores": 0.5594294081952222,
+      "pick_score_scores": 0.5222508192994818,
+      "vqa_score_scores": 0.5123248208908986,
+      "tifa_score_scores": 0.3425315656565656,
+      "image_reward_score_scores": 0.4995730391013885
+    },
+    "level": 15,
+    "total_descendants": 4
+  },
+  {
+    "name": "lynx",
+    "father": "wildcat",
+    "definition": "short-tailed wildcats with usually tufted ears; valued for their fur",
+    "scores": {
+      "clip_score_scores": 0.5570368660253651,
+      "pick_score_scores": 0.48231659332116406,
+      "vqa_score_scores": 0.5910479734830558,
+      "tifa_score_scores": 0.21414930555555556,
+      "image_reward_score_scores": 0.4212470481619555
+    },
+    "level": 15,
+    "total_descendants": 5
+  },
+  {
+    "name": "chimpanzee",
+    "father": "great ape",
+    "definition": "intelligent somewhat arboreal ape of equatorial African forests",
+    "scores": {
+      "clip_score_scores": 0.5871114787543396,
+      "pick_score_scores": 0.547857664170081,
+      "vqa_score_scores": 0.477129903247152,
+      "tifa_score_scores": 0.3593326118326118,
+      "image_reward_score_scores": 0.5850992364510804
+    },
+    "level": 15,
+    "total_descendants": 4
+  },
+  {
+    "name": "gorilla",
+    "father": "great ape",
+    "definition": "largest anthropoid ape; terrestrial and vegetarian; of forests of central west Africa",
+    "scores": {
+      "clip_score_scores": 0.5725255084587193,
+      "pick_score_scores": 0.5397487394600178,
+      "vqa_score_scores": 0.5354435915925848,
+      "tifa_score_scores": 0.24855784030784028,
+      "image_reward_score_scores": 0.6085326017554319
+    },
+    "level": 15,
+    "total_descendants": 4
+  },
+  {
+    "name": "tamarin",
+    "father": "marmoset",
+    "definition": "small South American marmoset with silky fur and long nonprehensile tail",
+    "scores": {
+      "clip_score_scores": 0.5042810419745828,
+      "pick_score_scores": 0.5495530548493418,
+      "vqa_score_scores": 0.46701511877045276,
+      "tifa_score_scores": 0.1791666666666667,
+      "image_reward_score_scores": 0.4889354745448918
+    },
+    "level": 15,
+    "total_descendants": 2
+  },
+  {
+    "name": "antelope",
+    "father": "bovid",
+    "definition": "graceful Old World ruminant with long legs and horns directed upward and backward; includes gazelles; springboks; impalas; addax; gerenuks; blackbucks; dik-diks",
+    "scores": {
+      "clip_score_scores": 0.5699049611970052,
+      "pick_score_scores": 0.5215465406286928,
+      "vqa_score_scores": 0.5548546370259919,
+      "tifa_score_scores": 0.21416363035113034,
+      "image_reward_score_scores": 0.5301461264813943
+    },
+    "level": 15,
+    "total_descendants": 33
+  },
+  {
+    "name": "bison",
+    "father": "bovid",
+    "definition": "any of several large humped bovids having shaggy manes and large heads and short horns",
+    "scores": {
+      "clip_score_scores": 0.5492792723866696,
+      "pick_score_scores": 0.5435612469284854,
+      "vqa_score_scores": 0.5877397736574572,
+      "tifa_score_scores": 0.1707142857142857,
+      "image_reward_score_scores": 0.4525361262278407
+    },
+    "level": 15,
+    "total_descendants": 2
+  },
+  {
+    "name": "bovine",
+    "father": "bovid",
+    "definition": "any of various members of the genus Bos",
+    "scores": {
+      "clip_score_scores": 0.5451509843819177,
+      "pick_score_scores": 0.5025294574252283,
+      "vqa_score_scores": 0.49344457303925154,
+      "tifa_score_scores": 0.21097419298808187,
+      "image_reward_score_scores": 0.552143620906575
+    },
+    "level": 15,
+    "total_descendants": 36
+  },
+  {
+    "name": "goat",
+    "father": "bovid",
+    "definition": "any of numerous agile ruminants related to sheep but having a beard and straight horns",
+    "scores": {
+      "clip_score_scores": 0.5692293931226701,
+      "pick_score_scores": 0.5184997686396545,
+      "vqa_score_scores": 0.5480037163804684,
+      "tifa_score_scores": 0.2156370200016033,
+      "image_reward_score_scores": 0.4937300897936627
+    },
+    "level": 15,
+    "total_descendants": 10
+  },
+  {
+    "name": "goat antelope",
+    "father": "bovid",
+    "definition": "bovid related to goats but having antelope-like features: mountain goats; gorals; serows; chamois; gnu goats",
+    "scores": {
+      "clip_score_scores": 0.5864022931360507,
+      "pick_score_scores": 0.5528913543416463,
+      "vqa_score_scores": 0.5805945436119093,
+      "tifa_score_scores": 0.28209668109668107,
+      "image_reward_score_scores": 0.6530613321214498
+    },
+    "level": 15,
+    "total_descendants": 5
+  },
+  {
+    "name": "old world buffalo",
+    "father": "bovid",
+    "definition": "any of several Old World animals resembling oxen including, e.g., water buffalo; Cape buffalo",
+    "scores": {
+      "clip_score_scores": 0.5551574078101947,
+      "pick_score_scores": 0.5383443654904374,
+      "vqa_score_scores": 0.5671381756588328,
+      "tifa_score_scores": 0.1949729938271605,
+      "image_reward_score_scores": 0.5782162992538216
+    },
+    "level": 15,
+    "total_descendants": 6
+  },
+  {
+    "name": "sheep (bovid)",
+    "father": "bovid",
+    "definition": "woolly usually horned ruminant mammal related to the goat",
+    "scores": {
+      "clip_score_scores": 0.5626051025222172,
+      "pick_score_scores": 0.4806732741970593,
+      "vqa_score_scores": 0.5784633145643961,
+      "tifa_score_scores": 0.2509792468334135,
+      "image_reward_score_scores": 0.49694388875993056
+    },
+    "level": 15,
+    "total_descendants": 15
+  },
+  {
+    "name": "wild sheep",
+    "father": "bovid",
+    "definition": "undomesticated sheep",
+    "scores": {
+      "clip_score_scores": 0.5914965456839315,
+      "pick_score_scores": 0.5019910381440872,
+      "vqa_score_scores": 0.5036564488336105,
+      "tifa_score_scores": 0.25861426767676765,
+      "image_reward_score_scores": 0.5738131632474611
+    },
+    "level": 15,
+    "total_descendants": 8
+  },
+  {
+    "name": "caribou",
+    "father": "deer",
+    "definition": "Arctic deer with large antlers in both sexes; called `reindeer' in Eurasia and `caribou' in North America",
+    "scores": {
+      "clip_score_scores": 0.6139503639062962,
+      "pick_score_scores": 0.5138459010379015,
+      "vqa_score_scores": 0.5021888872335164,
+      "tifa_score_scores": 0.19280303030303034,
+      "image_reward_score_scores": 0.5986577749967457
+    },
+    "level": 15,
+    "total_descendants": 2
+  },
+  {
+    "name": "mule deer",
+    "father": "deer",
+    "definition": "long-eared deer of western North America with two-pronged antlers",
+    "scores": {
+      "clip_score_scores": 0.6115862681990953,
+      "pick_score_scores": 0.47134590370861773,
+      "vqa_score_scores": 0.6460846614847126,
+      "tifa_score_scores": 0.26125,
+      "image_reward_score_scores": 0.5383178181581747
+    },
+    "level": 15,
+    "total_descendants": 1
+  },
+  {
+    "name": "red deer",
+    "father": "deer",
+    "definition": "common deer of temperate Europe and Asia",
+    "scores": {
+      "clip_score_scores": 0.5378638132853228,
+      "pick_score_scores": 0.5057138120981621,
+      "vqa_score_scores": 0.5843753998757251,
+      "tifa_score_scores": 0.2187680375180375,
+      "image_reward_score_scores": 0.5369107976978081
+    },
+    "level": 15,
+    "total_descendants": 3
+  },
+  {
+    "name": "roe deer",
+    "father": "deer",
+    "definition": "small graceful deer of Eurasian woodlands having small forked antlers",
+    "scores": {
+      "clip_score_scores": 0.549570268360011,
+      "pick_score_scores": 0.5332427388181301,
+      "vqa_score_scores": 0.5042666894556087,
+      "tifa_score_scores": 0.19630952380952382,
+      "image_reward_score_scores": 0.614529895216179
+    },
+    "level": 15,
+    "total_descendants": 1
+  },
+  {
+    "name": "domestic ass",
+    "father": "ass (equine)",
+    "definition": "domestic beast of burden descended from the African wild ass; patient but stubborn",
+    "scores": {
+      "clip_score_scores": 0.5150234119047248,
+      "pick_score_scores": 0.5047982174570537,
+      "vqa_score_scores": 0.4392780404447946,
+      "tifa_score_scores": 0.1685185185185185,
+      "image_reward_score_scores": 0.36944603851062635
+    },
+    "level": 15,
+    "total_descendants": 2
+  },
+  {
+    "name": "wild ass",
+    "father": "ass (equine)",
+    "definition": "any of several equine mammals of Asia and northeast Africa",
+    "scores": {
+      "clip_score_scores": 0.5651090036147406,
+      "pick_score_scores": 0.4952664268515963,
+      "vqa_score_scores": 0.5502841269646023,
+      "tifa_score_scores": 0.35,
+      "image_reward_score_scores": 0.41351271528999983
+    },
+    "level": 15,
+    "total_descendants": 4
+  },
+  {
+    "name": "harness horse",
+    "father": "horse (equine)",
+    "definition": "horse used for pulling vehicles",
+    "scores": {
+      "clip_score_scores": 0.514965562097334,
+      "pick_score_scores": 0.513497141723015,
+      "vqa_score_scores": 0.6560146659871462,
+      "tifa_score_scores": 0.2875,
+      "image_reward_score_scores": 0.6396954571697704
+    },
+    "level": 15,
+    "total_descendants": 2
+  },
+  {
+    "name": "mare (horse)",
+    "father": "horse (equine)",
+    "definition": "female equine animal",
+    "scores": {
+      "clip_score_scores": 0.4767865883217707,
+      "pick_score_scores": 0.45441114824169954,
+      "vqa_score_scores": 0.5709537246693792,
+      "tifa_score_scores": 0.2072916666666667,
+      "image_reward_score_scores": 0.5699851712967607
+    },
+    "level": 15,
+    "total_descendants": 1
+  },
+  {
+    "name": "mustang",
+    "father": "horse (equine)",
+    "definition": "small hardy range horse of the western plains descended from horses brought by the Spanish",
+    "scores": {
+      "clip_score_scores": 0.5748472137251759,
+      "pick_score_scores": 0.5124951343362713,
+      "vqa_score_scores": 0.5275059486943584,
+      "tifa_score_scores": 0.28047619047619043,
+      "image_reward_score_scores": 0.5694623316937841
+    },
+    "level": 15,
+    "total_descendants": 2
+  },
+  {
+    "name": "racehorse",
+    "father": "horse (equine)",
+    "definition": "a horse bred for racing",
+    "scores": {
+      "clip_score_scores": 0.5689961810775828,
+      "pick_score_scores": 0.4661612868518802,
+      "vqa_score_scores": 0.533328489248462,
+      "tifa_score_scores": 0.22156392797017793,
+      "image_reward_score_scores": 0.5258568472615789
+    },
+    "level": 15,
+    "total_descendants": 11
+  },
+  {
+    "name": "saddle horse",
+    "father": "horse (equine)",
+    "definition": "a lightweight horse kept for riding only",
+    "scores": {
+      "clip_score_scores": 0.548819161677444,
+      "pick_score_scores": 0.5019552578317232,
+      "vqa_score_scores": 0.5480303581178357,
+      "tifa_score_scores": 0.21854457271123934,
+      "image_reward_score_scores": 0.4836365462557088
+    },
+    "level": 15,
+    "total_descendants": 20
+  },
+  {
+    "name": "wild horse",
+    "father": "horse (equine)",
+    "definition": "undomesticated or feral domestic horse",
+    "scores": {
+      "clip_score_scores": 0.5505700919455894,
+      "pick_score_scores": 0.48835414889686435,
+      "vqa_score_scores": 0.5618230597530485,
+      "tifa_score_scores": 0.10782828282828281,
+      "image_reward_score_scores": 0.4833194636134408
+    },
+    "level": 15,
+    "total_descendants": 3
+  },
+  {
+    "name": "workhorse (horse)",
+    "father": "horse (equine)",
+    "definition": "a horse used for plowing and hauling and other heavy labor",
+    "scores": {
+      "clip_score_scores": 0.590751562387874,
+      "pick_score_scores": 0.5156020653183975,
+      "vqa_score_scores": 0.5548672034236667,
+      "tifa_score_scores": 0.2525971520763188,
+      "image_reward_score_scores": 0.5382603889593242
+    },
+    "level": 15,
+    "total_descendants": 10
+  },
+  {
+    "name": "ankylosaur",
+    "father": "armored dinosaur",
+    "definition": "having the back covered with thick bony plates; thought to have walked with a sprawling gait resembling a lizard's",
+    "scores": {
+      "clip_score_scores": 0.559069205544776,
+      "pick_score_scores": 0.5023493910537716,
+      "vqa_score_scores": 0.6158823803098095,
+      "tifa_score_scores": 0.24166666666666664,
+      "image_reward_score_scores": 0.4418605483196532
+    },
+    "level": 15,
+    "total_descendants": 1
+  },
+  {
+    "name": "ceratosaur",
+    "father": "theropod",
+    "definition": "primitive medium-sized theropod; swift-running bipedal carnivorous dinosaur having grasping hands with sharp claws and a short horn between the nostrils; Jurassic in North America",
+    "scores": {
+      "clip_score_scores": 0.5485810957962525,
+      "pick_score_scores": 0.5024013372505876,
+      "vqa_score_scores": 0.570487335243022,
+      "tifa_score_scores": 0.10402777777777779,
+      "image_reward_score_scores": 0.45811905487446064
+    },
+    "level": 15,
+    "total_descendants": 1
+  },
+  {
+    "name": "maniraptor",
+    "father": "theropod",
+    "definition": "advanced carnivorous theropod",
+    "scores": {
+      "clip_score_scores": 0.48431949078236797,
+      "pick_score_scores": 0.502108409185494,
+      "vqa_score_scores": 0.351185711757538,
+      "tifa_score_scores": 0.15069083694083693,
+      "image_reward_score_scores": 0.47711489492083936
+    },
+    "level": 15,
+    "total_descendants": 6
+  },
+  {
+    "name": "ornithomimid",
+    "father": "theropod",
+    "definition": "lightly built medium-sized dinosaur having extremely long limbs and necks with small heads and big brains and large eyes",
+    "scores": {
+      "clip_score_scores": 0.5695753410139154,
+      "pick_score_scores": 0.5531626402183334,
+      "vqa_score_scores": 0.440655819223078,
+      "tifa_score_scores": 0.13954545454545456,
+      "image_reward_score_scores": 0.5302410631561599
+    },
+    "level": 15,
+    "total_descendants": 2
+  },
+  {
+    "name": "fence lizard",
+    "father": "spiny lizard",
+    "definition": "spiny lizard often seen basking on fences in the United States and northern Mexico",
+    "scores": {
+      "clip_score_scores": 0.5603147432524055,
+      "pick_score_scores": 0.4327004010195116,
+      "vqa_score_scores": 0.5951566965097537,
+      "tifa_score_scores": 0.19154040404040407,
+      "image_reward_score_scores": 0.5048411742621345
+    },
+    "level": 15,
+    "total_descendants": 2
+  },
+  {
+    "name": "timber rattlesnake",
+    "father": "rattlesnake",
+    "definition": "widely distributed in rugged ground of eastern United States",
+    "scores": {
+      "clip_score_scores": null,
+      "pick_score_scores": null,
+      "vqa_score_scores": null,
+      "tifa_score_scores": null,
+      "image_reward_score_scores": null
+    },
+    "level": 15,
+    "total_descendants": 1
+  }
+]

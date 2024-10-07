@@ -1,0 +1,114 @@
+[
+  {
+    "name": "aquatic vertebrate",
+    "father": "vertebrate",
+    "definition": "animal living wholly or chiefly in or on water",
+    "scores": {
+      "clip_score_scores": 0.5594913644068514,
+      "pick_score_scores": 0.529307336149106,
+      "vqa_score_scores": 0.5840592026611402,
+      "tifa_score_scores": 0.2514377739497626,
+      "image_reward_score_scores": 0.46619827729712265
+    },
+    "level": 9,
+    "total_descendants": 611
+  },
+  {
+    "name": "bird",
+    "father": "vertebrate",
+    "definition": "warm-blooded egg-laying vertebrates characterized by feathers and forelimbs modified as wings",
+    "scores": {
+      "clip_score_scores": 0.5672954562356418,
+      "pick_score_scores": 0.5173288001068652,
+      "vqa_score_scores": 0.575813992352159,
+      "tifa_score_scores": 0.23629041877951665,
+      "image_reward_score_scores": 0.5008624322049052
+    },
+    "level": 9,
+    "total_descendants": 810
+  },
+  {
+    "name": "mammal",
+    "father": "vertebrate",
+    "definition": "any warm-blooded vertebrate having the skin more or less covered with hair; young are born alive except for the small subclass of monotremes and nourished with milk",
+    "scores": {
+      "clip_score_scores": 0.5790315902488435,
+      "pick_score_scores": 0.5144899333206877,
+      "vqa_score_scores": 0.5944262687099023,
+      "tifa_score_scores": 0.2126335603869555,
+      "image_reward_score_scores": 0.511585623726963
+    },
+    "level": 9,
+    "total_descendants": 925
+  },
+  {
+    "name": "reptile",
+    "father": "vertebrate",
+    "definition": "any cold-blooded vertebrate of the class Reptilia including tortoises, turtles, snakes, lizards, alligators, crocodiles, and extinct forms",
+    "scores": {
+      "clip_score_scores": 0.5516195285485145,
+      "pick_score_scores": 0.4795693331336473,
+      "vqa_score_scores": 0.45172978587690504,
+      "tifa_score_scores": 0.19663945490236412,
+      "image_reward_score_scores": 0.48493135629191775
+    },
+    "level": 9,
+    "total_descendants": 292
+  },
+  {
+    "name": "insect",
+    "father": "arthropod",
+    "definition": "small air-breathing arthropod",
+    "scores": {
+      "clip_score_scores": 0.5519933851028878,
+      "pick_score_scores": 0.520817934715809,
+      "vqa_score_scores": 0.5608005491217705,
+      "tifa_score_scores": 0.22048368860770456,
+      "image_reward_score_scores": 0.49285919416223933
+    },
+    "level": 9,
+    "total_descendants": 446
+  },
+  {
+    "name": "angiosperm",
+    "father": "spermatophyte",
+    "definition": "plants having seeds in a closed ovary",
+    "scores": {
+      "clip_score_scores": 0.5343245499164058,
+      "pick_score_scores": 0.4880719251372677,
+      "vqa_score_scores": 0.46468719017944693,
+      "tifa_score_scores": 0.29017085034785856,
+      "image_reward_score_scores": 0.4600313172072449
+    },
+    "level": 9,
+    "total_descendants": 435
+  },
+  {
+    "name": "shrub",
+    "father": "woody plant",
+    "definition": "a low woody perennial plant usually having several major stems",
+    "scores": {
+      "clip_score_scores": 0.5452531832034436,
+      "pick_score_scores": 0.5064670588525463,
+      "vqa_score_scores": 0.5092733816990993,
+      "tifa_score_scores": 0.22371378674142717,
+      "image_reward_score_scores": 0.44712416907384833
+    },
+    "level": 9,
+    "total_descendants": 728
+  },
+  {
+    "name": "tree",
+    "father": "woody plant",
+    "definition": "a tall perennial woody plant having a main trunk and branches forming a distinct elevated crown; includes both gymnosperms and angiosperms",
+    "scores": {
+      "clip_score_scores": 0.5504781337721053,
+      "pick_score_scores": 0.5115734831969302,
+      "vqa_score_scores": 0.5217810135179664,
+      "tifa_score_scores": 0.23087739106710436,
+      "image_reward_score_scores": 0.45379362100090065
+    },
+    "level": 9,
+    "total_descendants": 968
+  }
+]

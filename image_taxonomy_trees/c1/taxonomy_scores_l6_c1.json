@@ -1,0 +1,3894 @@
+[
+  {
+    "name": "ocean floor",
+    "father": "bed (natural depression)",
+    "definition": "the bottom of a sea or ocean",
+    "scores": {
+      "clip_score_scores": 0.5247394038255333,
+      "pick_score_scores": 0.5237451788609288,
+      "vqa_score_scores": 0.5607247069351062,
+      "tifa_score_scores": 0.22111111111111112,
+      "image_reward_score_scores": 0.48035057216074345
+    },
+    "level": 6,
+    "total_descendants": 5
+  },
+  {
+    "name": "pit (hole)",
+    "father": "hole (natural depression)",
+    "definition": "a sizeable hole (usually in the ground)",
+    "scores": {
+      "clip_score_scores": 0.5652407276113094,
+      "pick_score_scores": 0.5142598890032828,
+      "vqa_score_scores": 0.5916521300298463,
+      "tifa_score_scores": 0.28399170274170277,
+      "image_reward_score_scores": 0.4868973084949106
+    },
+    "level": 6,
+    "total_descendants": 9
+  },
+  {
+    "name": "gully",
+    "father": "valley",
+    "definition": "deep ditch cut by running water (especially after a prolonged downpour)",
+    "scores": {
+      "clip_score_scores": null,
+      "pick_score_scores": null,
+      "vqa_score_scores": null,
+      "tifa_score_scores": null,
+      "image_reward_score_scores": null
+    },
+    "level": 6,
+    "total_descendants": 3
+  },
+  {
+    "name": "ravine",
+    "father": "valley",
+    "definition": "a deep narrow steep-sided valley (especially one formed by running water)",
+    "scores": {
+      "clip_score_scores": 0.547018058492762,
+      "pick_score_scores": 0.5384663544675515,
+      "vqa_score_scores": 0.6446485679005228,
+      "tifa_score_scores": 0.3197619047619048,
+      "image_reward_score_scores": 0.36635777134045605
+    },
+    "level": 6,
+    "total_descendants": 3
+  },
+  {
+    "name": "tableland",
+    "father": "highland",
+    "definition": "a relatively flat highland",
+    "scores": {
+      "clip_score_scores": 0.5903839672562186,
+      "pick_score_scores": 0.45235052534517484,
+      "vqa_score_scores": 0.4939055237718255,
+      "tifa_score_scores": 0.10407407407407407,
+      "image_reward_score_scores": 0.43048040969041823
+    },
+    "level": 6,
+    "total_descendants": 2
+  },
+  {
+    "name": "knoll",
+    "father": "hill",
+    "definition": "a small natural hill",
+    "scores": {
+      "clip_score_scores": 0.6034366399531325,
+      "pick_score_scores": 0.5408583232265795,
+      "vqa_score_scores": 0.5985450580197993,
+      "tifa_score_scores": 0.2581481481481482,
+      "image_reward_score_scores": 0.4614262215832043
+    },
+    "level": 6,
+    "total_descendants": 3
+  },
+  {
+    "name": "bank (ridge)",
+    "father": "ridge (natural elevation)",
+    "definition": "a long ridge or pile",
+    "scores": {
+      "clip_score_scores": 0.5390648077309914,
+      "pick_score_scores": 0.44136410654845926,
+      "vqa_score_scores": 0.43963466914883514,
+      "tifa_score_scores": 0.3185978835978836,
+      "image_reward_score_scores": 0.4191254672290539
+    },
+    "level": 6,
+    "total_descendants": 3
+  },
+  {
+    "name": "reef (ridge)",
+    "father": "ridge (natural elevation)",
+    "definition": "a submerged ridge of rock or coral near the surface of the water",
+    "scores": {
+      "clip_score_scores": 0.5722689451424794,
+      "pick_score_scores": 0.49299503063616923,
+      "vqa_score_scores": 0.44869729027467564,
+      "tifa_score_scores": 0.23964646464646464,
+      "image_reward_score_scores": 0.4422113215113206
+    },
+    "level": 6,
+    "total_descendants": 4
+  },
+  {
+    "name": "coordinate axis",
+    "father": "axis (line)",
+    "definition": "one of the fixed reference lines of a coordinate system",
+    "scores": {
+      "clip_score_scores": 0.5386623256337633,
+      "pick_score_scores": 0.5189756925129442,
+      "vqa_score_scores": 0.6709295972343915,
+      "tifa_score_scores": 0.17799873737373736,
+      "image_reward_score_scores": 0.4579010455000687
+    },
+    "level": 6,
+    "total_descendants": 3
+  },
+  {
+    "name": "meridian",
+    "father": "great circle",
+    "definition": "an imaginary great circle on the surface of the earth passing through the north and south poles at right angles to the equator",
+    "scores": {
+      "clip_score_scores": 0.551308775982609,
+      "pick_score_scores": 0.5198207537250008,
+      "vqa_score_scores": 0.5433892025116834,
+      "tifa_score_scores": 0.21246913580246915,
+      "image_reward_score_scores": 0.4632071825761792
+    },
+    "level": 6,
+    "total_descendants": 3
+  },
+  {
+    "name": "apoapsis",
+    "father": "celestial point",
+    "definition": "(astronomy) the point in an orbit farthest from the body being orbited",
+    "scores": {
+      "clip_score_scores": 0.5277646790735944,
+      "pick_score_scores": 0.5099937599665413,
+      "vqa_score_scores": 0.40719224394691345,
+      "tifa_score_scores": 0.17301722582972584,
+      "image_reward_score_scores": 0.4606190032283003
+    },
+    "level": 6,
+    "total_descendants": 4
+  },
+  {
+    "name": "equinoctial point",
+    "father": "celestial point",
+    "definition": "(astronomy) either of the two celestial points at which the celestial equator intersects the ecliptic",
+    "scores": {
+      "clip_score_scores": 0.6150638984483231,
+      "pick_score_scores": 0.4774763584369991,
+      "vqa_score_scores": 0.5852225446055971,
+      "tifa_score_scores": 0.3033080808080808,
+      "image_reward_score_scores": 0.6249859950135862
+    },
+    "level": 6,
+    "total_descendants": 2
+  },
+  {
+    "name": "node (celestial point)",
+    "father": "celestial point",
+    "definition": "(astronomy) a point where an orbit crosses a plane",
+    "scores": {
+      "clip_score_scores": 0.5452739808634502,
+      "pick_score_scores": 0.5002262035736016,
+      "vqa_score_scores": 0.5634062322759525,
+      "tifa_score_scores": 0.3161616161616162,
+      "image_reward_score_scores": 0.39621653622619823
+    },
+    "level": 6,
+    "total_descendants": 2
+  },
+  {
+    "name": "periapsis",
+    "father": "celestial point",
+    "definition": "(astronomy) the point in an orbit closest to the body being orbited",
+    "scores": {
+      "clip_score_scores": 0.46833518528502766,
+      "pick_score_scores": 0.5561977682272959,
+      "vqa_score_scores": 0.4684974283075083,
+      "tifa_score_scores": 0.2363888888888889,
+      "image_reward_score_scores": 0.4469498276137631
+    },
+    "level": 6,
+    "total_descendants": 4
+  },
+  {
+    "name": "center of mass",
+    "father": "center (point)",
+    "definition": "point representing the mean position of the matter in a body",
+    "scores": {
+      "clip_score_scores": 0.5284420154677932,
+      "pick_score_scores": 0.5066279336484169,
+      "vqa_score_scores": 0.5399470453570466,
+      "tifa_score_scores": 0.2649747474747475,
+      "image_reward_score_scores": 0.4176311214171354
+    },
+    "level": 6,
+    "total_descendants": 3
+  },
+  {
+    "name": "address",
+    "father": "geographic point",
+    "definition": "the place where a person or organization can be found or communicated with",
+    "scores": {
+      "clip_score_scores": 0.5791750525482953,
+      "pick_score_scores": 0.5109610230976526,
+      "vqa_score_scores": 0.5499788908360226,
+      "tifa_score_scores": 0.21123196248196247,
+      "image_reward_score_scores": 0.4392830736032236
+    },
+    "level": 6,
+    "total_descendants": 9
+  },
+  {
+    "name": "port (geographic point)",
+    "father": "geographic point",
+    "definition": "a place (seaport or airport) where people and merchandise can enter or leave a country",
+    "scores": {
+      "clip_score_scores": 0.5756910580524903,
+      "pick_score_scores": 0.5084797698575013,
+      "vqa_score_scores": 0.5403168649744202,
+      "tifa_score_scores": 0.20461805555555554,
+      "image_reward_score_scores": 0.4161317532272077
+    },
+    "level": 6,
+    "total_descendants": 9
+  },
+  {
+    "name": "workplace",
+    "father": "geographic point",
+    "definition": "a place where work is done",
+    "scores": {
+      "clip_score_scores": 0.557336288969936,
+      "pick_score_scores": 0.5093450715972442,
+      "vqa_score_scores": 0.5211328686648601,
+      "tifa_score_scores": 0.21913530682280682,
+      "image_reward_score_scores": 0.4669163739265251
+    },
+    "level": 6,
+    "total_descendants": 73
+  },
+  {
+    "name": "line (military position)",
+    "father": "military position",
+    "definition": "a fortified position (especially one marking the most forward position of troops)",
+    "scores": {
+      "clip_score_scores": 0.5823844706283006,
+      "pick_score_scores": 0.5153083773200322,
+      "vqa_score_scores": 0.4699810723577198,
+      "tifa_score_scores": 0.22278273809523808,
+      "image_reward_score_scores": 0.4423885023960988
+    },
+    "level": 6,
+    "total_descendants": 4
+  },
+  {
+    "name": "hiding place",
+    "father": "topographic point",
+    "definition": "a place suitable for hiding something (such as yourself)",
+    "scores": {
+      "clip_score_scores": 0.5378295795138678,
+      "pick_score_scores": 0.4806211000863939,
+      "vqa_score_scores": 0.5569303496372844,
+      "tifa_score_scores": 0.25116161616161614,
+      "image_reward_score_scores": 0.3833690950544898
+    },
+    "level": 6,
+    "total_descendants": 4
+  },
+  {
+    "name": "junction (topographic point)",
+    "father": "topographic point",
+    "definition": "the place where two or more things come together",
+    "scores": {
+      "clip_score_scores": 0.5511691175622478,
+      "pick_score_scores": 0.5031198679323116,
+      "vqa_score_scores": 0.6480840865255666,
+      "tifa_score_scores": 0.23799668310084976,
+      "image_reward_score_scores": 0.4592977706986532
+    },
+    "level": 6,
+    "total_descendants": 10
+  },
+  {
+    "name": "peak",
+    "father": "topographic point",
+    "definition": "the top or extreme point of something (usually a mountain or hill)",
+    "scores": {
+      "clip_score_scores": 0.5739432026014171,
+      "pick_score_scores": 0.5559654156153583,
+      "vqa_score_scores": 0.6237642142570263,
+      "tifa_score_scores": 0.3474652777777778,
+      "image_reward_score_scores": 0.5931690167868733
+    },
+    "level": 6,
+    "total_descendants": 3
+  },
+  {
+    "name": "stop (topographic point)",
+    "father": "topographic point",
+    "definition": "a spot where something halts or pauses",
+    "scores": {
+      "clip_score_scores": 0.4900560918449161,
+      "pick_score_scores": 0.49276297819367704,
+      "vqa_score_scores": 0.5756854319457815,
+      "tifa_score_scores": 0.1331890331890332,
+      "image_reward_score_scores": 0.49862150574929
+    },
+    "level": 6,
+    "total_descendants": 4
+  },
+  {
+    "name": "zone (topographic point)",
+    "father": "topographic point",
+    "definition": "a locally circumscribed place characterized by some distinctive features",
+    "scores": {
+      "clip_score_scores": 0.5205031966454281,
+      "pick_score_scores": 0.5220296664321015,
+      "vqa_score_scores": 0.5734976046272694,
+      "tifa_score_scores": 0.29443993506493504,
+      "image_reward_score_scores": 0.4455623246780038
+    },
+    "level": 6,
+    "total_descendants": 3
+  },
+  {
+    "name": "boundary line",
+    "father": "boundary",
+    "definition": "a line that indicates a boundary",
+    "scores": {
+      "clip_score_scores": 0.611101232113521,
+      "pick_score_scores": 0.5212328917723469,
+      "vqa_score_scores": 0.6451389239474806,
+      "tifa_score_scores": 0.3075640331890332,
+      "image_reward_score_scores": 0.544442997628555
+    },
+    "level": 6,
+    "total_descendants": 4
+  },
+  {
+    "name": "edge (boundary)",
+    "father": "boundary",
+    "definition": "the boundary of a surface",
+    "scores": {
+      "clip_score_scores": null,
+      "pick_score_scores": null,
+      "vqa_score_scores": null,
+      "tifa_score_scores": null,
+      "image_reward_score_scores": null
+    },
+    "level": 6,
+    "total_descendants": 2
+  },
+  {
+    "name": "limit (boundary)",
+    "father": "boundary",
+    "definition": "the boundary of a specific area",
+    "scores": {
+      "clip_score_scores": 0.5650568649043894,
+      "pick_score_scores": 0.5191827435781098,
+      "vqa_score_scores": 0.5615422801111097,
+      "tifa_score_scores": 0.2082793911335578,
+      "image_reward_score_scores": 0.48912253519544296
+    },
+    "level": 6,
+    "total_descendants": 18
+  },
+  {
+    "name": "outline",
+    "father": "boundary",
+    "definition": "the line that appears to bound an object",
+    "scores": {
+      "clip_score_scores": 0.5255586118620764,
+      "pick_score_scores": 0.497443678788209,
+      "vqa_score_scores": 0.5082241844268677,
+      "tifa_score_scores": 0.3612037037037037,
+      "image_reward_score_scores": 0.45915157665655054
+    },
+    "level": 6,
+    "total_descendants": 3
+  },
+  {
+    "name": "surface (boundary)",
+    "father": "boundary",
+    "definition": "the extended two-dimensional outer boundary of a three-dimensional object",
+    "scores": {
+      "clip_score_scores": 0.5535733096395413,
+      "pick_score_scores": 0.49350863070439205,
+      "vqa_score_scores": 0.550454507307473,
+      "tifa_score_scores": 0.2607495582288432,
+      "image_reward_score_scores": 0.4431998386200425
+    },
+    "level": 6,
+    "total_descendants": 45
+  },
+  {
+    "name": "finish",
+    "father": "end (extremity)",
+    "definition": "the place designated as the end (as of a race or journey)",
+    "scores": {
+      "clip_score_scores": 0.5368643472302776,
+      "pick_score_scores": 0.4890456116772267,
+      "vqa_score_scores": 0.5669287804635283,
+      "tifa_score_scores": 0.2697362012987013,
+      "image_reward_score_scores": 0.41027107262976503
+    },
+    "level": 6,
+    "total_descendants": 3
+  },
+  {
+    "name": "nerve ending",
+    "father": "end (extremity)",
+    "definition": "the terminal structure of an axon that does not end at a synapse",
+    "scores": {
+      "clip_score_scores": 0.48039542405418095,
+      "pick_score_scores": 0.5053440554202647,
+      "vqa_score_scores": 0.443625178122052,
+      "tifa_score_scores": 0.20622494789161458,
+      "image_reward_score_scores": 0.3896009918889937
+    },
+    "level": 6,
+    "total_descendants": 3
+  },
+  {
+    "name": "point (end)",
+    "father": "end (extremity)",
+    "definition": "sharp end",
+    "scores": {
+      "clip_score_scores": 0.5212071487805122,
+      "pick_score_scores": 0.5343020639754086,
+      "vqa_score_scores": 0.5769761435524257,
+      "tifa_score_scores": 0.360704816017316,
+      "image_reward_score_scores": 0.41702416302729156
+    },
+    "level": 6,
+    "total_descendants": 10
+  },
+  {
+    "name": "pole (end)",
+    "father": "end (extremity)",
+    "definition": "one of the two ends of a magnet where the magnetism seems to be concentrated",
+    "scores": {
+      "clip_score_scores": 0.5279489978028337,
+      "pick_score_scores": 0.517805238846745,
+      "vqa_score_scores": 0.5846361786757126,
+      "tifa_score_scores": 0.29654461279461275,
+      "image_reward_score_scores": 0.43987179746714294
+    },
+    "level": 6,
+    "total_descendants": 2
+  },
+  {
+    "name": "tip",
+    "father": "end (extremity)",
+    "definition": "the extreme end of something; especially something pointed",
+    "scores": {
+      "clip_score_scores": 0.5729583390533017,
+      "pick_score_scores": 0.49176804553464604,
+      "vqa_score_scores": 0.499834771726339,
+      "tifa_score_scores": 0.25188943001443,
+      "image_reward_score_scores": 0.37426669761525294
+    },
+    "level": 6,
+    "total_descendants": 3
+  },
+  {
+    "name": "vertex",
+    "father": "extreme point",
+    "definition": "the highest point (of something)",
+    "scores": {
+      "clip_score_scores": 0.572827464303199,
+      "pick_score_scores": 0.5301442118174164,
+      "vqa_score_scores": 0.5211408883420514,
+      "tifa_score_scores": 0.36187500000000006,
+      "image_reward_score_scores": 0.5433704650560897
+    },
+    "level": 6,
+    "total_descendants": 2
+  },
+  {
+    "name": "range (limit)",
+    "father": "limit (extremity)",
+    "definition": "the limits within which something can be effective",
+    "scores": {
+      "clip_score_scores": 0.5372935656816981,
+      "pick_score_scores": 0.5063298765488057,
+      "vqa_score_scores": 0.4298653741270332,
+      "tifa_score_scores": 0.1957165404040404,
+      "image_reward_score_scores": 0.47674363225297706
+    },
+    "level": 6,
+    "total_descendants": 3
+  },
+  {
+    "name": "horizon (stratum)",
+    "father": "stratum",
+    "definition": "a specific layer or stratum of soil or subsoil in a vertical cross section of land",
+    "scores": {
+      "clip_score_scores": 0.43542981183916984,
+      "pick_score_scores": 0.43158629565379825,
+      "vqa_score_scores": 0.5362267448346485,
+      "tifa_score_scores": 0.13333333333333336,
+      "image_reward_score_scores": 0.20069286404217138
+    },
+    "level": 6,
+    "total_descendants": 2
+  },
+  {
+    "name": "bridgehead (combat zone)",
+    "father": "combat zone (zone)",
+    "definition": "an area in hostile territory that has been captured and is held awaiting further troops and supplies",
+    "scores": {
+      "clip_score_scores": 0.5635279136445813,
+      "pick_score_scores": 0.5357022320626675,
+      "vqa_score_scores": 0.6040848128252546,
+      "tifa_score_scores": 0.21428731762065092,
+      "image_reward_score_scores": 0.3808841991908401
+    },
+    "level": 6,
+    "total_descendants": 2
+  },
+  {
+    "name": "seat (center)",
+    "father": "center (area)",
+    "definition": "a center of authority (as a city from which authority is exercised)",
+    "scores": {
+      "clip_score_scores": 0.5348513853902486,
+      "pick_score_scores": 0.5086794787799374,
+      "vqa_score_scores": 0.6801710185414425,
+      "tifa_score_scores": 0.16249999999999998,
+      "image_reward_score_scores": 0.40434894684191824
+    },
+    "level": 6,
+    "total_descendants": 4
+  },
+  {
+    "name": "vicinity",
+    "father": "section (area)",
+    "definition": "a surrounding or nearby region",
+    "scores": {
+      "clip_score_scores": 0.5357862695529365,
+      "pick_score_scores": 0.4974022724591605,
+      "vqa_score_scores": 0.5597269877940974,
+      "tifa_score_scores": 0.17240867003367005,
+      "image_reward_score_scores": 0.4019710389219943
+    },
+    "level": 6,
+    "total_descendants": 8
+  },
+  {
+    "name": "disk space",
+    "father": "space (area)",
+    "definition": "(computer science) the space available on a magnetic disk",
+    "scores": {
+      "clip_score_scores": 0.5308495238419949,
+      "pick_score_scores": 0.5142983875435346,
+      "vqa_score_scores": 0.597851138003076,
+      "tifa_score_scores": 0.29910714285714285,
+      "image_reward_score_scores": 0.41478990549296313
+    },
+    "level": 6,
+    "total_descendants": 2
+  },
+  {
+    "name": "country (administrative district)",
+    "father": "administrative district",
+    "definition": "the territory occupied by a nation",
+    "scores": {
+      "clip_score_scores": 0.5446272036708704,
+      "pick_score_scores": 0.5168543162690253,
+      "vqa_score_scores": 0.52716061616604,
+      "tifa_score_scores": 0.2325801810623239,
+      "image_reward_score_scores": 0.5116442504278294
+    },
+    "level": 6,
+    "total_descendants": 16
+  },
+  {
+    "name": "reservation",
+    "father": "administrative district",
+    "definition": "a district that is reserved for particular purpose",
+    "scores": {
+      "clip_score_scores": 0.5524914996669928,
+      "pick_score_scores": 0.5337837294310962,
+      "vqa_score_scores": 0.4981414735375586,
+      "tifa_score_scores": 0.2645436507936508,
+      "image_reward_score_scores": 0.5260411149385187
+    },
+    "level": 6,
+    "total_descendants": 3
+  },
+  {
+    "name": "state",
+    "father": "administrative district",
+    "definition": "the territory occupied by one of the constituent administrative districts of a nation",
+    "scores": {
+      "clip_score_scores": 0.5166307482220382,
+      "pick_score_scores": 0.4746666671245038,
+      "vqa_score_scores": 0.4945477240611288,
+      "tifa_score_scores": 0.16042893217893214,
+      "image_reward_score_scores": 0.4585071102167865
+    },
+    "level": 6,
+    "total_descendants": 9
+  },
+  {
+    "name": "precinct",
+    "father": "city district",
+    "definition": "a district of a city or town marked out for administrative purposes",
+    "scores": {
+      "clip_score_scores": 0.4833866322793026,
+      "pick_score_scores": 0.42652011072332313,
+      "vqa_score_scores": 0.4338315402621522,
+      "tifa_score_scores": 0.14541666666666667,
+      "image_reward_score_scores": 0.35530780591840855
+    },
+    "level": 6,
+    "total_descendants": 2
+  },
+  {
+    "name": "quarter (city district)",
+    "father": "city district",
+    "definition": "a district of a city having some distinguishing character",
+    "scores": {
+      "clip_score_scores": 0.5772487977322542,
+      "pick_score_scores": 0.5077842121058538,
+      "vqa_score_scores": 0.5030923051257722,
+      "tifa_score_scores": 0.18903273809523805,
+      "image_reward_score_scores": 0.4311051369065362
+    },
+    "level": 6,
+    "total_descendants": 5
+  },
+  {
+    "name": "slum",
+    "father": "city district",
+    "definition": "a district of a city marked by poverty and inferior living conditions",
+    "scores": {
+      "clip_score_scores": 0.5290275473531136,
+      "pick_score_scores": 0.5341686582580305,
+      "vqa_score_scores": 0.5737463756012274,
+      "tifa_score_scores": 0.15553571428571428,
+      "image_reward_score_scores": 0.47460025075515766
+    },
+    "level": 6,
+    "total_descendants": 2
+  },
+  {
+    "name": "waterfront",
+    "father": "city district",
+    "definition": "the area of a city (such as a harbor or dockyard) alongside a body of water",
+    "scores": {
+      "clip_score_scores": 0.6045736982012371,
+      "pick_score_scores": 0.4515777936189413,
+      "vqa_score_scores": 0.4654843666806753,
+      "tifa_score_scores": 0.36875,
+      "image_reward_score_scores": 0.3710502645424963
+    },
+    "level": 6,
+    "total_descendants": 2
+  },
+  {
+    "name": "diocese",
+    "father": "jurisdiction",
+    "definition": "the territorial jurisdiction of a bishop",
+    "scores": {
+      "clip_score_scores": 0.5896609278795857,
+      "pick_score_scores": 0.5725356941245308,
+      "vqa_score_scores": 0.6004735098494314,
+      "tifa_score_scores": 0.17147727272727273,
+      "image_reward_score_scores": 0.3870086056864899
+    },
+    "level": 6,
+    "total_descendants": 2
+  },
+  {
+    "name": "suburb",
+    "father": "residential district",
+    "definition": "a residential district located on the outskirts of a city",
+    "scores": {
+      "clip_score_scores": 0.5453536095704582,
+      "pick_score_scores": 0.5024199654973965,
+      "vqa_score_scores": 0.5410366022304658,
+      "tifa_score_scores": 0.13210700757575758,
+      "image_reward_score_scores": 0.45397192274069226
+    },
+    "level": 6,
+    "total_descendants": 4
+  },
+  {
+    "name": "habitat",
+    "father": "environment",
+    "definition": "the type of environment in which an organism or group normally lives or occurs",
+    "scores": {
+      "clip_score_scores": 0.6024637723271242,
+      "pick_score_scores": 0.5733797248215923,
+      "vqa_score_scores": 0.6267415121625624,
+      "tifa_score_scores": 0.22356060606060607,
+      "image_reward_score_scores": 0.3909403199801138
+    },
+    "level": 6,
+    "total_descendants": 3
+  },
+  {
+    "name": "center (place)",
+    "father": "place (geographical area)",
+    "definition": "a place where some particular activity is concentrated",
+    "scores": {
+      "clip_score_scores": 0.5829619124565596,
+      "pick_score_scores": 0.5255814233514317,
+      "vqa_score_scores": 0.6242028243502311,
+      "tifa_score_scores": 0.2049062049062049,
+      "image_reward_score_scores": 0.4683355075600728
+    },
+    "level": 6,
+    "total_descendants": 2
+  },
+  {
+    "name": "sanctuary",
+    "father": "place (geographical area)",
+    "definition": "a consecrated place where sacred objects are kept",
+    "scores": {
+      "clip_score_scores": 0.5320550508218063,
+      "pick_score_scores": 0.5005631310425912,
+      "vqa_score_scores": 0.4009891327520998,
+      "tifa_score_scores": 0.17295386904761903,
+      "image_reward_score_scores": 0.397475900001411
+    },
+    "level": 6,
+    "total_descendants": 2
+  },
+  {
+    "name": "village",
+    "father": "settlement",
+    "definition": "a settlement smaller than a town",
+    "scores": {
+      "clip_score_scores": 0.566412517736583,
+      "pick_score_scores": 0.4520672397871424,
+      "vqa_score_scores": 0.6059027961645745,
+      "tifa_score_scores": 0.2604166666666667,
+      "image_reward_score_scores": 0.458507092015628
+    },
+    "level": 6,
+    "total_descendants": 3
+  },
+  {
+    "name": "breeding ground",
+    "father": "tract",
+    "definition": "a place where animals breed",
+    "scores": {
+      "clip_score_scores": 0.49521839645630006,
+      "pick_score_scores": 0.5271779173265244,
+      "vqa_score_scores": 0.5122179022121773,
+      "tifa_score_scores": 0.14821969696969697,
+      "image_reward_score_scores": 0.4742138019364475
+    },
+    "level": 6,
+    "total_descendants": 3
+  },
+  {
+    "name": "field (tract)",
+    "father": "tract",
+    "definition": "a piece of land cleared of trees and usually enclosed",
+    "scores": {
+      "clip_score_scores": 0.5467118928539784,
+      "pick_score_scores": 0.4912667792389976,
+      "vqa_score_scores": 0.4931328907068067,
+      "tifa_score_scores": 0.24803007398245494,
+      "image_reward_score_scores": 0.4235048319059163
+    },
+    "level": 6,
+    "total_descendants": 14
+  },
+  {
+    "name": "grassland",
+    "father": "tract",
+    "definition": "land where grass or grasslike vegetation grows and is the dominant form of plant life",
+    "scores": {
+      "clip_score_scores": 0.5374364857738747,
+      "pick_score_scores": 0.5222295139320156,
+      "vqa_score_scores": 0.5599403340893957,
+      "tifa_score_scores": 0.29872448979591837,
+      "image_reward_score_scores": 0.4516184878629398
+    },
+    "level": 6,
+    "total_descendants": 8
+  },
+  {
+    "name": "lot",
+    "father": "tract",
+    "definition": "a parcel of land having fixed boundaries",
+    "scores": {
+      "clip_score_scores": 0.5363529498805586,
+      "pick_score_scores": 0.4671362345020236,
+      "vqa_score_scores": 0.5699483046343987,
+      "tifa_score_scores": 0.24241206709956709,
+      "image_reward_score_scores": 0.3608964551365057
+    },
+    "level": 6,
+    "total_descendants": 4
+  },
+  {
+    "name": "playing field",
+    "father": "tract",
+    "definition": "a piece of land prepared for playing a game",
+    "scores": {
+      "clip_score_scores": 0.5772831393275476,
+      "pick_score_scores": 0.473032470150166,
+      "vqa_score_scores": 0.5757930688188287,
+      "tifa_score_scores": 0.3006989438031105,
+      "image_reward_score_scores": 0.5308381290690055
+    },
+    "level": 6,
+    "total_descendants": 15
+  },
+  {
+    "name": "plot",
+    "father": "tract",
+    "definition": "a small area of ground covered by specific vegetation",
+    "scores": {
+      "clip_score_scores": 0.5291400347617693,
+      "pick_score_scores": 0.456998936475244,
+      "vqa_score_scores": 0.5581022384411343,
+      "tifa_score_scores": 0.19691408417970915,
+      "image_reward_score_scores": 0.47825581767822856
+    },
+    "level": 6,
+    "total_descendants": 30
+  },
+  {
+    "name": "site (tract)",
+    "father": "tract",
+    "definition": "the piece of land on which something is located (or is to be located)",
+    "scores": {
+      "clip_score_scores": 0.545999593335969,
+      "pick_score_scores": 0.5011658603114882,
+      "vqa_score_scores": 0.46554477844190656,
+      "tifa_score_scores": 0.24374103590012683,
+      "image_reward_score_scores": 0.468796366954461
+    },
+    "level": 6,
+    "total_descendants": 22
+  },
+  {
+    "name": "municipality",
+    "father": "urban area",
+    "definition": "an urban district having corporate status and powers of self-government",
+    "scores": {
+      "clip_score_scores": 0.5462728060383276,
+      "pick_score_scores": 0.5336299920076905,
+      "vqa_score_scores": 0.5265345829989366,
+      "tifa_score_scores": 0.19618413299663298,
+      "image_reward_score_scores": 0.48326518407438224
+    },
+    "level": 6,
+    "total_descendants": 12
+  },
+  {
+    "name": "climatic zone",
+    "father": "zone (geographical area)",
+    "definition": "any of the geographical zones loosely divided according to prevailing climate and latitude",
+    "scores": {
+      "clip_score_scores": 0.5557598405174874,
+      "pick_score_scores": 0.5454000179929979,
+      "vqa_score_scores": 0.6130671372652348,
+      "tifa_score_scores": 0.25833333333333336,
+      "image_reward_score_scores": 0.5310282256614177
+    },
+    "level": 6,
+    "total_descendants": 3
+  },
+  {
+    "name": "angle of incidence",
+    "father": "angle (space)",
+    "definition": "the angle that a line makes with a line perpendicular to the surface at the point of incidence",
+    "scores": {
+      "clip_score_scores": 0.5161734973806261,
+      "pick_score_scores": 0.49012208073529856,
+      "vqa_score_scores": 0.46823281225725305,
+      "tifa_score_scores": 0.179983164983165,
+      "image_reward_score_scores": 0.4727853444414148
+    },
+    "level": 6,
+    "total_descendants": 2
+  },
+  {
+    "name": "angular distance",
+    "father": "angle (space)",
+    "definition": "the angular separation between two objects as perceived by an observer",
+    "scores": {
+      "clip_score_scores": 0.5349096266683112,
+      "pick_score_scores": 0.5133778529546287,
+      "vqa_score_scores": 0.5310299020883384,
+      "tifa_score_scores": 0.19835173160173158,
+      "image_reward_score_scores": 0.45784706419377097
+    },
+    "level": 6,
+    "total_descendants": 6
+  },
+  {
+    "name": "oblique angle",
+    "father": "angle (space)",
+    "definition": "an angle that is not a right angle or a multiple of a right angle",
+    "scores": {
+      "clip_score_scores": 0.5726248244374254,
+      "pick_score_scores": 0.5579370867734069,
+      "vqa_score_scores": 0.729122524568573,
+      "tifa_score_scores": 0.5197916666666668,
+      "image_reward_score_scores": 0.6223222766592542
+    },
+    "level": 6,
+    "total_descendants": 2
+  },
+  {
+    "name": "chasm",
+    "father": "opening (space)",
+    "definition": "a deep opening in the earth's surface",
+    "scores": {
+      "clip_score_scores": 0.5786166640808857,
+      "pick_score_scores": 0.5117691889827913,
+      "vqa_score_scores": 0.6076427426625381,
+      "tifa_score_scores": 0.22113095238095237,
+      "image_reward_score_scores": 0.40197800775892556
+    },
+    "level": 6,
+    "total_descendants": 2
+  },
+  {
+    "name": "crack",
+    "father": "opening (space)",
+    "definition": "a long narrow opening",
+    "scores": {
+      "clip_score_scores": 0.5137593956193309,
+      "pick_score_scores": 0.49739694945432683,
+      "vqa_score_scores": 0.5393677048215542,
+      "tifa_score_scores": 0.230452892015392,
+      "image_reward_score_scores": 0.4505840550863591
+    },
+    "level": 6,
+    "total_descendants": 13
+  },
+  {
+    "name": "foramen",
+    "father": "opening (space)",
+    "definition": "a natural opening or perforation through a bone or a membranous structure",
+    "scores": {
+      "clip_score_scores": 0.5117983203607852,
+      "pick_score_scores": 0.5283843077709149,
+      "vqa_score_scores": 0.6263001550324568,
+      "tifa_score_scores": 0.14543650793650792,
+      "image_reward_score_scores": 0.5164170427611785
+    },
+    "level": 6,
+    "total_descendants": 2
+  },
+  {
+    "name": "hole (opening)",
+    "father": "opening (space)",
+    "definition": "an opening into or through something",
+    "scores": {
+      "clip_score_scores": 0.5390584489413199,
+      "pick_score_scores": 0.5243949579138337,
+      "vqa_score_scores": 0.5814614055107304,
+      "tifa_score_scores": 0.2579270799930522,
+      "image_reward_score_scores": 0.5092922093269432
+    },
+    "level": 6,
+    "total_descendants": 15
+  },
+  {
+    "name": "pocket (opening)",
+    "father": "opening (space)",
+    "definition": "an opening at the corner or on the side of a billiard table into which billiard balls are struck",
+    "scores": {
+      "clip_score_scores": 0.5540768084776309,
+      "pick_score_scores": 0.5428273336834261,
+      "vqa_score_scores": 0.519693578690935,
+      "tifa_score_scores": 0.19444609788359787,
+      "image_reward_score_scores": 0.40353617041421413
+    },
+    "level": 6,
+    "total_descendants": 2
+  },
+  {
+    "name": "knob (handle)",
+    "father": "handle",
+    "definition": "a round handle",
+    "scores": {
+      "clip_score_scores": 0.5596259635035506,
+      "pick_score_scores": 0.4944328359848969,
+      "vqa_score_scores": 0.5137202618776939,
+      "tifa_score_scores": 0.18500000000000003,
+      "image_reward_score_scores": 0.4868379598906098
+    },
+    "level": 6,
+    "total_descendants": 2
+  },
+  {
+    "name": "fitting",
+    "father": "accessory (component)",
+    "definition": "a small and often standardized accessory to a larger system",
+    "scores": {
+      "clip_score_scores": 0.5745286488190932,
+      "pick_score_scores": 0.5414516048449236,
+      "vqa_score_scores": 0.5260498630059307,
+      "tifa_score_scores": 0.18537078373015875,
+      "image_reward_score_scores": 0.4721862628902455
+    },
+    "level": 6,
+    "total_descendants": 10
+  },
+  {
+    "name": "additive",
+    "father": "addition (component)",
+    "definition": "something added to enhance food or gasoline or paint or medicine",
+    "scores": {
+      "clip_score_scores": 0.5519781152440026,
+      "pick_score_scores": 0.49221312843291976,
+      "vqa_score_scores": 0.5723190103201359,
+      "tifa_score_scores": 0.08511363636363636,
+      "image_reward_score_scores": 0.5119233453441621
+    },
+    "level": 6,
+    "total_descendants": 2
+  },
+  {
+    "name": "cartridge (module)",
+    "father": "module (component)",
+    "definition": "a module designed to be inserted into a larger piece of equipment",
+    "scores": {
+      "clip_score_scores": 0.5943855656346573,
+      "pick_score_scores": 0.5524867164289806,
+      "vqa_score_scores": 0.5588722498503714,
+      "tifa_score_scores": 0.16739042207792207,
+      "image_reward_score_scores": 0.5747764697259294
+    },
+    "level": 6,
+    "total_descendants": 2
+  },
+  {
+    "name": "notion",
+    "father": "article (artifact)",
+    "definition": "(usually plural) small personal articles or clothing or sewing items",
+    "scores": {
+      "clip_score_scores": 0.5503959855722789,
+      "pick_score_scores": 0.45809802681368733,
+      "vqa_score_scores": 0.5940397523349734,
+      "tifa_score_scores": 0.23160173160173161,
+      "image_reward_score_scores": 0.4753383940608511
+    },
+    "level": 6,
+    "total_descendants": 2
+  },
+  {
+    "name": "ware",
+    "father": "article (artifact)",
+    "definition": "articles of the same kind or material; usually used in combination: `silverware', `software'",
+    "scores": {
+      "clip_score_scores": 0.548885505219211,
+      "pick_score_scores": 0.48772568256955495,
+      "vqa_score_scores": 0.5225304128103581,
+      "tifa_score_scores": 0.21525715474550702,
+      "image_reward_score_scores": 0.4839508444437265
+    },
+    "level": 6,
+    "total_descendants": 44
+  },
+  {
+    "name": "cube (block)",
+    "father": "block (artifact)",
+    "definition": "a block in the (approximate) shape of a cube",
+    "scores": {
+      "clip_score_scores": 0.552612608008436,
+      "pick_score_scores": 0.5362718027747675,
+      "vqa_score_scores": 0.4969290209199544,
+      "tifa_score_scores": 0.3189236111111111,
+      "image_reward_score_scores": 0.41895533335325985
+    },
+    "level": 6,
+    "total_descendants": 2
+  },
+  {
+    "name": "domino (block)",
+    "father": "block (artifact)",
+    "definition": "a small rectangular block used in playing the game of dominoes; the face of each block has two equal areas that can bear 0 to 6 dots",
+    "scores": {
+      "clip_score_scores": 0.5155566636426361,
+      "pick_score_scores": 0.480531995258639,
+      "vqa_score_scores": 0.593587419458047,
+      "tifa_score_scores": 0.17566964285714284,
+      "image_reward_score_scores": 0.4746008086991339
+    },
+    "level": 6,
+    "total_descendants": 4
+  },
+  {
+    "name": "ingot",
+    "father": "block (artifact)",
+    "definition": "metal that is cast in the shape of a block for convenient handling",
+    "scores": {
+      "clip_score_scores": 0.5960532124194196,
+      "pick_score_scores": 0.5281675024482839,
+      "vqa_score_scores": 0.3846684455086109,
+      "tifa_score_scores": 0.17727272727272725,
+      "image_reward_score_scores": 0.5435887763144389
+    },
+    "level": 6,
+    "total_descendants": 2
+  },
+  {
+    "name": "nut (block)",
+    "father": "block (artifact)",
+    "definition": "a small (usually square or hexagonal) metal block with internal screw thread to be fitted onto a bolt",
+    "scores": {
+      "clip_score_scores": 0.5603368864884157,
+      "pick_score_scores": 0.5461870378992969,
+      "vqa_score_scores": 0.6018664343087423,
+      "tifa_score_scores": 0.23693055555555556,
+      "image_reward_score_scores": 0.5270152209068748
+    },
+    "level": 6,
+    "total_descendants": 5
+  },
+  {
+    "name": "slab",
+    "father": "block (artifact)",
+    "definition": "block consisting of a thick piece of something",
+    "scores": {
+      "clip_score_scores": 0.5421833737014431,
+      "pick_score_scores": 0.4928571838989682,
+      "vqa_score_scores": 0.5650521026653049,
+      "tifa_score_scores": 0.20886223344556676,
+      "image_reward_score_scores": 0.33645479530004
+    },
+    "level": 6,
+    "total_descendants": 7
+  },
+  {
+    "name": "type",
+    "father": "block (artifact)",
+    "definition": "a small metal block bearing a raised character on one end; produces a printed character when inked and pressed on paper",
+    "scores": {
+      "clip_score_scores": 0.5399950404600781,
+      "pick_score_scores": 0.4893440636613324,
+      "vqa_score_scores": 0.5099169400155054,
+      "tifa_score_scores": 0.1693181818181818,
+      "image_reward_score_scores": 0.45675783543596804
+    },
+    "level": 6,
+    "total_descendants": 3
+  },
+  {
+    "name": "building block",
+    "father": "building material",
+    "definition": "a block of material used in construction work",
+    "scores": {
+      "clip_score_scores": 0.5689787210754791,
+      "pick_score_scores": 0.4860580792680833,
+      "vqa_score_scores": 0.5513125331229486,
+      "tifa_score_scores": 0.3111111111111111,
+      "image_reward_score_scores": 0.32852306265521986
+    },
+    "level": 6,
+    "total_descendants": 4
+  },
+  {
+    "name": "covering material",
+    "father": "building material",
+    "definition": "a material used by builders to cover surfaces",
+    "scores": {
+      "clip_score_scores": 0.6225219072079045,
+      "pick_score_scores": 0.4832072612505454,
+      "vqa_score_scores": 0.46587179692898506,
+      "tifa_score_scores": 0.2079826388888889,
+      "image_reward_score_scores": 0.5109569346513476
+    },
+    "level": 6,
+    "total_descendants": 10
+  },
+  {
+    "name": "insulating material",
+    "father": "building material",
+    "definition": "a material that reduces or prevents the transmission of heat or sound or electricity",
+    "scores": {
+      "clip_score_scores": 0.5334850695293908,
+      "pick_score_scores": 0.5057753127828575,
+      "vqa_score_scores": 0.49362628865159286,
+      "tifa_score_scores": 0.25625,
+      "image_reward_score_scores": 0.4999743409520832
+    },
+    "level": 6,
+    "total_descendants": 2
+  },
+  {
+    "name": "lumber",
+    "father": "building material",
+    "definition": "the wood of trees cut and prepared for use as building material",
+    "scores": {
+      "clip_score_scores": 0.5434720475782936,
+      "pick_score_scores": 0.5077968022171873,
+      "vqa_score_scores": 0.4980000126587854,
+      "tifa_score_scores": 0.31144844812925165,
+      "image_reward_score_scores": 0.42172584167706795
+    },
+    "level": 6,
+    "total_descendants": 23
+  },
+  {
+    "name": "roofing material",
+    "father": "building material",
+    "definition": "building material used in constructing roofs",
+    "scores": {
+      "clip_score_scores": 0.5512761009709696,
+      "pick_score_scores": 0.5019325893251618,
+      "vqa_score_scores": 0.5266150821517372,
+      "tifa_score_scores": 0.30598424723424716,
+      "image_reward_score_scores": 0.4452193303554173
+    },
+    "level": 6,
+    "total_descendants": 7
+  },
+  {
+    "name": "stone (building material)",
+    "father": "building material",
+    "definition": "building material consisting of a piece of rock hewn in a definite shape for a special purpose",
+    "scores": {
+      "clip_score_scores": 0.5656331379002709,
+      "pick_score_scores": 0.5387535194742958,
+      "vqa_score_scores": 0.600113493934036,
+      "tifa_score_scores": 0.2629198983886483,
+      "image_reward_score_scores": 0.4526396187094314
+    },
+    "level": 6,
+    "total_descendants": 15
+  },
+  {
+    "name": "consumer goods",
+    "father": "commodity",
+    "definition": "goods (as food or clothing) intended for direct use or consumption",
+    "scores": {
+      "clip_score_scores": 0.5786452266582449,
+      "pick_score_scores": 0.5497636698330743,
+      "vqa_score_scores": 0.5450935562948126,
+      "tifa_score_scores": 0.2855897312660334,
+      "image_reward_score_scores": 0.48967695921949783
+    },
+    "level": 6,
+    "total_descendants": 56
+  },
+  {
+    "name": "drygoods",
+    "father": "commodity",
+    "definition": "textiles or clothing and related merchandise",
+    "scores": {
+      "clip_score_scores": 0.5414737388250866,
+      "pick_score_scores": 0.5609491703410001,
+      "vqa_score_scores": 0.6023000412851911,
+      "tifa_score_scores": 0.285143774050024,
+      "image_reward_score_scores": 0.5351279569136072
+    },
+    "level": 6,
+    "total_descendants": 21
+  },
+  {
+    "name": "future",
+    "father": "commodity",
+    "definition": "bulk commodities bought or sold at an agreed price for delivery at a specified future date",
+    "scores": {
+      "clip_score_scores": 0.581313042860371,
+      "pick_score_scores": 0.5366514390048819,
+      "vqa_score_scores": 0.658714678333575,
+      "tifa_score_scores": 0.2626893939393939,
+      "image_reward_score_scores": 0.4872447144556041
+    },
+    "level": 6,
+    "total_descendants": 3
+  },
+  {
+    "name": "merchandise",
+    "father": "commodity",
+    "definition": "commodities offered for sale",
+    "scores": {
+      "clip_score_scores": 0.5321926831138846,
+      "pick_score_scores": 0.5117160048649065,
+      "vqa_score_scores": 0.5657092139733447,
+      "tifa_score_scores": 0.2285404872904873,
+      "image_reward_score_scores": 0.45850814942148127
+    },
+    "level": 6,
+    "total_descendants": 18
+  },
+  {
+    "name": "clothing",
+    "father": "covering (artifact)",
+    "definition": "a covering designed to be worn on a person's body",
+    "scores": {
+      "clip_score_scores": 0.5510511357276093,
+      "pick_score_scores": 0.5060243700869685,
+      "vqa_score_scores": 0.5761937539147239,
+      "tifa_score_scores": 0.283042345188691,
+      "image_reward_score_scores": 0.4893795005791822
+    },
+    "level": 6,
+    "total_descendants": 539
+  },
+  {
+    "name": "mask (covering)",
+    "father": "covering (artifact)",
+    "definition": "a covering to disguise or conceal the face",
+    "scores": {
+      "clip_score_scores": 0.6025529338442888,
+      "pick_score_scores": 0.5143647029575817,
+      "vqa_score_scores": 0.5563040855788153,
+      "tifa_score_scores": 0.32285353535353534,
+      "image_reward_score_scores": 0.5523565792515037
+    },
+    "level": 6,
+    "total_descendants": 2
+  },
+  {
+    "name": "cloth covering",
+    "father": "covering (artifact)",
+    "definition": "a covering made of cloth",
+    "scores": {
+      "clip_score_scores": 0.5660081616189754,
+      "pick_score_scores": 0.5022155490494361,
+      "vqa_score_scores": 0.5701559749207503,
+      "tifa_score_scores": 0.25310343714927047,
+      "image_reward_score_scores": 0.44656957014733967
+    },
+    "level": 6,
+    "total_descendants": 63
+  },
+  {
+    "name": "coating (covering)",
+    "father": "covering (artifact)",
+    "definition": "a thin layer covering something",
+    "scores": {
+      "clip_score_scores": 0.554480371900653,
+      "pick_score_scores": 0.5151518322091265,
+      "vqa_score_scores": 0.5518036189719216,
+      "tifa_score_scores": 0.26324458922177174,
+      "image_reward_score_scores": 0.5032280179800653
+    },
+    "level": 6,
+    "total_descendants": 50
+  },
+  {
+    "name": "flap (covering)",
+    "father": "covering (artifact)",
+    "definition": "any broad thin and limber covering attached at one edge; hangs loose or projects freely",
+    "scores": {
+      "clip_score_scores": 0.523017282082864,
+      "pick_score_scores": 0.501621524882912,
+      "vqa_score_scores": 0.5369984731335763,
+      "tifa_score_scores": 0.2574111501924002,
+      "image_reward_score_scores": 0.49653590668546876
+    },
+    "level": 6,
+    "total_descendants": 14
+  },
+  {
+    "name": "floor cover",
+    "father": "covering (artifact)",
+    "definition": "a covering for a floor",
+    "scores": {
+      "clip_score_scores": 0.5385399084274253,
+      "pick_score_scores": 0.5048804118061536,
+      "vqa_score_scores": 0.5436145059964875,
+      "tifa_score_scores": 0.1478219696969697,
+      "image_reward_score_scores": 0.3183163453593043
+    },
+    "level": 6,
+    "total_descendants": 2
+  },
+  {
+    "name": "folder",
+    "father": "covering (artifact)",
+    "definition": "covering that is folded over to protect the contents",
+    "scores": {
+      "clip_score_scores": 0.5345302845336658,
+      "pick_score_scores": 0.5205386346595806,
+      "vqa_score_scores": 0.512318380202139,
+      "tifa_score_scores": 0.22103835978835976,
+      "image_reward_score_scores": 0.44019117087776455
+    },
+    "level": 6,
+    "total_descendants": 2
+  },
+  {
+    "name": "footwear (covering)",
+    "father": "covering (artifact)",
+    "definition": "covering for a person's feet",
+    "scores": {
+      "clip_score_scores": 0.5419667561816196,
+      "pick_score_scores": 0.5129430530993141,
+      "vqa_score_scores": 0.4805375524538171,
+      "tifa_score_scores": 0.23543666421394596,
+      "image_reward_score_scores": 0.40426634949670404
+    },
+    "level": 6,
+    "total_descendants": 54
+  },
+  {
+    "name": "protective covering (covering)",
+    "father": "covering (artifact)",
+    "definition": "a covering that is intend to protect from damage or injury",
+    "scores": {
+      "clip_score_scores": 0.5527765232787278,
+      "pick_score_scores": 0.5147789010587588,
+      "vqa_score_scores": 0.5401426465483443,
+      "tifa_score_scores": 0.26985079570025744,
+      "image_reward_score_scores": 0.4739430016685523
+    },
+    "level": 6,
+    "total_descendants": 174
+  },
+  {
+    "name": "screen (covering)",
+    "father": "covering (artifact)",
+    "definition": "a covering that serves to conceal or shelter something",
+    "scores": {
+      "clip_score_scores": 0.5820460942807302,
+      "pick_score_scores": 0.5493479930482015,
+      "vqa_score_scores": 0.5269541569342301,
+      "tifa_score_scores": 0.22787698412698415,
+      "image_reward_score_scores": 0.49389128873771326
+    },
+    "level": 6,
+    "total_descendants": 4
+  },
+  {
+    "name": "top (covering)",
+    "father": "covering (artifact)",
+    "definition": "covering for a hole (especially a hole in the top of a container)",
+    "scores": {
+      "clip_score_scores": 0.5292711412765041,
+      "pick_score_scores": 0.5039487944309917,
+      "vqa_score_scores": 0.6027115906129126,
+      "tifa_score_scores": 0.26046370450537115,
+      "image_reward_score_scores": 0.45476661331049784
+    },
+    "level": 6,
+    "total_descendants": 8
+  },
+  {
+    "name": "wrapping",
+    "father": "covering (artifact)",
+    "definition": "the covering (usually paper or cellophane) in which something is wrapped",
+    "scores": {
+      "clip_score_scores": 0.567355600067463,
+      "pick_score_scores": 0.5412943953185242,
+      "vqa_score_scores": 0.5716603510015286,
+      "tifa_score_scores": 0.27002502705627707,
+      "image_reward_score_scores": 0.5083474019433819
+    },
+    "level": 6,
+    "total_descendants": 8
+  },
+  {
+    "name": "art",
+    "father": "creation",
+    "definition": "the products of human creativity; works of art collectively",
+    "scores": {
+      "clip_score_scores": 0.559565801470688,
+      "pick_score_scores": 0.5369733057741953,
+      "vqa_score_scores": 0.5942165074500276,
+      "tifa_score_scores": 0.28339126092647626,
+      "image_reward_score_scores": 0.5000343437840573
+    },
+    "level": 6,
+    "total_descendants": 110
+  },
+  {
+    "name": "needlework",
+    "father": "creation",
+    "definition": "a creation created or assembled by needle and thread",
+    "scores": {
+      "clip_score_scores": 0.5584636549386619,
+      "pick_score_scores": 0.5235802252619554,
+      "vqa_score_scores": 0.5326162665092294,
+      "tifa_score_scores": 0.24293361686854112,
+      "image_reward_score_scores": 0.4716199673691726
+    },
+    "level": 6,
+    "total_descendants": 61
+  },
+  {
+    "name": "piece (creation)",
+    "father": "creation",
+    "definition": "an artistic or literary composition",
+    "scores": {
+      "clip_score_scores": 0.5424019442718436,
+      "pick_score_scores": 0.49448355071438616,
+      "vqa_score_scores": 0.5119330774133969,
+      "tifa_score_scores": 0.203674993987494,
+      "image_reward_score_scores": 0.4834429647587412
+    },
+    "level": 6,
+    "total_descendants": 18
+  },
+  {
+    "name": "product",
+    "father": "creation",
+    "definition": "an artifact that has been created by someone or some process",
+    "scores": {
+      "clip_score_scores": 0.5539709743412458,
+      "pick_score_scores": 0.5178748528705126,
+      "vqa_score_scores": 0.5839507392919226,
+      "tifa_score_scores": 0.23256128515740945,
+      "image_reward_score_scores": 0.48027093377278124
+    },
+    "level": 6,
+    "total_descendants": 210
+  },
+  {
+    "name": "representation",
+    "father": "creation",
+    "definition": "a creation that is a visual or tangible rendering of someone or something",
+    "scores": {
+      "clip_score_scores": 0.5570761935858694,
+      "pick_score_scores": 0.5158458522949553,
+      "vqa_score_scores": 0.581280214675065,
+      "tifa_score_scores": 0.23408379126688036,
+      "image_reward_score_scores": 0.48601439780150624
+    },
+    "level": 6,
+    "total_descendants": 222
+  },
+  {
+    "name": "adornment",
+    "father": "decoration",
+    "definition": "a decoration of color or interest that is added to relieve plainness",
+    "scores": {
+      "clip_score_scores": 0.5559267586735334,
+      "pick_score_scores": 0.5252311586673669,
+      "vqa_score_scores": 0.5355141172367901,
+      "tifa_score_scores": 0.25665667880099696,
+      "image_reward_score_scores": 0.5313839374570032
+    },
+    "level": 6,
+    "total_descendants": 75
+  },
+  {
+    "name": "architectural ornament",
+    "father": "decoration",
+    "definition": "(architecture) something added to a building to improve its appearance",
+    "scores": {
+      "clip_score_scores": 0.5520206080004949,
+      "pick_score_scores": 0.4986167647124805,
+      "vqa_score_scores": 0.5555209957126593,
+      "tifa_score_scores": 0.28508441558441555,
+      "image_reward_score_scores": 0.4661196321912688
+    },
+    "level": 6,
+    "total_descendants": 8
+  },
+  {
+    "name": "design (decoration)",
+    "father": "decoration",
+    "definition": "a decorative or artistic work",
+    "scores": {
+      "clip_score_scores": 0.5610750442248567,
+      "pick_score_scores": 0.5079623204090824,
+      "vqa_score_scores": 0.5740494419033494,
+      "tifa_score_scores": 0.301903841598977,
+      "image_reward_score_scores": 0.49172782156706774
+    },
+    "level": 6,
+    "total_descendants": 107
+  },
+  {
+    "name": "embellishment",
+    "father": "decoration",
+    "definition": "a superfluous ornament",
+    "scores": {
+      "clip_score_scores": 0.5205260722097731,
+      "pick_score_scores": 0.4987911109096628,
+      "vqa_score_scores": 0.5262625585020709,
+      "tifa_score_scores": 0.25095598845598843,
+      "image_reward_score_scores": 0.5363700665572053
+    },
+    "level": 6,
+    "total_descendants": 7
+  },
+  {
+    "name": "flower arrangement",
+    "father": "decoration",
+    "definition": "a decorative arrangement of flowers",
+    "scores": {
+      "clip_score_scores": 0.5673557337872508,
+      "pick_score_scores": 0.5515606982870331,
+      "vqa_score_scores": 0.5790773148203776,
+      "tifa_score_scores": 0.31839496151996155,
+      "image_reward_score_scores": 0.45756582942851465
+    },
+    "level": 6,
+    "total_descendants": 9
+  },
+  {
+    "name": "topping",
+    "father": "decoration",
+    "definition": "a flavorful addition on top of a dish",
+    "scores": {
+      "clip_score_scores": 0.5517867894512706,
+      "pick_score_scores": 0.5145031670117995,
+      "vqa_score_scores": 0.5711509549181171,
+      "tifa_score_scores": 0.2702435064935064,
+      "image_reward_score_scores": 0.5149566812034343
+    },
+    "level": 6,
+    "total_descendants": 5
+  },
+  {
+    "name": "hanging",
+    "father": "decoration",
+    "definition": "decoration that is hung (as a tapestry) on a wall or over a window",
+    "scores": {
+      "clip_score_scores": 0.559529023245396,
+      "pick_score_scores": 0.5152905079382085,
+      "vqa_score_scores": 0.5360828148038986,
+      "tifa_score_scores": 0.22646464646464645,
+      "image_reward_score_scores": 0.4408503761197421
+    },
+    "level": 6,
+    "total_descendants": 4
+  },
+  {
+    "name": "inlay (decoration)",
+    "father": "decoration",
+    "definition": "a decoration made by fitting pieces of wood into prepared slots in a surface",
+    "scores": {
+      "clip_score_scores": 0.573955945028257,
+      "pick_score_scores": 0.5087311356237092,
+      "vqa_score_scores": 0.6517366425076756,
+      "tifa_score_scores": 0.2785436507936508,
+      "image_reward_score_scores": 0.47744210800971904
+    },
+    "level": 6,
+    "total_descendants": 2
+  },
+  {
+    "name": "molding (decoration)",
+    "father": "decoration",
+    "definition": "a decorative strip used for ornamentation or finishing",
+    "scores": {
+      "clip_score_scores": 0.5473521343463024,
+      "pick_score_scores": 0.499258834644702,
+      "vqa_score_scores": 0.5547052697747611,
+      "tifa_score_scores": 0.26415431790431787,
+      "image_reward_score_scores": 0.4504117166848371
+    },
+    "level": 6,
+    "total_descendants": 20
+  },
+  {
+    "name": "ditch",
+    "father": "excavation",
+    "definition": "a long narrow excavation in the earth",
+    "scores": {
+      "clip_score_scores": 0.5487836297848422,
+      "pick_score_scores": 0.515183177187992,
+      "vqa_score_scores": 0.49945253363897935,
+      "tifa_score_scores": 0.23862493987493988,
+      "image_reward_score_scores": 0.4511451614032325
+    },
+    "level": 6,
+    "total_descendants": 9
+  },
+  {
+    "name": "mine (excavation)",
+    "father": "excavation",
+    "definition": "excavation in the earth from which ores and minerals are extracted",
+    "scores": {
+      "clip_score_scores": 0.528371915028041,
+      "pick_score_scores": 0.5061513942349545,
+      "vqa_score_scores": 0.48813004154752493,
+      "tifa_score_scores": 0.23625128839414553,
+      "image_reward_score_scores": 0.4618990867588448
+    },
+    "level": 6,
+    "total_descendants": 7
+  },
+  {
+    "name": "pit (excavation)",
+    "father": "excavation",
+    "definition": "a surface excavation for extracting stone or slate",
+    "scores": {
+      "clip_score_scores": 0.5369054770613566,
+      "pick_score_scores": 0.5098996398195573,
+      "vqa_score_scores": 0.48789618431601,
+      "tifa_score_scores": 0.16450216450216448,
+      "image_reward_score_scores": 0.4535957989425973
+    },
+    "level": 6,
+    "total_descendants": 2
+  },
+  {
+    "name": "well (excavation)",
+    "father": "excavation",
+    "definition": "a deep hole or shaft dug or drilled to obtain water or oil or gas or brine",
+    "scores": {
+      "clip_score_scores": 0.5546204930040532,
+      "pick_score_scores": 0.4916006912195544,
+      "vqa_score_scores": 0.5204993323340202,
+      "tifa_score_scores": 0.31415313852813853,
+      "image_reward_score_scores": 0.472564531983996
+    },
+    "level": 6,
+    "total_descendants": 9
+  },
+  {
+    "name": "piece of cloth",
+    "father": "fabric",
+    "definition": "a separate part consisting of fabric",
+    "scores": {
+      "clip_score_scores": 0.550079267389015,
+      "pick_score_scores": 0.5013341873867595,
+      "vqa_score_scores": 0.5204614251603423,
+      "tifa_score_scores": 0.23037955848164185,
+      "image_reward_score_scores": 0.4714461040825304
+    },
+    "level": 6,
+    "total_descendants": 61
+  },
+  {
+    "name": "acrylic (fabric)",
+    "father": "fabric",
+    "definition": "a synthetic fabric",
+    "scores": {
+      "clip_score_scores": 0.494636848128827,
+      "pick_score_scores": 0.49017805208324267,
+      "vqa_score_scores": 0.5747557636663464,
+      "tifa_score_scores": 0.24555224867724867,
+      "image_reward_score_scores": 0.469880473769922
+    },
+    "level": 6,
+    "total_descendants": 2
+  },
+  {
+    "name": "cord (fabric)",
+    "father": "fabric",
+    "definition": "a cut pile fabric with vertical ribs; usually made of cotton",
+    "scores": {
+      "clip_score_scores": 0.5576779095040528,
+      "pick_score_scores": 0.4982471369157254,
+      "vqa_score_scores": 0.5505079776231225,
+      "tifa_score_scores": 0.29660714285714285,
+      "image_reward_score_scores": 0.39518430994429943
+    },
+    "level": 6,
+    "total_descendants": 3
+  },
+  {
+    "name": "cotton (fabric)",
+    "father": "fabric",
+    "definition": "fabric woven from cotton fibers",
+    "scores": {
+      "clip_score_scores": 0.5250307032052036,
+      "pick_score_scores": 0.5196592674959666,
+      "vqa_score_scores": 0.5713404522306214,
+      "tifa_score_scores": 0.23091585497835498,
+      "image_reward_score_scores": 0.5554954088133814
+    },
+    "level": 6,
+    "total_descendants": 2
+  },
+  {
+    "name": "crepe",
+    "father": "fabric",
+    "definition": "a soft thin light fabric with a crinkled surface",
+    "scores": {
+      "clip_score_scores": 0.5935335898405384,
+      "pick_score_scores": 0.475269746170536,
+      "vqa_score_scores": 0.48344740759266275,
+      "tifa_score_scores": 0.2849747474747475,
+      "image_reward_score_scores": 0.5127030471617829
+    },
+    "level": 6,
+    "total_descendants": 3
+  },
+  {
+    "name": "knit (fabric)",
+    "father": "fabric",
+    "definition": "a fabric made by knitting",
+    "scores": {
+      "clip_score_scores": 0.5448344153506028,
+      "pick_score_scores": 0.523720828337186,
+      "vqa_score_scores": 0.5098018250140106,
+      "tifa_score_scores": 0.21833333333333335,
+      "image_reward_score_scores": 0.5019437404048845
+    },
+    "level": 6,
+    "total_descendants": 5
+  },
+  {
+    "name": "lace (fabric)",
+    "father": "fabric",
+    "definition": "a delicate decorative fabric woven in an open web of symmetrical patterns",
+    "scores": {
+      "clip_score_scores": 0.5335231710501054,
+      "pick_score_scores": 0.47847874525623535,
+      "vqa_score_scores": 0.5653377101600642,
+      "tifa_score_scores": 0.22545995670995667,
+      "image_reward_score_scores": 0.4704692536679462
+    },
+    "level": 6,
+    "total_descendants": 6
+  },
+  {
+    "name": "muslin",
+    "father": "fabric",
+    "definition": "plain-woven cotton fabric",
+    "scores": {
+      "clip_score_scores": 0.49964516100101686,
+      "pick_score_scores": 0.4958965221015516,
+      "vqa_score_scores": 0.4815597529262708,
+      "tifa_score_scores": 0.17773569023569022,
+      "image_reward_score_scores": 0.37776619236215897
+    },
+    "level": 6,
+    "total_descendants": 2
+  },
+  {
+    "name": "net (fabric)",
+    "father": "fabric",
+    "definition": "an open fabric of string or rope or wire woven together at regular intervals",
+    "scores": {
+      "clip_score_scores": 0.5633201252145887,
+      "pick_score_scores": 0.5080605634758102,
+      "vqa_score_scores": 0.5516318565767581,
+      "tifa_score_scores": 0.28733134920634923,
+      "image_reward_score_scores": 0.488183133735702
+    },
+    "level": 6,
+    "total_descendants": 12
+  },
+  {
+    "name": "rayon",
+    "father": "fabric",
+    "definition": "a synthetic silklike fabric",
+    "scores": {
+      "clip_score_scores": 0.5597086464763122,
+      "pick_score_scores": 0.45820492223713244,
+      "vqa_score_scores": 0.4643005415744838,
+      "tifa_score_scores": 0.17992183742183743,
+      "image_reward_score_scores": 0.4736749949172003
+    },
+    "level": 6,
+    "total_descendants": 2
+  },
+  {
+    "name": "toweling",
+    "father": "fabric",
+    "definition": "any of various fabrics (linen or cotton) used to make towels",
+    "scores": {
+      "clip_score_scores": 0.5749953389520074,
+      "pick_score_scores": 0.5072528160415131,
+      "vqa_score_scores": 0.538910419811353,
+      "tifa_score_scores": 0.22389971139971138,
+      "image_reward_score_scores": 0.47963593558326995
+    },
+    "level": 6,
+    "total_descendants": 2
+  },
+  {
+    "name": "racetrack",
+    "father": "course (facility)",
+    "definition": "a course over which races are run",
+    "scores": {
+      "clip_score_scores": 0.5804201820281761,
+      "pick_score_scores": 0.4808625944651463,
+      "vqa_score_scores": 0.4714231621594039,
+      "tifa_score_scores": 0.2439404461279461,
+      "image_reward_score_scores": 0.5179005464228339
+    },
+    "level": 6,
+    "total_descendants": 5
+  },
+  {
+    "name": "drop (depository)",
+    "father": "depository",
+    "definition": "a central depository where things can be left or picked up",
+    "scores": {
+      "clip_score_scores": 0.575699144493629,
+      "pick_score_scores": 0.5620240749058114,
+      "vqa_score_scores": 0.5382740721367378,
+      "tifa_score_scores": 0.22575757575757577,
+      "image_reward_score_scores": 0.4568864948367636
+    },
+    "level": 6,
+    "total_descendants": 3
+  },
+  {
+    "name": "library (depository)",
+    "father": "depository",
+    "definition": "a depository built to contain books and other materials for reading and study",
+    "scores": {
+      "clip_score_scores": 0.5175206048665303,
+      "pick_score_scores": 0.48139690523489403,
+      "vqa_score_scores": 0.6071040237884486,
+      "tifa_score_scores": 0.1971212121212121,
+      "image_reward_score_scores": 0.501409324024921
+    },
+    "level": 6,
+    "total_descendants": 2
+  },
+  {
+    "name": "storehouse",
+    "father": "depository",
+    "definition": "a depository for goods",
+    "scores": {
+      "clip_score_scores": 0.5801612720673648,
+      "pick_score_scores": 0.4787626105504896,
+      "vqa_score_scores": 0.4520134948045924,
+      "tifa_score_scores": 0.21903409090909093,
+      "image_reward_score_scores": 0.4401924000788934
+    },
+    "level": 6,
+    "total_descendants": 7
+  },
+  {
+    "name": "base (military installation)",
+    "father": "military installation",
+    "definition": "installation from which a military force initiates operations",
+    "scores": {
+      "clip_score_scores": 0.49983797090705395,
+      "pick_score_scores": 0.4771987494866502,
+      "vqa_score_scores": 0.5125418537251966,
+      "tifa_score_scores": 0.20821924603174605,
+      "image_reward_score_scores": 0.5152936177857276
+    },
+    "level": 6,
+    "total_descendants": 5
+  },
+  {
+    "name": "emplacement",
+    "father": "military installation",
+    "definition": "military installation consisting of a prepared position for siting a weapon",
+    "scores": {
+      "clip_score_scores": 0.5533697118520957,
+      "pick_score_scores": 0.4778872748605162,
+      "vqa_score_scores": 0.5056477044860118,
+      "tifa_score_scores": 0.14252104377104377,
+      "image_reward_score_scores": 0.39221853046907723
+    },
+    "level": 6,
+    "total_descendants": 3
+  },
+  {
+    "name": "headquarters (military installation)",
+    "father": "military installation",
+    "definition": "the military installation from which a commander performs the functions of command",
+    "scores": {
+      "clip_score_scores": 0.5907260181736247,
+      "pick_score_scores": 0.5611257744886762,
+      "vqa_score_scores": 0.608055520872945,
+      "tifa_score_scores": 0.24531250000000002,
+      "image_reward_score_scores": 0.5511317911401348
+    },
+    "level": 6,
+    "total_descendants": 2
+  },
+  {
+    "name": "military post",
+    "father": "military installation",
+    "definition": "military installation at which a body of troops is stationed",
+    "scores": {
+      "clip_score_scores": 0.5491963195571131,
+      "pick_score_scores": 0.5107793673118659,
+      "vqa_score_scores": 0.41382892464714854,
+      "tifa_score_scores": 0.24909451659451656,
+      "image_reward_score_scores": 0.3025327740704479
+    },
+    "level": 6,
+    "total_descendants": 2
+  },
+  {
+    "name": "practice range",
+    "father": "range (facility)",
+    "definition": "a place for practicing golf shots",
+    "scores": {
+      "clip_score_scores": 0.5385779145472247,
+      "pick_score_scores": 0.5513181748049499,
+      "vqa_score_scores": 0.487746526014789,
+      "tifa_score_scores": 0.21229166666666666,
+      "image_reward_score_scores": 0.46519112969864984
+    },
+    "level": 6,
+    "total_descendants": 4
+  },
+  {
+    "name": "broadcasting station",
+    "father": "station (facility)",
+    "definition": "a station equipped to broadcast radio or television programs",
+    "scores": {
+      "clip_score_scores": 0.5477729838669215,
+      "pick_score_scores": 0.513311497556142,
+      "vqa_score_scores": 0.5281419203878391,
+      "tifa_score_scores": 0.19942480359147027,
+      "image_reward_score_scores": 0.37080396709889013
+    },
+    "level": 6,
+    "total_descendants": 4
+  },
+  {
+    "name": "service station",
+    "father": "station (facility)",
+    "definition": "a station where gasoline and oil are sold and facilities are available for repairing or maintaining automobiles",
+    "scores": {
+      "clip_score_scores": 0.5971374607626958,
+      "pick_score_scores": 0.5163293666327409,
+      "vqa_score_scores": 0.5615611381023351,
+      "tifa_score_scores": 0.2146464646464646,
+      "image_reward_score_scores": 0.37256468578114615
+    },
+    "level": 6,
+    "total_descendants": 2
+  },
+  {
+    "name": "terminal (station)",
+    "father": "station (facility)",
+    "definition": "station where transport vehicles load or unload passengers or goods",
+    "scores": {
+      "clip_score_scores": 0.5701382469821459,
+      "pick_score_scores": 0.47383983450562517,
+      "vqa_score_scores": 0.479083703856805,
+      "tifa_score_scores": 0.21145833333333333,
+      "image_reward_score_scores": 0.4259811596127639
+    },
+    "level": 6,
+    "total_descendants": 6
+  },
+  {
+    "name": "heating system",
+    "father": "utility",
+    "definition": "utility to warm a building",
+    "scores": {
+      "clip_score_scores": 0.5551234281439814,
+      "pick_score_scores": 0.4848586485198355,
+      "vqa_score_scores": 0.575307007989148,
+      "tifa_score_scores": 0.23075892857142857,
+      "image_reward_score_scores": 0.507617663731843
+    },
+    "level": 6,
+    "total_descendants": 4
+  },
+  {
+    "name": "lighting fixture",
+    "father": "fixture",
+    "definition": "a fixture providing artificial light",
+    "scores": {
+      "clip_score_scores": 0.5956677641902999,
+      "pick_score_scores": 0.541543778611957,
+      "vqa_score_scores": 0.44661009314152944,
+      "tifa_score_scores": 0.5053030303030301,
+      "image_reward_score_scores": 0.48010104577952745
+    },
+    "level": 6,
+    "total_descendants": 3
+  },
+  {
+    "name": "plumbing fixture",
+    "father": "fixture",
+    "definition": "a fixture for the distribution and use of water in a building",
+    "scores": {
+      "clip_score_scores": 0.5739960391501462,
+      "pick_score_scores": 0.5304160269537854,
+      "vqa_score_scores": 0.5319077911913599,
+      "tifa_score_scores": 0.3288429834054834,
+      "image_reward_score_scores": 0.43309362839428756
+    },
+    "level": 6,
+    "total_descendants": 10
+  },
+  {
+    "name": "raft",
+    "father": "float (artifact)",
+    "definition": "a flat float (usually made of logs or planks) that can be used for transport or as a platform for swimmers",
+    "scores": {
+      "clip_score_scores": 0.5554956964840266,
+      "pick_score_scores": 0.5611953714501028,
+      "vqa_score_scores": 0.5055187057105107,
+      "tifa_score_scores": 0.3003306878306878,
+      "image_reward_score_scores": 0.4876326068397428
+    },
+    "level": 6,
+    "total_descendants": 2
+  },
+  {
+    "name": "ceramic",
+    "father": "instrumentality",
+    "definition": "an artifact made of hard brittle material produced from nonmetallic minerals by firing at high temperatures",
+    "scores": {
+      "clip_score_scores": 0.5193849528843856,
+      "pick_score_scores": 0.541676670979492,
+      "vqa_score_scores": 0.5570264645970437,
+      "tifa_score_scores": 0.24416666666666667,
+      "image_reward_score_scores": 0.49405381047220653
+    },
+    "level": 6,
+    "total_descendants": 6
+  },
+  {
+    "name": "connection (instrumentality)",
+    "father": "instrumentality",
+    "definition": "an instrumentality that connects",
+    "scores": {
+      "clip_score_scores": 0.5400286928508986,
+      "pick_score_scores": 0.5028913569354695,
+      "vqa_score_scores": 0.5714098973396906,
+      "tifa_score_scores": 0.25028123234652255,
+      "image_reward_score_scores": 0.4489556356193935
+    },
+    "level": 6,
+    "total_descendants": 74
+  },
+  {
+    "name": "container",
+    "father": "instrumentality",
+    "definition": "any object that can be used to hold things (especially a large metal boxlike object of standardized dimensions that can be loaded from one form of transport to another)",
+    "scores": {
+      "clip_score_scores": 0.5688337119618814,
+      "pick_score_scores": 0.5209754783853241,
+      "vqa_score_scores": 0.5389864133660829,
+      "tifa_score_scores": 0.2583847961125414,
+      "image_reward_score_scores": 0.48451166597547546
+    },
+    "level": 6,
+    "total_descendants": 478
+  },
+  {
+    "name": "conveyance",
+    "father": "instrumentality",
+    "definition": "something that serves as a means of transportation",
+    "scores": {
+      "clip_score_scores": 0.5371994972619948,
+      "pick_score_scores": 0.5256744323529506,
+      "vqa_score_scores": 0.5303645645345961,
+      "tifa_score_scores": 0.2481367207210963,
+      "image_reward_score_scores": 0.4714965194878975
+    },
+    "level": 6,
+    "total_descendants": 527
+  },
+  {
+    "name": "device (instrumentality)",
+    "father": "instrumentality",
+    "definition": "an instrumentality invented for a particular purpose",
+    "scores": {
+      "clip_score_scores": 0.5481779659652393,
+      "pick_score_scores": 0.5213401110721121,
+      "vqa_score_scores": 0.5398486010303548,
+      "tifa_score_scores": 0.23317744222935063,
+      "image_reward_score_scores": 0.4656389434916023
+    },
+    "level": 6,
+    "total_descendants": 2610
+  },
+  {
+    "name": "equipment",
+    "father": "instrumentality",
+    "definition": "an instrumentality needed for an undertaking or to perform a service",
+    "scores": {
+      "clip_score_scores": 0.5683779391714776,
+      "pick_score_scores": 0.5338643786723378,
+      "vqa_score_scores": 0.5808733846191486,
+      "tifa_score_scores": 0.2538710455582854,
+      "image_reward_score_scores": 0.5236408896260758
+    },
+    "level": 6,
+    "total_descendants": 453
+  },
+  {
+    "name": "furnishing (instrumentality)",
+    "father": "instrumentality",
+    "definition": "(usually plural) the instrumentalities (furniture and appliances and other movable accessories including curtains and rugs) that make a home (or other area) livable",
+    "scores": {
+      "clip_score_scores": 0.5813388447412903,
+      "pick_score_scores": 0.5260155110766424,
+      "vqa_score_scores": 0.5995552991196099,
+      "tifa_score_scores": 0.2642608163218913,
+      "image_reward_score_scores": 0.5183405756808824
+    },
+    "level": 6,
+    "total_descendants": 216
+  },
+  {
+    "name": "implement",
+    "father": "instrumentality",
+    "definition": "instrumentation (a piece of equipment or tool) used to effect an end",
+    "scores": {
+      "clip_score_scores": 0.5456518848526789,
+      "pick_score_scores": 0.5112512197006124,
+      "vqa_score_scores": 0.5353206078679381,
+      "tifa_score_scores": 0.23127578706567656,
+      "image_reward_score_scores": 0.4829334641054075
+    },
+    "level": 6,
+    "total_descendants": 709
+  },
+  {
+    "name": "medium (instrumentality)",
+    "father": "instrumentality",
+    "definition": "a means or instrumentality for storing or communicating information",
+    "scores": {
+      "clip_score_scores": 0.5336890227455986,
+      "pick_score_scores": 0.49520351403495005,
+      "vqa_score_scores": 0.539308250298574,
+      "tifa_score_scores": 0.21356868834049825,
+      "image_reward_score_scores": 0.4897368497483844
+    },
+    "level": 6,
+    "total_descendants": 63
+  },
+  {
+    "name": "system (instrumentality)",
+    "father": "instrumentality",
+    "definition": "instrumentality that combines interrelated interacting artifacts designed to work as a coherent entity",
+    "scores": {
+      "clip_score_scores": 0.553198849709813,
+      "pick_score_scores": 0.5041122545148806,
+      "vqa_score_scores": 0.5547368877486892,
+      "tifa_score_scores": 0.21406289739801643,
+      "image_reward_score_scores": 0.4613412529203165
+    },
+    "level": 6,
+    "total_descendants": 87
+  },
+  {
+    "name": "toiletry",
+    "father": "instrumentality",
+    "definition": "artifacts used in making your toilet (washing and taking care of your body)",
+    "scores": {
+      "clip_score_scores": 0.5462926649821909,
+      "pick_score_scores": 0.5022754685054821,
+      "vqa_score_scores": 0.5511030083446213,
+      "tifa_score_scores": 0.21499869086674644,
+      "image_reward_score_scores": 0.4736165198822854
+    },
+    "level": 6,
+    "total_descendants": 57
+  },
+  {
+    "name": "weaponry",
+    "father": "instrumentality",
+    "definition": "weapons considered collectively",
+    "scores": {
+      "clip_score_scores": 0.5399634373439967,
+      "pick_score_scores": 0.5338008165515745,
+      "vqa_score_scores": 0.5236999923301927,
+      "tifa_score_scores": 0.24558283492708308,
+      "image_reward_score_scores": 0.46667653558662314
+    },
+    "level": 6,
+    "total_descendants": 85
+  },
+  {
+    "name": "course (layer)",
+    "father": "layer (artifact)",
+    "definition": "(construction) a layer of masonry",
+    "scores": {
+      "clip_score_scores": 0.565188521615079,
+      "pick_score_scores": 0.5372931869719707,
+      "vqa_score_scores": 0.5973097180453356,
+      "tifa_score_scores": 0.2926767676767677,
+      "image_reward_score_scores": 0.46384893288780277
+    },
+    "level": 6,
+    "total_descendants": 2
+  },
+  {
+    "name": "cord (line)",
+    "father": "line (artifact)",
+    "definition": "a line made of twisted fibers or threads",
+    "scores": {
+      "clip_score_scores": 0.5490485559784902,
+      "pick_score_scores": 0.5118788245471202,
+      "vqa_score_scores": 0.5228173552369628,
+      "tifa_score_scores": 0.28192437492206013,
+      "image_reward_score_scores": 0.4833506990051307
+    },
+    "level": 6,
+    "total_descendants": 45
+  },
+  {
+    "name": "rope",
+    "father": "line (artifact)",
+    "definition": "a strong line",
+    "scores": {
+      "clip_score_scores": 0.5578946544397406,
+      "pick_score_scores": 0.5000628971215,
+      "vqa_score_scores": 0.5335449509043649,
+      "tifa_score_scores": 0.26934892517613107,
+      "image_reward_score_scores": 0.4709979674744109
+    },
+    "level": 6,
+    "total_descendants": 26
+  },
+  {
+    "name": "strand (line)",
+    "father": "line (artifact)",
+    "definition": "line consisting of a complex of fibers or filaments that are twisted together to form a thread or a rope or a cable",
+    "scores": {
+      "clip_score_scores": 0.4798679148470689,
+      "pick_score_scores": 0.5351120716533367,
+      "vqa_score_scores": 0.7891860385207633,
+      "tifa_score_scores": 0.25,
+      "image_reward_score_scores": 0.3956594365201097
+    },
+    "level": 6,
+    "total_descendants": 2
+  },
+  {
+    "name": "gap",
+    "father": "opening (artifact)",
+    "definition": "a narrow opening",
+    "scores": {
+      "clip_score_scores": 0.5814716586215017,
+      "pick_score_scores": 0.5549429992816536,
+      "vqa_score_scores": 0.5807605970652184,
+      "tifa_score_scores": 0.3020875420875421,
+      "image_reward_score_scores": 0.5358373336733676
+    },
+    "level": 6,
+    "total_descendants": 2
+  },
+  {
+    "name": "hole (opening)",
+    "father": "opening (artifact)",
+    "definition": "an opening deliberately made in or through something",
+    "scores": {
+      "clip_score_scores": 0.5368987648193844,
+      "pick_score_scores": 0.5251798671750887,
+      "vqa_score_scores": 0.5975192695906694,
+      "tifa_score_scores": 0.27148689927222536,
+      "image_reward_score_scores": 0.4551096116707638
+    },
+    "level": 6,
+    "total_descendants": 30
+  },
+  {
+    "name": "intake",
+    "father": "opening (artifact)",
+    "definition": "an opening through which fluid is admitted to a tube or container",
+    "scores": {
+      "clip_score_scores": 0.5303504011128514,
+      "pick_score_scores": 0.49943179783928365,
+      "vqa_score_scores": 0.5630953055079959,
+      "tifa_score_scores": 0.17933140933140934,
+      "image_reward_score_scores": 0.48250421190278764
+    },
+    "level": 6,
+    "total_descendants": 2
+  },
+  {
+    "name": "neck (opening)",
+    "father": "opening (artifact)",
+    "definition": "an opening in a garment for the neck of the wearer; a part of the garment near the wearer's neck",
+    "scores": {
+      "clip_score_scores": 0.5354250001855265,
+      "pick_score_scores": 0.45472545340752124,
+      "vqa_score_scores": 0.6421868489672278,
+      "tifa_score_scores": 0.18417989417989417,
+      "image_reward_score_scores": 0.39708552542729253
+    },
+    "level": 6,
+    "total_descendants": 4
+  },
+  {
+    "name": "slit (opening)",
+    "father": "opening (artifact)",
+    "definition": "a long narrow opening",
+    "scores": {
+      "clip_score_scores": 0.5274807659495195,
+      "pick_score_scores": 0.5198799345109819,
+      "vqa_score_scores": 0.6149780942309407,
+      "tifa_score_scores": 0.3397916666666667,
+      "image_reward_score_scores": 0.44149136134181644
+    },
+    "level": 6,
+    "total_descendants": 5
+  },
+  {
+    "name": "spout",
+    "father": "opening (artifact)",
+    "definition": "an opening that allows the passage of liquids or grain",
+    "scores": {
+      "clip_score_scores": 0.5228093958354442,
+      "pick_score_scores": 0.5208573945803382,
+      "vqa_score_scores": 0.6689729750512269,
+      "tifa_score_scores": 0.23573793490460151,
+      "image_reward_score_scores": 0.4438496241159346
+    },
+    "level": 6,
+    "total_descendants": 3
+  },
+  {
+    "name": "car window",
+    "father": "opening (artifact)",
+    "definition": "a window in a car",
+    "scores": {
+      "clip_score_scores": 0.5800087399720822,
+      "pick_score_scores": 0.468705815858836,
+      "vqa_score_scores": 0.4667493413562484,
+      "tifa_score_scores": 0.36,
+      "image_reward_score_scores": 0.31244305032973285
+    },
+    "level": 6,
+    "total_descendants": 2
+  },
+  {
+    "name": "cushion (padding)",
+    "father": "padding",
+    "definition": "a soft bag filled with air or a mass of padding such as feathers or foam rubber etc.",
+    "scores": {
+      "clip_score_scores": 0.5749751018099399,
+      "pick_score_scores": 0.5249727529698748,
+      "vqa_score_scores": 0.5493702101124793,
+      "tifa_score_scores": 0.22403403454184706,
+      "image_reward_score_scores": 0.4584829800439239
+    },
+    "level": 6,
+    "total_descendants": 10
+  },
+  {
+    "name": "pad (padding)",
+    "father": "padding",
+    "definition": "a flat mass of soft material used for protection, stuffing, or comfort",
+    "scores": {
+      "clip_score_scores": 0.5387978049209332,
+      "pick_score_scores": 0.5065942765825613,
+      "vqa_score_scores": 0.5014477522767131,
+      "tifa_score_scores": 0.21206621293719508,
+      "image_reward_score_scores": 0.45341202847540096
+    },
+    "level": 6,
+    "total_descendants": 29
+  },
+  {
+    "name": "concrete",
+    "father": "paving",
+    "definition": "a strong hard building material composed of sand and gravel and cement and water",
+    "scores": {
+      "clip_score_scores": 0.579005785691045,
+      "pick_score_scores": 0.5754807426850223,
+      "vqa_score_scores": 0.6009815614155105,
+      "tifa_score_scores": 0.4173611111111111,
+      "image_reward_score_scores": 0.40513142722398715
+    },
+    "level": 6,
+    "total_descendants": 2
+  },
+  {
+    "name": "ball (plaything)",
+    "father": "plaything",
+    "definition": "a spherical object used as a plaything",
+    "scores": {
+      "clip_score_scores": 0.5622922794039359,
+      "pick_score_scores": 0.559997026348067,
+      "vqa_score_scores": 0.47447291719234763,
+      "tifa_score_scores": 0.246010101010101,
+      "image_reward_score_scores": 0.4985759295477725
+    },
+    "level": 6,
+    "total_descendants": 2
+  },
+  {
+    "name": "doll",
+    "father": "plaything",
+    "definition": "a small replica of a person; used as a toy",
+    "scores": {
+      "clip_score_scores": 0.603662180258817,
+      "pick_score_scores": 0.5196095828508874,
+      "vqa_score_scores": 0.7299474538264692,
+      "tifa_score_scores": 0.3481111111111111,
+      "image_reward_score_scores": 0.568851167010996
+    },
+    "level": 6,
+    "total_descendants": 8
+  },
+  {
+    "name": "kite (plaything)",
+    "father": "plaything",
+    "definition": "plaything consisting of a light frame covered with tissue paper; flown in wind at end of a string",
+    "scores": {
+      "clip_score_scores": 0.6297860345595789,
+      "pick_score_scores": 0.527598813835654,
+      "vqa_score_scores": 0.5914596005975361,
+      "tifa_score_scores": 0.3240924873737373,
+      "image_reward_score_scores": 0.5653370302308056
+    },
+    "level": 6,
+    "total_descendants": 2
+  },
+  {
+    "name": "top (plaything)",
+    "father": "plaything",
+    "definition": "a conical child's plaything tapering to a steel point on which it can be made to spin",
+    "scores": {
+      "clip_score_scores": 0.5951246268668848,
+      "pick_score_scores": 0.47760021252797963,
+      "vqa_score_scores": 0.5598955217114839,
+      "tifa_score_scores": 0.15735008818342153,
+      "image_reward_score_scores": 0.476391480430099
+    },
+    "level": 6,
+    "total_descendants": 3
+  },
+  {
+    "name": "film (sheet)",
+    "father": "sheet (artifact)",
+    "definition": "a thin sheet of (usually plastic and usually transparent) material used to wrap or cover things",
+    "scores": {
+      "clip_score_scores": 0.5548570149952913,
+      "pick_score_scores": 0.5007722429851343,
+      "vqa_score_scores": 0.5632843223499051,
+      "tifa_score_scores": 0.2374242424242424,
+      "image_reward_score_scores": 0.5177386412828197
+    },
+    "level": 6,
+    "total_descendants": 2
+  },
+  {
+    "name": "disk",
+    "father": "sheet (artifact)",
+    "definition": "a flat circular plate",
+    "scores": {
+      "clip_score_scores": 0.5590492427463845,
+      "pick_score_scores": 0.4999744921149515,
+      "vqa_score_scores": 0.5513721195952619,
+      "tifa_score_scores": 0.2812626596654375,
+      "image_reward_score_scores": 0.42560415734253026
+    },
+    "level": 6,
+    "total_descendants": 10
+  },
+  {
+    "name": "board (sheet)",
+    "father": "sheet (artifact)",
+    "definition": "a flat piece of material designed for a special purpose",
+    "scores": {
+      "clip_score_scores": 0.5634946815455877,
+      "pick_score_scores": 0.4936449591506298,
+      "vqa_score_scores": 0.5104297284299303,
+      "tifa_score_scores": 0.24784685270362358,
+      "image_reward_score_scores": 0.41744715706788965
+    },
+    "level": 6,
+    "total_descendants": 28
+  },
+  {
+    "name": "membrane",
+    "father": "sheet (artifact)",
+    "definition": "a thin pliable sheet of material",
+    "scores": {
+      "clip_score_scores": 0.545068513148114,
+      "pick_score_scores": 0.4444962029280514,
+      "vqa_score_scores": 0.5763904269155761,
+      "tifa_score_scores": 0.3142857142857142,
+      "image_reward_score_scores": 0.5160502074970091
+    },
+    "level": 6,
+    "total_descendants": 2
+  },
+  {
+    "name": "panel (sheet)",
+    "father": "sheet (artifact)",
+    "definition": "sheet that forms a distinct (usually flat and rectangular) section or component of something",
+    "scores": {
+      "clip_score_scores": 0.5780841535575629,
+      "pick_score_scores": 0.5042987154693539,
+      "vqa_score_scores": 0.6047858946009894,
+      "tifa_score_scores": 0.3633912037037037,
+      "image_reward_score_scores": 0.42105665657811603
+    },
+    "level": 6,
+    "total_descendants": 6
+  },
+  {
+    "name": "engraving (plate)",
+    "father": "sheet (artifact)",
+    "definition": "a block or plate or other hard surface that has been engraved",
+    "scores": {
+      "clip_score_scores": 0.5792841480124219,
+      "pick_score_scores": 0.5255799126034769,
+      "vqa_score_scores": 0.6301792279773826,
+      "tifa_score_scores": 0.34110412157287157,
+      "image_reward_score_scores": 0.46982349008564617
+    },
+    "level": 6,
+    "total_descendants": 7
+  },
+  {
+    "name": "fin keel",
+    "father": "sheet (artifact)",
+    "definition": "a metal plate projecting from the keel of a shallow vessel to give it greater lateral stability",
+    "scores": {
+      "clip_score_scores": 0.4627627539811983,
+      "pick_score_scores": 0.48789237165567173,
+      "vqa_score_scores": 0.5605872885480119,
+      "tifa_score_scores": 0.16427489177489174,
+      "image_reward_score_scores": 0.4503084166486321
+    },
+    "level": 6,
+    "total_descendants": 2
+  },
+  {
+    "name": "plate iron",
+    "father": "sheet (artifact)",
+    "definition": "a plate of iron",
+    "scores": {
+      "clip_score_scores": 0.5607318268411331,
+      "pick_score_scores": 0.45050322706476514,
+      "vqa_score_scores": 0.3878880321215485,
+      "tifa_score_scores": 0.14375,
+      "image_reward_score_scores": 0.42256901401920877
+    },
+    "level": 6,
+    "total_descendants": 4
+  },
+  {
+    "name": "plate glass",
+    "father": "sheet (artifact)",
+    "definition": "glass formed into large thin sheets",
+    "scores": {
+      "clip_score_scores": 0.5691940182056865,
+      "pick_score_scores": 0.5661818446531266,
+      "vqa_score_scores": 0.5675048243920349,
+      "tifa_score_scores": 0.31770833333333326,
+      "image_reward_score_scores": 0.5006724801324771
+    },
+    "level": 6,
+    "total_descendants": 4
+  },
+  {
+    "name": "sheet metal",
+    "father": "sheet (artifact)",
+    "definition": "sheet of metal formed into a thin plate",
+    "scores": {
+      "clip_score_scores": 0.5716458522346397,
+      "pick_score_scores": 0.4830885456484187,
+      "vqa_score_scores": 0.5314114970988848,
+      "tifa_score_scores": 0.23131026936026933,
+      "image_reward_score_scores": 0.4105158133735478
+    },
+    "level": 6,
+    "total_descendants": 9
+  },
+  {
+    "name": "globe",
+    "father": "sphere (artifact)",
+    "definition": "a sphere on which a map (especially of the earth) is represented",
+    "scores": {
+      "clip_score_scores": 0.5578590342344224,
+      "pick_score_scores": 0.5499864400098343,
+      "vqa_score_scores": 0.6383221787250307,
+      "tifa_score_scores": 0.2646969696969697,
+      "image_reward_score_scores": 0.6675361904530556
+    },
+    "level": 6,
+    "total_descendants": 2
+  },
+  {
+    "name": "hoop (band)",
+    "father": "strip (artifact)",
+    "definition": "a rigid circular band of metal or wood or other material used for holding or fastening or hanging or pulling",
+    "scores": {
+      "clip_score_scores": 0.5687119157188978,
+      "pick_score_scores": 0.49100262751755075,
+      "vqa_score_scores": 0.5514277004832977,
+      "tifa_score_scores": 0.24384699341296562,
+      "image_reward_score_scores": 0.4493878617599702
+    },
+    "level": 6,
+    "total_descendants": 17
+  },
+  {
+    "name": "tape (strip)",
+    "father": "strip (artifact)",
+    "definition": "a long thin piece of cloth or paper as used for binding or fastening",
+    "scores": {
+      "clip_score_scores": 0.5483758398848179,
+      "pick_score_scores": 0.5350303558711782,
+      "vqa_score_scores": 0.5273146837564395,
+      "tifa_score_scores": 0.3608703102453103,
+      "image_reward_score_scores": 0.3639872694369534
+    },
+    "level": 6,
+    "total_descendants": 9
+  },
+  {
+    "name": "arch (structure)",
+    "father": "structure",
+    "definition": "(architecture) a masonry construction (usually curved) for spanning an opening and supporting the weight above it",
+    "scores": {
+      "clip_score_scores": 0.5449211003121291,
+      "pick_score_scores": 0.5595076667110768,
+      "vqa_score_scores": 0.5683577388462008,
+      "tifa_score_scores": 0.2840713453213453,
+      "image_reward_score_scores": 0.49764827648043436
+    },
+    "level": 6,
+    "total_descendants": 30
+  },
+  {
+    "name": "area (structure)",
+    "father": "structure",
+    "definition": "a part of a structure having some specific characteristic or function",
+    "scores": {
+      "clip_score_scores": 0.5480218010048579,
+      "pick_score_scores": 0.5198707151777652,
+      "vqa_score_scores": 0.5293085262999575,
+      "tifa_score_scores": 0.22594218288834858,
+      "image_reward_score_scores": 0.4437546377981697
+    },
+    "level": 6,
+    "total_descendants": 325
+  },
+  {
+    "name": "balance (structure)",
+    "father": "structure",
+    "definition": "equality of distribution",
+    "scores": {
+      "clip_score_scores": 0.5404550730851899,
+      "pick_score_scores": 0.4943188597292442,
+      "vqa_score_scores": 0.5947738198371259,
+      "tifa_score_scores": 0.3156060606060606,
+      "image_reward_score_scores": 0.4517700312827156
+    },
+    "level": 6,
+    "total_descendants": 2
+  },
+  {
+    "name": "gallery (balcony)",
+    "father": "structure",
+    "definition": "narrow recessed balcony area along an upper floor on the interior of a building; usually marked by a colonnade",
+    "scores": {
+      "clip_score_scores": 0.5618649743947064,
+      "pick_score_scores": 0.528944615675518,
+      "vqa_score_scores": 0.5780852058104109,
+      "tifa_score_scores": 0.23766008297258295,
+      "image_reward_score_scores": 0.4391353553037888
+    },
+    "level": 6,
+    "total_descendants": 3
+  },
+  {
+    "name": "boarding",
+    "father": "structure",
+    "definition": "a structure of boards",
+    "scores": {
+      "clip_score_scores": 0.5771888164128234,
+      "pick_score_scores": 0.5225692215350087,
+      "vqa_score_scores": 0.5659562069100225,
+      "tifa_score_scores": 0.28475378787878786,
+      "image_reward_score_scores": 0.5692352467642582
+    },
+    "level": 6,
+    "total_descendants": 2
+  },
+  {
+    "name": "body",
+    "father": "structure",
+    "definition": "the external structure of a vehicle",
+    "scores": {
+      "clip_score_scores": 0.5826226703679726,
+      "pick_score_scores": 0.589701023220124,
+      "vqa_score_scores": 0.621683035196652,
+      "tifa_score_scores": 0.21948051948051953,
+      "image_reward_score_scores": 0.5763905485137397
+    },
+    "level": 6,
+    "total_descendants": 2
+  },
+  {
+    "name": "bridge (structure)",
+    "father": "structure",
+    "definition": "a structure that allows people or vehicles to cross an obstacle such as a river or canal or railway etc.",
+    "scores": {
+      "clip_score_scores": 0.5782808991228571,
+      "pick_score_scores": 0.4885368421128938,
+      "vqa_score_scores": 0.5464475216473095,
+      "tifa_score_scores": 0.2580398979878146,
+      "image_reward_score_scores": 0.46278439709327873
+    },
+    "level": 6,
+    "total_descendants": 17
+  },
+  {
+    "name": "building",
+    "father": "structure",
+    "definition": "a structure that has a roof and walls and stands more or less permanently in one place",
+    "scores": {
+      "clip_score_scores": 0.5548568106463864,
+      "pick_score_scores": 0.5215356955003034,
+      "vqa_score_scores": 0.5147937691848392,
+      "tifa_score_scores": 0.2370856950922965,
+      "image_reward_score_scores": 0.4442387734578993
+    },
+    "level": 6,
+    "total_descendants": 195
+  },
+  {
+    "name": "building complex",
+    "father": "structure",
+    "definition": "a whole structure (as a building) made up of interconnected or related structures",
+    "scores": {
+      "clip_score_scores": 0.5929089530238859,
+      "pick_score_scores": 0.524674374434709,
+      "vqa_score_scores": 0.5592173378305039,
+      "tifa_score_scores": 0.2562280469302074,
+      "image_reward_score_scores": 0.5155378396637688
+    },
+    "level": 6,
+    "total_descendants": 38
+  },
+  {
+    "name": "coil (structure)",
+    "father": "structure",
+    "definition": "a structure consisting of something wound in a continuous series of loops",
+    "scores": {
+      "clip_score_scores": 0.5598006586283044,
+      "pick_score_scores": 0.48532082476605665,
+      "vqa_score_scores": 0.6105999375823823,
+      "tifa_score_scores": 0.31440972222222224,
+      "image_reward_score_scores": 0.4969734907707464
+    },
+    "level": 6,
+    "total_descendants": 2
+  },
+  {
+    "name": "column (structure)",
+    "father": "structure",
+    "definition": "a vertical cylindrical structure standing alone and not supporting anything (such as a monument)",
+    "scores": {
+      "clip_score_scores": 0.5019183242806038,
+      "pick_score_scores": 0.5340107078939814,
+      "vqa_score_scores": 0.464184331566412,
+      "tifa_score_scores": 0.19909090909090907,
+      "image_reward_score_scores": 0.23799342838080417
+    },
+    "level": 6,
+    "total_descendants": 2
+  },
+  {
+    "name": "defensive structure",
+    "father": "structure",
+    "definition": "a structure used to defend against attack",
+    "scores": {
+      "clip_score_scores": 0.5594293898808771,
+      "pick_score_scores": 0.5001672011204681,
+      "vqa_score_scores": 0.504105941761833,
+      "tifa_score_scores": 0.23723253534017422,
+      "image_reward_score_scores": 0.45260665923793636
+    },
+    "level": 6,
+    "total_descendants": 32
+  },
+  {
+    "name": "establishment",
+    "father": "structure",
+    "definition": "a public or private structure (business or governmental or educational) including buildings and equipment for business or residence",
+    "scores": {
+      "clip_score_scores": 0.564078359624116,
+      "pick_score_scores": 0.5210039765099016,
+      "vqa_score_scores": 0.5704588135632308,
+      "tifa_score_scores": 0.22526242047157585,
+      "image_reward_score_scores": 0.5065230157212021
+    },
+    "level": 6,
+    "total_descendants": 135
+  },
+  {
+    "name": "floor (structure)",
+    "father": "structure",
+    "definition": "a structure consisting of a room or set of rooms at a single position along a vertical scale",
+    "scores": {
+      "clip_score_scores": 0.5679557807187552,
+      "pick_score_scores": 0.5376532996548367,
+      "vqa_score_scores": 0.43094294189982263,
+      "tifa_score_scores": 0.22194708994708995,
+      "image_reward_score_scores": 0.4335089356610231
+    },
+    "level": 6,
+    "total_descendants": 7
+  },
+  {
+    "name": "housing (structure)",
+    "father": "structure",
+    "definition": "structures collectively in which people are housed",
+    "scores": {
+      "clip_score_scores": 0.5504106367459933,
+      "pick_score_scores": 0.527854652757703,
+      "vqa_score_scores": 0.5986244484292265,
+      "tifa_score_scores": 0.23231454809997756,
+      "image_reward_score_scores": 0.5160479849467325
+    },
+    "level": 6,
+    "total_descendants": 125
+  },
+  {
+    "name": "lamination",
+    "father": "structure",
+    "definition": "a layered structure",
+    "scores": {
+      "clip_score_scores": 0.5466947083837572,
+      "pick_score_scores": 0.5259807486750576,
+      "vqa_score_scores": 0.5032700716886703,
+      "tifa_score_scores": 0.24655663780663784,
+      "image_reward_score_scores": 0.4217235950183784
+    },
+    "level": 6,
+    "total_descendants": 4
+  },
+  {
+    "name": "landing (structure)",
+    "father": "structure",
+    "definition": "structure providing a place where boats can land people or goods",
+    "scores": {
+      "clip_score_scores": 0.44645699902262204,
+      "pick_score_scores": 0.46770981243329884,
+      "vqa_score_scores": 0.48643840084189377,
+      "tifa_score_scores": 0.19268939393939394,
+      "image_reward_score_scores": 0.35256849790434863
+    },
+    "level": 6,
+    "total_descendants": 4
+  },
+  {
+    "name": "lookout (structure)",
+    "father": "structure",
+    "definition": "a structure commanding a wide view of its surroundings",
+    "scores": {
+      "clip_score_scores": 0.5375201344597738,
+      "pick_score_scores": 0.5127999107675502,
+      "vqa_score_scores": 0.5366418401442302,
+      "tifa_score_scores": 0.21404671717171717,
+      "image_reward_score_scores": 0.4264132857786413
+    },
+    "level": 6,
+    "total_descendants": 2
+  },
+  {
+    "name": "masonry",
+    "father": "structure",
+    "definition": "structure built of stone or brick by a mason",
+    "scores": {
+      "clip_score_scores": 0.5448034902968755,
+      "pick_score_scores": 0.5017322921774412,
+      "vqa_score_scores": 0.49222595591937024,
+      "tifa_score_scores": 0.2776412563131313,
+      "image_reward_score_scores": 0.40964455461757265
+    },
+    "level": 6,
+    "total_descendants": 5
+  },
+  {
+    "name": "memorial",
+    "father": "structure",
+    "definition": "a structure erected to commemorate persons or events",
+    "scores": {
+      "clip_score_scores": 0.5407914023500349,
+      "pick_score_scores": 0.5163839874566372,
+      "vqa_score_scores": 0.5764067616798171,
+      "tifa_score_scores": 0.2440072601010101,
+      "image_reward_score_scores": 0.4529165202829015
+    },
+    "level": 6,
+    "total_descendants": 10
+  },
+  {
+    "name": "mound (structure)",
+    "father": "structure",
+    "definition": "structure consisting of an artificial heap or bank usually of earth or stones",
+    "scores": {
+      "clip_score_scores": 0.5393681835953109,
+      "pick_score_scores": 0.5065969801050897,
+      "vqa_score_scores": 0.5414704053801286,
+      "tifa_score_scores": 0.22292080026455025,
+      "image_reward_score_scores": 0.490660835976657
+    },
+    "level": 6,
+    "total_descendants": 12
+  },
+  {
+    "name": "obstruction",
+    "father": "structure",
+    "definition": "any structure that makes progress difficult",
+    "scores": {
+      "clip_score_scores": 0.5538720933619589,
+      "pick_score_scores": 0.5274844563322322,
+      "vqa_score_scores": 0.5329651460303925,
+      "tifa_score_scores": 0.23879628370141764,
+      "image_reward_score_scores": 0.5148403550105417
+    },
+    "level": 6,
+    "total_descendants": 99
+  },
+  {
+    "name": "partition",
+    "father": "structure",
+    "definition": "a vertical structure that divides or separates (as a wall divides one room from another)",
+    "scores": {
+      "clip_score_scores": 0.5292816689821565,
+      "pick_score_scores": 0.4984999047062957,
+      "vqa_score_scores": 0.5072386815930608,
+      "tifa_score_scores": 0.19448370944898719,
+      "image_reward_score_scores": 0.4167940197931208
+    },
+    "level": 6,
+    "total_descendants": 20
+  },
+  {
+    "name": "porch",
+    "father": "structure",
+    "definition": "a structure attached to the exterior of a building often forming a covered entrance",
+    "scores": {
+      "clip_score_scores": 0.5897078731047798,
+      "pick_score_scores": 0.4953313571176651,
+      "vqa_score_scores": 0.5347530752781054,
+      "tifa_score_scores": 0.2954850589225589,
+      "image_reward_score_scores": 0.47862951761211264
+    },
+    "level": 6,
+    "total_descendants": 9
+  },
+  {
+    "name": "projection (structure)",
+    "father": "structure",
+    "definition": "any structure that branches out from a central support",
+    "scores": {
+      "clip_score_scores": 0.559057829859056,
+      "pick_score_scores": 0.5081840119013227,
+      "vqa_score_scores": 0.5768694310850653,
+      "tifa_score_scores": 0.263510271364438,
+      "image_reward_score_scores": 0.46688949059137647
+    },
+    "level": 6,
+    "total_descendants": 27
+  },
+  {
+    "name": "shelter (structure)",
+    "father": "structure",
+    "definition": "a structure that provides privacy and protection from danger",
+    "scores": {
+      "clip_score_scores": 0.5518206418573188,
+      "pick_score_scores": 0.5170766950884305,
+      "vqa_score_scores": 0.5076135754748408,
+      "tifa_score_scores": 0.2671993897306397,
+      "image_reward_score_scores": 0.41181903539213716
+    },
+    "level": 6,
+    "total_descendants": 39
+  },
+  {
+    "name": "signboard",
+    "father": "structure",
+    "definition": "structure displaying a board on which advertisements can be posted",
+    "scores": {
+      "clip_score_scores": 0.5509044836257688,
+      "pick_score_scores": 0.4989615966244587,
+      "vqa_score_scores": 0.6447461381975045,
+      "tifa_score_scores": 0.2710396825396825,
+      "image_reward_score_scores": 0.4583800326744136
+    },
+    "level": 6,
+    "total_descendants": 4
+  },
+  {
+    "name": "stadium",
+    "father": "structure",
+    "definition": "a large structure for open-air sports or entertainments",
+    "scores": {
+      "clip_score_scores": 0.5514165229453859,
+      "pick_score_scores": 0.5549888150397655,
+      "vqa_score_scores": 0.5663064615245348,
+      "tifa_score_scores": 0.19010416666666666,
+      "image_reward_score_scores": 0.5384415302243856
+    },
+    "level": 6,
+    "total_descendants": 8
+  },
+  {
+    "name": "supporting structure",
+    "father": "structure",
+    "definition": "a structure that serves to support something",
+    "scores": {
+      "clip_score_scores": 0.5444569412435718,
+      "pick_score_scores": 0.5123610362615576,
+      "vqa_score_scores": 0.5925197808387305,
+      "tifa_score_scores": 0.30397850394076126,
+      "image_reward_score_scores": 0.48188844471285636
+    },
+    "level": 6,
+    "total_descendants": 110
+  },
+  {
+    "name": "tower",
+    "father": "structure",
+    "definition": "a structure taller than its diameter; can stand alone or be attached to a larger building",
+    "scores": {
+      "clip_score_scores": 0.5738094998247834,
+      "pick_score_scores": 0.5327126583590878,
+      "vqa_score_scores": 0.581295898513453,
+      "tifa_score_scores": 0.342405685644322,
+      "image_reward_score_scores": 0.49588327075671973
+    },
+    "level": 6,
+    "total_descendants": 19
+  },
+  {
+    "name": "board (surface)",
+    "father": "surface (artifact)",
+    "definition": "a flat portable surface (usually rectangular) designed for board games",
+    "scores": {
+      "clip_score_scores": 0.5919010890799093,
+      "pick_score_scores": 0.4942142082798618,
+      "vqa_score_scores": 0.5326192043526102,
+      "tifa_score_scores": 0.3292214305755972,
+      "image_reward_score_scores": 0.4673196704348442
+    },
+    "level": 6,
+    "total_descendants": 10
+  },
+  {
+    "name": "horizontal surface",
+    "father": "surface (artifact)",
+    "definition": "a flat surface at right angles to a plumb line",
+    "scores": {
+      "clip_score_scores": 0.5454886274827526,
+      "pick_score_scores": 0.5225047025357358,
+      "vqa_score_scores": 0.5462419256621435,
+      "tifa_score_scores": 0.2576658147279675,
+      "image_reward_score_scores": 0.48951058089667165
+    },
+    "level": 6,
+    "total_descendants": 71
+  },
+  {
+    "name": "side (surface)",
+    "father": "surface (artifact)",
+    "definition": "an extended outer surface of an object",
+    "scores": {
+      "clip_score_scores": 0.5596126470451938,
+      "pick_score_scores": 0.5143356893288082,
+      "vqa_score_scores": 0.5447790911031039,
+      "tifa_score_scores": 0.27674609755752283,
+      "image_reward_score_scores": 0.49091311561571654
+    },
+    "level": 6,
+    "total_descendants": 43
+  },
+  {
+    "name": "vertical surface",
+    "father": "surface (artifact)",
+    "definition": "a surface that is vertical",
+    "scores": {
+      "clip_score_scores": 0.5390927495990866,
+      "pick_score_scores": 0.43833454889082096,
+      "vqa_score_scores": 0.5571632891450224,
+      "tifa_score_scores": 0.3145833333333333,
+      "image_reward_score_scores": 0.5200728848907407
+    },
+    "level": 6,
+    "total_descendants": 3
+  },
+  {
+    "name": "work surface",
+    "father": "surface (artifact)",
+    "definition": "a horizontal surface for supporting objects used in working or playing games",
+    "scores": {
+      "clip_score_scores": 0.6005985934891478,
+      "pick_score_scores": 0.5636133270426517,
+      "vqa_score_scores": 0.5927694054826409,
+      "tifa_score_scores": 0.41447916666666673,
+      "image_reward_score_scores": 0.42651488321293546
+    },
+    "level": 6,
+    "total_descendants": 5
+  },
+  {
+    "name": "pill (thing)",
+    "father": "thing",
+    "definition": "something that resembles a tablet of medicine in shape or size",
+    "scores": {
+      "clip_score_scores": 0.5625917274228585,
+      "pick_score_scores": 0.5053217089639468,
+      "vqa_score_scores": 0.5780509036663037,
+      "tifa_score_scores": 0.19576704545454543,
+      "image_reward_score_scores": 0.4210911998316502
+    },
+    "level": 6,
+    "total_descendants": 2
+  },
+  {
+    "name": "railroad track",
+    "father": "track (artifact)",
+    "definition": "a line of track providing a runway for wheels",
+    "scores": {
+      "clip_score_scores": 0.5540226516664213,
+      "pick_score_scores": 0.4864607077337385,
+      "vqa_score_scores": 0.5279530053026955,
+      "tifa_score_scores": 0.20674242424242428,
+      "image_reward_score_scores": 0.4512811959882784
+    },
+    "level": 6,
+    "total_descendants": 6
+  },
+  {
+    "name": "access",
+    "father": "way",
+    "definition": "a way of entering or leaving",
+    "scores": {
+      "clip_score_scores": 0.5422638175795529,
+      "pick_score_scores": 0.5127874692161782,
+      "vqa_score_scores": 0.5242445663127266,
+      "tifa_score_scores": 0.2712109871031746,
+      "image_reward_score_scores": 0.5206613419695687
+    },
+    "level": 6,
+    "total_descendants": 17
+  },
+  {
+    "name": "passage",
+    "father": "way",
+    "definition": "a way through or along which someone or something may pass",
+    "scores": {
+      "clip_score_scores": 0.5112758595537011,
+      "pick_score_scores": 0.5170170582590972,
+      "vqa_score_scores": 0.559508105150816,
+      "tifa_score_scores": 0.23950964882107406,
+      "image_reward_score_scores": 0.4887940294928251
+    },
+    "level": 6,
+    "total_descendants": 132
+  },
+  {
+    "name": "path",
+    "father": "way",
+    "definition": "a way especially designed for a particular use",
+    "scores": {
+      "clip_score_scores": 0.5547388110569487,
+      "pick_score_scores": 0.5195313546110071,
+      "vqa_score_scores": 0.5264987251922085,
+      "tifa_score_scores": 0.2789717863155364,
+      "image_reward_score_scores": 0.4857268291119887
+    },
+    "level": 6,
+    "total_descendants": 26
+  },
+  {
+    "name": "road",
+    "father": "way",
+    "definition": "an open way (generally public) for travel or transportation",
+    "scores": {
+      "clip_score_scores": 0.5383706774884962,
+      "pick_score_scores": 0.49860857382607526,
+      "vqa_score_scores": 0.5084218180625296,
+      "tifa_score_scores": 0.24378083723669045,
+      "image_reward_score_scores": 0.47193844741725666
+    },
+    "level": 6,
+    "total_descendants": 55
+  },
+  {
+    "name": "stairway",
+    "father": "way",
+    "definition": "a way of access (upward and downward) consisting of a set of steps",
+    "scores": {
+      "clip_score_scores": 0.5993356855892717,
+      "pick_score_scores": 0.5266255601064562,
+      "vqa_score_scores": 0.6401369686246092,
+      "tifa_score_scores": 0.32342600108225106,
+      "image_reward_score_scores": 0.5587035028202529
+    },
+    "level": 6,
+    "total_descendants": 19
+  },
+  {
+    "name": "watercourse",
+    "father": "way",
+    "definition": "a conduit through which water flows",
+    "scores": {
+      "clip_score_scores": 0.47547717373256715,
+      "pick_score_scores": 0.49558027007886557,
+      "vqa_score_scores": 0.4327560117615658,
+      "tifa_score_scores": 0.21142691798941796,
+      "image_reward_score_scores": 0.3928715601504645
+    },
+    "level": 6,
+    "total_descendants": 8
+  },
+  {
+    "name": "bob (weight)",
+    "father": "weight (artifact)",
+    "definition": "a hanging weight, especially a metal ball on a string",
+    "scores": {
+      "clip_score_scores": 0.54297557636411,
+      "pick_score_scores": 0.4944806822505257,
+      "vqa_score_scores": 0.5548131445263197,
+      "tifa_score_scores": 0.1713888888888889,
+      "image_reward_score_scores": 0.3792324632553013
+    },
+    "level": 6,
+    "total_descendants": 3
+  },
+  {
+    "name": "counterweight",
+    "father": "weight (artifact)",
+    "definition": "a weight that balances another weight",
+    "scores": {
+      "clip_score_scores": 0.6152023230960988,
+      "pick_score_scores": 0.5491519426256867,
+      "vqa_score_scores": 0.5992171926341956,
+      "tifa_score_scores": 0.24238636363636362,
+      "image_reward_score_scores": 0.5793794629135387
+    },
+    "level": 6,
+    "total_descendants": 2
+  },
+  {
+    "name": "load (weight)",
+    "father": "weight (artifact)",
+    "definition": "weight to be borne or conveyed",
+    "scores": {
+      "clip_score_scores": 0.5108986588203486,
+      "pick_score_scores": 0.4971347793431229,
+      "vqa_score_scores": 0.6001263031446761,
+      "tifa_score_scores": 0.20215007215007214,
+      "image_reward_score_scores": 0.4279766822710384
+    },
+    "level": 6,
+    "total_descendants": 4
+  },
+  {
+    "name": "embryonic cell",
+    "father": "cell (living thing)",
+    "definition": "a cell of an embryo",
+    "scores": {
+      "clip_score_scores": 0.550020380042831,
+      "pick_score_scores": 0.49599138533721765,
+      "vqa_score_scores": 0.5519539495245669,
+      "tifa_score_scores": 0.1663661616161616,
+      "image_reward_score_scores": 0.49797606552446894
+    },
+    "level": 6,
+    "total_descendants": 7
+  },
+  {
+    "name": "fiber (cell)",
+    "father": "cell (living thing)",
+    "definition": "any of several elongated, threadlike cells (especially a muscle fiber or a nerve fiber)",
+    "scores": {
+      "clip_score_scores": 0.5595555252333206,
+      "pick_score_scores": 0.4900651519355292,
+      "vqa_score_scores": 0.5191371634732043,
+      "tifa_score_scores": 0.1489583333333333,
+      "image_reward_score_scores": 0.40347842572944304
+    },
+    "level": 6,
+    "total_descendants": 7
+  },
+  {
+    "name": "gametocyte",
+    "father": "cell (living thing)",
+    "definition": "an immature animal or plant cell that develops into a gamete by meiosis",
+    "scores": {
+      "clip_score_scores": 0.578777880334257,
+      "pick_score_scores": 0.5892590822289158,
+      "vqa_score_scores": 0.7131219447608094,
+      "tifa_score_scores": 0.1767857142857143,
+      "image_reward_score_scores": 0.47358285648723203
+    },
+    "level": 6,
+    "total_descendants": 2
+  },
+  {
+    "name": "reproductive cell",
+    "father": "cell (living thing)",
+    "definition": "a spermatozoon or an ovum; a cell responsible for transmitting DNA to the next generation",
+    "scores": {
+      "clip_score_scores": 0.5612853525449664,
+      "pick_score_scores": 0.5482161885547463,
+      "vqa_score_scores": 0.4634910909766536,
+      "tifa_score_scores": 0.16893378674070636,
+      "image_reward_score_scores": 0.45138106157007385
+    },
+    "level": 6,
+    "total_descendants": 15
+  },
+  {
+    "name": "somatic cell",
+    "father": "cell (living thing)",
+    "definition": "any of the cells of a plant or animal except the reproductive cells; a cell that does not participate in the production of gametes",
+    "scores": {
+      "clip_score_scores": 0.5416048724821105,
+      "pick_score_scores": 0.5076635385008459,
+      "vqa_score_scores": 0.5350181444433584,
+      "tifa_score_scores": 0.21172014628662914,
+      "image_reward_score_scores": 0.45305044841606223
+    },
+    "level": 6,
+    "total_descendants": 80
+  },
+  {
+    "name": "zygote",
+    "father": "cell (living thing)",
+    "definition": "(genetics) the diploid cell resulting from the union of a haploid spermatozoon and ovum (including the organism that develops from that cell)",
+    "scores": {
+      "clip_score_scores": 0.5336828748571895,
+      "pick_score_scores": 0.4604859471482014,
+      "vqa_score_scores": 0.5952480615085506,
+      "tifa_score_scores": 0.2187962962962963,
+      "image_reward_score_scores": 0.42310261667489746
+    },
+    "level": 6,
+    "total_descendants": 2
+  },
+  {
+    "name": "animal",
+    "father": "organism",
+    "definition": "a living organism characterized by voluntary movement",
+    "scores": {
+      "clip_score_scores": 0.5402475536802155,
+      "pick_score_scores": 0.49678248923364665,
+      "vqa_score_scores": 0.5472457914038559,
+      "tifa_score_scores": 0.22786778091958357,
+      "image_reward_score_scores": 0.4522712649525663
+    },
+    "level": 6,
+    "total_descendants": 3930
+  },
+  {
+    "name": "fungus",
+    "father": "organism",
+    "definition": "an organism of the kingdom Fungi lacking chlorophyll and feeding on organic matter; ranging from unicellular or multicellular organisms to spore-bearing syncytia",
+    "scores": {
+      "clip_score_scores": 0.5488205020077416,
+      "pick_score_scores": 0.5162789944447246,
+      "vqa_score_scores": 0.5443326317049813,
+      "tifa_score_scores": 0.22729225569846065,
+      "image_reward_score_scores": 0.46426296313884774
+    },
+    "level": 6,
+    "total_descendants": 304
+  },
+  {
+    "name": "host (organism)",
+    "father": "organism",
+    "definition": "an animal or plant that nourishes and supports a parasite; it does not benefit and is often harmed by the association",
+    "scores": {
+      "clip_score_scores": 0.5112353542097343,
+      "pick_score_scores": 0.530042784876542,
+      "vqa_score_scores": 0.5436495575303615,
+      "tifa_score_scores": 0.25227272727272726,
+      "image_reward_score_scores": 0.43797192045356165
+    },
+    "level": 6,
+    "total_descendants": 2
+  },
+  {
+    "name": "hybrid",
+    "father": "organism",
+    "definition": "(genetics) an organism that is the offspring of genetically dissimilar parents or stock; especially offspring produced by breeding plants or animals of different varieties or breeds or species",
+    "scores": {
+      "clip_score_scores": 0.5338736335940134,
+      "pick_score_scores": 0.5025296850126568,
+      "vqa_score_scores": 0.6294557610016737,
+      "tifa_score_scores": 0.11492003367003367,
+      "image_reward_score_scores": 0.411661998593243
+    },
+    "level": 6,
+    "total_descendants": 2
+  },
+  {
+    "name": "microorganism",
+    "father": "organism",
+    "definition": "any organism of microscopic size",
+    "scores": {
+      "clip_score_scores": 0.5832474105095138,
+      "pick_score_scores": 0.5500773976427413,
+      "vqa_score_scores": 0.6048580733896946,
+      "tifa_score_scores": 0.22870949573148064,
+      "image_reward_score_scores": 0.4934286329504485
+    },
+    "level": 6,
+    "total_descendants": 255
+  },
+  {
+    "name": "mutant (organism)",
+    "father": "organism",
+    "definition": "(biology) an organism that has characteristics resulting from chromosomal alteration",
+    "scores": {
+      "clip_score_scores": 0.49904562009062914,
+      "pick_score_scores": 0.5185068976592162,
+      "vqa_score_scores": 0.5821558666837703,
+      "tifa_score_scores": 0.2531597222222222,
+      "image_reward_score_scores": 0.41480817219613486
+    },
+    "level": 6,
+    "total_descendants": 2
+  },
+  {
+    "name": "nonvascular organism",
+    "father": "organism",
+    "definition": "organisms without vascular tissue: e.g. algae, lichens, fungi, mosses",
+    "scores": {
+      "clip_score_scores": 0.5583618642913486,
+      "pick_score_scores": 0.5214419500462084,
+      "vqa_score_scores": 0.6453582481669222,
+      "tifa_score_scores": 0.2601934022767356,
+      "image_reward_score_scores": 0.3646273351392212
+    },
+    "level": 6,
+    "total_descendants": 9
+  },
+  {
+    "name": "parasite",
+    "father": "organism",
+    "definition": "an animal or plant that lives in or on a host (another animal or plant); it obtains nourishment from the host without benefiting or killing the host",
+    "scores": {
+      "clip_score_scores": 0.5482233572767256,
+      "pick_score_scores": 0.5245593917398732,
+      "vqa_score_scores": 0.5667697369212245,
+      "tifa_score_scores": 0.2532688792688793,
+      "image_reward_score_scores": 0.4819721623813302
+    },
+    "level": 6,
+    "total_descendants": 18
+  },
+  {
+    "name": "person (causal agent)",
+    "father": "organism",
+    "definition": "a human being",
+    "scores": {
+      "clip_score_scores": 0.5459959192136359,
+      "pick_score_scores": 0.5067097612848018,
+      "vqa_score_scores": 0.5539895852700466,
+      "tifa_score_scores": 0.21082971616218799,
+      "image_reward_score_scores": 0.47535697711121666
+    },
+    "level": 6,
+    "total_descendants": 6874
+  },
+  {
+    "name": "plant (organism)",
+    "father": "organism",
+    "definition": "(botany) a living organism lacking the power of locomotion",
+    "scores": {
+      "clip_score_scores": 0.5301176500374619,
+      "pick_score_scores": 0.5013687555164835,
+      "vqa_score_scores": 0.5404777532644213,
+      "tifa_score_scores": 0.20718063210476578,
+      "image_reward_score_scores": 0.4564899066131753
+    },
+    "level": 6,
+    "total_descendants": 4237
+  },
+  {
+    "name": "sex chromosome",
+    "father": "chromosome",
+    "definition": "(genetics) a chromosome that determines the sex of an individual",
+    "scores": {
+      "clip_score_scores": 0.5774310409417664,
+      "pick_score_scores": 0.47711716829588,
+      "vqa_score_scores": 0.528795140565468,
+      "tifa_score_scores": 0.23230916305916302,
+      "image_reward_score_scores": 0.4745652660141646
+    },
+    "level": 6,
+    "total_descendants": 7
+  },
+  {
+    "name": "drift (mass)",
+    "father": "mass",
+    "definition": "a large mass of material that is heaped up by the wind or by water currents",
+    "scores": {
+      "clip_score_scores": 0.5402366422379992,
+      "pick_score_scores": 0.47455707465903724,
+      "vqa_score_scores": 0.4807693781375988,
+      "tifa_score_scores": 0.16168981481481481,
+      "image_reward_score_scores": 0.4517813857777917
+    },
+    "level": 6,
+    "total_descendants": 2
+  },
+  {
+    "name": "boson",
+    "father": "particle",
+    "definition": "any particle that obeys Bose-Einstein statistics but not the Pauli exclusion principle; all nuclei with an even mass number are bosons",
+    "scores": {
+      "clip_score_scores": 0.44782479924445084,
+      "pick_score_scores": 0.507517990708654,
+      "vqa_score_scores": 0.5589829180504289,
+      "tifa_score_scores": 0.18231481481481482,
+      "image_reward_score_scores": 0.5468926999251906
+    },
+    "level": 6,
+    "total_descendants": 5
+  },
+  {
+    "name": "elementary particle",
+    "father": "particle",
+    "definition": "(physics) a particle that is less complex than an atom; regarded as constituents of all matter",
+    "scores": {
+      "clip_score_scores": 0.5608752094414692,
+      "pick_score_scores": 0.5158585299175448,
+      "vqa_score_scores": 0.5354243919230851,
+      "tifa_score_scores": 0.21831557765151513,
+      "image_reward_score_scores": 0.44845468420875556
+    },
+    "level": 6,
+    "total_descendants": 25
+  },
+  {
+    "name": "fermion",
+    "father": "particle",
+    "definition": "any particle that obeys Fermi-Dirac statistics and is subject to the Pauli exclusion principle",
+    "scores": {
+      "clip_score_scores": 0.543196493189421,
+      "pick_score_scores": 0.4885676641512588,
+      "vqa_score_scores": 0.4192436231551822,
+      "tifa_score_scores": 0.22967648709315377,
+      "image_reward_score_scores": 0.5320169964332729
+    },
+    "level": 6,
+    "total_descendants": 17
+  },
+  {
+    "name": "ion",
+    "father": "particle",
+    "definition": "a particle that is electrically charged (positive or negative); an atom or molecule or group that has lost or gained one or more electrons",
+    "scores": {
+      "clip_score_scores": 0.5462785076249954,
+      "pick_score_scores": 0.520300051552457,
+      "vqa_score_scores": 0.4976496142256781,
+      "tifa_score_scores": 0.22015151515151515,
+      "image_reward_score_scores": 0.42032385151139384
+    },
+    "level": 6,
+    "total_descendants": 6
+  },
+  {
+    "name": "minor planet",
+    "father": "celestial body",
+    "definition": "any of numerous small celestial bodies that move around the sun",
+    "scores": {
+      "clip_score_scores": 0.5770578261017989,
+      "pick_score_scores": 0.5121270113355887,
+      "vqa_score_scores": 0.5938298112414461,
+      "tifa_score_scores": 0.2535612373737373,
+      "image_reward_score_scores": 0.5722201705037349
+    },
+    "level": 6,
+    "total_descendants": 3
+  },
+  {
+    "name": "satellite (celestial body)",
+    "father": "celestial body",
+    "definition": "any celestial body orbiting around a planet or star",
+    "scores": {
+      "clip_score_scores": 0.5401863561480402,
+      "pick_score_scores": 0.5337136929460581,
+      "vqa_score_scores": 0.5501961120236767,
+      "tifa_score_scores": 0.18357503607503609,
+      "image_reward_score_scores": 0.509549700285934
+    },
+    "level": 6,
+    "total_descendants": 2
+  },
+  {
+    "name": "bark (covering)",
+    "father": "covering (natural object)",
+    "definition": "tough protective covering of the woody stems and roots of trees and other woody plants",
+    "scores": {
+      "clip_score_scores": 0.5538046858863094,
+      "pick_score_scores": 0.49013631355522863,
+      "vqa_score_scores": 0.5059227353676071,
+      "tifa_score_scores": 0.2631502024210358,
+      "image_reward_score_scores": 0.44958231586309266
+    },
+    "level": 6,
+    "total_descendants": 15
+  },
+  {
+    "name": "body covering",
+    "father": "covering (natural object)",
+    "definition": "any covering for the body or a body part",
+    "scores": {
+      "clip_score_scores": 0.5420753539068925,
+      "pick_score_scores": 0.5249878851852733,
+      "vqa_score_scores": 0.5417973526159318,
+      "tifa_score_scores": 0.22590934822103823,
+      "image_reward_score_scores": 0.5051833679916151
+    },
+    "level": 6,
+    "total_descendants": 104
+  },
+  {
+    "name": "pericarp",
+    "father": "covering (natural object)",
+    "definition": "the ripened and variously modified walls of a plant ovary",
+    "scores": {
+      "clip_score_scores": 0.5262718229928207,
+      "pick_score_scores": 0.5046170450804717,
+      "vqa_score_scores": 0.5724054418725805,
+      "tifa_score_scores": 0.21480140692640695,
+      "image_reward_score_scores": 0.48456827541997216
+    },
+    "level": 6,
+    "total_descendants": 12
+  },
+  {
+    "name": "scale (covering)",
+    "father": "covering (natural object)",
+    "definition": "a flattened rigid plate forming part of the body covering of many animals",
+    "scores": {
+      "clip_score_scores": 0.5836508687416877,
+      "pick_score_scores": 0.5780930535582413,
+      "vqa_score_scores": 0.47331633814173885,
+      "tifa_score_scores": 0.3070707070707071,
+      "image_reward_score_scores": 0.49656558678997137
+    },
+    "level": 6,
+    "total_descendants": 3
+  },
+  {
+    "name": "sheath (covering)",
+    "father": "covering (natural object)",
+    "definition": "an enveloping structure or covering enclosing an animal or plant organ or part",
+    "scores": {
+      "clip_score_scores": 0.5089281862372922,
+      "pick_score_scores": 0.5372918078521809,
+      "vqa_score_scores": 0.5284813609120271,
+      "tifa_score_scores": 0.218822352994228,
+      "image_reward_score_scores": 0.44911180487596014
+    },
+    "level": 6,
+    "total_descendants": 18
+  },
+  {
+    "name": "meteoroid",
+    "father": "extraterrestrial object",
+    "definition": "(astronomy) any of the small solid extraterrestrial bodies that hits the earth's atmosphere",
+    "scores": {
+      "clip_score_scores": 0.5350174992992565,
+      "pick_score_scores": 0.5123727284412525,
+      "vqa_score_scores": 0.5364993710145637,
+      "tifa_score_scores": 0.18560369318181819,
+      "image_reward_score_scores": 0.5320178062411105
+    },
+    "level": 6,
+    "total_descendants": 6
+  },
+  {
+    "name": "barrier (mechanism)",
+    "father": "mechanism (natural object)",
+    "definition": "anything serving to maintain separation by obstructing vision or access",
+    "scores": {
+      "clip_score_scores": 0.5351198664503687,
+      "pick_score_scores": 0.5033356654410368,
+      "vqa_score_scores": 0.5266323682032169,
+      "tifa_score_scores": 0.24865891053391054,
+      "image_reward_score_scores": 0.42377025866478546
+    },
+    "level": 6,
+    "total_descendants": 4
+  },
+  {
+    "name": "transmission mechanism",
+    "father": "mechanism (natural object)",
+    "definition": "any mechanism whereby an infectious agent is spread from a reservoir to a human being",
+    "scores": {
+      "clip_score_scores": 0.5636148509731157,
+      "pick_score_scores": 0.48468216061795194,
+      "vqa_score_scores": 0.5140984567496817,
+      "tifa_score_scores": 0.26600754569504564,
+      "image_reward_score_scores": 0.4282798256141602
+    },
+    "level": 6,
+    "total_descendants": 5
+  },
+  {
+    "name": "plant organ",
+    "father": "plant part",
+    "definition": "a functional and structural unit of a plant or fungus",
+    "scores": {
+      "clip_score_scores": 0.530942764954465,
+      "pick_score_scores": 0.5176276727280564,
+      "vqa_score_scores": 0.5274758994193475,
+      "tifa_score_scores": 0.26159586284401665,
+      "image_reward_score_scores": 0.4992038067745925
+    },
+    "level": 6,
+    "total_descendants": 595
+  },
+  {
+    "name": "plant tissue",
+    "father": "plant part",
+    "definition": "the tissue of a plant",
+    "scores": {
+      "clip_score_scores": 0.5280516966124708,
+      "pick_score_scores": 0.49738931643401924,
+      "vqa_score_scores": 0.5268957977112462,
+      "tifa_score_scores": 0.2302039130975763,
+      "image_reward_score_scores": 0.4312696263180343
+    },
+    "level": 6,
+    "total_descendants": 33
+  },
+  {
+    "name": "veil",
+    "father": "plant part",
+    "definition": "a membranous covering attached to the immature fruiting body of certain mushrooms",
+    "scores": {
+      "clip_score_scores": 0.5568351703116409,
+      "pick_score_scores": 0.5107829540839756,
+      "vqa_score_scores": 0.46236441225405667,
+      "tifa_score_scores": 0.23113636363636367,
+      "image_reward_score_scores": 0.4319038401814628
+    },
+    "level": 6,
+    "total_descendants": 3
+  },
+  {
+    "name": "boulder",
+    "father": "rock (natural object)",
+    "definition": "a large smooth mass of rock detached from its place of origin",
+    "scores": {
+      "clip_score_scores": 0.5684972559858493,
+      "pick_score_scores": 0.6058225501251497,
+      "vqa_score_scores": 0.6114239545913152,
+      "tifa_score_scores": 0.41921717171717177,
+      "image_reward_score_scores": 0.4156224593484948
+    },
+    "level": 6,
+    "total_descendants": 3
+  },
+  {
+    "name": "calculus",
+    "father": "rock (natural object)",
+    "definition": "a hard lump produced by the concretion of mineral salts; found in hollow organs or ducts of the body",
+    "scores": {
+      "clip_score_scores": 0.5601179171956848,
+      "pick_score_scores": 0.5414291447060199,
+      "vqa_score_scores": 0.4888375072504899,
+      "tifa_score_scores": 0.22489615543186975,
+      "image_reward_score_scores": 0.5235468713708197
+    },
+    "level": 6,
+    "total_descendants": 7
+  },
+  {
+    "name": "outcrop",
+    "father": "rock (natural object)",
+    "definition": "the part of a rock formation that appears above the surface of the surrounding land",
+    "scores": {
+      "clip_score_scores": 0.5096075150171963,
+      "pick_score_scores": 0.5513397744145065,
+      "vqa_score_scores": 0.5069727733696694,
+      "tifa_score_scores": 0.17975378787878787,
+      "image_reward_score_scores": 0.47969140691538903
+    },
+    "level": 6,
+    "total_descendants": 2
+  },
+  {
+    "name": "specimen",
+    "father": "sample",
+    "definition": "a bit of tissue or blood or urine that is taken for diagnostic purposes",
+    "scores": {
+      "clip_score_scores": 0.5264698401195675,
+      "pick_score_scores": 0.461367439149444,
+      "vqa_score_scores": 0.5135493548294993,
+      "tifa_score_scores": 0.1635660736832612,
+      "image_reward_score_scores": 0.24452439751220856
+    },
+    "level": 6,
+    "total_descendants": 10
+  }
+]

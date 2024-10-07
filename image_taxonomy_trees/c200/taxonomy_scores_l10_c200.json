@@ -1,0 +1,100 @@
+[
+  {
+    "name": "fish",
+    "father": "aquatic vertebrate",
+    "definition": "any of various mostly cold-blooded aquatic vertebrates usually having scales and breathing through gills",
+    "scores": {
+      "clip_score_scores": 0.5414106015894165,
+      "pick_score_scores": 0.4876028992622621,
+      "vqa_score_scores": 0.530152549401282,
+      "tifa_score_scores": 0.20318958447555033,
+      "image_reward_score_scores": 0.4306240509347288
+    },
+    "level": 10,
+    "total_descendants": 596
+  },
+  {
+    "name": "aquatic bird",
+    "father": "bird",
+    "definition": "wading and swimming and diving birds of either fresh or salt water",
+    "scores": {
+      "clip_score_scores": 0.5733801993328115,
+      "pick_score_scores": 0.5057304290046124,
+      "vqa_score_scores": 0.5583280023330659,
+      "tifa_score_scores": 0.22443514421804997,
+      "image_reward_score_scores": 0.5110889890394491
+    },
+    "level": 10,
+    "total_descendants": 277
+  },
+  {
+    "name": "passerine",
+    "father": "bird",
+    "definition": "perching birds mostly small and living near the ground with feet having 4 toes arranged to allow for gripping the perch; most are songbirds; hatchlings are helpless",
+    "scores": {
+      "clip_score_scores": 0.5576431624760537,
+      "pick_score_scores": 0.5180509890271241,
+      "vqa_score_scores": 0.5349973716056508,
+      "tifa_score_scores": 0.20770617192350954,
+      "image_reward_score_scores": 0.4737443226541932
+    },
+    "level": 10,
+    "total_descendants": 273
+  },
+  {
+    "name": "placental",
+    "father": "mammal",
+    "definition": "mammals having a placenta; all mammals except monotremes and marsupials",
+    "scores": {
+      "clip_score_scores": 0.557477678709123,
+      "pick_score_scores": 0.5064753200181952,
+      "vqa_score_scores": 0.5481907588966114,
+      "tifa_score_scores": 0.2392887467480063,
+      "image_reward_score_scores": 0.5052615861341261
+    },
+    "level": 10,
+    "total_descendants": 878
+  },
+  {
+    "name": "diapsid",
+    "father": "reptile",
+    "definition": "reptile having a pair of openings in the skull behind each eye",
+    "scores": {
+      "clip_score_scores": 0.5613476287894456,
+      "pick_score_scores": 0.48176337887929027,
+      "vqa_score_scores": 0.5059541520133487,
+      "tifa_score_scores": 0.21050435448817142,
+      "image_reward_score_scores": 0.4893463623475481
+    },
+    "level": 10,
+    "total_descendants": 248
+  },
+  {
+    "name": "flower (angiosperm)",
+    "father": "angiosperm",
+    "definition": "a plant cultivated for its blooms or blossoms",
+    "scores": {
+      "clip_score_scores": 0.5508165501686176,
+      "pick_score_scores": 0.5058542889082392,
+      "vqa_score_scores": 0.5358196820734006,
+      "tifa_score_scores": 0.24770981130318614,
+      "image_reward_score_scores": 0.477034304807267
+    },
+    "level": 10,
+    "total_descendants": 425
+  },
+  {
+    "name": "angiospermous tree",
+    "father": "tree",
+    "definition": "any tree having seeds and ovules contained in the ovary",
+    "scores": {
+      "clip_score_scores": 0.5361069263561141,
+      "pick_score_scores": 0.5070530545642121,
+      "vqa_score_scores": 0.5118220710751105,
+      "tifa_score_scores": 0.21539975498340524,
+      "image_reward_score_scores": 0.4587926827006685
+    },
+    "level": 10,
+    "total_descendants": 308
+  }
+]

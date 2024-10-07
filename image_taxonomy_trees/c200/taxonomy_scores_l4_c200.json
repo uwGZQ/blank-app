@@ -1,0 +1,72 @@
+[
+  {
+    "name": "point (location)",
+    "father": "location (object)",
+    "definition": "the precise location of something; a spatially limited location",
+    "scores": {
+      "clip_score_scores": 0.5514715529751656,
+      "pick_score_scores": 0.5028176611392822,
+      "vqa_score_scores": 0.5620925573673381,
+      "tifa_score_scores": 0.24018556101492308,
+      "image_reward_score_scores": 0.4609444433862588
+    },
+    "level": 4,
+    "total_descendants": 258
+  },
+  {
+    "name": "geographical area",
+    "father": "location (object)",
+    "definition": "a demarcated area of the Earth",
+    "scores": {
+      "clip_score_scores": 0.5360287379055033,
+      "pick_score_scores": 0.5067752523228068,
+      "vqa_score_scores": 0.5456521953616478,
+      "tifa_score_scores": 0.22081610776577457,
+      "image_reward_score_scores": 0.4884355592132263
+    },
+    "level": 4,
+    "total_descendants": 234
+  },
+  {
+    "name": "artifact",
+    "father": "whole",
+    "definition": "a man-made object taken as a whole",
+    "scores": {
+      "clip_score_scores": 0.5497859623835366,
+      "pick_score_scores": 0.5170025425943412,
+      "vqa_score_scores": 0.5604486852058055,
+      "tifa_score_scores": 0.25587187172089965,
+      "image_reward_score_scores": 0.47978177644156844
+    },
+    "level": 4,
+    "total_descendants": 10290
+  },
+  {
+    "name": "living thing",
+    "father": "whole",
+    "definition": "a living (or once living) entity",
+    "scores": {
+      "clip_score_scores": 0.5736181851575499,
+      "pick_score_scores": 0.518276681008533,
+      "vqa_score_scores": 0.5821161922250855,
+      "tifa_score_scores": 0.27179038038006786,
+      "image_reward_score_scores": 0.524735956716874
+    },
+    "level": 4,
+    "total_descendants": 15824
+  },
+  {
+    "name": "natural object",
+    "father": "whole",
+    "definition": "an object occurring naturally; not made by man",
+    "scores": {
+      "clip_score_scores": 0.5433360319300703,
+      "pick_score_scores": 0.5165258817799501,
+      "vqa_score_scores": 0.5634211318321739,
+      "tifa_score_scores": 0.23098592507627347,
+      "image_reward_score_scores": 0.46572841292757844
+    },
+    "level": 4,
+    "total_descendants": 1086
+  }
+]

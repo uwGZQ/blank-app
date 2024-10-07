@@ -1,0 +1,2508 @@
+[
+  {
+    "name": "shell (racing boat)",
+    "father": "racing boat",
+    "definition": "a very light narrow racing boat",
+    "scores": {
+      "clip_score_scores": 0.5722027162518898,
+      "pick_score_scores": 0.502127073372515,
+      "vqa_score_scores": 0.5032289871087405,
+      "tifa_score_scores": 0.2473048941798942,
+      "image_reward_score_scores": 0.4362687242504535
+    },
+    "level": 13,
+    "total_descendants": 2
+  },
+  {
+    "name": "reflecting telescope",
+    "father": "optical telescope",
+    "definition": "optical telescope consisting of a large concave mirror that produces an image that is magnified by the eyepiece",
+    "scores": {
+      "clip_score_scores": 0.5354182418352347,
+      "pick_score_scores": 0.494982773225242,
+      "vqa_score_scores": 0.5161983377807322,
+      "tifa_score_scores": 0.19378684807256233,
+      "image_reward_score_scores": 0.5063860395247285
+    },
+    "level": 13,
+    "total_descendants": 6
+  },
+  {
+    "name": "refracting telescope",
+    "father": "optical telescope",
+    "definition": "optical telescope that has a large convex lens that produces an image that is viewed through the eyepiece",
+    "scores": {
+      "clip_score_scores": 0.5993819830628069,
+      "pick_score_scores": 0.5133761147760971,
+      "vqa_score_scores": 0.614002633735975,
+      "tifa_score_scores": 0.22291666666666665,
+      "image_reward_score_scores": 0.5022281730574445
+    },
+    "level": 13,
+    "total_descendants": 2
+  },
+  {
+    "name": "machine gun",
+    "father": "automatic firearm",
+    "definition": "a rapidly firing automatic gun (often mounted)",
+    "scores": {
+      "clip_score_scores": 0.5225324769160472,
+      "pick_score_scores": 0.5055493485054442,
+      "vqa_score_scores": 0.5831435388568992,
+      "tifa_score_scores": 0.20767570546737213,
+      "image_reward_score_scores": 0.49314189167071376
+    },
+    "level": 13,
+    "total_descendants": 15
+  },
+  {
+    "name": "organophosphate nerve agent",
+    "father": "nerve gas",
+    "definition": "any of a series of nerve agents containing organophosphate compounds first synthesized by German chemists in 1936; in World War II the Germans tested them in concentration camps but not on the battlefield; Iraq is alleged to have used them against Iran and against the Kurds",
+    "scores": {
+      "clip_score_scores": 0.5212167222326475,
+      "pick_score_scores": 0.5152865350568153,
+      "vqa_score_scores": 0.5813800782920953,
+      "tifa_score_scores": 0.1713888888888889,
+      "image_reward_score_scores": 0.49857799457024093
+    },
+    "level": 13,
+    "total_descendants": 3
+  },
+  {
+    "name": "turbine",
+    "father": "rotary engine",
+    "definition": "rotary engine in which the kinetic energy of a moving fluid is converted into mechanical energy by causing a bladed rotor to rotate",
+    "scores": {
+      "clip_score_scores": 0.5662834809719391,
+      "pick_score_scores": 0.5633520533110746,
+      "vqa_score_scores": 0.562753718882549,
+      "tifa_score_scores": 0.2814388141620285,
+      "image_reward_score_scores": 0.5248514479500873
+    },
+    "level": 13,
+    "total_descendants": 7
+  },
+  {
+    "name": "battle-ax (broadax)",
+    "father": "broadax",
+    "definition": "a broadax used as a weapon",
+    "scores": {
+      "clip_score_scores": 0.5992760461416959,
+      "pick_score_scores": 0.5310091530792063,
+      "vqa_score_scores": 0.5934068438983162,
+      "tifa_score_scores": 0.15416666666666665,
+      "image_reward_score_scores": 0.5599988616273555
+    },
+    "level": 13,
+    "total_descendants": 2
+  },
+  {
+    "name": "flying fish",
+    "father": "teleost fish",
+    "definition": "tropical marine fishes having enlarged winglike fins used for brief gliding flight",
+    "scores": {
+      "clip_score_scores": 0.5697705107799781,
+      "pick_score_scores": 0.4214222640685327,
+      "vqa_score_scores": 0.5495036027937092,
+      "tifa_score_scores": 0.166875,
+      "image_reward_score_scores": 0.5106085539389136
+    },
+    "level": 13,
+    "total_descendants": 2
+  },
+  {
+    "name": "ganoid",
+    "father": "teleost fish",
+    "definition": "primitive fishes having thick bony scales with a shiny covering",
+    "scores": {
+      "clip_score_scores": 0.5728537273727567,
+      "pick_score_scores": 0.5241478838998381,
+      "vqa_score_scores": 0.5467910324926907,
+      "tifa_score_scores": 0.21160191197691197,
+      "image_reward_score_scores": 0.4888655555341505
+    },
+    "level": 13,
+    "total_descendants": 7
+  },
+  {
+    "name": "pipefish",
+    "father": "teleost fish",
+    "definition": "fish with long tubular snout and slim body covered with bony plates",
+    "scores": {
+      "clip_score_scores": 0.5136768325911781,
+      "pick_score_scores": 0.5204687293257937,
+      "vqa_score_scores": 0.4823978972669306,
+      "tifa_score_scores": 0.2601370851370851,
+      "image_reward_score_scores": 0.4869735607181923
+    },
+    "level": 13,
+    "total_descendants": 3
+  },
+  {
+    "name": "soft-finned fish",
+    "father": "teleost fish",
+    "definition": "any fish of the superorder Malacopterygii",
+    "scores": {
+      "clip_score_scores": 0.5342096962787956,
+      "pick_score_scores": 0.5066687140359855,
+      "vqa_score_scores": 0.4925404424717417,
+      "tifa_score_scores": 0.20417330613465481,
+      "image_reward_score_scores": 0.44681578562070645
+    },
+    "level": 13,
+    "total_descendants": 109
+  },
+  {
+    "name": "spiny-finned fish",
+    "father": "teleost fish",
+    "definition": "a teleost fish with fins that are supported by sharp inflexible rays",
+    "scores": {
+      "clip_score_scores": 0.54352603763084,
+      "pick_score_scores": 0.4950235127241248,
+      "vqa_score_scores": 0.5247857841282072,
+      "tifa_score_scores": 0.2220659408454009,
+      "image_reward_score_scores": 0.4440918734953525
+    },
+    "level": 13,
+    "total_descendants": 316
+  },
+  {
+    "name": "goatfish",
+    "father": "mullet (bottom-feeder)",
+    "definition": "brightly colored tropical fishes with chin barbels",
+    "scores": {
+      "clip_score_scores": 0.5052871526092689,
+      "pick_score_scores": 0.483411183952993,
+      "vqa_score_scores": 0.544052504031982,
+      "tifa_score_scores": 0.21250000000000002,
+      "image_reward_score_scores": 0.5621897681923891
+    },
+    "level": 13,
+    "total_descendants": 2
+  },
+  {
+    "name": "ray (elasmobranch)",
+    "father": "elasmobranch",
+    "definition": "cartilaginous fishes having horizontally flattened bodies and enlarged winglike pectoral fins with gills on the underside; most swim by moving the pectoral fins",
+    "scores": {
+      "clip_score_scores": 0.5440700204796045,
+      "pick_score_scores": 0.5049198712810629,
+      "vqa_score_scores": 0.5253181649061066,
+      "tifa_score_scores": 0.22215921974850544,
+      "image_reward_score_scores": 0.4993768275627281
+    },
+    "level": 13,
+    "total_descendants": 18
+  },
+  {
+    "name": "shark (elasmobranch)",
+    "father": "elasmobranch",
+    "definition": "any of numerous elongate mostly marine carnivorous fishes with heterocercal caudal fins and tough skin covered with small toothlike scales",
+    "scores": {
+      "clip_score_scores": 0.5780629426629397,
+      "pick_score_scores": 0.5013268796078789,
+      "vqa_score_scores": 0.530097180014772,
+      "tifa_score_scores": 0.2039283822471954,
+      "image_reward_score_scores": 0.49494172175071127
+    },
+    "level": 13,
+    "total_descendants": 39
+  },
+  {
+    "name": "grouper",
+    "father": "sea bass",
+    "definition": "usually solitary bottom sea basses of warm seas",
+    "scores": {
+      "clip_score_scores": 0.5288769824187615,
+      "pick_score_scores": 0.43765123847223425,
+      "vqa_score_scores": 0.4474132468913392,
+      "tifa_score_scores": 0.16804713804713803,
+      "image_reward_score_scores": 0.4292411041833417
+    },
+    "level": 13,
+    "total_descendants": 5
+  },
+  {
+    "name": "guillemot",
+    "father": "auk",
+    "definition": "small black or brown speckled auks of northern seas",
+    "scores": {
+      "clip_score_scores": 0.5752910884765654,
+      "pick_score_scores": 0.5205199910561523,
+      "vqa_score_scores": 0.4264204174795313,
+      "tifa_score_scores": 0.21001848845598847,
+      "image_reward_score_scores": 0.48226930233601994
+    },
+    "level": 13,
+    "total_descendants": 5
+  },
+  {
+    "name": "jaeger",
+    "father": "coastal diving bird",
+    "definition": "rapacious seabird that pursues weaker birds to make them drop their prey",
+    "scores": {
+      "clip_score_scores": 0.5200732296237413,
+      "pick_score_scores": 0.4809886282422306,
+      "vqa_score_scores": 0.5341637633931143,
+      "tifa_score_scores": 0.14965277777777777,
+      "image_reward_score_scores": 0.5214734576198321
+    },
+    "level": 13,
+    "total_descendants": 3
+  },
+  {
+    "name": "larid",
+    "father": "coastal diving bird",
+    "definition": "long-winged web-footed aquatic bird of the gull family",
+    "scores": {
+      "clip_score_scores": 0.5783346997409297,
+      "pick_score_scores": 0.5074241123568859,
+      "vqa_score_scores": 0.6157354432984768,
+      "tifa_score_scores": 0.21129429212762543,
+      "image_reward_score_scores": 0.4839048350832345
+    },
+    "level": 13,
+    "total_descendants": 9
+  },
+  {
+    "name": "albatross",
+    "father": "pelagic bird",
+    "definition": "large web-footed birds of the southern hemisphere having long narrow wings; noted for powerful gliding flight",
+    "scores": {
+      "clip_score_scores": 0.5364707464827497,
+      "pick_score_scores": 0.4760284844874873,
+      "vqa_score_scores": 0.5079161739972583,
+      "tifa_score_scores": 0.1890277777777778,
+      "image_reward_score_scores": 0.43121180960745426
+    },
+    "level": 13,
+    "total_descendants": 2
+  },
+  {
+    "name": "petrel",
+    "father": "pelagic bird",
+    "definition": "relatively small long-winged tube-nosed bird that flies far from land",
+    "scores": {
+      "clip_score_scores": 0.5281317683228258,
+      "pick_score_scores": 0.4447796025638267,
+      "vqa_score_scores": 0.40662487448584406,
+      "tifa_score_scores": 0.194021164021164,
+      "image_reward_score_scores": 0.35575448699640805
+    },
+    "level": 13,
+    "total_descendants": 8
+  },
+  {
+    "name": "gannet",
+    "father": "pelecaniform seabird",
+    "definition": "large heavily built seabird with a long stout bill noted for its plunging dives for fish",
+    "scores": {
+      "clip_score_scores": 0.5368954819579795,
+      "pick_score_scores": 0.5022580033358011,
+      "vqa_score_scores": 0.647268908129519,
+      "tifa_score_scores": 0.20779822029822034,
+      "image_reward_score_scores": 0.4215016756391119
+    },
+    "level": 13,
+    "total_descendants": 2
+  },
+  {
+    "name": "pelican",
+    "father": "pelecaniform seabird",
+    "definition": "large long-winged warm-water seabird having a large bill with a distensible pouch for fish",
+    "scores": {
+      "clip_score_scores": 0.5983940322846029,
+      "pick_score_scores": 0.47857768328020134,
+      "vqa_score_scores": 0.5597909635126852,
+      "tifa_score_scores": 0.3277777777777778,
+      "image_reward_score_scores": 0.6111094351825677
+    },
+    "level": 13,
+    "total_descendants": 2
+  },
+  {
+    "name": "grebe",
+    "father": "podicipitiform seabird",
+    "definition": "small compact-bodied almost completely aquatic bird that builds floating nests; similar to loons but smaller and with lobate rather than webbed feet",
+    "scores": {
+      "clip_score_scores": 0.5664281224732224,
+      "pick_score_scores": 0.5239541558559881,
+      "vqa_score_scores": 0.5302251614079095,
+      "tifa_score_scores": 0.23648989898989903,
+      "image_reward_score_scores": 0.4272449009948412
+    },
+    "level": 13,
+    "total_descendants": 5
+  },
+  {
+    "name": "penguin",
+    "father": "sphenisciform seabird",
+    "definition": "short-legged flightless birds of cold southern especially Antarctic regions having webbed feet and wings modified as flippers",
+    "scores": {
+      "clip_score_scores": 0.5606806579212084,
+      "pick_score_scores": 0.5318981284993062,
+      "vqa_score_scores": 0.5182674946040374,
+      "tifa_score_scores": 0.21587557118807119,
+      "image_reward_score_scores": 0.5089645071468606
+    },
+    "level": 13,
+    "total_descendants": 5
+  },
+  {
+    "name": "bittern",
+    "father": "heron",
+    "definition": "relatively small compact tawny-brown heron with nocturnal habits and a booming cry; found in marshes",
+    "scores": {
+      "clip_score_scores": 0.5756347166296656,
+      "pick_score_scores": 0.4781831152655249,
+      "vqa_score_scores": 0.6318285629031661,
+      "tifa_score_scores": 0.20120370370370372,
+      "image_reward_score_scores": 0.45809892041889266
+    },
+    "level": 13,
+    "total_descendants": 3
+  },
+  {
+    "name": "egret",
+    "father": "heron",
+    "definition": "any of various usually white herons having long plumes during breeding season",
+    "scores": {
+      "clip_score_scores": 0.6308101396099075,
+      "pick_score_scores": 0.5516050469443265,
+      "vqa_score_scores": 0.6528806489866037,
+      "tifa_score_scores": 0.27450892857142856,
+      "image_reward_score_scores": 0.4784044830069536
+    },
+    "level": 13,
+    "total_descendants": 5
+  },
+  {
+    "name": "night heron",
+    "father": "heron",
+    "definition": "nocturnal or crepuscular herons",
+    "scores": {
+      "clip_score_scores": 0.5902299019107106,
+      "pick_score_scores": 0.4248072948405269,
+      "vqa_score_scores": 0.4599692513041668,
+      "tifa_score_scores": 0.14728174603174604,
+      "image_reward_score_scores": 0.4685060957218577
+    },
+    "level": 13,
+    "total_descendants": 2
+  },
+  {
+    "name": "coot",
+    "father": "rail (wading bird)",
+    "definition": "slate-black slow-flying birds somewhat resembling ducks",
+    "scores": {
+      "clip_score_scores": 0.5466644373166785,
+      "pick_score_scores": 0.4992236090107835,
+      "vqa_score_scores": 0.44899050965042253,
+      "tifa_score_scores": 0.1688888888888889,
+      "image_reward_score_scores": 0.38254872646550053
+    },
+    "level": 13,
+    "total_descendants": 2
+  },
+  {
+    "name": "crake",
+    "father": "rail (wading bird)",
+    "definition": "any of several short-billed Old World rails",
+    "scores": {
+      "clip_score_scores": 0.5330956749121262,
+      "pick_score_scores": 0.46766350896422143,
+      "vqa_score_scores": 0.4362112763375378,
+      "tifa_score_scores": 0.18690800865800863,
+      "image_reward_score_scores": 0.4266859461655652
+    },
+    "level": 13,
+    "total_descendants": 2
+  },
+  {
+    "name": "courser (shorebird)",
+    "father": "shorebird",
+    "definition": "swift-footed terrestrial plover-like bird of southern Asia and Africa; related to the pratincoles",
+    "scores": {
+      "clip_score_scores": 0.574570135289108,
+      "pick_score_scores": 0.5231822058865946,
+      "vqa_score_scores": 0.5601292412591471,
+      "tifa_score_scores": 0.2839015151515152,
+      "image_reward_score_scores": 0.5286553264925875
+    },
+    "level": 13,
+    "total_descendants": 2
+  },
+  {
+    "name": "curlew",
+    "father": "shorebird",
+    "definition": "large migratory shorebirds of the sandpiper family; closely related to woodcocks but having a down-curved bill",
+    "scores": {
+      "clip_score_scores": 0.5767298301267227,
+      "pick_score_scores": 0.47869306280655066,
+      "vqa_score_scores": 0.4907729044976415,
+      "tifa_score_scores": 0.23,
+      "image_reward_score_scores": 0.43317705603845247
+    },
+    "level": 13,
+    "total_descendants": 2
+  },
+  {
+    "name": "phalarope",
+    "father": "shorebird",
+    "definition": "small sandpiper-like shorebird having lobate toes and being good swimmers; breed in the Arctic and winter in the tropics",
+    "scores": {
+      "clip_score_scores": 0.5684473971196158,
+      "pick_score_scores": 0.5271711842597439,
+      "vqa_score_scores": 0.571365169795798,
+      "tifa_score_scores": 0.21598710317460318,
+      "image_reward_score_scores": 0.5551101843629825
+    },
+    "level": 13,
+    "total_descendants": 3
+  },
+  {
+    "name": "plover",
+    "father": "shorebird",
+    "definition": "any of numerous chiefly shorebirds of relatively compact build having straight bills and large pointed wings; closely related to the sandpipers",
+    "scores": {
+      "clip_score_scores": 0.6017176906079108,
+      "pick_score_scores": 0.5062245272793839,
+      "vqa_score_scores": 0.5626804812566263,
+      "tifa_score_scores": 0.221141975308642,
+      "image_reward_score_scores": 0.4915801798613802
+    },
+    "level": 13,
+    "total_descendants": 8
+  },
+  {
+    "name": "sandpiper",
+    "father": "shorebird",
+    "definition": "any of numerous usually small wading birds having a slender bill and piping call; closely related to the plovers",
+    "scores": {
+      "clip_score_scores": 0.5444760476074819,
+      "pick_score_scores": 0.5021964126244846,
+      "vqa_score_scores": 0.5151481550850086,
+      "tifa_score_scores": 0.17926082019832024,
+      "image_reward_score_scores": 0.4813583404466905
+    },
+    "level": 13,
+    "total_descendants": 19
+  },
+  {
+    "name": "snipe",
+    "father": "shorebird",
+    "definition": "Old or New World straight-billed game bird of the sandpiper family; of marshy areas; similar to the woodcocks",
+    "scores": {
+      "clip_score_scores": 0.6040472606280831,
+      "pick_score_scores": 0.4886930572107638,
+      "vqa_score_scores": 0.5586607881147039,
+      "tifa_score_scores": 0.16071373456790125,
+      "image_reward_score_scores": 0.4896488454550847
+    },
+    "level": 13,
+    "total_descendants": 7
+  },
+  {
+    "name": "woodcock",
+    "father": "shorebird",
+    "definition": "game bird of the sandpiper family that resembles a snipe",
+    "scores": {
+      "clip_score_scores": 0.5961256582696594,
+      "pick_score_scores": 0.46510456541416173,
+      "vqa_score_scores": 0.5562954610992794,
+      "tifa_score_scores": 0.261031746031746,
+      "image_reward_score_scores": 0.5470031228738067
+    },
+    "level": 13,
+    "total_descendants": 2
+  },
+  {
+    "name": "duck (anseriform bird)",
+    "father": "anseriform bird",
+    "definition": "small wild or domesticated web-footed broad-billed swimming bird usually having a depressed body and short legs",
+    "scores": {
+      "clip_score_scores": 0.5477050638921491,
+      "pick_score_scores": 0.48463578707799715,
+      "vqa_score_scores": 0.5441890458842374,
+      "tifa_score_scores": 0.2183181989967704,
+      "image_reward_score_scores": 0.448978064248381
+    },
+    "level": 13,
+    "total_descendants": 43
+  },
+  {
+    "name": "goose",
+    "father": "anseriform bird",
+    "definition": "web-footed long-necked typically gregarious migratory aquatic birds usually larger and less aquatic than ducks",
+    "scores": {
+      "clip_score_scores": 0.5745438412476878,
+      "pick_score_scores": 0.5085028877216332,
+      "vqa_score_scores": 0.5103919181372292,
+      "tifa_score_scores": 0.17048644931457432,
+      "image_reward_score_scores": 0.44528828235683204
+    },
+    "level": 13,
+    "total_descendants": 10
+  },
+  {
+    "name": "caracara",
+    "father": "falcon",
+    "definition": "any of various long-legged carrion-eating hawks of South America and Central America",
+    "scores": {
+      "clip_score_scores": 0.5474386689433665,
+      "pick_score_scores": 0.4973277880104369,
+      "vqa_score_scores": 0.4989919154240965,
+      "tifa_score_scores": 0.14837301587301588,
+      "image_reward_score_scores": 0.4413851098267392
+    },
+    "level": 13,
+    "total_descendants": 2
+  },
+  {
+    "name": "condor",
+    "father": "new world vulture",
+    "definition": "the largest flying birds in the western hemisphere",
+    "scores": {
+      "clip_score_scores": 0.5447882115876632,
+      "pick_score_scores": 0.4477636306115376,
+      "vqa_score_scores": 0.5291954100286407,
+      "tifa_score_scores": 0.21531986531986536,
+      "image_reward_score_scores": 0.5766996606558132
+    },
+    "level": 13,
+    "total_descendants": 2
+  },
+  {
+    "name": "domestic pigeon",
+    "father": "pigeon",
+    "definition": "domesticated pigeon raised for sport or food",
+    "scores": {
+      "clip_score_scores": 0.5800524965975234,
+      "pick_score_scores": 0.5237371418359481,
+      "vqa_score_scores": 0.5270651753244356,
+      "tifa_score_scores": 0.2918630751964085,
+      "image_reward_score_scores": 0.39900428000058974
+    },
+    "level": 13,
+    "total_descendants": 4
+  },
+  {
+    "name": "dove (pigeon)",
+    "father": "pigeon",
+    "definition": "any of numerous small pigeons",
+    "scores": {
+      "clip_score_scores": 0.6156147686945319,
+      "pick_score_scores": 0.4908504530069138,
+      "vqa_score_scores": 0.5816386564591105,
+      "tifa_score_scores": 0.20924978956228957,
+      "image_reward_score_scores": 0.455147021583701
+    },
+    "level": 13,
+    "total_descendants": 5
+  },
+  {
+    "name": "hen (chicken)",
+    "father": "chicken",
+    "definition": "adult female chicken",
+    "scores": {
+      "clip_score_scores": 0.49215080627588276,
+      "pick_score_scores": 0.49355479981912387,
+      "vqa_score_scores": 0.5477960350874707,
+      "tifa_score_scores": 0.16924803591470258,
+      "image_reward_score_scores": 0.48010782187221596
+    },
+    "level": 13,
+    "total_descendants": 5
+  },
+  {
+    "name": "jay",
+    "father": "corvine bird",
+    "definition": "crested largely blue bird",
+    "scores": {
+      "clip_score_scores": 0.6007145168948617,
+      "pick_score_scores": 0.4891713091348115,
+      "vqa_score_scores": 0.5288431768298976,
+      "tifa_score_scores": 0.18138032106782107,
+      "image_reward_score_scores": 0.459358735521124
+    },
+    "level": 13,
+    "total_descendants": 6
+  },
+  {
+    "name": "magpie (corvine bird)",
+    "father": "corvine bird",
+    "definition": "long-tailed black-and-white crow that utters a raucous chattering call",
+    "scores": {
+      "clip_score_scores": 0.5862938503508965,
+      "pick_score_scores": 0.5366524576924186,
+      "vqa_score_scores": 0.5825819378061348,
+      "tifa_score_scores": 0.3029545454545455,
+      "image_reward_score_scores": 0.5626658089901357
+    },
+    "level": 13,
+    "total_descendants": 2
+  },
+  {
+    "name": "nutcracker (corvine bird)",
+    "father": "corvine bird",
+    "definition": "speckled birds that feed on nuts",
+    "scores": {
+      "clip_score_scores": 0.5484953276985629,
+      "pick_score_scores": 0.4747163104007311,
+      "vqa_score_scores": 0.5850859159635781,
+      "tifa_score_scores": 0.15914021164021164,
+      "image_reward_score_scores": 0.49074697713013515
+    },
+    "level": 13,
+    "total_descendants": 2
+  },
+  {
+    "name": "bunting (finch)",
+    "father": "finch",
+    "definition": "any of numerous seed-eating songbirds of Europe or North America",
+    "scores": {
+      "clip_score_scores": 0.5576767779184292,
+      "pick_score_scores": 0.4966689341048804,
+      "vqa_score_scores": 0.5296013857508974,
+      "tifa_score_scores": 0.22010311447811445,
+      "image_reward_score_scores": 0.43417361942398425
+    },
+    "level": 13,
+    "total_descendants": 6
+  },
+  {
+    "name": "grosbeak",
+    "father": "finch",
+    "definition": "any of various finches of Europe or America having a massive and powerful bill",
+    "scores": {
+      "clip_score_scores": 0.5998584321744027,
+      "pick_score_scores": 0.46477882805607407,
+      "vqa_score_scores": 0.39830406387480966,
+      "tifa_score_scores": 0.15665945165945167,
+      "image_reward_score_scores": 0.40893591194666457
+    },
+    "level": 13,
+    "total_descendants": 3
+  },
+  {
+    "name": "new world sparrow",
+    "father": "finch",
+    "definition": "sparrow-like North American finches",
+    "scores": {
+      "clip_score_scores": 0.5746688851431299,
+      "pick_score_scores": 0.5359578314484943,
+      "vqa_score_scores": 0.5108146925536652,
+      "tifa_score_scores": 0.22125240500240503,
+      "image_reward_score_scores": 0.5496745520725324
+    },
+    "level": 13,
+    "total_descendants": 8
+  },
+  {
+    "name": "towhee",
+    "father": "finch",
+    "definition": "any of numerous long-tailed American finches",
+    "scores": {
+      "clip_score_scores": 0.561994155704262,
+      "pick_score_scores": 0.5486405500363294,
+      "vqa_score_scores": 0.655273389893244,
+      "tifa_score_scores": 0.19340277777777776,
+      "image_reward_score_scores": 0.4590770638249043
+    },
+    "level": 13,
+    "total_descendants": 2
+  },
+  {
+    "name": "meadowlark",
+    "father": "new world oriole",
+    "definition": "North American songbirds having a yellow breast",
+    "scores": {
+      "clip_score_scores": 0.5782559808594737,
+      "pick_score_scores": 0.5306183959860505,
+      "vqa_score_scores": 0.6711084713805455,
+      "tifa_score_scores": 0.225,
+      "image_reward_score_scores": 0.6470986234535974
+    },
+    "level": 13,
+    "total_descendants": 2
+  },
+  {
+    "name": "new world blackbird",
+    "father": "new world oriole",
+    "definition": "any bird of the family Icteridae whose male is black or predominantly black",
+    "scores": {
+      "clip_score_scores": 0.5464351749487396,
+      "pick_score_scores": 0.5208562847069134,
+      "vqa_score_scores": 0.4405877282480547,
+      "tifa_score_scores": 0.13051767676767675,
+      "image_reward_score_scores": 0.46117053552305054
+    },
+    "level": 13,
+    "total_descendants": 5
+  },
+  {
+    "name": "northern oriole",
+    "father": "new world oriole",
+    "definition": "a kind of New World oriole",
+    "scores": {
+      "clip_score_scores": 0.6096543746985787,
+      "pick_score_scores": 0.5091300145180143,
+      "vqa_score_scores": 0.5310801769400464,
+      "tifa_score_scores": 0.22683080808080808,
+      "image_reward_score_scores": 0.4036919398564556
+    },
+    "level": 13,
+    "total_descendants": 2
+  },
+  {
+    "name": "butcherbird (shrike)",
+    "father": "shrike",
+    "definition": "shrikes that impale their prey on thorns",
+    "scores": {
+      "clip_score_scores": 0.5946135864533005,
+      "pick_score_scores": 0.5072852789807448,
+      "vqa_score_scores": 0.5133546293269539,
+      "tifa_score_scores": 0.15052579365079363,
+      "image_reward_score_scores": 0.5819708928652353
+    },
+    "level": 13,
+    "total_descendants": 3
+  },
+  {
+    "name": "myna",
+    "father": "starling",
+    "definition": "tropical Asian starlings",
+    "scores": {
+      "clip_score_scores": 0.5475702265084318,
+      "pick_score_scores": 0.49856251055886797,
+      "vqa_score_scores": 0.4765714020706951,
+      "tifa_score_scores": 0.26571428571428574,
+      "image_reward_score_scores": 0.47377634282653003
+    },
+    "level": 13,
+    "total_descendants": 2
+  },
+  {
+    "name": "martin",
+    "father": "swallow",
+    "definition": "any of various swallows with squarish or slightly forked tail and long pointed wings; migrate around Martinmas",
+    "scores": {
+      "clip_score_scores": 0.5328382166501033,
+      "pick_score_scores": 0.5469364624362215,
+      "vqa_score_scores": 0.6141280706289118,
+      "tifa_score_scores": 0.18414021164021163,
+      "image_reward_score_scores": 0.4670687278461007
+    },
+    "level": 13,
+    "total_descendants": 3
+  },
+  {
+    "name": "old world chat",
+    "father": "thrush (oscine)",
+    "definition": "songbirds having a chattering call",
+    "scores": {
+      "clip_score_scores": 0.5708331441289478,
+      "pick_score_scores": 0.5307254337205262,
+      "vqa_score_scores": 0.5282035124300075,
+      "tifa_score_scores": 0.3916666666666666,
+      "image_reward_score_scores": 0.5064504339355961
+    },
+    "level": 13,
+    "total_descendants": 2
+  },
+  {
+    "name": "chickadee",
+    "father": "titmouse",
+    "definition": "any of various small grey-and-black songbirds of North America",
+    "scores": {
+      "clip_score_scores": 0.5753902933919628,
+      "pick_score_scores": 0.4865317294842053,
+      "vqa_score_scores": 0.45661498121289545,
+      "tifa_score_scores": 0.2102272727272727,
+      "image_reward_score_scores": 0.4697637118150692
+    },
+    "level": 13,
+    "total_descendants": 2
+  },
+  {
+    "name": "kinglet",
+    "father": "warbler (oscine)",
+    "definition": "small birds resembling warblers but having some of the habits of titmice",
+    "scores": {
+      "clip_score_scores": 0.5264463743920833,
+      "pick_score_scores": 0.5087254553533289,
+      "vqa_score_scores": 0.5725085695203287,
+      "tifa_score_scores": 0.27042410714285714,
+      "image_reward_score_scores": 0.4596502044355767
+    },
+    "level": 13,
+    "total_descendants": 3
+  },
+  {
+    "name": "new world warbler",
+    "father": "warbler (oscine)",
+    "definition": "small bright-colored American songbird with a weak unmusical song",
+    "scores": {
+      "clip_score_scores": 0.5214730897871336,
+      "pick_score_scores": 0.4882161691325517,
+      "vqa_score_scores": 0.5564042598082679,
+      "tifa_score_scores": 0.15516644620811287,
+      "image_reward_score_scores": 0.43957938308810207
+    },
+    "level": 13,
+    "total_descendants": 16
+  },
+  {
+    "name": "old world warbler",
+    "father": "warbler (oscine)",
+    "definition": "small active brownish or greyish Old World birds",
+    "scores": {
+      "clip_score_scores": 0.5390579131078299,
+      "pick_score_scores": 0.49065854601011,
+      "vqa_score_scores": 0.4114728857875889,
+      "tifa_score_scores": 0.19807043650793651,
+      "image_reward_score_scores": 0.48403919441191307
+    },
+    "level": 13,
+    "total_descendants": 5
+  },
+  {
+    "name": "cotinga",
+    "father": "new world flycatcher",
+    "definition": "passerine bird of New World tropics",
+    "scores": {
+      "clip_score_scores": 0.5078722472611981,
+      "pick_score_scores": 0.5162059154384042,
+      "vqa_score_scores": 0.4561748094127882,
+      "tifa_score_scores": 0.38749999999999996,
+      "image_reward_score_scores": 0.43738647433661376
+    },
+    "level": 13,
+    "total_descendants": 2
+  },
+  {
+    "name": "kingbird",
+    "father": "new world flycatcher",
+    "definition": "large American flycatcher",
+    "scores": {
+      "clip_score_scores": 0.551663125048854,
+      "pick_score_scores": 0.4800084608295184,
+      "vqa_score_scores": 0.46723186149462903,
+      "tifa_score_scores": 0.23837797619047618,
+      "image_reward_score_scores": 0.4528003977501497
+    },
+    "level": 13,
+    "total_descendants": 4
+  },
+  {
+    "name": "dasyure",
+    "father": "dasyurid marsupial",
+    "definition": "any of several more or less arboreal marsupials somewhat resembling martens",
+    "scores": {
+      "clip_score_scores": 0.5471128046784632,
+      "pick_score_scores": 0.4954898490648449,
+      "vqa_score_scores": 0.5977639970533845,
+      "tifa_score_scores": 0.20718434343434342,
+      "image_reward_score_scores": 0.5613757853253347
+    },
+    "level": 13,
+    "total_descendants": 2
+  },
+  {
+    "name": "rat kangaroo",
+    "father": "kangaroo",
+    "definition": "any of several rabbit-sized ratlike Australian kangaroos",
+    "scores": {
+      "clip_score_scores": 0.5729915443672255,
+      "pick_score_scores": 0.49386615269874357,
+      "vqa_score_scores": 0.34131858095759565,
+      "tifa_score_scores": 0.18541666666666667,
+      "image_reward_score_scores": 0.5599863801915944
+    },
+    "level": 13,
+    "total_descendants": 3
+  },
+  {
+    "name": "wallaby",
+    "father": "kangaroo",
+    "definition": "any of various small or medium-sized kangaroos; often brightly colored",
+    "scores": {
+      "clip_score_scores": 0.5663063026965419,
+      "pick_score_scores": 0.4508317068670529,
+      "vqa_score_scores": 0.49137166128818394,
+      "tifa_score_scores": 0.21787409812409816,
+      "image_reward_score_scores": 0.5280133923221974
+    },
+    "level": 13,
+    "total_descendants": 6
+  },
+  {
+    "name": "whale",
+    "father": "cetacean",
+    "definition": "any of the larger cetacean mammals having a streamlined body and breathing through a blowhole on the head",
+    "scores": {
+      "clip_score_scores": 0.5971441252615962,
+      "pick_score_scores": 0.4864414436699027,
+      "vqa_score_scores": 0.584501976855562,
+      "tifa_score_scores": 0.2761572069905403,
+      "image_reward_score_scores": 0.46907765943802643
+    },
+    "level": 13,
+    "total_descendants": 31
+  },
+  {
+    "name": "seal (pinniped mammal)",
+    "father": "pinniped mammal",
+    "definition": "any of numerous marine mammals that come on shore to breed; chiefly of cold regions",
+    "scores": {
+      "clip_score_scores": 0.5915188396791452,
+      "pick_score_scores": 0.4827367440804335,
+      "vqa_score_scores": 0.4248971463809348,
+      "tifa_score_scores": 0.30054266624579123,
+      "image_reward_score_scores": 0.4213055466798406
+    },
+    "level": 13,
+    "total_descendants": 15
+  },
+  {
+    "name": "walrus",
+    "father": "pinniped mammal",
+    "definition": "either of two large northern marine mammals having ivory tusks and tough hide over thick blubber",
+    "scores": {
+      "clip_score_scores": 0.6059516972564353,
+      "pick_score_scores": 0.5680492622031518,
+      "vqa_score_scores": 0.6547947397440733,
+      "tifa_score_scores": 0.20719696969696969,
+      "image_reward_score_scores": 0.6153449247321071
+    },
+    "level": 13,
+    "total_descendants": 2
+  },
+  {
+    "name": "freetail",
+    "father": "carnivorous bat",
+    "definition": "small swift insectivorous bat with leathery ears and a long tail; common in warm regions",
+    "scores": {
+      "clip_score_scores": 0.5589769975385682,
+      "pick_score_scores": 0.4665444440018686,
+      "vqa_score_scores": 0.504658398870539,
+      "tifa_score_scores": 0.22041245791245792,
+      "image_reward_score_scores": 0.5275144707730074
+    },
+    "level": 13,
+    "total_descendants": 2
+  },
+  {
+    "name": "leafnose bat",
+    "father": "carnivorous bat",
+    "definition": "bat having a leaflike flap at the end of the nose; especially of the families Phyllostomatidae and Rhinolophidae and Hipposideridae",
+    "scores": {
+      "clip_score_scores": 0.5731476020365222,
+      "pick_score_scores": 0.5143421489484473,
+      "vqa_score_scores": 0.536319805222529,
+      "tifa_score_scores": 0.2654254599567099,
+      "image_reward_score_scores": 0.49729202117865084
+    },
+    "level": 13,
+    "total_descendants": 7
+  },
+  {
+    "name": "vampire bat",
+    "father": "carnivorous bat",
+    "definition": "any of various tropical American bats of the family Desmodontidae that bite mammals and birds to feed on their blood",
+    "scores": {
+      "clip_score_scores": 0.6050445043932701,
+      "pick_score_scores": 0.5287607631778106,
+      "vqa_score_scores": 0.48606131076078746,
+      "tifa_score_scores": 0.3075,
+      "image_reward_score_scores": 0.47838663172043094
+    },
+    "level": 13,
+    "total_descendants": 2
+  },
+  {
+    "name": "vespertilian bat",
+    "father": "carnivorous bat",
+    "definition": "a variety of carnivorous bat",
+    "scores": {
+      "clip_score_scores": 0.5156769719092065,
+      "pick_score_scores": 0.48020423706484294,
+      "vqa_score_scores": 0.5247160380086637,
+      "tifa_score_scores": 0.21647136544011544,
+      "image_reward_score_scores": 0.46891516601791156
+    },
+    "level": 13,
+    "total_descendants": 13
+  },
+  {
+    "name": "brown bear",
+    "father": "bear (carnivore)",
+    "definition": "large ferocious bear of Eurasia",
+    "scores": {
+      "clip_score_scores": 0.575533086569504,
+      "pick_score_scores": 0.5180768690169276,
+      "vqa_score_scores": 0.4187042720200766,
+      "tifa_score_scores": 0.27685185185185185,
+      "image_reward_score_scores": 0.45259509643711504
+    },
+    "level": 13,
+    "total_descendants": 3
+  },
+  {
+    "name": "fox (canine)",
+    "father": "canine",
+    "definition": "alert carnivorous mammal with pointed muzzle and ears and a bushy tail; most are predators that do not hunt in packs",
+    "scores": {
+      "clip_score_scores": 0.578970952320379,
+      "pick_score_scores": 0.5369693021372294,
+      "vqa_score_scores": 0.5099228627078001,
+      "tifa_score_scores": 0.2017013888888889,
+      "image_reward_score_scores": 0.5413644800447905
+    },
+    "level": 13,
+    "total_descendants": 7
+  },
+  {
+    "name": "hyena",
+    "father": "canine",
+    "definition": "doglike nocturnal mammal of Africa and southern Asia that feeds chiefly on carrion",
+    "scores": {
+      "clip_score_scores": 0.6212287088672823,
+      "pick_score_scores": 0.5378949806403585,
+      "vqa_score_scores": 0.4826191286726649,
+      "tifa_score_scores": 0.1938988095238095,
+      "image_reward_score_scores": 0.5804408750666481
+    },
+    "level": 13,
+    "total_descendants": 4
+  },
+  {
+    "name": "wild dog",
+    "father": "canine",
+    "definition": "any of various undomesticated mammals of the family Canidae that are thought to resemble domestic dogs as distinguished from jackals or wolves",
+    "scores": {
+      "clip_score_scores": 0.559644307108338,
+      "pick_score_scores": 0.5179690616582951,
+      "vqa_score_scores": 0.5751439830177052,
+      "tifa_score_scores": 0.24944083694083696,
+      "image_reward_score_scores": 0.5436211200158373
+    },
+    "level": 13,
+    "total_descendants": 5
+  },
+  {
+    "name": "wolf (canine)",
+    "father": "canine",
+    "definition": "any of various predatory carnivorous canine mammals of North America and Eurasia that usually hunt in packs",
+    "scores": {
+      "clip_score_scores": 0.5948910129838298,
+      "pick_score_scores": 0.48380299006539285,
+      "vqa_score_scores": 0.4671548733877856,
+      "tifa_score_scores": 0.24507034632034633,
+      "image_reward_score_scores": 0.4938438403413111
+    },
+    "level": 13,
+    "total_descendants": 5
+  },
+  {
+    "name": "big cat",
+    "father": "feline",
+    "definition": "any of several large cats typically able to roar and living in the wild",
+    "scores": {
+      "clip_score_scores": 0.5666901390625559,
+      "pick_score_scores": 0.49250274645027453,
+      "vqa_score_scores": 0.5362160276243286,
+      "tifa_score_scores": 0.24742644074675324,
+      "image_reward_score_scores": 0.47857056612176674
+    },
+    "level": 13,
+    "total_descendants": 17
+  },
+  {
+    "name": "cat (feline)",
+    "father": "feline",
+    "definition": "feline mammal usually having thick soft fur and no ability to roar: domestic cats; wildcats",
+    "scores": {
+      "clip_score_scores": 0.5843519264174584,
+      "pick_score_scores": 0.5069415761808878,
+      "vqa_score_scores": 0.5654974332190092,
+      "tifa_score_scores": 0.20313206845238094,
+      "image_reward_score_scores": 0.45137875846915937
+    },
+    "level": 13,
+    "total_descendants": 19
+  },
+  {
+    "name": "badger",
+    "father": "musteline mammal",
+    "definition": "sturdy carnivorous burrowing mammal with strong claws; widely distributed in the northern hemisphere",
+    "scores": {
+      "clip_score_scores": 0.6073602281947098,
+      "pick_score_scores": 0.5063566420945497,
+      "vqa_score_scores": 0.5358665466123285,
+      "tifa_score_scores": 0.23329040404040402,
+      "image_reward_score_scores": 0.524653408337864
+    },
+    "level": 13,
+    "total_descendants": 4
+  },
+  {
+    "name": "marten",
+    "father": "musteline mammal",
+    "definition": "agile slender-bodied arboreal mustelids somewhat larger than weasels",
+    "scores": {
+      "clip_score_scores": 0.5802290145038784,
+      "pick_score_scores": 0.5442217101314313,
+      "vqa_score_scores": 0.5833166702188308,
+      "tifa_score_scores": 0.18839838864838862,
+      "image_reward_score_scores": 0.5360231333703072
+    },
+    "level": 13,
+    "total_descendants": 6
+  },
+  {
+    "name": "otter",
+    "father": "musteline mammal",
+    "definition": "freshwater carnivorous mammal having webbed and clawed feet and dark brown fur",
+    "scores": {
+      "clip_score_scores": 0.6240830142031546,
+      "pick_score_scores": 0.6176597427962767,
+      "vqa_score_scores": 0.52921838999559,
+      "tifa_score_scores": 0.275,
+      "image_reward_score_scores": 0.6769833278412848
+    },
+    "level": 13,
+    "total_descendants": 2
+  },
+  {
+    "name": "skunk",
+    "father": "musteline mammal",
+    "definition": "American musteline mammal typically ejecting an intensely malodorous fluid when startled; in some classifications put in a separate subfamily Mephitinae",
+    "scores": {
+      "clip_score_scores": 0.6290065520189585,
+      "pick_score_scores": 0.5837946150803298,
+      "vqa_score_scores": 0.48042677799328226,
+      "tifa_score_scores": 0.32936658249158246,
+      "image_reward_score_scores": 0.6251246150897649
+    },
+    "level": 13,
+    "total_descendants": 4
+  },
+  {
+    "name": "weasel (musteline mammal)",
+    "father": "musteline mammal",
+    "definition": "small carnivorous mammal with short legs and elongated body and neck",
+    "scores": {
+      "clip_score_scores": 0.5378467610899356,
+      "pick_score_scores": 0.5027795245216785,
+      "vqa_score_scores": 0.5502410101296845,
+      "tifa_score_scores": 0.2068114929052429,
+      "image_reward_score_scores": 0.4793409307251382
+    },
+    "level": 13,
+    "total_descendants": 9
+  },
+  {
+    "name": "raccoon",
+    "father": "procyonid",
+    "definition": "an omnivorous nocturnal mammal native to North America and Central America",
+    "scores": {
+      "clip_score_scores": 0.6130969336692504,
+      "pick_score_scores": 0.5626372721516466,
+      "vqa_score_scores": 0.5193557526055532,
+      "tifa_score_scores": 0.3625,
+      "image_reward_score_scores": 0.5387720383378036
+    },
+    "level": 13,
+    "total_descendants": 2
+  },
+  {
+    "name": "civet",
+    "father": "viverrine",
+    "definition": "cat-like mammal typically secreting musk used in perfumes",
+    "scores": {
+      "clip_score_scores": 0.5754409483060213,
+      "pick_score_scores": 0.5057789972268808,
+      "vqa_score_scores": 0.49527242996723403,
+      "tifa_score_scores": 0.2200841750841751,
+      "image_reward_score_scores": 0.5337073009381058
+    },
+    "level": 13,
+    "total_descendants": 7
+  },
+  {
+    "name": "meerkat",
+    "father": "viverrine",
+    "definition": "a mongoose-like viverrine of South Africa having a face like a lemur and only four toes",
+    "scores": {
+      "clip_score_scores": 0.6150418213093957,
+      "pick_score_scores": 0.5151721490369625,
+      "vqa_score_scores": 0.6582696733949243,
+      "tifa_score_scores": 0.14250000000000002,
+      "image_reward_score_scores": 0.4671323172860162
+    },
+    "level": 13,
+    "total_descendants": 2
+  },
+  {
+    "name": "mongoose",
+    "father": "viverrine",
+    "definition": "agile grizzled Old World viverrine; preys on snakes and rodents",
+    "scores": {
+      "clip_score_scores": 0.5648007582048673,
+      "pick_score_scores": 0.5249994330450639,
+      "vqa_score_scores": 0.46773990644256064,
+      "tifa_score_scores": 0.2221560846560847,
+      "image_reward_score_scores": 0.5405398212366807
+    },
+    "level": 13,
+    "total_descendants": 2
+  },
+  {
+    "name": "shrew mole",
+    "father": "mole",
+    "definition": "slender mole having a long snout and tail",
+    "scores": {
+      "clip_score_scores": 0.5358574419842292,
+      "pick_score_scores": 0.5758564237749311,
+      "vqa_score_scores": 0.5875476366118746,
+      "tifa_score_scores": 0.0914520202020202,
+      "image_reward_score_scores": 0.7152448086985037
+    },
+    "level": 13,
+    "total_descendants": 2
+  },
+  {
+    "name": "water shrew",
+    "father": "shrew (insectivore)",
+    "definition": "any of several small semiaquatic shrews usually living near swift-flowing streams",
+    "scores": {
+      "clip_score_scores": 0.563376367695583,
+      "pick_score_scores": 0.5021120858462867,
+      "vqa_score_scores": 0.5018545596196118,
+      "tifa_score_scores": 0.15699555074555074,
+      "image_reward_score_scores": 0.49428194695273314
+    },
+    "level": 13,
+    "total_descendants": 3
+  },
+  {
+    "name": "hare",
+    "father": "leporid",
+    "definition": "swift timid long-eared mammal larger than a rabbit having a divided upper lip and long hind legs; young born furred and with open eyes",
+    "scores": {
+      "clip_score_scores": 0.5854061809135584,
+      "pick_score_scores": 0.4968355794821221,
+      "vqa_score_scores": 0.4983406441479771,
+      "tifa_score_scores": 0.19071464646464648,
+      "image_reward_score_scores": 0.4544307594152441
+    },
+    "level": 13,
+    "total_descendants": 7
+  },
+  {
+    "name": "rabbit",
+    "father": "leporid",
+    "definition": "any of various burrowing animals of the family Leporidae having long ears and short tails; some domesticated and raised for pets or food",
+    "scores": {
+      "clip_score_scores": 0.5908401163805178,
+      "pick_score_scores": 0.5537890044774942,
+      "vqa_score_scores": 0.5108137194441297,
+      "tifa_score_scores": 0.2991622825476992,
+      "image_reward_score_scores": 0.5025835824573172
+    },
+    "level": 13,
+    "total_descendants": 10
+  },
+  {
+    "name": "anthropoid ape",
+    "father": "ape",
+    "definition": "any tailless ape of the families Pongidae and Hylobatidae",
+    "scores": {
+      "clip_score_scores": 0.6301953525583772,
+      "pick_score_scores": 0.48820552624825847,
+      "vqa_score_scores": 0.5286636464158188,
+      "tifa_score_scores": 0.27484047318422317,
+      "image_reward_score_scores": 0.6279489613722538
+    },
+    "level": 13,
+    "total_descendants": 15
+  },
+  {
+    "name": "australopithecine",
+    "father": "hominid",
+    "definition": "any of several extinct humanlike bipedal primates with relatively small brains of the genus Australopithecus; from 1 to 4 million years ago",
+    "scores": {
+      "clip_score_scores": 0.551617499062219,
+      "pick_score_scores": 0.5080661494153976,
+      "vqa_score_scores": 0.5237497627483655,
+      "tifa_score_scores": 0.1555538376966948,
+      "image_reward_score_scores": 0.5249841185795325
+    },
+    "level": 13,
+    "total_descendants": 6
+  },
+  {
+    "name": "homo",
+    "father": "hominid",
+    "definition": "any living or extinct member of the family Hominidae characterized by superior intelligence, articulate speech, and erect carriage",
+    "scores": {
+      "clip_score_scores": 0.5545501066842282,
+      "pick_score_scores": 0.5059643927071358,
+      "vqa_score_scores": 0.586786190366879,
+      "tifa_score_scores": 0.21506065115440115,
+      "image_reward_score_scores": 0.5239135899561909
+    },
+    "level": 13,
+    "total_descendants": 13
+  },
+  {
+    "name": "new world monkey",
+    "father": "monkey",
+    "definition": "hairy-faced arboreal monkeys having widely separated nostrils and long usually prehensile tails",
+    "scores": {
+      "clip_score_scores": 0.5594989118457889,
+      "pick_score_scores": 0.5090997580992273,
+      "vqa_score_scores": 0.554852142628381,
+      "tifa_score_scores": 0.2043700229811341,
+      "image_reward_score_scores": 0.4528974083235975
+    },
+    "level": 13,
+    "total_descendants": 15
+  },
+  {
+    "name": "old world monkey",
+    "father": "monkey",
+    "definition": "of Africa or Arabia or Asia; having nonprehensile tails and nostrils close together",
+    "scores": {
+      "clip_score_scores": 0.5717893892042286,
+      "pick_score_scores": 0.5285505660182778,
+      "vqa_score_scores": 0.5126325109312624,
+      "tifa_score_scores": 0.2136930784782347,
+      "image_reward_score_scores": 0.5154174761742955
+    },
+    "level": 13,
+    "total_descendants": 21
+  },
+  {
+    "name": "mammoth",
+    "father": "elephant",
+    "definition": "any of numerous extinct elephants widely distributed in the Pleistocene; extremely large with hairy coats and long upcurved tusks",
+    "scores": {
+      "clip_score_scores": 0.5812319834368319,
+      "pick_score_scores": 0.5040010452420882,
+      "vqa_score_scores": 0.5033494760239837,
+      "tifa_score_scores": 0.23229166666666667,
+      "image_reward_score_scores": 0.5638331740792414
+    },
+    "level": 13,
+    "total_descendants": 3
+  },
+  {
+    "name": "wood mouse",
+    "father": "mouse (rodent)",
+    "definition": "any of various New World woodland mice",
+    "scores": {
+      "clip_score_scores": 0.5641438075894424,
+      "pick_score_scores": 0.5112629985674277,
+      "vqa_score_scores": 0.5495175817722953,
+      "tifa_score_scores": 0.1932638888888889,
+      "image_reward_score_scores": 0.5998210735993115
+    },
+    "level": 13,
+    "total_descendants": 5
+  },
+  {
+    "name": "old world porcupine",
+    "father": "porcupine",
+    "definition": "terrestrial porcupine",
+    "scores": {
+      "clip_score_scores": 0.6571912409037494,
+      "pick_score_scores": 0.546745584046758,
+      "vqa_score_scores": 0.5480977008904008,
+      "tifa_score_scores": 0.22027777777777777,
+      "image_reward_score_scores": 0.5640345963244876
+    },
+    "level": 13,
+    "total_descendants": 2
+  },
+  {
+    "name": "brown rat",
+    "father": "rat (rodent)",
+    "definition": "common domestic rat; serious pest worldwide",
+    "scores": {
+      "clip_score_scores": 0.6136580594643258,
+      "pick_score_scores": 0.5378106726100026,
+      "vqa_score_scores": 0.5834161498843349,
+      "tifa_score_scores": 0.3332631874298541,
+      "image_reward_score_scores": 0.555150829744382
+    },
+    "level": 13,
+    "total_descendants": 2
+  },
+  {
+    "name": "pocket rat",
+    "father": "rat (rodent)",
+    "definition": "any of various rodents with cheek pouches",
+    "scores": {
+      "clip_score_scores": 0.5889990127431817,
+      "pick_score_scores": 0.47903225476070455,
+      "vqa_score_scores": 0.5565260969719249,
+      "tifa_score_scores": 0.20371522967772968,
+      "image_reward_score_scores": 0.5080174430371819
+    },
+    "level": 13,
+    "total_descendants": 13
+  },
+  {
+    "name": "american flying squirrel",
+    "father": "squirrel",
+    "definition": "New World flying squirrels",
+    "scores": {
+      "clip_score_scores": 0.5630628759882699,
+      "pick_score_scores": 0.5402912530680808,
+      "vqa_score_scores": 0.5127836332420072,
+      "tifa_score_scores": 0.2289880952380952,
+      "image_reward_score_scores": 0.5319079961324572
+    },
+    "level": 13,
+    "total_descendants": 2
+  },
+  {
+    "name": "ground squirrel",
+    "father": "squirrel",
+    "definition": "any of various terrestrial burrowing rodents of Old and New Worlds; often destroy crops",
+    "scores": {
+      "clip_score_scores": 0.5675732719247278,
+      "pick_score_scores": 0.50069424160626,
+      "vqa_score_scores": 0.5217464688490719,
+      "tifa_score_scores": 0.2636814574314574,
+      "image_reward_score_scores": 0.5761970413059643
+    },
+    "level": 13,
+    "total_descendants": 6
+  },
+  {
+    "name": "tree squirrel",
+    "father": "squirrel",
+    "definition": "any typical arboreal squirrel",
+    "scores": {
+      "clip_score_scores": 0.6021783470539612,
+      "pick_score_scores": 0.5454315935458313,
+      "vqa_score_scores": 0.5376291364876221,
+      "tifa_score_scores": 0.18831658420944136,
+      "image_reward_score_scores": 0.5982514855467482
+    },
+    "level": 13,
+    "total_descendants": 7
+  },
+  {
+    "name": "vole",
+    "father": "wood rat",
+    "definition": "any of various small mouselike rodents of the family Cricetidae (especially of genus Microtus) having a stout short-tailed body and inconspicuous ears and inhabiting fields or meadows",
+    "scores": {
+      "clip_score_scores": 0.5689979749119903,
+      "pick_score_scores": 0.5017012361143732,
+      "vqa_score_scores": 0.5275768460717245,
+      "tifa_score_scores": 0.19164772727272728,
+      "image_reward_score_scores": 0.5282497376548144
+    },
+    "level": 13,
+    "total_descendants": 6
+  },
+  {
+    "name": "camel",
+    "father": "even-toed ungulate",
+    "definition": "cud-chewing mammal used as a draft or saddle animal in desert regions",
+    "scores": {
+      "clip_score_scores": 0.6182289055447395,
+      "pick_score_scores": 0.4682719907932012,
+      "vqa_score_scores": 0.49038628287701513,
+      "tifa_score_scores": 0.28975108225108226,
+      "image_reward_score_scores": 0.5552767479772641
+    },
+    "level": 13,
+    "total_descendants": 2
+  },
+  {
+    "name": "llama",
+    "father": "even-toed ungulate",
+    "definition": "wild or domesticated South American cud-chewing animal related to camels but smaller and lacking a hump",
+    "scores": {
+      "clip_score_scores": 0.6161437897039997,
+      "pick_score_scores": 0.5009086721442296,
+      "vqa_score_scores": 0.5147851317088827,
+      "tifa_score_scores": 0.38165178571428576,
+      "image_reward_score_scores": 0.5768709052436759
+    },
+    "level": 13,
+    "total_descendants": 3
+  },
+  {
+    "name": "peccary",
+    "father": "even-toed ungulate",
+    "definition": "nocturnal gregarious pig-like wild animals of North America and South America",
+    "scores": {
+      "clip_score_scores": 0.5914095358635802,
+      "pick_score_scores": 0.5100681896846555,
+      "vqa_score_scores": 0.5835474642858687,
+      "tifa_score_scores": 0.23089804292929292,
+      "image_reward_score_scores": 0.5875706294165396
+    },
+    "level": 13,
+    "total_descendants": 3
+  },
+  {
+    "name": "ruminant",
+    "father": "even-toed ungulate",
+    "definition": "any of various cud-chewing hoofed mammals having a stomach divided into four (occasionally three) compartments",
+    "scores": {
+      "clip_score_scores": 0.5612465897129978,
+      "pick_score_scores": 0.5167207091239631,
+      "vqa_score_scores": 0.5378854836367423,
+      "tifa_score_scores": 0.19632628925837697,
+      "image_reward_score_scores": 0.48724982478202705
+    },
+    "level": 13,
+    "total_descendants": 157
+  },
+  {
+    "name": "swine",
+    "father": "even-toed ungulate",
+    "definition": "stout-bodied short-legged omnivorous animals",
+    "scores": {
+      "clip_score_scores": 0.5540070447007884,
+      "pick_score_scores": 0.5701449849898108,
+      "vqa_score_scores": 0.5988873191214786,
+      "tifa_score_scores": 0.28002976190476186,
+      "image_reward_score_scores": 0.5810328045769284
+    },
+    "level": 13,
+    "total_descendants": 8
+  },
+  {
+    "name": "equine",
+    "father": "odd-toed ungulate",
+    "definition": "hoofed mammals having slender legs and a flat coat with a narrow mane along the back of the neck",
+    "scores": {
+      "clip_score_scores": 0.5650401585468089,
+      "pick_score_scores": 0.48142773052378685,
+      "vqa_score_scores": 0.5006383887527743,
+      "tifa_score_scores": 0.2073495840504092,
+      "image_reward_score_scores": 0.5000700238282325
+    },
+    "level": 13,
+    "total_descendants": 96
+  },
+  {
+    "name": "rhinoceros",
+    "father": "odd-toed ungulate",
+    "definition": "massive powerful herbivorous odd-toed ungulate of southeast Asia and Africa having very thick skin and one or two horns on the snout",
+    "scores": {
+      "clip_score_scores": 0.5754628012379378,
+      "pick_score_scores": 0.49729238850407675,
+      "vqa_score_scores": 0.6089481330146216,
+      "tifa_score_scores": 0.2582608225108225,
+      "image_reward_score_scores": 0.593418489454088
+    },
+    "level": 13,
+    "total_descendants": 4
+  },
+  {
+    "name": "tapir",
+    "father": "odd-toed ungulate",
+    "definition": "large inoffensive chiefly nocturnal ungulate of tropical America and southeast Asia having a heavy body and fleshy snout",
+    "scores": {
+      "clip_score_scores": 0.6098319906962175,
+      "pick_score_scores": 0.5278921626530377,
+      "vqa_score_scores": 0.5849540732975564,
+      "tifa_score_scores": 0.21502976190476192,
+      "image_reward_score_scores": 0.5013392354819319
+    },
+    "level": 13,
+    "total_descendants": 2
+  },
+  {
+    "name": "sea turtle",
+    "father": "turtle",
+    "definition": "any of various large turtles with limbs modified into flippers; widely distributed in warm seas",
+    "scores": {
+      "clip_score_scores": 0.6000065037567944,
+      "pick_score_scores": 0.4919565418358565,
+      "vqa_score_scores": 0.5648101878062793,
+      "tifa_score_scores": 0.3213004048420715,
+      "image_reward_score_scores": 0.5607429813175194
+    },
+    "level": 13,
+    "total_descendants": 7
+  },
+  {
+    "name": "snapping turtle",
+    "father": "turtle",
+    "definition": "large aggressive freshwater turtle with powerful jaws",
+    "scores": {
+      "clip_score_scores": 0.6082318781005501,
+      "pick_score_scores": 0.5692104805320799,
+      "vqa_score_scores": 0.6239481138857569,
+      "tifa_score_scores": 0.17923280423280422,
+      "image_reward_score_scores": 0.5925095987834245
+    },
+    "level": 13,
+    "total_descendants": 2
+  },
+  {
+    "name": "soft-shelled turtle",
+    "father": "turtle",
+    "definition": "voracious aquatic turtle with a flat flexible shell covered by a leathery skin; can inflict painful bites",
+    "scores": {
+      "clip_score_scores": 0.4956892074035188,
+      "pick_score_scores": 0.49940999449221984,
+      "vqa_score_scores": 0.43373173771900103,
+      "tifa_score_scores": 0.2703042328042328,
+      "image_reward_score_scores": 0.38806918565379017
+    },
+    "level": 13,
+    "total_descendants": 2
+  },
+  {
+    "name": "tortoise",
+    "father": "turtle",
+    "definition": "usually herbivorous land turtles having clawed elephant-like limbs; worldwide in arid area except Australia and Antarctica",
+    "scores": {
+      "clip_score_scores": 0.5674189777783599,
+      "pick_score_scores": 0.5946878890184567,
+      "vqa_score_scores": 0.6308536374887206,
+      "tifa_score_scores": 0.30335317460317457,
+      "image_reward_score_scores": 0.604243948956112
+    },
+    "level": 13,
+    "total_descendants": 5
+  },
+  {
+    "name": "ornithischian",
+    "father": "dinosaur",
+    "definition": "herbivorous dinosaur with a pelvis like that of a bird",
+    "scores": {
+      "clip_score_scores": 0.5467119684727547,
+      "pick_score_scores": 0.505485293683856,
+      "vqa_score_scores": 0.541034200052131,
+      "tifa_score_scores": 0.2514484470555899,
+      "image_reward_score_scores": 0.532918850667007
+    },
+    "level": 13,
+    "total_descendants": 19
+  },
+  {
+    "name": "saurischian",
+    "father": "dinosaur",
+    "definition": "herbivorous or carnivorous dinosaur having a three-pronged pelvis like that of a crocodile",
+    "scores": {
+      "clip_score_scores": 0.577037853238264,
+      "pick_score_scores": 0.517739555667573,
+      "vqa_score_scores": 0.5909592496073471,
+      "tifa_score_scores": 0.28433105860189195,
+      "image_reward_score_scores": 0.5035541216312787
+    },
+    "level": 13,
+    "total_descendants": 23
+  },
+  {
+    "name": "agamid",
+    "father": "lizard",
+    "definition": "a lizard of the family Agamidae",
+    "scores": {
+      "clip_score_scores": 0.5355844249226434,
+      "pick_score_scores": 0.5002309396122028,
+      "vqa_score_scores": 0.5169285903951706,
+      "tifa_score_scores": 0.24738681457431458,
+      "image_reward_score_scores": 0.49932464293260753
+    },
+    "level": 13,
+    "total_descendants": 5
+  },
+  {
+    "name": "anguid lizard",
+    "father": "lizard",
+    "definition": "any of a small family of lizards widely distributed in warm areas; all are harmless and useful as destroyers of e.g. slugs and insects",
+    "scores": {
+      "clip_score_scores": 0.5482611471310987,
+      "pick_score_scores": 0.5039127095806533,
+      "vqa_score_scores": 0.5654209141255446,
+      "tifa_score_scores": 0.14531024531024533,
+      "image_reward_score_scores": 0.4846001868643809
+    },
+    "level": 13,
+    "total_descendants": 3
+  },
+  {
+    "name": "chameleon (lizard)",
+    "father": "lizard",
+    "definition": "lizard of Africa and Madagascar able to change skin color and having a projectile tongue",
+    "scores": {
+      "clip_score_scores": 0.5944086018846563,
+      "pick_score_scores": 0.47247913903429034,
+      "vqa_score_scores": 0.4883819665854458,
+      "tifa_score_scores": 0.35486111111111107,
+      "image_reward_score_scores": 0.526800377529502
+    },
+    "level": 13,
+    "total_descendants": 2
+  },
+  {
+    "name": "gecko",
+    "father": "lizard",
+    "definition": "any of various small chiefly tropical and usually nocturnal insectivorous terrestrial lizards typically with immovable eyelids; completely harmless",
+    "scores": {
+      "clip_score_scores": 0.5867405588958308,
+      "pick_score_scores": 0.5317212259687032,
+      "vqa_score_scores": 0.5096804668127943,
+      "tifa_score_scores": 0.3992807539682539,
+      "image_reward_score_scores": 0.6331560139134851
+    },
+    "level": 13,
+    "total_descendants": 2
+  },
+  {
+    "name": "iguanid",
+    "father": "lizard",
+    "definition": "lizards of the New World and Madagascar and some Pacific islands; typically having a long tail and bright throat patch in males",
+    "scores": {
+      "clip_score_scores": 0.608261112660955,
+      "pick_score_scores": 0.5077478814605837,
+      "vqa_score_scores": 0.5438900723470435,
+      "tifa_score_scores": 0.24516654641654645,
+      "image_reward_score_scores": 0.5744948685981784
+    },
+    "level": 13,
+    "total_descendants": 20
+  },
+  {
+    "name": "lacertid lizard",
+    "father": "lizard",
+    "definition": "Old World terrestrial lizard",
+    "scores": {
+      "clip_score_scores": 0.581074546515984,
+      "pick_score_scores": 0.49710720667636366,
+      "vqa_score_scores": 0.351978407981261,
+      "tifa_score_scores": 0.16903409090909088,
+      "image_reward_score_scores": 0.4445740872767392
+    },
+    "level": 13,
+    "total_descendants": 2
+  },
+  {
+    "name": "monitor (lizard)",
+    "father": "lizard",
+    "definition": "any of various large tropical carnivorous lizards of Africa and Asia and Australia; fabled to warn of crocodiles",
+    "scores": {
+      "clip_score_scores": 0.528568077821255,
+      "pick_score_scores": 0.4614969624797922,
+      "vqa_score_scores": 0.6974979714036823,
+      "tifa_score_scores": 0.24675925925925926,
+      "image_reward_score_scores": 0.4432840427528018
+    },
+    "level": 13,
+    "total_descendants": 2
+  },
+  {
+    "name": "skink",
+    "father": "lizard",
+    "definition": "alert agile lizard with reduced limbs and an elongated body covered with shiny scales; more dependent on moisture than most lizards; found in tropical regions worldwide",
+    "scores": {
+      "clip_score_scores": 0.5493638635758707,
+      "pick_score_scores": 0.4769158719759288,
+      "vqa_score_scores": 0.4864988849929856,
+      "tifa_score_scores": 0.22263888888888891,
+      "image_reward_score_scores": 0.4807935007944542
+    },
+    "level": 13,
+    "total_descendants": 2
+  },
+  {
+    "name": "teiid lizard",
+    "father": "lizard",
+    "definition": "tropical New World lizard with a long tail and large rectangular scales on the belly and a long tail",
+    "scores": {
+      "clip_score_scores": 0.5701464517952148,
+      "pick_score_scores": 0.544056515353796,
+      "vqa_score_scores": 0.6101115849129726,
+      "tifa_score_scores": 0.2647519841269841,
+      "image_reward_score_scores": 0.5926048832448367
+    },
+    "level": 13,
+    "total_descendants": 8
+  },
+  {
+    "name": "venomous lizard",
+    "father": "lizard",
+    "definition": "any of two or three large heavy-bodied lizards; only known venomous lizards",
+    "scores": {
+      "clip_score_scores": 0.5350022365273468,
+      "pick_score_scores": 0.4925612551695531,
+      "vqa_score_scores": 0.5720206206101333,
+      "tifa_score_scores": 0.13333333333333333,
+      "image_reward_score_scores": 0.65192907697706
+    },
+    "level": 13,
+    "total_descendants": 2
+  },
+  {
+    "name": "bull snake",
+    "father": "colubrid snake",
+    "definition": "any of several large harmless rodent-eating North American burrowing snakes",
+    "scores": {
+      "clip_score_scores": 0.6513177180104615,
+      "pick_score_scores": 0.5594375952015009,
+      "vqa_score_scores": 0.3883656532257448,
+      "tifa_score_scores": 0.41666666666666663,
+      "image_reward_score_scores": 0.4976622311229883
+    },
+    "level": 13,
+    "total_descendants": 2
+  },
+  {
+    "name": "garter snake",
+    "father": "colubrid snake",
+    "definition": "any of numerous nonvenomous longitudinally-striped viviparous North American and Central American snakes",
+    "scores": {
+      "clip_score_scores": 0.5904999221650382,
+      "pick_score_scores": 0.4903803000939024,
+      "vqa_score_scores": 0.6462900553612565,
+      "tifa_score_scores": 0.24789772727272727,
+      "image_reward_score_scores": 0.4622709973691743
+    },
+    "level": 13,
+    "total_descendants": 3
+  },
+  {
+    "name": "king snake",
+    "father": "colubrid snake",
+    "definition": "any of numerous nonvenomous North American constrictors; feed on other snakes and small mammals",
+    "scores": {
+      "clip_score_scores": 0.5826227526921269,
+      "pick_score_scores": 0.6078211132034266,
+      "vqa_score_scores": 0.598562036800147,
+      "tifa_score_scores": 0.36741071428571426,
+      "image_reward_score_scores": 0.5340595214112577
+    },
+    "level": 13,
+    "total_descendants": 2
+  },
+  {
+    "name": "racer (colubrid snake)",
+    "father": "colubrid snake",
+    "definition": "slender fast-moving North American snakes",
+    "scores": {
+      "clip_score_scores": 0.6067614522758302,
+      "pick_score_scores": 0.5410718100887151,
+      "vqa_score_scores": 0.5588675691820724,
+      "tifa_score_scores": 0.28422371031746035,
+      "image_reward_score_scores": 0.4756582067849392
+    },
+    "level": 13,
+    "total_descendants": 3
+  },
+  {
+    "name": "rat snake",
+    "father": "colubrid snake",
+    "definition": "any of various nonvenomous rodent-eating snakes of North America and Asia",
+    "scores": {
+      "clip_score_scores": 0.5861094805034097,
+      "pick_score_scores": 0.578995046431549,
+      "vqa_score_scores": 0.5023710878232882,
+      "tifa_score_scores": 0.18763257575757578,
+      "image_reward_score_scores": 0.4934864150623159
+    },
+    "level": 13,
+    "total_descendants": 4
+  },
+  {
+    "name": "water snake",
+    "father": "colubrid snake",
+    "definition": "any of various mostly harmless snakes that live in or near water",
+    "scores": {
+      "clip_score_scores": 0.6153191833724839,
+      "pick_score_scores": 0.5263269423853221,
+      "vqa_score_scores": 0.5442709834591923,
+      "tifa_score_scores": 0.34208754208754216,
+      "image_reward_score_scores": 0.4134416281966944
+    },
+    "level": 13,
+    "total_descendants": 4
+  },
+  {
+    "name": "whip-snake",
+    "father": "colubrid snake",
+    "definition": "any of several small fast-moving snakes with long whiplike tails",
+    "scores": {
+      "clip_score_scores": 0.5111572924850508,
+      "pick_score_scores": 0.48307427765896904,
+      "vqa_score_scores": 0.4942334033972199,
+      "tifa_score_scores": 0.17145833333333335,
+      "image_reward_score_scores": 0.5387224850476771
+    },
+    "level": 13,
+    "total_descendants": 3
+  },
+  {
+    "name": "boa",
+    "father": "constrictor",
+    "definition": "any of several chiefly tropical constrictors with vestigial hind limbs",
+    "scores": {
+      "clip_score_scores": 0.5500548278868074,
+      "pick_score_scores": 0.5262032266756037,
+      "vqa_score_scores": 0.5567190544070242,
+      "tifa_score_scores": 0.289884108946609,
+      "image_reward_score_scores": 0.5121860805879528
+    },
+    "level": 13,
+    "total_descendants": 10
+  },
+  {
+    "name": "cobra",
+    "father": "elapid",
+    "definition": "venomous Asiatic and African elapid snakes that can expand the skin of the neck into a hood",
+    "scores": {
+      "clip_score_scores": 0.5914127383326248,
+      "pick_score_scores": 0.5051478333088391,
+      "vqa_score_scores": 0.6078039611303789,
+      "tifa_score_scores": 0.26799347643097643,
+      "image_reward_score_scores": 0.49927889964412014
+    },
+    "level": 13,
+    "total_descendants": 4
+  },
+  {
+    "name": "mamba",
+    "father": "elapid",
+    "definition": "arboreal snake of central and southern Africa whose bite is often fatal",
+    "scores": {
+      "clip_score_scores": 0.5754617143510607,
+      "pick_score_scores": 0.46026585856130187,
+      "vqa_score_scores": 0.40086514050620803,
+      "tifa_score_scores": 0.1463888888888889,
+      "image_reward_score_scores": 0.4837076797682815
+    },
+    "level": 13,
+    "total_descendants": 2
+  },
+  {
+    "name": "pit viper",
+    "father": "viper",
+    "definition": "New World vipers with hollow fangs and a heat-sensitive pit on each side of the head",
+    "scores": {
+      "clip_score_scores": 0.5669893435349782,
+      "pick_score_scores": 0.502707779693826,
+      "vqa_score_scores": 0.5114745024185191,
+      "tifa_score_scores": 0.274159136002886,
+      "image_reward_score_scores": 0.4795960593443553
+    },
+    "level": 13,
+    "total_descendants": 16
+  },
+  {
+    "name": "dung beetle",
+    "father": "scarabaeid beetle",
+    "definition": "any of numerous beetles that roll balls of dung on which they feed and in which they lay eggs",
+    "scores": {
+      "clip_score_scores": 0.577663999456197,
+      "pick_score_scores": 0.5712703537203614,
+      "vqa_score_scores": 0.5241820475008074,
+      "tifa_score_scores": 0.185,
+      "image_reward_score_scores": 0.4663467127724168
+    },
+    "level": 13,
+    "total_descendants": 3
+  },
+  {
+    "name": "melolonthid beetle",
+    "father": "scarabaeid beetle",
+    "definition": "any of various beetles of the family (or subfamily) Melolonthidae",
+    "scores": {
+      "clip_score_scores": 0.45243829092095433,
+      "pick_score_scores": 0.4848280981950688,
+      "vqa_score_scores": 0.4700485196134636,
+      "tifa_score_scores": 0.15946969696969698,
+      "image_reward_score_scores": 0.4878077761837862
+    },
+    "level": 13,
+    "total_descendants": 2
+  },
+  {
+    "name": "botfly",
+    "father": "gadfly",
+    "definition": "stout-bodied hairy dipterous fly whose larvae are parasites on humans and other mammals",
+    "scores": {
+      "clip_score_scores": 0.5688182571816629,
+      "pick_score_scores": 0.5620568486019715,
+      "vqa_score_scores": 0.5841407375828511,
+      "tifa_score_scores": 0.22803030303030303,
+      "image_reward_score_scores": 0.5662274627256085
+    },
+    "level": 13,
+    "total_descendants": 3
+  },
+  {
+    "name": "greenfly",
+    "father": "aphid",
+    "definition": "greenish aphid; pest on garden and crop plants",
+    "scores": {
+      "clip_score_scores": 0.5636416385693881,
+      "pick_score_scores": 0.5284435267099873,
+      "vqa_score_scores": 0.6198943000674249,
+      "tifa_score_scores": 0.28690025252525253,
+      "image_reward_score_scores": 0.4635711253068652
+    },
+    "level": 13,
+    "total_descendants": 2
+  },
+  {
+    "name": "woolly aphid",
+    "father": "aphid",
+    "definition": "secretes a waxy substance like a mass of fine curly white cotton or woolly threads",
+    "scores": {
+      "clip_score_scores": 0.5446143180089179,
+      "pick_score_scores": 0.5049327048145691,
+      "vqa_score_scores": 0.6143286341812738,
+      "tifa_score_scores": 0.1799789562289562,
+      "image_reward_score_scores": 0.3917940525685199
+    },
+    "level": 13,
+    "total_descendants": 2
+  },
+  {
+    "name": "hornet",
+    "father": "vespid",
+    "definition": "large stinging paper wasp",
+    "scores": {
+      "clip_score_scores": 0.5484399458326085,
+      "pick_score_scores": 0.4747187048887387,
+      "vqa_score_scores": 0.4536789172243575,
+      "tifa_score_scores": 0.23060763888888888,
+      "image_reward_score_scores": 0.4759647453252832
+    },
+    "level": 13,
+    "total_descendants": 3
+  },
+  {
+    "name": "cabbage butterfly",
+    "father": "pierid",
+    "definition": "white butterfly whose larvae (cabbageworms) feed on cabbage",
+    "scores": {
+      "clip_score_scores": 0.5585433093363178,
+      "pick_score_scores": 0.503922227823096,
+      "vqa_score_scores": 0.469763772389925,
+      "tifa_score_scores": 0.3018710918710919,
+      "image_reward_score_scores": 0.4881644327416752
+    },
+    "level": 13,
+    "total_descendants": 3
+  },
+  {
+    "name": "webworm moth",
+    "father": "lasiocampid",
+    "definition": "a variety of moth that spins a web in which it lives",
+    "scores": {
+      "clip_score_scores": 0.5111620494540572,
+      "pick_score_scores": 0.5104012449964128,
+      "vqa_score_scores": 0.5862285717071933,
+      "tifa_score_scores": 0.1574404761904762,
+      "image_reward_score_scores": 0.48428155363462455
+    },
+    "level": 13,
+    "total_descendants": 2
+  },
+  {
+    "name": "giant silkworm moth",
+    "father": "saturniid",
+    "definition": "any silkworm moth of the family Saturniidae",
+    "scores": {
+      "clip_score_scores": 0.6124773234476112,
+      "pick_score_scores": 0.486134870567164,
+      "vqa_score_scores": 0.6633940413844888,
+      "tifa_score_scores": 0.15,
+      "image_reward_score_scores": 0.46520865172904785
+    },
+    "level": 13,
+    "total_descendants": 2
+  },
+  {
+    "name": "tineid",
+    "father": "tineoid",
+    "definition": "small yellowish moths whose larvae feed on wool or fur",
+    "scores": {
+      "clip_score_scores": 0.5378180259478741,
+      "pick_score_scores": 0.5204989699428421,
+      "vqa_score_scores": 0.5982163596570066,
+      "tifa_score_scores": 0.17358024691358023,
+      "image_reward_score_scores": 0.3782542112688036
+    },
+    "level": 13,
+    "total_descendants": 4
+  },
+  {
+    "name": "locust",
+    "father": "short-horned grasshopper",
+    "definition": "migratory grasshoppers of warm regions having short antennae",
+    "scores": {
+      "clip_score_scores": 0.5049283426338675,
+      "pick_score_scores": 0.4857630198568526,
+      "vqa_score_scores": 0.4974377732620992,
+      "tifa_score_scores": 0.13085317460317458,
+      "image_reward_score_scores": 0.47337129226714736
+    },
+    "level": 13,
+    "total_descendants": 2
+  },
+  {
+    "name": "psychiatrist",
+    "father": "specialist (doctor)",
+    "definition": "a physician who specializes in psychiatry",
+    "scores": {
+      "clip_score_scores": 0.5270506409665041,
+      "pick_score_scores": 0.502535047048103,
+      "vqa_score_scores": 0.44956977617699695,
+      "tifa_score_scores": 0.24610690235690236,
+      "image_reward_score_scores": 0.4401338457893635
+    },
+    "level": 13,
+    "total_descendants": 2
+  },
+  {
+    "name": "pirate (plunderer)",
+    "father": "plunderer",
+    "definition": "someone who robs at sea or plunders the land from the sea without having a commission from any sovereign nation",
+    "scores": {
+      "clip_score_scores": 0.5370952434503415,
+      "pick_score_scores": 0.5191222009556891,
+      "vqa_score_scores": 0.5676630704981407,
+      "tifa_score_scores": 0.18173611111111115,
+      "image_reward_score_scores": 0.4650945574525842
+    },
+    "level": 13,
+    "total_descendants": 2
+  },
+  {
+    "name": "foreperson",
+    "father": "juror",
+    "definition": "the presiding member of the jury and the one who speaks on their behalf",
+    "scores": {
+      "clip_score_scores": 0.5352515262519291,
+      "pick_score_scores": 0.49678111106074907,
+      "vqa_score_scores": 0.6211387342999579,
+      "tifa_score_scores": 0.27868055555555554,
+      "image_reward_score_scores": 0.47360341561802943
+    },
+    "level": 13,
+    "total_descendants": 2
+  },
+  {
+    "name": "cowboy (ranch hand)",
+    "father": "ranch hand",
+    "definition": "a hired hand who tends cattle and performs other duties on horseback",
+    "scores": {
+      "clip_score_scores": 0.5819166045676549,
+      "pick_score_scores": 0.4912023745263103,
+      "vqa_score_scores": 0.44320867690687304,
+      "tifa_score_scores": 0.25230555555555556,
+      "image_reward_score_scores": 0.4788934249444359
+    },
+    "level": 13,
+    "total_descendants": 5
+  },
+  {
+    "name": "general officer",
+    "father": "commissioned military officer",
+    "definition": "officers in the Army or Air Force or Marines above the rank of colonel",
+    "scores": {
+      "clip_score_scores": 0.5218132351794031,
+      "pick_score_scores": 0.4960047896055413,
+      "vqa_score_scores": 0.5486478184131328,
+      "tifa_score_scores": 0.15877637987012988,
+      "image_reward_score_scores": 0.4675879827019024
+    },
+    "level": 13,
+    "total_descendants": 5
+  },
+  {
+    "name": "lieutenant (commissioned military officer)",
+    "father": "commissioned military officer",
+    "definition": "a commissioned military officer",
+    "scores": {
+      "clip_score_scores": 0.5490813401548494,
+      "pick_score_scores": 0.5096179357071576,
+      "vqa_score_scores": 0.48119121190860153,
+      "tifa_score_scores": 0.24677910052910054,
+      "image_reward_score_scores": 0.47441955598528107
+    },
+    "level": 13,
+    "total_descendants": 3
+  },
+  {
+    "name": "flag officer",
+    "father": "commissioned naval officer",
+    "definition": "a senior naval officer above the rank of captain",
+    "scores": {
+      "clip_score_scores": 0.5322063537015566,
+      "pick_score_scores": 0.5162615311995377,
+      "vqa_score_scores": 0.6172243835728614,
+      "tifa_score_scores": 0.20544949494949494,
+      "image_reward_score_scores": 0.5865200057713176
+    },
+    "level": 13,
+    "total_descendants": 4
+  },
+  {
+    "name": "panic grass",
+    "father": "millet",
+    "definition": "any grass of the genus Panicum; grown for grain and fodder",
+    "scores": {
+      "clip_score_scores": 0.577411233170688,
+      "pick_score_scores": 0.48100476471064924,
+      "vqa_score_scores": 0.5793552294179101,
+      "tifa_score_scores": 0.217507215007215,
+      "image_reward_score_scores": 0.4211539451659744
+    },
+    "level": 13,
+    "total_descendants": 4
+  },
+  {
+    "name": "sorghum",
+    "father": "millet",
+    "definition": "economically important Old World tropical cereal grass",
+    "scores": {
+      "clip_score_scores": 0.5576102654701657,
+      "pick_score_scores": 0.5287959787099646,
+      "vqa_score_scores": 0.5168462904488442,
+      "tifa_score_scores": 0.2859414983164983,
+      "image_reward_score_scores": 0.5202719506864807
+    },
+    "level": 13,
+    "total_descendants": 11
+  },
+  {
+    "name": "foxtail millet",
+    "father": "foxtail",
+    "definition": "coarse drought-resistant annual grass grown for grain, hay, and forage in Europe and Asia and chiefly for forage and hay in United States",
+    "scores": {
+      "clip_score_scores": 0.5465173695242918,
+      "pick_score_scores": 0.5861610977651598,
+      "vqa_score_scores": 0.6556434048009355,
+      "tifa_score_scores": 0.35,
+      "image_reward_score_scores": 0.4896897920289109
+    },
+    "level": 13,
+    "total_descendants": 2
+  },
+  {
+    "name": "common bean",
+    "father": "bush bean",
+    "definition": "the common annual twining or bushy bean plant grown for its edible seeds or pods",
+    "scores": {
+      "clip_score_scores": 0.5700841250918319,
+      "pick_score_scores": 0.46539471280565775,
+      "vqa_score_scores": 0.5498483429302979,
+      "tifa_score_scores": 0.26329365079365075,
+      "image_reward_score_scores": 0.41105321032913894
+    },
+    "level": 13,
+    "total_descendants": 4
+  },
+  {
+    "name": "crab apple (apple tree)",
+    "father": "apple tree",
+    "definition": "any of numerous varieties of crab apples cultivated for their small acidic (usually bright red) fruit used for preserves or as ornamentals for their blossoms",
+    "scores": {
+      "clip_score_scores": 0.5857777423952326,
+      "pick_score_scores": 0.4634382261010181,
+      "vqa_score_scores": 0.4604914967077588,
+      "tifa_score_scores": 0.2744047619047619,
+      "image_reward_score_scores": 0.4869585701977611
+    },
+    "level": 13,
+    "total_descendants": 2
+  },
+  {
+    "name": "wild apple",
+    "father": "apple tree",
+    "definition": "any of numerous wild apple trees usually with small acidic fruit",
+    "scores": {
+      "clip_score_scores": 0.5374142261411056,
+      "pick_score_scores": 0.4968176520923385,
+      "vqa_score_scores": 0.4504681601840474,
+      "tifa_score_scores": 0.22993133718133718,
+      "image_reward_score_scores": 0.4294356556132374
+    },
+    "level": 13,
+    "total_descendants": 5
+  },
+  {
+    "name": "flowering cherry",
+    "father": "cherry (fruit tree)",
+    "definition": "any of several shrubs or trees of the genus Prunus cultivated for their showy white or pink single or double blossoms",
+    "scores": {
+      "clip_score_scores": 0.5706251338751981,
+      "pick_score_scores": 0.46134750156007986,
+      "vqa_score_scores": 0.490605702916678,
+      "tifa_score_scores": 0.25201388888888887,
+      "image_reward_score_scores": 0.535968837093596
+    },
+    "level": 13,
+    "total_descendants": 4
+  },
+  {
+    "name": "sour cherry (cherry)",
+    "father": "cherry (fruit tree)",
+    "definition": "rather small Eurasian tree producing red to black acid edible fruit",
+    "scores": {
+      "clip_score_scores": 0.5836658975064456,
+      "pick_score_scores": 0.5048733562503691,
+      "vqa_score_scores": 0.5652306603496771,
+      "tifa_score_scores": 0.1910227272727273,
+      "image_reward_score_scores": 0.5693658797328609
+    },
+    "level": 13,
+    "total_descendants": 3
+  },
+  {
+    "name": "sweet cherry (cherry)",
+    "father": "cherry (fruit tree)",
+    "definition": "large Eurasian tree producing small dark bitter fruit in the wild but edible sweet fruit under cultivation",
+    "scores": {
+      "clip_score_scores": 0.5313867641406053,
+      "pick_score_scores": 0.46310738920075223,
+      "vqa_score_scores": 0.4721523565722691,
+      "tifa_score_scores": 0.2453944203944204,
+      "image_reward_score_scores": 0.42084454087055184
+    },
+    "level": 13,
+    "total_descendants": 2
+  },
+  {
+    "name": "wild cherry (cherry)",
+    "father": "cherry (fruit tree)",
+    "definition": "an uncultivated cherry tree",
+    "scores": {
+      "clip_score_scores": 0.5518356915840257,
+      "pick_score_scores": 0.46419062184807774,
+      "vqa_score_scores": 0.5187623229795727,
+      "tifa_score_scores": 0.21165404040404043,
+      "image_reward_score_scores": 0.4752054736909305
+    },
+    "level": 13,
+    "total_descendants": 4
+  },
+  {
+    "name": "kumquat (citrus)",
+    "father": "citrus (fruit tree)",
+    "definition": "any of several trees or shrubs of the genus Fortunella bearing small orange-colored edible fruits with thick sweet-flavored skin and sour pulp",
+    "scores": {
+      "clip_score_scores": 0.5753319410208716,
+      "pick_score_scores": 0.43396932170976515,
+      "vqa_score_scores": 0.6034124989711969,
+      "tifa_score_scores": 0.1940800865800866,
+      "image_reward_score_scores": 0.5277178612737985
+    },
+    "level": 13,
+    "total_descendants": 2
+  },
+  {
+    "name": "mandarin (citrus)",
+    "father": "citrus (fruit tree)",
+    "definition": "shrub or small tree having flattened globose fruit with very sweet aromatic pulp and thin yellow-orange to flame-orange rind that is loose and easily removed; native to southeastern Asia",
+    "scores": {
+      "clip_score_scores": 0.556731717281652,
+      "pick_score_scores": 0.4913214368942529,
+      "vqa_score_scores": 0.5090209536212416,
+      "tifa_score_scores": 0.24230158730158732,
+      "image_reward_score_scores": 0.5704447718293739
+    },
+    "level": 13,
+    "total_descendants": 3
+  },
+  {
+    "name": "orange (citrus)",
+    "father": "citrus (fruit tree)",
+    "definition": "any citrus tree bearing oranges",
+    "scores": {
+      "clip_score_scores": 0.5940962012844476,
+      "pick_score_scores": 0.5439982982195173,
+      "vqa_score_scores": 0.5921934475021025,
+      "tifa_score_scores": 0.39608833874458876,
+      "image_reward_score_scores": 0.5481428766513339
+    },
+    "level": 13,
+    "total_descendants": 4
+  },
+  {
+    "name": "wild plum",
+    "father": "plum (fruit tree)",
+    "definition": "an uncultivated plum tree or shrub",
+    "scores": {
+      "clip_score_scores": 0.510314986064081,
+      "pick_score_scores": 0.5148436273425807,
+      "vqa_score_scores": 0.5043549914350443,
+      "tifa_score_scores": 0.20359986772486774,
+      "image_reward_score_scores": 0.43086974861387456
+    },
+    "level": 13,
+    "total_descendants": 5
+  },
+  {
+    "name": "silver fir",
+    "father": "fir",
+    "definition": "any of various true firs having leaves white or silvery white beneath",
+    "scores": {
+      "clip_score_scores": 0.5441494587711407,
+      "pick_score_scores": 0.5137457220846423,
+      "vqa_score_scores": 0.5361374342759252,
+      "tifa_score_scores": 0.29240244708994706,
+      "image_reward_score_scores": 0.37185807242773755
+    },
+    "level": 13,
+    "total_descendants": 7
+  },
+  {
+    "name": "pinon",
+    "father": "pine",
+    "definition": "any of several low-growing pines of western North America",
+    "scores": {
+      "clip_score_scores": 0.5927608947332659,
+      "pick_score_scores": 0.5354194506023534,
+      "vqa_score_scores": 0.5439694544496323,
+      "tifa_score_scores": 0.27611742424242425,
+      "image_reward_score_scores": 0.43796882682788213
+    },
+    "level": 13,
+    "total_descendants": 7
+  },
+  {
+    "name": "white pine",
+    "father": "pine",
+    "definition": "any of several five-needled pines with white wood and smooth usually light grey bark when young; especially the eastern white pine",
+    "scores": {
+      "clip_score_scores": 0.5539573311649212,
+      "pick_score_scores": 0.5036049047477554,
+      "vqa_score_scores": 0.5281430215728194,
+      "tifa_score_scores": 0.22995039682539684,
+      "image_reward_score_scores": 0.4096521797422506
+    },
+    "level": 13,
+    "total_descendants": 5
+  },
+  {
+    "name": "yellow pine",
+    "father": "pine",
+    "definition": "any of various pines having yellow wood",
+    "scores": {
+      "clip_score_scores": 0.49909208984677506,
+      "pick_score_scores": 0.4986591353609108,
+      "vqa_score_scores": 0.5007422583281259,
+      "tifa_score_scores": 0.30980218855218855,
+      "image_reward_score_scores": 0.3761651412370933
+    },
+    "level": 13,
+    "total_descendants": 3
+  }
+]

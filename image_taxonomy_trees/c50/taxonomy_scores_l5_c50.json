@@ -1,0 +1,310 @@
+[
+  {
+    "name": "geographic point",
+    "father": "point (location)",
+    "definition": "a point on the surface of the Earth",
+    "scores": {
+      "clip_score_scores": 0.5677830728119938,
+      "pick_score_scores": 0.49312373562513434,
+      "vqa_score_scores": 0.531991888728879,
+      "tifa_score_scores": 0.2165588312150812,
+      "image_reward_score_scores": 0.4398193127986405
+    },
+    "level": 5,
+    "total_descendants": 98
+  },
+  {
+    "name": "boundary",
+    "father": "extremity",
+    "definition": "the line or plane indicating the limit or extent of something",
+    "scores": {
+      "clip_score_scores": 0.5264541719328385,
+      "pick_score_scores": 0.4993017737923583,
+      "vqa_score_scores": 0.5779566597049545,
+      "tifa_score_scores": 0.2700637595346047,
+      "image_reward_score_scores": 0.4423397820577864
+    },
+    "level": 5,
+    "total_descendants": 86
+  },
+  {
+    "name": "tract",
+    "father": "geographical area",
+    "definition": "an extended area of land",
+    "scores": {
+      "clip_score_scores": 0.5535869808356884,
+      "pick_score_scores": 0.5087604787318224,
+      "vqa_score_scores": 0.5061513621911086,
+      "tifa_score_scores": 0.2058920046252991,
+      "image_reward_score_scores": 0.47313072818258795
+    },
+    "level": 5,
+    "total_descendants": 142
+  },
+  {
+    "name": "building material",
+    "father": "artifact",
+    "definition": "material used for constructing buildings",
+    "scores": {
+      "clip_score_scores": 0.5751679791490056,
+      "pick_score_scores": 0.49993847568030575,
+      "vqa_score_scores": 0.5233612502976128,
+      "tifa_score_scores": 0.2842925938929163,
+      "image_reward_score_scores": 0.4774007328901586
+    },
+    "level": 5,
+    "total_descendants": 81
+  },
+  {
+    "name": "commodity",
+    "father": "artifact",
+    "definition": "articles of commerce",
+    "scores": {
+      "clip_score_scores": 0.5535469832680953,
+      "pick_score_scores": 0.5024732202550115,
+      "vqa_score_scores": 0.557780577742985,
+      "tifa_score_scores": 0.27019020580820924,
+      "image_reward_score_scores": 0.45038423008034456
+    },
+    "level": 5,
+    "total_descendants": 112
+  },
+  {
+    "name": "covering (artifact)",
+    "father": "artifact",
+    "definition": "an artifact that covers something else (usually to protect or shelter or conceal it)",
+    "scores": {
+      "clip_score_scores": 0.5454592480583765,
+      "pick_score_scores": 0.5270954937369292,
+      "vqa_score_scores": 0.5629553230522207,
+      "tifa_score_scores": 0.26874980236420454,
+      "image_reward_score_scores": 0.4673336948036611
+    },
+    "level": 5,
+    "total_descendants": 955
+  },
+  {
+    "name": "creation",
+    "father": "artifact",
+    "definition": "an artifact that has been brought into existence by someone",
+    "scores": {
+      "clip_score_scores": 0.5378676010329435,
+      "pick_score_scores": 0.5157046337359245,
+      "vqa_score_scores": 0.6147093219302635,
+      "tifa_score_scores": 0.21844778290795136,
+      "image_reward_score_scores": 0.4939484953108115
+    },
+    "level": 5,
+    "total_descendants": 633
+  },
+  {
+    "name": "decoration",
+    "father": "artifact",
+    "definition": "something used to beautify",
+    "scores": {
+      "clip_score_scores": 0.5532008268884407,
+      "pick_score_scores": 0.5106459314348089,
+      "vqa_score_scores": 0.5524949416332006,
+      "tifa_score_scores": 0.2864841451920187,
+      "image_reward_score_scores": 0.4910747687531998
+    },
+    "level": 5,
+    "total_descendants": 276
+  },
+  {
+    "name": "fabric",
+    "father": "artifact",
+    "definition": "artifact made by weaving or felting or knitting or crocheting natural or synthetic fibers",
+    "scores": {
+      "clip_score_scores": 0.5490066069600512,
+      "pick_score_scores": 0.49615212592748636,
+      "vqa_score_scores": 0.5311732225979551,
+      "tifa_score_scores": 0.23309887983541203,
+      "image_reward_score_scores": 0.4641930531961319
+    },
+    "level": 5,
+    "total_descendants": 280
+  },
+  {
+    "name": "instrumentality",
+    "father": "artifact",
+    "definition": "an artifact (or system of artifacts) that is instrumental in accomplishing some end",
+    "scores": {
+      "clip_score_scores": 0.5493789649130222,
+      "pick_score_scores": 0.5155635637992869,
+      "vqa_score_scores": 0.5556586606179894,
+      "tifa_score_scores": 0.2534298298967411,
+      "image_reward_score_scores": 0.48819716848514716
+    },
+    "level": 5,
+    "total_descendants": 5379
+  },
+  {
+    "name": "line (artifact)",
+    "father": "artifact",
+    "definition": "something (as a cord or rope) that is long and thin and flexible",
+    "scores": {
+      "clip_score_scores": 0.5431461978183036,
+      "pick_score_scores": 0.5260077089068441,
+      "vqa_score_scores": 0.5348531974999781,
+      "tifa_score_scores": 0.2527221121293947,
+      "image_reward_score_scores": 0.45167267182365484
+    },
+    "level": 5,
+    "total_descendants": 88
+  },
+  {
+    "name": "opening (artifact)",
+    "father": "artifact",
+    "definition": "a vacant or unobstructed space that is man-made",
+    "scores": {
+      "clip_score_scores": 0.548446642849644,
+      "pick_score_scores": 0.5235157485717894,
+      "vqa_score_scores": 0.5733869162845712,
+      "tifa_score_scores": 0.30191186122512403,
+      "image_reward_score_scores": 0.4656485171899029
+    },
+    "level": 5,
+    "total_descendants": 71
+  },
+  {
+    "name": "sheet (artifact)",
+    "father": "artifact",
+    "definition": "a flat artifact that is thin relative to its length and width",
+    "scores": {
+      "clip_score_scores": 0.552790234227673,
+      "pick_score_scores": 0.49952064193451123,
+      "vqa_score_scores": 0.5531446222501849,
+      "tifa_score_scores": 0.24885272842833606,
+      "image_reward_score_scores": 0.47108150883955
+    },
+    "level": 5,
+    "total_descendants": 104
+  },
+  {
+    "name": "strip (artifact)",
+    "father": "artifact",
+    "definition": "artifact consisting of a narrow flat piece of material",
+    "scores": {
+      "clip_score_scores": 0.5487074453146227,
+      "pick_score_scores": 0.5195769957998012,
+      "vqa_score_scores": 0.5418864911490233,
+      "tifa_score_scores": 0.22731715738577515,
+      "image_reward_score_scores": 0.4547950056288042
+    },
+    "level": 5,
+    "total_descendants": 54
+  },
+  {
+    "name": "structure",
+    "father": "artifact",
+    "definition": "a thing constructed; a complex entity constructed of many parts",
+    "scores": {
+      "clip_score_scores": 0.5398023408934766,
+      "pick_score_scores": 0.5105289908732733,
+      "vqa_score_scores": 0.5543851018038743,
+      "tifa_score_scores": 0.2472529897752175,
+      "image_reward_score_scores": 0.4669074363981625
+    },
+    "level": 5,
+    "total_descendants": 1361
+  },
+  {
+    "name": "surface (artifact)",
+    "father": "artifact",
+    "definition": "the outer boundary of an artifact or a material layer constituting or resembling such a boundary",
+    "scores": {
+      "clip_score_scores": 0.5458578458550482,
+      "pick_score_scores": 0.5159903698032402,
+      "vqa_score_scores": 0.5597477517801468,
+      "tifa_score_scores": 0.28906549595082376,
+      "image_reward_score_scores": 0.4549157581692822
+    },
+    "level": 5,
+    "total_descendants": 152
+  },
+  {
+    "name": "way",
+    "father": "artifact",
+    "definition": "any artifact consisting of a road or path affording passage from one place to another",
+    "scores": {
+      "clip_score_scores": 0.5155194076867249,
+      "pick_score_scores": 0.5212500064291596,
+      "vqa_score_scores": 0.5236662570511077,
+      "tifa_score_scores": 0.24888168140942712,
+      "image_reward_score_scores": 0.49132705420167966
+    },
+    "level": 5,
+    "total_descendants": 264
+  },
+  {
+    "name": "cell (living thing)",
+    "father": "living thing",
+    "definition": "(biology) the basic structural and functional unit of all organisms; they may exist as independent units of life (as in monads) or may form colonies or tissues as in higher plants and animals",
+    "scores": {
+      "clip_score_scores": 0.537420493472761,
+      "pick_score_scores": 0.5139448734951525,
+      "vqa_score_scores": 0.5695879471099028,
+      "tifa_score_scores": 0.20485157320442038,
+      "image_reward_score_scores": 0.45840786267343153
+    },
+    "level": 5,
+    "total_descendants": 135
+  },
+  {
+    "name": "organism",
+    "father": "living thing",
+    "definition": "a living thing that has (or can develop) the ability to act or function independently",
+    "scores": {
+      "clip_score_scores": 0.5513822634809037,
+      "pick_score_scores": 0.5096774053048851,
+      "vqa_score_scores": 0.5744559360409581,
+      "tifa_score_scores": 0.21984106943665976,
+      "image_reward_score_scores": 0.46993074625022035
+    },
+    "level": 5,
+    "total_descendants": 15684
+  },
+  {
+    "name": "particle",
+    "father": "natural object",
+    "definition": "a body having finite mass and internal structure but negligible dimensions",
+    "scores": {
+      "clip_score_scores": 0.5347017114500243,
+      "pick_score_scores": 0.506879043237388,
+      "vqa_score_scores": 0.5352231535881355,
+      "tifa_score_scores": 0.23821079855715274,
+      "image_reward_score_scores": 0.4723275972123776
+    },
+    "level": 5,
+    "total_descendants": 68
+  },
+  {
+    "name": "covering (natural object)",
+    "father": "natural object",
+    "definition": "a natural object that covers or envelops",
+    "scores": {
+      "clip_score_scores": 0.5530924215930307,
+      "pick_score_scores": 0.5206075356186416,
+      "vqa_score_scores": 0.5521485156892308,
+      "tifa_score_scores": 0.26500700102597097,
+      "image_reward_score_scores": 0.48686539896582265
+    },
+    "level": 5,
+    "total_descendants": 178
+  },
+  {
+    "name": "plant part",
+    "father": "natural object",
+    "definition": "any part of a plant or fungus",
+    "scores": {
+      "clip_score_scores": 0.5448711159015845,
+      "pick_score_scores": 0.5130769752723556,
+      "vqa_score_scores": 0.5437257593702329,
+      "tifa_score_scores": 0.21540653333626059,
+      "image_reward_score_scores": 0.46781400022281616
+    },
+    "level": 5,
+    "total_descendants": 671
+  }
+]

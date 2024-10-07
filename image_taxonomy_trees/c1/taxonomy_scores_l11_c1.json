@@ -1,0 +1,5294 @@
+[
+  {
+    "name": "coffee maker",
+    "father": "kitchen appliance",
+    "definition": "a kitchen appliance for brewing coffee automatically",
+    "scores": {
+      "clip_score_scores": 0.5277186155886362,
+      "pick_score_scores": 0.5526369837142767,
+      "vqa_score_scores": 0.4240785205017289,
+      "tifa_score_scores": 0.1393939393939394,
+      "image_reward_score_scores": 0.4558431480197155
+    },
+    "level": 11,
+    "total_descendants": 2
+  },
+  {
+    "name": "oven",
+    "father": "kitchen appliance",
+    "definition": "kitchen appliance used for baking or roasting",
+    "scores": {
+      "clip_score_scores": 0.6257933983689993,
+      "pick_score_scores": 0.5492351648190651,
+      "vqa_score_scores": 0.5916158507715099,
+      "tifa_score_scores": 0.2262152777777778,
+      "image_reward_score_scores": 0.41346647672258796
+    },
+    "level": 11,
+    "total_descendants": 5
+  },
+  {
+    "name": "stove (kitchen appliance)",
+    "father": "kitchen appliance",
+    "definition": "a kitchen appliance used for cooking food",
+    "scores": {
+      "clip_score_scores": 0.5580112942736367,
+      "pick_score_scores": 0.49727964140367353,
+      "vqa_score_scores": 0.4976102480774186,
+      "tifa_score_scores": 0.23587499999999997,
+      "image_reward_score_scores": 0.4504630563451154
+    },
+    "level": 11,
+    "total_descendants": 6
+  },
+  {
+    "name": "clothes dryer",
+    "father": "white goods (home appliance)",
+    "definition": "a dryer that dries clothes wet from washing",
+    "scores": {
+      "clip_score_scores": 0.539590837778117,
+      "pick_score_scores": 0.5268201393839252,
+      "vqa_score_scores": 0.5822179825270248,
+      "tifa_score_scores": 0.30287202380952377,
+      "image_reward_score_scores": 0.5057782185310589
+    },
+    "level": 11,
+    "total_descendants": 4
+  },
+  {
+    "name": "refrigerator",
+    "father": "white goods (home appliance)",
+    "definition": "white goods in which food can be stored at low temperatures",
+    "scores": {
+      "clip_score_scores": 0.5554137696848755,
+      "pick_score_scores": 0.5122751691746219,
+      "vqa_score_scores": 0.5797040904286642,
+      "tifa_score_scores": 0.24511959876543207,
+      "image_reward_score_scores": 0.4190180629910493
+    },
+    "level": 11,
+    "total_descendants": 4
+  },
+  {
+    "name": "parka",
+    "father": "jacket (coat)",
+    "definition": "a kind of heavy jacket (`windcheater' is a British term)",
+    "scores": {
+      "clip_score_scores": 0.5613417581792518,
+      "pick_score_scores": 0.5225458432283375,
+      "vqa_score_scores": 0.48415944831699737,
+      "tifa_score_scores": 0.24940972222222224,
+      "image_reward_score_scores": 0.5663810817993076
+    },
+    "level": 11,
+    "total_descendants": 2
+  },
+  {
+    "name": "directory",
+    "father": "reference book",
+    "definition": "an alphabetical list of names and addresses",
+    "scores": {
+      "clip_score_scores": 0.5718954712637647,
+      "pick_score_scores": 0.4615124583578085,
+      "vqa_score_scores": 0.48539913379786376,
+      "tifa_score_scores": 0.3182360309443643,
+      "image_reward_score_scores": 0.33051960623779536
+    },
+    "level": 11,
+    "total_descendants": 4
+  },
+  {
+    "name": "handbook",
+    "father": "reference book",
+    "definition": "a concise reference book providing specific information about a subject or location",
+    "scores": {
+      "clip_score_scores": 0.5956464583573712,
+      "pick_score_scores": 0.500104316036019,
+      "vqa_score_scores": 0.47438868665820094,
+      "tifa_score_scores": 0.2668773674242424,
+      "image_reward_score_scores": 0.4678903531326557
+    },
+    "level": 11,
+    "total_descendants": 13
+  },
+  {
+    "name": "wordbook",
+    "father": "reference book",
+    "definition": "a reference book containing words (usually with their meanings)",
+    "scores": {
+      "clip_score_scores": 0.5635965635686807,
+      "pick_score_scores": 0.5053911645681703,
+      "vqa_score_scores": 0.590692410802797,
+      "tifa_score_scores": 0.18428836980920313,
+      "image_reward_score_scores": 0.48205646357288584
+    },
+    "level": 11,
+    "total_descendants": 14
+  },
+  {
+    "name": "primer",
+    "father": "textbook",
+    "definition": "an introductory textbook",
+    "scores": {
+      "clip_score_scores": 0.5386768372720641,
+      "pick_score_scores": 0.506697886578185,
+      "vqa_score_scores": 0.6122092551737734,
+      "tifa_score_scores": 0.18333333333333332,
+      "image_reward_score_scores": 0.298458294226558
+    },
+    "level": 11,
+    "total_descendants": 2
+  },
+  {
+    "name": "hackney (carriage)",
+    "father": "carriage (horse-drawn vehicle)",
+    "definition": "a carriage for hire",
+    "scores": {
+      "clip_score_scores": 0.5245617240093384,
+      "pick_score_scores": 0.5341208055063761,
+      "vqa_score_scores": 0.5960816445769087,
+      "tifa_score_scores": 0.2780934343434343,
+      "image_reward_score_scores": 0.6469081073458249
+    },
+    "level": 11,
+    "total_descendants": 2
+  },
+  {
+    "name": "diesel locomotive",
+    "father": "locomotive",
+    "definition": "a locomotive driven by a diesel engine",
+    "scores": {
+      "clip_score_scores": 0.5953352750599638,
+      "pick_score_scores": 0.5780496689151047,
+      "vqa_score_scores": 0.6333545837870634,
+      "tifa_score_scores": 0.2131358225108225,
+      "image_reward_score_scores": 0.5438223966997685
+    },
+    "level": 11,
+    "total_descendants": 2
+  },
+  {
+    "name": "car (motor vehicle)",
+    "father": "motor vehicle",
+    "definition": "a motor vehicle with four wheels; usually propelled by an internal combustion engine",
+    "scores": {
+      "clip_score_scores": 0.5724282030843212,
+      "pick_score_scores": 0.513292104141457,
+      "vqa_score_scores": 0.5312845116104531,
+      "tifa_score_scores": 0.2554605796055796,
+      "image_reward_score_scores": 0.5061922656719051
+    },
+    "level": 11,
+    "total_descendants": 39
+  },
+  {
+    "name": "motorcycle",
+    "father": "motor vehicle",
+    "definition": "a motor vehicle with two wheels and a strong frame",
+    "scores": {
+      "clip_score_scores": 0.5900716561624761,
+      "pick_score_scores": 0.5227179693734454,
+      "vqa_score_scores": 0.5537477362175883,
+      "tifa_score_scores": 0.2033333333333333,
+      "image_reward_score_scores": 0.44465038895065656
+    },
+    "level": 11,
+    "total_descendants": 3
+  },
+  {
+    "name": "truck",
+    "father": "motor vehicle",
+    "definition": "an automotive vehicle suitable for hauling",
+    "scores": {
+      "clip_score_scores": 0.5578022276893245,
+      "pick_score_scores": 0.49778818183144125,
+      "vqa_score_scores": 0.5201995147942915,
+      "tifa_score_scores": 0.22240369253762107,
+      "image_reward_score_scores": 0.48127694612361693
+    },
+    "level": 11,
+    "total_descendants": 23
+  },
+  {
+    "name": "airplane",
+    "father": "heavier-than-air craft",
+    "definition": "an aircraft that has a fixed wing and is powered by propellers or jets",
+    "scores": {
+      "clip_score_scores": 0.57450228261649,
+      "pick_score_scores": 0.5169355939001753,
+      "vqa_score_scores": 0.5836806137567757,
+      "tifa_score_scores": 0.2767408025359414,
+      "image_reward_score_scores": 0.47346630969122755
+    },
+    "level": 11,
+    "total_descendants": 24
+  },
+  {
+    "name": "helicopter",
+    "father": "heavier-than-air craft",
+    "definition": "an aircraft without wings that obtains its lift from the rotation of overhead blades",
+    "scores": {
+      "clip_score_scores": 0.5962792983232362,
+      "pick_score_scores": 0.5205443614385791,
+      "vqa_score_scores": 0.5084244082330023,
+      "tifa_score_scores": 0.23092592592592592,
+      "image_reward_score_scores": 0.46657838770000465
+    },
+    "level": 11,
+    "total_descendants": 4
+  },
+  {
+    "name": "airship",
+    "father": "lighter-than-air craft",
+    "definition": "a steerable self-propelled aircraft",
+    "scores": {
+      "clip_score_scores": 0.590708027720637,
+      "pick_score_scores": 0.5260841857115452,
+      "vqa_score_scores": 0.599387221197522,
+      "tifa_score_scores": 0.32543420314253646,
+      "image_reward_score_scores": 0.5409869118492961
+    },
+    "level": 11,
+    "total_descendants": 3
+  },
+  {
+    "name": "balloon (lighter-than-air craft)",
+    "father": "lighter-than-air craft",
+    "definition": "large tough nonrigid bag filled with gas or heated air",
+    "scores": {
+      "clip_score_scores": 0.5921417276355043,
+      "pick_score_scores": 0.502760784867843,
+      "vqa_score_scores": 0.6177205124341605,
+      "tifa_score_scores": 0.30355587121212124,
+      "image_reward_score_scores": 0.4751791278174083
+    },
+    "level": 11,
+    "total_descendants": 4
+  },
+  {
+    "name": "barge",
+    "father": "boat",
+    "definition": "a flatbottom boat for carrying heavy loads (especially on canals)",
+    "scores": {
+      "clip_score_scores": 0.5587085991196148,
+      "pick_score_scores": 0.5225226622494544,
+      "vqa_score_scores": 0.4331058052231237,
+      "tifa_score_scores": 0.19395370370370368,
+      "image_reward_score_scores": 0.48834827974574607
+    },
+    "level": 11,
+    "total_descendants": 5
+  },
+  {
+    "name": "motorboat",
+    "father": "boat",
+    "definition": "a boat propelled by an internal-combustion engine",
+    "scores": {
+      "clip_score_scores": 0.5673750143023357,
+      "pick_score_scores": 0.5201612628154326,
+      "vqa_score_scores": 0.5469489304402658,
+      "tifa_score_scores": 0.3159139384920635,
+      "image_reward_score_scores": 0.49953583344080255
+    },
+    "level": 11,
+    "total_descendants": 6
+  },
+  {
+    "name": "sea boat",
+    "father": "boat",
+    "definition": "a boat that is seaworthy; that is adapted to the open seas",
+    "scores": {
+      "clip_score_scores": 0.5514770015779994,
+      "pick_score_scores": 0.5134734658222319,
+      "vqa_score_scores": 0.5086675474493073,
+      "tifa_score_scores": 0.1539351851851852,
+      "image_reward_score_scores": 0.41578808506739756
+    },
+    "level": 11,
+    "total_descendants": 2
+  },
+  {
+    "name": "small boat",
+    "father": "boat",
+    "definition": "a boat that is small",
+    "scores": {
+      "clip_score_scores": 0.5933959912576978,
+      "pick_score_scores": 0.5205696476541672,
+      "vqa_score_scores": 0.5526038927229397,
+      "tifa_score_scores": 0.239903632889744,
+      "image_reward_score_scores": 0.5171864962015995
+    },
+    "level": 11,
+    "total_descendants": 20
+  },
+  {
+    "name": "sailboat",
+    "father": "sailing vessel",
+    "definition": "a small sailing vessel; usually with a single mast",
+    "scores": {
+      "clip_score_scores": 0.5475420972810624,
+      "pick_score_scores": 0.5022259982336644,
+      "vqa_score_scores": 0.46671013973271586,
+      "tifa_score_scores": 0.21855271464646464,
+      "image_reward_score_scores": 0.4282252330099341
+    },
+    "level": 11,
+    "total_descendants": 4
+  },
+  {
+    "name": "sloop",
+    "father": "sailing vessel",
+    "definition": "a sailing vessel with a single mast set about one third of the boat's length aft of the bow",
+    "scores": {
+      "clip_score_scores": 0.4639709277568723,
+      "pick_score_scores": 0.4793318554351902,
+      "vqa_score_scores": 0.6411917253185364,
+      "tifa_score_scores": 0.15138888888888888,
+      "image_reward_score_scores": 0.40160175750458793
+    },
+    "level": 11,
+    "total_descendants": 2
+  },
+  {
+    "name": "cargo ship",
+    "father": "ship",
+    "definition": "a ship designed to carry cargo",
+    "scores": {
+      "clip_score_scores": 0.5841010060430714,
+      "pick_score_scores": 0.5319011937186582,
+      "vqa_score_scores": 0.4670054403916105,
+      "tifa_score_scores": 0.18785040885040888,
+      "image_reward_score_scores": 0.479852236763694
+    },
+    "level": 11,
+    "total_descendants": 7
+  },
+  {
+    "name": "passenger ship",
+    "father": "ship",
+    "definition": "a ship built to carry passengers",
+    "scores": {
+      "clip_score_scores": 0.5723597359051826,
+      "pick_score_scores": 0.5429460065846132,
+      "vqa_score_scores": 0.5776034764856834,
+      "tifa_score_scores": 0.24707258597883597,
+      "image_reward_score_scores": 0.5062844670779085
+    },
+    "level": 11,
+    "total_descendants": 5
+  },
+  {
+    "name": "steamer (ship)",
+    "father": "ship",
+    "definition": "a ship powered by one or more steam engines",
+    "scores": {
+      "clip_score_scores": 0.5106561677236142,
+      "pick_score_scores": 0.55216321236209,
+      "vqa_score_scores": 0.5293711640590699,
+      "tifa_score_scores": 0.17347532868366203,
+      "image_reward_score_scores": 0.6164711310180473
+    },
+    "level": 11,
+    "total_descendants": 4
+  },
+  {
+    "name": "submarine",
+    "father": "submersible (warship)",
+    "definition": "a submersible warship usually armed with torpedoes",
+    "scores": {
+      "clip_score_scores": 0.5330543388545826,
+      "pick_score_scores": 0.49503366132782833,
+      "vqa_score_scores": 0.6395487305032608,
+      "tifa_score_scores": 0.20133928571428572,
+      "image_reward_score_scores": 0.5087977355468236
+    },
+    "level": 11,
+    "total_descendants": 4
+  },
+  {
+    "name": "circuit board",
+    "father": "printed circuit",
+    "definition": "a printed circuit that can be inserted into expansion slots in a computer to increase the computer's capabilities",
+    "scores": {
+      "clip_score_scores": 0.5724200215565055,
+      "pick_score_scores": 0.5704351489779015,
+      "vqa_score_scores": 0.4949560779893895,
+      "tifa_score_scores": 0.27299603174603176,
+      "image_reward_score_scores": 0.5163350892857865
+    },
+    "level": 11,
+    "total_descendants": 2
+  },
+  {
+    "name": "kinescope",
+    "father": "cathode-ray tube",
+    "definition": "a cathode-ray tube in a television receiver; translates the received signal into a picture on a luminescent screen",
+    "scores": {
+      "clip_score_scores": 0.4924570606498302,
+      "pick_score_scores": 0.5381425697846747,
+      "vqa_score_scores": 0.4604414025644573,
+      "tifa_score_scores": 0.17277777777777775,
+      "image_reward_score_scores": 0.33503722253101853
+    },
+    "level": 11,
+    "total_descendants": 2
+  },
+  {
+    "name": "light microscope",
+    "father": "microscope",
+    "definition": "microscope consisting of an optical instrument that magnifies the image of an object",
+    "scores": {
+      "clip_score_scores": 0.5603235811367355,
+      "pick_score_scores": 0.561784227214478,
+      "vqa_score_scores": 0.5304673558891619,
+      "tifa_score_scores": 0.28334054834054834,
+      "image_reward_score_scores": 0.49058411307973915
+    },
+    "level": 11,
+    "total_descendants": 6
+  },
+  {
+    "name": "astronomical telescope",
+    "father": "telescope",
+    "definition": "any telescope designed to collect and record electromagnetic radiation from cosmic sources",
+    "scores": {
+      "clip_score_scores": 0.5259850366453703,
+      "pick_score_scores": 0.5649011598932175,
+      "vqa_score_scores": 0.591358753853947,
+      "tifa_score_scores": 0.32755039052658097,
+      "image_reward_score_scores": 0.6396834701120744
+    },
+    "level": 11,
+    "total_descendants": 13
+  },
+  {
+    "name": "autoloader",
+    "father": "firearm",
+    "definition": "a firearm that reloads itself",
+    "scores": {
+      "clip_score_scores": 0.5360958535377093,
+      "pick_score_scores": 0.4771077864507385,
+      "vqa_score_scores": 0.5356230853600462,
+      "tifa_score_scores": 0.22883785273368606,
+      "image_reward_score_scores": 0.33140561223299925
+    },
+    "level": 11,
+    "total_descendants": 18
+  },
+  {
+    "name": "muzzle loader",
+    "father": "firearm",
+    "definition": "an obsolete firearm that was loaded through the muzzle",
+    "scores": {
+      "clip_score_scores": 0.5649628867109167,
+      "pick_score_scores": 0.4998976118873739,
+      "vqa_score_scores": 0.468266555970433,
+      "tifa_score_scores": 0.2611524283008658,
+      "image_reward_score_scores": 0.43323237103387524
+    },
+    "level": 11,
+    "total_descendants": 7
+  },
+  {
+    "name": "pistol",
+    "father": "firearm",
+    "definition": "a firearm that is held and fired with one hand",
+    "scores": {
+      "clip_score_scores": 0.5703694750085085,
+      "pick_score_scores": 0.4940851402510179,
+      "vqa_score_scores": 0.5615986013756256,
+      "tifa_score_scores": 0.2731989204211426,
+      "image_reward_score_scores": 0.49076358100161294
+    },
+    "level": 11,
+    "total_descendants": 13
+  },
+  {
+    "name": "rifle",
+    "father": "firearm",
+    "definition": "a shoulder firearm with a long barrel and a rifled bore",
+    "scores": {
+      "clip_score_scores": 0.5469360443765114,
+      "pick_score_scores": 0.5090166606918926,
+      "vqa_score_scores": 0.45500529911768856,
+      "tifa_score_scores": 0.2538035714285714,
+      "image_reward_score_scores": 0.404690071798533
+    },
+    "level": 11,
+    "total_descendants": 5
+  },
+  {
+    "name": "shotgun",
+    "father": "firearm",
+    "definition": "firearm that is a double-barreled smoothbore shoulder weapon for firing shot at short ranges",
+    "scores": {
+      "clip_score_scores": 0.567479400735673,
+      "pick_score_scores": 0.5334947140418179,
+      "vqa_score_scores": 0.5329519721065374,
+      "tifa_score_scores": 0.14416666666666667,
+      "image_reward_score_scores": 0.41251831546587536
+    },
+    "level": 11,
+    "total_descendants": 2
+  },
+  {
+    "name": "twenty-two",
+    "father": "firearm",
+    "definition": "a .22 caliber firearm (pistol or rifle)",
+    "scores": {
+      "clip_score_scores": 0.5186223475384079,
+      "pick_score_scores": 0.4954816160092812,
+      "vqa_score_scores": 0.6292321742555252,
+      "tifa_score_scores": 0.14788359788359787,
+      "image_reward_score_scores": 0.5045757681206087
+    },
+    "level": 11,
+    "total_descendants": 2
+  },
+  {
+    "name": "poison gas",
+    "father": "chemical weapon",
+    "definition": "a gas that is poisonous to breath or contact; used in chemical warfare",
+    "scores": {
+      "clip_score_scores": 0.4822545790623976,
+      "pick_score_scores": 0.4862380670484112,
+      "vqa_score_scores": 0.5324574438343067,
+      "tifa_score_scores": 0.22335858585858584,
+      "image_reward_score_scores": 0.49348880241806037
+    },
+    "level": 11,
+    "total_descendants": 7
+  },
+  {
+    "name": "tear gas",
+    "father": "chemical weapon",
+    "definition": "a gas that makes the eyes fill with tears but does not damage them; used in dispersing crowds",
+    "scores": {
+      "clip_score_scores": 0.5314863561578478,
+      "pick_score_scores": 0.5720506866869672,
+      "vqa_score_scores": 0.6008707980328604,
+      "tifa_score_scores": 0.20208333333333334,
+      "image_reward_score_scores": 0.5543634631060304
+    },
+    "level": 11,
+    "total_descendants": 4
+  },
+  {
+    "name": "portable computer",
+    "father": "personal computer",
+    "definition": "a personal computer that can easily be carried by hand",
+    "scores": {
+      "clip_score_scores": 0.54347611126456,
+      "pick_score_scores": 0.5197977960180076,
+      "vqa_score_scores": 0.4807518811101321,
+      "tifa_score_scores": 0.21864736652236655,
+      "image_reward_score_scores": 0.43717173682271737
+    },
+    "level": 11,
+    "total_descendants": 5
+  },
+  {
+    "name": "internal-combustion engine",
+    "father": "heat engine",
+    "definition": "a heat engine in which combustion occurs inside the engine rather than in a separate furnace; heat expands a gas that either moves a piston or turns a gas turbine",
+    "scores": {
+      "clip_score_scores": 0.5603220395994315,
+      "pick_score_scores": 0.5182995913934737,
+      "vqa_score_scores": 0.5745973902995001,
+      "tifa_score_scores": 0.2233485914094173,
+      "image_reward_score_scores": 0.4580347812339107
+    },
+    "level": 11,
+    "total_descendants": 19
+  },
+  {
+    "name": "jet engine",
+    "father": "reaction-propulsion engine",
+    "definition": "a gas turbine produces a stream of hot gas that propels a jet plane by reaction propulsion",
+    "scores": {
+      "clip_score_scores": 0.5317924073466681,
+      "pick_score_scores": 0.49514183976342635,
+      "vqa_score_scores": 0.5407498259049038,
+      "tifa_score_scores": 0.23062472943722942,
+      "image_reward_score_scores": 0.48420161653624344
+    },
+    "level": 11,
+    "total_descendants": 8
+  },
+  {
+    "name": "friction clutch",
+    "father": "clutch (coupling)",
+    "definition": "a clutch in which one part turns the other by the friction between them",
+    "scores": {
+      "clip_score_scores": 0.5360342417245033,
+      "pick_score_scores": 0.4803243873109533,
+      "vqa_score_scores": 0.5073745709520965,
+      "tifa_score_scores": 0.2532828282828283,
+      "image_reward_score_scores": 0.4773312472146841
+    },
+    "level": 11,
+    "total_descendants": 3
+  },
+  {
+    "name": "wedge (inclined plane)",
+    "father": "inclined plane",
+    "definition": "something solid that is usable as an inclined plane (shaped like a V) that can be pushed between two things to separate them",
+    "scores": {
+      "clip_score_scores": 0.5623462460077131,
+      "pick_score_scores": 0.4964226028679832,
+      "vqa_score_scores": 0.5724394435417994,
+      "tifa_score_scores": 0.21479166666666663,
+      "image_reward_score_scores": 0.3959800371093376
+    },
+    "level": 11,
+    "total_descendants": 6
+  },
+  {
+    "name": "gear (wheel)",
+    "father": "wheel (machine)",
+    "definition": "a toothed wheel that engages another toothed mechanism in order to change the speed or direction of transmitted motion",
+    "scores": {
+      "clip_score_scores": 0.5311132341876497,
+      "pick_score_scores": 0.5083599969073105,
+      "vqa_score_scores": 0.5923817494741501,
+      "tifa_score_scores": 0.19048566017316015,
+      "image_reward_score_scores": 0.525703231951933
+    },
+    "level": 11,
+    "total_descendants": 11
+  },
+  {
+    "name": "double-reed instrument",
+    "father": "beating-reed instrument",
+    "definition": "a woodwind that has a pair of joined reeds that vibrate together",
+    "scores": {
+      "clip_score_scores": 0.553409795819682,
+      "pick_score_scores": 0.49484475640701037,
+      "vqa_score_scores": 0.4984900841580693,
+      "tifa_score_scores": 0.1890179122574956,
+      "image_reward_score_scores": 0.44294851477498154
+    },
+    "level": 11,
+    "total_descendants": 12
+  },
+  {
+    "name": "single-reed instrument",
+    "father": "beating-reed instrument",
+    "definition": "a beating-reed instrument with a single reed (as a clarinet or saxophone)",
+    "scores": {
+      "clip_score_scores": 0.563934425093087,
+      "pick_score_scores": 0.5004681527372019,
+      "vqa_score_scores": 0.4652946565933168,
+      "tifa_score_scores": 0.1564236111111111,
+      "image_reward_score_scores": 0.46052180328280246
+    },
+    "level": 11,
+    "total_descendants": 6
+  },
+  {
+    "name": "spit (skewer)",
+    "father": "skewer",
+    "definition": "a skewer for holding meat over a fire",
+    "scores": {
+      "clip_score_scores": 0.5997258561079764,
+      "pick_score_scores": 0.5198990572218536,
+      "vqa_score_scores": 0.5210169682581529,
+      "tifa_score_scores": 0.2677083333333333,
+      "image_reward_score_scores": 0.4570856200468335
+    },
+    "level": 11,
+    "total_descendants": 2
+  },
+  {
+    "name": "gatepost",
+    "father": "post (upright)",
+    "definition": "either of two posts that bound a gate",
+    "scores": {
+      "clip_score_scores": 0.6210094683506407,
+      "pick_score_scores": 0.4796766548407345,
+      "vqa_score_scores": 0.5693302101622673,
+      "tifa_score_scores": 0.3398148148148148,
+      "image_reward_score_scores": 0.4412914881839531
+    },
+    "level": 11,
+    "total_descendants": 2
+  },
+  {
+    "name": "wedge (iron)",
+    "father": "iron (golf club)",
+    "definition": "(golf) an iron with considerable loft and a broad sole",
+    "scores": {
+      "clip_score_scores": 0.5413652618144827,
+      "pick_score_scores": 0.5242071680806966,
+      "vqa_score_scores": 0.596656719815307,
+      "tifa_score_scores": 0.2006712962962963,
+      "image_reward_score_scores": 0.39003595313120343
+    },
+    "level": 11,
+    "total_descendants": 2
+  },
+  {
+    "name": "throne",
+    "father": "chair of state",
+    "definition": "the chair of state for a monarch, bishop, etc.",
+    "scores": {
+      "clip_score_scores": 0.5352305208130039,
+      "pick_score_scores": 0.5036339091092642,
+      "vqa_score_scores": 0.5117430418648952,
+      "tifa_score_scores": 0.16746632996632993,
+      "image_reward_score_scores": 0.42751646652468633
+    },
+    "level": 11,
+    "total_descendants": 4
+  },
+  {
+    "name": "topmast",
+    "father": "mast (spar)",
+    "definition": "the mast next above a lower mast and topmost in a fore-and-aft rig",
+    "scores": {
+      "clip_score_scores": 0.5634367084872478,
+      "pick_score_scores": 0.4941851346704924,
+      "vqa_score_scores": 0.5548901826650386,
+      "tifa_score_scores": 0.23912037037037037,
+      "image_reward_score_scores": 0.337053855891577
+    },
+    "level": 11,
+    "total_descendants": 4
+  },
+  {
+    "name": "scissors",
+    "father": "edge tool",
+    "definition": "an edge tool having two crossed pivoting blades",
+    "scores": {
+      "clip_score_scores": 0.5209794313278637,
+      "pick_score_scores": 0.5044552471107046,
+      "vqa_score_scores": 0.49083500180568573,
+      "tifa_score_scores": 0.23658459595959594,
+      "image_reward_score_scores": 0.35820054744358987
+    },
+    "level": 11,
+    "total_descendants": 8
+  },
+  {
+    "name": "ax",
+    "father": "edge tool",
+    "definition": "an edge tool with a heavy bladed head mounted across a handle",
+    "scores": {
+      "clip_score_scores": 0.5438926784896417,
+      "pick_score_scores": 0.472638207093148,
+      "vqa_score_scores": 0.43069948604803665,
+      "tifa_score_scores": 0.2180688832772166,
+      "image_reward_score_scores": 0.44666583681001276
+    },
+    "level": 11,
+    "total_descendants": 13
+  },
+  {
+    "name": "chisel",
+    "father": "edge tool",
+    "definition": "an edge tool with a flat steel blade with a cutting edge",
+    "scores": {
+      "clip_score_scores": 0.5780003264672818,
+      "pick_score_scores": 0.5557524833084041,
+      "vqa_score_scores": 0.5204110155910591,
+      "tifa_score_scores": 0.25858112373737374,
+      "image_reward_score_scores": 0.4192450207496544
+    },
+    "level": 11,
+    "total_descendants": 6
+  },
+  {
+    "name": "knife (edge tool)",
+    "father": "edge tool",
+    "definition": "edge tool used as a cutting instrument; has a pointed blade with a sharp edge and a handle",
+    "scores": {
+      "clip_score_scores": 0.6009539476834542,
+      "pick_score_scores": 0.5138572721394374,
+      "vqa_score_scores": 0.5257968009110577,
+      "tifa_score_scores": 0.26090490019240015,
+      "image_reward_score_scores": 0.48294420210493183
+    },
+    "level": 11,
+    "total_descendants": 29
+  },
+  {
+    "name": "razor",
+    "father": "edge tool",
+    "definition": "edge tool used in shaving",
+    "scores": {
+      "clip_score_scores": 0.603576274855137,
+      "pick_score_scores": 0.529930702235115,
+      "vqa_score_scores": 0.6843467478178016,
+      "tifa_score_scores": 0.2910700757575757,
+      "image_reward_score_scores": 0.5590253906006425
+    },
+    "level": 11,
+    "total_descendants": 3
+  },
+  {
+    "name": "spade",
+    "father": "hand shovel",
+    "definition": "a sturdy hand shovel that can be pushed into the earth with the foot",
+    "scores": {
+      "clip_score_scores": 0.5728622788017215,
+      "pick_score_scores": 0.5071495176915122,
+      "vqa_score_scores": 0.5168494314919867,
+      "tifa_score_scores": 0.25497835497835497,
+      "image_reward_score_scores": 0.41536386510899165
+    },
+    "level": 11,
+    "total_descendants": 2
+  },
+  {
+    "name": "pipe wrench",
+    "father": "adjustable wrench",
+    "definition": "adjustable wrench for gripping and turning a pipe; has two serrated jaws that are adjusted to grip the pipe",
+    "scores": {
+      "clip_score_scores": 0.5804325059342713,
+      "pick_score_scores": 0.5316566486187284,
+      "vqa_score_scores": 0.42981381153004483,
+      "tifa_score_scores": 0.16453869047619046,
+      "image_reward_score_scores": 0.5171365830883465
+    },
+    "level": 11,
+    "total_descendants": 3
+  },
+  {
+    "name": "coffeepot",
+    "father": "pot (cooking utensil)",
+    "definition": "tall pot in which coffee is brewed",
+    "scores": {
+      "clip_score_scores": 0.5394037684710846,
+      "pick_score_scores": 0.5193475363556991,
+      "vqa_score_scores": 0.4550228786763126,
+      "tifa_score_scores": 0.20636904761904762,
+      "image_reward_score_scores": 0.39805958399360675
+    },
+    "level": 11,
+    "total_descendants": 2
+  },
+  {
+    "name": "urn (pot)",
+    "father": "pot (cooking utensil)",
+    "definition": "a large pot for making coffee or tea",
+    "scores": {
+      "clip_score_scores": 0.6058093522551569,
+      "pick_score_scores": 0.609634505594693,
+      "vqa_score_scores": 0.570760626651196,
+      "tifa_score_scores": 0.25805375180375184,
+      "image_reward_score_scores": 0.6039378667179996
+    },
+    "level": 11,
+    "total_descendants": 3
+  },
+  {
+    "name": "frying pan",
+    "father": "pan (cooking utensil)",
+    "definition": "a pan used for frying foods",
+    "scores": {
+      "clip_score_scores": 0.5703230666404906,
+      "pick_score_scores": 0.5566433238423704,
+      "vqa_score_scores": 0.5694592598161511,
+      "tifa_score_scores": 0.3,
+      "image_reward_score_scores": 0.5301187425878356
+    },
+    "level": 11,
+    "total_descendants": 2
+  },
+  {
+    "name": "saucepan",
+    "father": "pan (cooking utensil)",
+    "definition": "a deep pan with a handle; used for stewing or boiling",
+    "scores": {
+      "clip_score_scores": 0.5652174860462564,
+      "pick_score_scores": 0.5385819594786702,
+      "vqa_score_scores": 0.545831450899132,
+      "tifa_score_scores": 0.20937469937469935,
+      "image_reward_score_scores": 0.46196786748051166
+    },
+    "level": 11,
+    "total_descendants": 2
+  },
+  {
+    "name": "stall (booth)",
+    "father": "booth (shop)",
+    "definition": "a booth where articles are displayed for sale",
+    "scores": {
+      "clip_score_scores": 0.5705307743455432,
+      "pick_score_scores": 0.50751922229044,
+      "vqa_score_scores": 0.5849716734362004,
+      "tifa_score_scores": 0.25297348484848486,
+      "image_reward_score_scores": 0.6127908972646778
+    },
+    "level": 11,
+    "total_descendants": 2
+  },
+  {
+    "name": "t cell",
+    "father": "lymphocyte",
+    "definition": "a small lymphocyte developed in the thymus; it orchestrates the immune system's response to infected or malignant cells",
+    "scores": {
+      "clip_score_scores": 0.5041712210573276,
+      "pick_score_scores": 0.4811294039922479,
+      "vqa_score_scores": 0.5945174425669293,
+      "tifa_score_scores": 0.19677849927849927,
+      "image_reward_score_scores": 0.43367503345102154
+    },
+    "level": 11,
+    "total_descendants": 2
+  },
+  {
+    "name": "spadefoot",
+    "father": "frog (amphibian)",
+    "definition": "a burrowing toad of the northern hemisphere with a horny spade-like projection on each hind foot",
+    "scores": {
+      "clip_score_scores": 0.4603388168759091,
+      "pick_score_scores": 0.42270695419446697,
+      "vqa_score_scores": 0.5218300368723424,
+      "tifa_score_scores": 0.15934143017476352,
+      "image_reward_score_scores": 0.4692026855983427
+    },
+    "level": 11,
+    "total_descendants": 3
+  },
+  {
+    "name": "tongueless frog",
+    "father": "frog (amphibian)",
+    "definition": "almost completely aquatic frog native to Africa and Panama and northern South America",
+    "scores": {
+      "clip_score_scores": 0.5146208170699663,
+      "pick_score_scores": 0.5629678900531687,
+      "vqa_score_scores": 0.5056490302702491,
+      "tifa_score_scores": 0.1915625,
+      "image_reward_score_scores": 0.48214206377134183
+    },
+    "level": 11,
+    "total_descendants": 2
+  },
+  {
+    "name": "tree toad",
+    "father": "frog (amphibian)",
+    "definition": "arboreal amphibians usually having adhesive disks at the tip of each toe; of southeast Asia and Australia and America",
+    "scores": {
+      "clip_score_scores": 0.5780426667190213,
+      "pick_score_scores": 0.5193977229929909,
+      "vqa_score_scores": 0.5658717913090566,
+      "tifa_score_scores": 0.20395238095238094,
+      "image_reward_score_scores": 0.6372524418973361
+    },
+    "level": 11,
+    "total_descendants": 9
+  },
+  {
+    "name": "true frog",
+    "father": "frog (amphibian)",
+    "definition": "insectivorous usually semiaquatic web-footed amphibian with smooth moist skin and long hind legs",
+    "scores": {
+      "clip_score_scores": 0.5772158878837823,
+      "pick_score_scores": 0.4827449806174666,
+      "vqa_score_scores": 0.5171495254885602,
+      "tifa_score_scores": 0.24649806597723264,
+      "image_reward_score_scores": 0.5592642152186516
+    },
+    "level": 11,
+    "total_descendants": 9
+  },
+  {
+    "name": "true toad",
+    "father": "frog (amphibian)",
+    "definition": "tailless amphibian similar to a frog but more terrestrial and having drier warty skin",
+    "scores": {
+      "clip_score_scores": 0.5570708321690185,
+      "pick_score_scores": 0.5361782246878276,
+      "vqa_score_scores": 0.5134007890365596,
+      "tifa_score_scores": 0.19991477272727268,
+      "image_reward_score_scores": 0.4718904008405492
+    },
+    "level": 11,
+    "total_descendants": 11
+  },
+  {
+    "name": "ambystomid",
+    "father": "salamander",
+    "definition": "small to moderate-sized terrestrial or semiaquatic New World salamander",
+    "scores": {
+      "clip_score_scores": 0.600419478121983,
+      "pick_score_scores": 0.512196787082401,
+      "vqa_score_scores": 0.5700576403880971,
+      "tifa_score_scores": 0.24284722222222221,
+      "image_reward_score_scores": 0.5360860485458202
+    },
+    "level": 11,
+    "total_descendants": 5
+  },
+  {
+    "name": "newt",
+    "father": "salamander",
+    "definition": "small usually bright-colored semiaquatic salamanders of North America and Europe and northern Asia",
+    "scores": {
+      "clip_score_scores": 0.5543532501348787,
+      "pick_score_scores": 0.5312892367535138,
+      "vqa_score_scores": 0.5017550366129373,
+      "tifa_score_scores": 0.18897835497835497,
+      "image_reward_score_scores": 0.5429169864795547
+    },
+    "level": 11,
+    "total_descendants": 6
+  },
+  {
+    "name": "web-toed salamander",
+    "father": "salamander",
+    "definition": "any of several salamanders with webbed toes and very long extensile tongues; excellent climbers that move with ease over smooth rock surfaces",
+    "scores": {
+      "clip_score_scores": 0.6650910459527218,
+      "pick_score_scores": 0.48277994563642324,
+      "vqa_score_scores": 0.3543987299404764,
+      "tifa_score_scores": 0.175,
+      "image_reward_score_scores": 0.3110849134116638
+    },
+    "level": 11,
+    "total_descendants": 2
+  },
+  {
+    "name": "bony fish",
+    "father": "fish",
+    "definition": "any fish of the class Osteichthyes",
+    "scores": {
+      "clip_score_scores": 0.5791213094623813,
+      "pick_score_scores": 0.4672605796378087,
+      "vqa_score_scores": 0.568632781713006,
+      "tifa_score_scores": 0.17296014192387854,
+      "image_reward_score_scores": 0.43263110319060966
+    },
+    "level": 11,
+    "total_descendants": 456
+  },
+  {
+    "name": "bottom-feeder (fish)",
+    "father": "fish",
+    "definition": "a fish that lives and feeds on the bottom of a body of water",
+    "scores": {
+      "clip_score_scores": 0.5805577680048208,
+      "pick_score_scores": 0.5162517701126691,
+      "vqa_score_scores": 0.6164588387410264,
+      "tifa_score_scores": 0.20812499999999998,
+      "image_reward_score_scores": 0.405453987224273
+    },
+    "level": 11,
+    "total_descendants": 4
+  },
+  {
+    "name": "cartilaginous fish",
+    "father": "fish",
+    "definition": "fishes in which the skeleton may be calcified but not ossified",
+    "scores": {
+      "clip_score_scores": 0.5265490099558812,
+      "pick_score_scores": 0.4879874584988153,
+      "vqa_score_scores": 0.6247412242324782,
+      "tifa_score_scores": 0.26635761715296147,
+      "image_reward_score_scores": 0.4869026518993736
+    },
+    "level": 11,
+    "total_descendants": 63
+  },
+  {
+    "name": "food fish",
+    "father": "fish",
+    "definition": "any fish used for food by human beings",
+    "scores": {
+      "clip_score_scores": 0.5530248335330212,
+      "pick_score_scores": 0.5003876819723427,
+      "vqa_score_scores": 0.5216420684594931,
+      "tifa_score_scores": 0.22151367141731726,
+      "image_reward_score_scores": 0.46264838629452976
+    },
+    "level": 11,
+    "total_descendants": 61
+  },
+  {
+    "name": "hagfish",
+    "father": "jawless vertebrate",
+    "definition": "eellike cyclostome having a tongue with horny teeth in a round mouth surrounded by eight tentacles; feeds on dead or trapped fishes by boring into their bodies",
+    "scores": {
+      "clip_score_scores": 0.6166081866485563,
+      "pick_score_scores": 0.5028817983657963,
+      "vqa_score_scores": 0.4547513867886055,
+      "tifa_score_scores": 0.3125,
+      "image_reward_score_scores": 0.6273198369075539
+    },
+    "level": 11,
+    "total_descendants": 3
+  },
+  {
+    "name": "hummingbird",
+    "father": "apodiform bird",
+    "definition": "tiny American bird having brilliant iridescent plumage and long slender bills; wings are specialized for vibrating flight",
+    "scores": {
+      "clip_score_scores": 0.5987623986974904,
+      "pick_score_scores": 0.5812924191791622,
+      "vqa_score_scores": 0.35201964203018227,
+      "tifa_score_scores": 0.28214285714285714,
+      "image_reward_score_scores": 0.5324952856129004
+    },
+    "level": 11,
+    "total_descendants": 2
+  },
+  {
+    "name": "swift",
+    "father": "apodiform bird",
+    "definition": "a small bird that resembles a swallow and is noted for its rapid flight",
+    "scores": {
+      "clip_score_scores": 0.49770826791795103,
+      "pick_score_scores": 0.49491216853166603,
+      "vqa_score_scores": 0.47271178039763545,
+      "tifa_score_scores": 0.1595601851851852,
+      "image_reward_score_scores": 0.39252158778264185
+    },
+    "level": 11,
+    "total_descendants": 3
+  },
+  {
+    "name": "gallinule",
+    "father": "aquatic bird",
+    "definition": "any of various small aquatic birds of the genus Gallinula distinguished from rails by a frontal shield and a resemblance to domestic hens",
+    "scores": {
+      "clip_score_scores": 0.5820654499673777,
+      "pick_score_scores": 0.4959751552411131,
+      "vqa_score_scores": 0.6153860757136087,
+      "tifa_score_scores": 0.12156249999999998,
+      "image_reward_score_scores": 0.4811357276798019
+    },
+    "level": 11,
+    "total_descendants": 5
+  },
+  {
+    "name": "seabird",
+    "father": "aquatic bird",
+    "definition": "a bird that frequents coastal waters and the open ocean: gulls; pelicans; gannets; cormorants; albatrosses; petrels; etc.",
+    "scores": {
+      "clip_score_scores": 0.545956696033913,
+      "pick_score_scores": 0.4823401983132157,
+      "vqa_score_scores": 0.5049713833260613,
+      "tifa_score_scores": 0.19827728476819087,
+      "image_reward_score_scores": 0.4661108027756044
+    },
+    "level": 11,
+    "total_descendants": 74
+  },
+  {
+    "name": "swan",
+    "father": "aquatic bird",
+    "definition": "stately heavy-bodied aquatic bird with very long neck and usually white plumage as adult",
+    "scores": {
+      "clip_score_scores": 0.5894067747292748,
+      "pick_score_scores": 0.541558247179838,
+      "vqa_score_scores": 0.5717245817716463,
+      "tifa_score_scores": 0.25231060606060607,
+      "image_reward_score_scores": 0.5733959008535796
+    },
+    "level": 11,
+    "total_descendants": 10
+  },
+  {
+    "name": "wading bird",
+    "father": "aquatic bird",
+    "definition": "any of many long-legged birds that wade in water in search of food",
+    "scores": {
+      "clip_score_scores": 0.5578091456889177,
+      "pick_score_scores": 0.4966412104218976,
+      "vqa_score_scores": 0.5417239434990649,
+      "tifa_score_scores": 0.2266796345586578,
+      "image_reward_score_scores": 0.4660508629860997
+    },
+    "level": 11,
+    "total_descendants": 123
+  },
+  {
+    "name": "waterfowl",
+    "father": "aquatic bird",
+    "definition": "freshwater aquatic bird",
+    "scores": {
+      "clip_score_scores": 0.5420333016693141,
+      "pick_score_scores": 0.4823666304115554,
+      "vqa_score_scores": 0.5274635120526071,
+      "tifa_score_scores": 0.23778083992084487,
+      "image_reward_score_scores": 0.4560599753450923
+    },
+    "level": 11,
+    "total_descendants": 60
+  },
+  {
+    "name": "eagle",
+    "father": "bird of prey",
+    "definition": "any of various large keen-sighted diurnal birds of prey noted for their broad wings and strong soaring flight",
+    "scores": {
+      "clip_score_scores": 0.5631558540373802,
+      "pick_score_scores": 0.4900165419403961,
+      "vqa_score_scores": 0.5174691071296934,
+      "tifa_score_scores": 0.1773532196969697,
+      "image_reward_score_scores": 0.5019015928994313
+    },
+    "level": 11,
+    "total_descendants": 9
+  },
+  {
+    "name": "hawk (bird of prey)",
+    "father": "bird of prey",
+    "definition": "diurnal bird of prey typically having short rounded wings and a long tail",
+    "scores": {
+      "clip_score_scores": 0.5555320898332424,
+      "pick_score_scores": 0.49037717956933863,
+      "vqa_score_scores": 0.5190833425069686,
+      "tifa_score_scores": 0.21394210452246165,
+      "image_reward_score_scores": 0.5137367150079876
+    },
+    "level": 11,
+    "total_descendants": 33
+  },
+  {
+    "name": "owl",
+    "father": "bird of prey",
+    "definition": "nocturnal bird of prey with hawk-like beak and claws and large head with front-facing eyes",
+    "scores": {
+      "clip_score_scores": 0.5870088649651133,
+      "pick_score_scores": 0.5262729747232718,
+      "vqa_score_scores": 0.5500104161351811,
+      "tifa_score_scores": 0.24246875,
+      "image_reward_score_scores": 0.5096054323698338
+    },
+    "level": 11,
+    "total_descendants": 16
+  },
+  {
+    "name": "vulture",
+    "father": "bird of prey",
+    "definition": "any of various large diurnal birds of prey having naked heads and weak claws and feeding chiefly on carrion",
+    "scores": {
+      "clip_score_scores": 0.5396552267956797,
+      "pick_score_scores": 0.4771312023954342,
+      "vqa_score_scores": 0.5964753878408988,
+      "tifa_score_scores": 0.16860005686828605,
+      "image_reward_score_scores": 0.4955838331322948
+    },
+    "level": 11,
+    "total_descendants": 13
+  },
+  {
+    "name": "goatsucker",
+    "father": "caprimulgiform bird",
+    "definition": "mainly crepuscular or nocturnal nonpasserine birds with mottled greyish-brown plumage and large eyes; feed on insects",
+    "scores": {
+      "clip_score_scores": 0.5142473299163578,
+      "pick_score_scores": 0.48210460330018134,
+      "vqa_score_scores": 0.5276952604066182,
+      "tifa_score_scores": 0.12707175925925926,
+      "image_reward_score_scores": 0.45051531423739033
+    },
+    "level": 11,
+    "total_descendants": 5
+  },
+  {
+    "name": "kingfisher",
+    "father": "coraciiform bird",
+    "definition": "nonpasserine large-headed bird with a short tail and long sharp bill; usually crested and bright-colored; feed mostly on fish",
+    "scores": {
+      "clip_score_scores": 0.48790265126544013,
+      "pick_score_scores": 0.45100307529176814,
+      "vqa_score_scores": 0.49060929571324674,
+      "tifa_score_scores": 0.15,
+      "image_reward_score_scores": 0.26158021401437104
+    },
+    "level": 11,
+    "total_descendants": 3
+  },
+  {
+    "name": "roller (coraciiform bird)",
+    "father": "coraciiform bird",
+    "definition": "Old World bird that tumbles or rolls in flight; related to kingfishers",
+    "scores": {
+      "clip_score_scores": 0.5403207189755354,
+      "pick_score_scores": 0.5528900669037347,
+      "vqa_score_scores": 0.43589520902358525,
+      "tifa_score_scores": 0.1452020202020202,
+      "image_reward_score_scores": 0.48879056364833273
+    },
+    "level": 11,
+    "total_descendants": 2
+  },
+  {
+    "name": "cuckoo",
+    "father": "cuculiform bird",
+    "definition": "any of numerous European and North American birds having pointed wings and a long tail",
+    "scores": {
+      "clip_score_scores": 0.5795031907248916,
+      "pick_score_scores": 0.5080030462191125,
+      "vqa_score_scores": 0.4908113407925188,
+      "tifa_score_scores": 0.18461075704131258,
+      "image_reward_score_scores": 0.47613650579754974
+    },
+    "level": 11,
+    "total_descendants": 7
+  },
+  {
+    "name": "columbiform bird",
+    "father": "gallinaceous bird",
+    "definition": "a cosmopolitan order of land birds having small heads and short legs with four unwebbed toes",
+    "scores": {
+      "clip_score_scores": 0.5725288241846849,
+      "pick_score_scores": 0.4833531105114317,
+      "vqa_score_scores": 0.5296614711578197,
+      "tifa_score_scores": 0.27520324274490937,
+      "image_reward_score_scores": 0.5089253025521625
+    },
+    "level": 11,
+    "total_descendants": 24
+  },
+  {
+    "name": "domestic fowl",
+    "father": "gallinaceous bird",
+    "definition": "a domesticated gallinaceous bird thought to be descended from the red jungle fowl",
+    "scores": {
+      "clip_score_scores": 0.5498631380313532,
+      "pick_score_scores": 0.5008341327300166,
+      "vqa_score_scores": 0.5160390663223237,
+      "tifa_score_scores": 0.19352196005190797,
+      "image_reward_score_scores": 0.536412380257941
+    },
+    "level": 11,
+    "total_descendants": 25
+  },
+  {
+    "name": "jungle fowl",
+    "father": "gallinaceous bird",
+    "definition": "small Asiatic wild bird; believed to be ancestral to domestic fowl",
+    "scores": {
+      "clip_score_scores": 0.6049732447637576,
+      "pick_score_scores": 0.4882853077481755,
+      "vqa_score_scores": 0.5444975099380697,
+      "tifa_score_scores": 0.19288720538720538,
+      "image_reward_score_scores": 0.5122993642686693
+    },
+    "level": 11,
+    "total_descendants": 3
+  },
+  {
+    "name": "megapode",
+    "father": "gallinaceous bird",
+    "definition": "large-footed short-winged birds of Australasia; build mounds of decaying vegetation to incubate eggs",
+    "scores": {
+      "clip_score_scores": 0.533239027893917,
+      "pick_score_scores": 0.47447863342952495,
+      "vqa_score_scores": 0.5248084473742161,
+      "tifa_score_scores": 0.1956755050505051,
+      "image_reward_score_scores": 0.4903975381601963
+    },
+    "level": 11,
+    "total_descendants": 4
+  },
+  {
+    "name": "cockatoo",
+    "father": "parrot (bird)",
+    "definition": "white or light-colored crested parrot of the Australian region; often kept as cage birds",
+    "scores": {
+      "clip_score_scores": 0.5893971807852606,
+      "pick_score_scores": 0.5129016256879575,
+      "vqa_score_scores": 0.5976756825676292,
+      "tifa_score_scores": 0.2663371212121212,
+      "image_reward_score_scores": 0.5725357764449749
+    },
+    "level": 11,
+    "total_descendants": 2
+  },
+  {
+    "name": "lory",
+    "father": "parrot (bird)",
+    "definition": "small brightly colored Australasian parrots having a brush-tipped tongue for feeding on nectar and soft fruits",
+    "scores": {
+      "clip_score_scores": 0.5653676643245623,
+      "pick_score_scores": 0.5101694912926252,
+      "vqa_score_scores": 0.5371762671167126,
+      "tifa_score_scores": 0.3433333333333333,
+      "image_reward_score_scores": 0.4918728495211436
+    },
+    "level": 11,
+    "total_descendants": 3
+  },
+  {
+    "name": "parakeet",
+    "father": "parrot (bird)",
+    "definition": "any of numerous small slender long-tailed parrots",
+    "scores": {
+      "clip_score_scores": 0.5640383580748772,
+      "pick_score_scores": 0.5102453526101064,
+      "vqa_score_scores": 0.5468304029152622,
+      "tifa_score_scores": 0.22714646464646462,
+      "image_reward_score_scores": 0.47261289181156224
+    },
+    "level": 11,
+    "total_descendants": 3
+  },
+  {
+    "name": "oscine",
+    "father": "passerine",
+    "definition": "passerine bird having specialized vocal apparatus",
+    "scores": {
+      "clip_score_scores": 0.5431600654781176,
+      "pick_score_scores": 0.49695282420869347,
+      "vqa_score_scores": 0.5058901312637475,
+      "tifa_score_scores": 0.21045929443378286,
+      "image_reward_score_scores": 0.4459218162103592
+    },
+    "level": 11,
+    "total_descendants": 234
+  },
+  {
+    "name": "sparrow",
+    "father": "passerine",
+    "definition": "any of several small dull-colored singing birds feeding on seeds or insects",
+    "scores": {
+      "clip_score_scores": 0.5880859954787873,
+      "pick_score_scores": 0.5350233870818822,
+      "vqa_score_scores": 0.5226709854770898,
+      "tifa_score_scores": 0.21978715728715725,
+      "image_reward_score_scores": 0.4827480448526531
+    },
+    "level": 11,
+    "total_descendants": 2
+  },
+  {
+    "name": "tyrannid",
+    "father": "passerine",
+    "definition": "a passerine bird of the suborder Tyranni",
+    "scores": {
+      "clip_score_scores": 0.546886728536812,
+      "pick_score_scores": 0.5010580202261746,
+      "vqa_score_scores": 0.552697898705817,
+      "tifa_score_scores": 0.23576009349446847,
+      "image_reward_score_scores": 0.4027012592788149
+    },
+    "level": 11,
+    "total_descendants": 22
+  },
+  {
+    "name": "wren",
+    "father": "passerine",
+    "definition": "any of several small active brown birds of the northern hemisphere with short upright tails; they feed on insects",
+    "scores": {
+      "clip_score_scores": 0.5532913421300646,
+      "pick_score_scores": 0.4937577216133752,
+      "vqa_score_scores": 0.5415674189485419,
+      "tifa_score_scores": 0.2490162037037037,
+      "image_reward_score_scores": 0.48034087110034623
+    },
+    "level": 11,
+    "total_descendants": 8
+  },
+  {
+    "name": "woodpecker",
+    "father": "piciform bird",
+    "definition": "bird with strong claws and a stiff tail adapted for climbing and a hard chisel-like bill for boring into wood for insects",
+    "scores": {
+      "clip_score_scores": 0.5616696013807747,
+      "pick_score_scores": 0.4995946889777805,
+      "vqa_score_scores": 0.5289463809513291,
+      "tifa_score_scores": 0.20166205707872373,
+      "image_reward_score_scores": 0.43998356322075344
+    },
+    "level": 11,
+    "total_descendants": 13
+  },
+  {
+    "name": "moa",
+    "father": "ratite",
+    "definition": "extinct flightless bird of New Zealand",
+    "scores": {
+      "clip_score_scores": 0.542714539250179,
+      "pick_score_scores": 0.5258039848309415,
+      "vqa_score_scores": 0.6598874196918149,
+      "tifa_score_scores": 0.17797619047619048,
+      "image_reward_score_scores": 0.4980991045659769
+    },
+    "level": 11,
+    "total_descendants": 2
+  },
+  {
+    "name": "marsupial",
+    "father": "metatherian",
+    "definition": "mammals of which the females have a pouch (the marsupium) containing the teats where the young are fed and carried",
+    "scores": {
+      "clip_score_scores": 0.5593507430156646,
+      "pick_score_scores": 0.5017818898543656,
+      "vqa_score_scores": 0.5338183499257634,
+      "tifa_score_scores": 0.22265844890706,
+      "image_reward_score_scores": 0.5322309904675108
+    },
+    "level": 11,
+    "total_descendants": 36
+  },
+  {
+    "name": "aquatic mammal",
+    "father": "placental",
+    "definition": "whales and dolphins; manatees and dugongs; walruses; seals",
+    "scores": {
+      "clip_score_scores": 0.5789445821398874,
+      "pick_score_scores": 0.49440024100549984,
+      "vqa_score_scores": 0.5300508227153073,
+      "tifa_score_scores": 0.22786799355158732,
+      "image_reward_score_scores": 0.472579312491943
+    },
+    "level": 11,
+    "total_descendants": 57
+  },
+  {
+    "name": "bat (placental)",
+    "father": "placental",
+    "definition": "nocturnal mouselike mammal with forelimbs modified to form membranous wings and anatomical adaptations for echolocation by which they navigate",
+    "scores": {
+      "clip_score_scores": 0.5982506613462067,
+      "pick_score_scores": 0.5000306969311993,
+      "vqa_score_scores": 0.5934893869275009,
+      "tifa_score_scores": 0.25702327006840897,
+      "image_reward_score_scores": 0.5339030183109246
+    },
+    "level": 11,
+    "total_descendants": 38
+  },
+  {
+    "name": "buck",
+    "father": "placental",
+    "definition": "mature male of various mammals (especially deer or antelope)",
+    "scores": {
+      "clip_score_scores": 0.5846454634060678,
+      "pick_score_scores": 0.576350632021218,
+      "vqa_score_scores": 0.5780865597382652,
+      "tifa_score_scores": 0.290625,
+      "image_reward_score_scores": 0.599030163269084
+    },
+    "level": 11,
+    "total_descendants": 2
+  },
+  {
+    "name": "carnivore (placental)",
+    "father": "placental",
+    "definition": "a terrestrial or aquatic flesh-eating mammal",
+    "scores": {
+      "clip_score_scores": 0.5751605821471342,
+      "pick_score_scores": 0.5147897820747785,
+      "vqa_score_scores": 0.5161389946935766,
+      "tifa_score_scores": 0.24248805674284654,
+      "image_reward_score_scores": 0.5118156960947464
+    },
+    "level": 11,
+    "total_descendants": 148
+  },
+  {
+    "name": "edentate",
+    "father": "placental",
+    "definition": "primitive terrestrial mammal with few if any teeth; of tropical Central America and South America",
+    "scores": {
+      "clip_score_scores": 0.5400229574096788,
+      "pick_score_scores": 0.4951384584438965,
+      "vqa_score_scores": 0.5948211304782778,
+      "tifa_score_scores": 0.23412145429159317,
+      "image_reward_score_scores": 0.4769033694682932
+    },
+    "level": 11,
+    "total_descendants": 19
+  },
+  {
+    "name": "insectivore (placental)",
+    "father": "placental",
+    "definition": "small insect-eating mainly nocturnal terrestrial or fossorial mammals",
+    "scores": {
+      "clip_score_scores": 0.553805937143779,
+      "pick_score_scores": 0.5287178200918451,
+      "vqa_score_scores": 0.6229412833176063,
+      "tifa_score_scores": 0.21231336179252847,
+      "image_reward_score_scores": 0.5481775723569594
+    },
+    "level": 11,
+    "total_descendants": 20
+  },
+  {
+    "name": "lagomorph",
+    "father": "placental",
+    "definition": "relative large gnawing animals; distinguished from rodents by having two pairs of upper incisors specialized for gnawing",
+    "scores": {
+      "clip_score_scores": 0.5406203707772854,
+      "pick_score_scores": 0.49283956078263075,
+      "vqa_score_scores": 0.4483701415536753,
+      "tifa_score_scores": 0.23033442644032923,
+      "image_reward_score_scores": 0.497893083031462
+    },
+    "level": 11,
+    "total_descendants": 24
+  },
+  {
+    "name": "primate",
+    "father": "placental",
+    "definition": "any placental mammal of the order Primates; has good eyesight and flexible hands and feet",
+    "scores": {
+      "clip_score_scores": 0.5692648484650547,
+      "pick_score_scores": 0.5189419888415964,
+      "vqa_score_scores": 0.6233668840919404,
+      "tifa_score_scores": 0.2321464101473986,
+      "image_reward_score_scores": 0.5748832204855204
+    },
+    "level": 11,
+    "total_descendants": 104
+  },
+  {
+    "name": "proboscidean",
+    "father": "placental",
+    "definition": "massive herbivorous mammals having tusks and a long trunk",
+    "scores": {
+      "clip_score_scores": 0.5499560825320499,
+      "pick_score_scores": 0.4942072782159534,
+      "vqa_score_scores": 0.5654533459540628,
+      "tifa_score_scores": 0.13144859641387419,
+      "image_reward_score_scores": 0.4892782256539789
+    },
+    "level": 11,
+    "total_descendants": 12
+  },
+  {
+    "name": "rodent",
+    "father": "placental",
+    "definition": "relatively small placental mammals having a single pair of constantly growing incisor teeth specialized for gnawing",
+    "scores": {
+      "clip_score_scores": 0.5735099484138296,
+      "pick_score_scores": 0.5229597285815453,
+      "vqa_score_scores": 0.5533704051939121,
+      "tifa_score_scores": 0.23816758577001163,
+      "image_reward_score_scores": 0.5463464020925796
+    },
+    "level": 11,
+    "total_descendants": 134
+  },
+  {
+    "name": "ungulate",
+    "father": "placental",
+    "definition": "any of a number of mammals with hooves that are superficially similar but not necessarily closely related taxonomically",
+    "scores": {
+      "clip_score_scores": 0.5628819641758005,
+      "pick_score_scores": 0.5018389059191475,
+      "vqa_score_scores": 0.5387057592454888,
+      "tifa_score_scores": 0.22542121767676415,
+      "image_reward_score_scores": 0.44403379717205105
+    },
+    "level": 11,
+    "total_descendants": 289
+  },
+  {
+    "name": "chelonian",
+    "father": "anapsid",
+    "definition": "a reptile of the order Chelonia",
+    "scores": {
+      "clip_score_scores": 0.5581492524191094,
+      "pick_score_scores": 0.5338737498138129,
+      "vqa_score_scores": 0.5404173621949372,
+      "tifa_score_scores": 0.2539620034672118,
+      "image_reward_score_scores": 0.5164462047809808
+    },
+    "level": 11,
+    "total_descendants": 31
+  },
+  {
+    "name": "archosaur",
+    "father": "diapsid",
+    "definition": "extinct reptiles including: dinosaurs; plesiosaurs; pterosaurs; ichthyosaurs; thecodonts",
+    "scores": {
+      "clip_score_scores": 0.562495542612052,
+      "pick_score_scores": 0.5114729775512984,
+      "vqa_score_scores": 0.5174509112140488,
+      "tifa_score_scores": 0.20826666571911753,
+      "image_reward_score_scores": 0.562323244270143
+    },
+    "level": 11,
+    "total_descendants": 59
+  },
+  {
+    "name": "crocodilian reptile",
+    "father": "diapsid",
+    "definition": "extant archosaurian reptile",
+    "scores": {
+      "clip_score_scores": 0.572116122386464,
+      "pick_score_scores": 0.5087241659696098,
+      "vqa_score_scores": 0.5773345751739557,
+      "tifa_score_scores": 0.2092981902356902,
+      "image_reward_score_scores": 0.4523748630305275
+    },
+    "level": 11,
+    "total_descendants": 11
+  },
+  {
+    "name": "saurian",
+    "father": "diapsid",
+    "definition": "any of various reptiles of the suborder Sauria which includes lizards; in former classifications included also the crocodiles and dinosaurs",
+    "scores": {
+      "clip_score_scores": 0.5564348625674191,
+      "pick_score_scores": 0.48394899993772633,
+      "vqa_score_scores": 0.41799301502003805,
+      "tifa_score_scores": 0.2401966898841899,
+      "image_reward_score_scores": 0.4830074159659385
+    },
+    "level": 11,
+    "total_descendants": 63
+  },
+  {
+    "name": "snake (diapsid)",
+    "father": "diapsid",
+    "definition": "limbless scaly elongate reptile; some are venomous",
+    "scores": {
+      "clip_score_scores": 0.5731529313685195,
+      "pick_score_scores": 0.5165595680244373,
+      "vqa_score_scores": 0.5549949454936204,
+      "tifa_score_scores": 0.28523091105636084,
+      "image_reward_score_scores": 0.4959912669279318
+    },
+    "level": 11,
+    "total_descendants": 110
+  },
+  {
+    "name": "therapsid",
+    "father": "synapsid",
+    "definition": "probably warm-blooded; considered direct ancestor of mammals",
+    "scores": {
+      "clip_score_scores": 0.5504674450929616,
+      "pick_score_scores": 0.48071539764525223,
+      "vqa_score_scores": 0.5038326632320512,
+      "tifa_score_scores": 0.18725243506493508,
+      "image_reward_score_scores": 0.47632450306765484
+    },
+    "level": 11,
+    "total_descendants": 3
+  },
+  {
+    "name": "coonhound",
+    "father": "hound",
+    "definition": "any of several breeds of hound developed for hunting raccoons",
+    "scores": {
+      "clip_score_scores": 0.5797457223232605,
+      "pick_score_scores": 0.48006207240876797,
+      "vqa_score_scores": 0.7490801261390585,
+      "tifa_score_scores": 0.28047979797979794,
+      "image_reward_score_scores": 0.48137343560576373
+    },
+    "level": 11,
+    "total_descendants": 2
+  },
+  {
+    "name": "foxhound",
+    "father": "hound",
+    "definition": "medium-sized glossy-coated hounds developed for hunting foxes",
+    "scores": {
+      "clip_score_scores": 0.5304519941717233,
+      "pick_score_scores": 0.44694728589591615,
+      "vqa_score_scores": 0.6168590750782823,
+      "tifa_score_scores": 0.19213789682539684,
+      "image_reward_score_scores": 0.4790158306529191
+    },
+    "level": 11,
+    "total_descendants": 3
+  },
+  {
+    "name": "wolfhound",
+    "father": "hound",
+    "definition": "the largest breed of dogs; formerly used to hunt wolves",
+    "scores": {
+      "clip_score_scores": 0.5804669875202536,
+      "pick_score_scores": 0.4689170870755793,
+      "vqa_score_scores": 0.590625169592777,
+      "tifa_score_scores": 0.17940867003367003,
+      "image_reward_score_scores": 0.5610391694253173
+    },
+    "level": 11,
+    "total_descendants": 2
+  },
+  {
+    "name": "pointer (sporting dog)",
+    "father": "sporting dog",
+    "definition": "a strong slender smooth-haired dog of Spanish origin having a white coat with brown or black patches; scents out and points to game",
+    "scores": {
+      "clip_score_scores": 0.5380763833164675,
+      "pick_score_scores": 0.5213275101033201,
+      "vqa_score_scores": 0.49357880606006027,
+      "tifa_score_scores": 0.17045454545454547,
+      "image_reward_score_scores": 0.4537284289882198
+    },
+    "level": 11,
+    "total_descendants": 2
+  },
+  {
+    "name": "retriever",
+    "father": "sporting dog",
+    "definition": "a dog with heavy water-resistant coat that can be trained to retrieve game",
+    "scores": {
+      "clip_score_scores": 0.5790147799268751,
+      "pick_score_scores": 0.5076434716474459,
+      "vqa_score_scores": 0.5513878475090948,
+      "tifa_score_scores": 0.24356481481481482,
+      "image_reward_score_scores": 0.49245228951949843
+    },
+    "level": 11,
+    "total_descendants": 5
+  },
+  {
+    "name": "setter",
+    "father": "sporting dog",
+    "definition": "a long-haired dog formerly trained to crouch on finding game but now to point",
+    "scores": {
+      "clip_score_scores": 0.6035024793642842,
+      "pick_score_scores": 0.46805520416558505,
+      "vqa_score_scores": 0.6179983836003752,
+      "tifa_score_scores": 0.2694212962962963,
+      "image_reward_score_scores": 0.5237056414110965
+    },
+    "level": 11,
+    "total_descendants": 3
+  },
+  {
+    "name": "spaniel",
+    "father": "sporting dog",
+    "definition": "any of several breeds of small to medium-sized gun dogs with a long silky coat and long frilled ears",
+    "scores": {
+      "clip_score_scores": 0.6042262308630143,
+      "pick_score_scores": 0.49402942694514757,
+      "vqa_score_scores": 0.629877412806602,
+      "tifa_score_scores": 0.26492965367965365,
+      "image_reward_score_scores": 0.4562637967926341
+    },
+    "level": 11,
+    "total_descendants": 11
+  },
+  {
+    "name": "bullterrier",
+    "father": "terrier",
+    "definition": "a powerful short-haired terrier originated in England by crossing the bulldog with terriers",
+    "scores": {
+      "clip_score_scores": 0.6055469807172074,
+      "pick_score_scores": 0.4862841254601835,
+      "vqa_score_scores": 0.5810044647614623,
+      "tifa_score_scores": 0.22842712842712842,
+      "image_reward_score_scores": 0.5532061428752651
+    },
+    "level": 11,
+    "total_descendants": 2
+  },
+  {
+    "name": "fox terrier",
+    "father": "terrier",
+    "definition": "small lively black-and-white terriers formerly used to dig out foxes",
+    "scores": {
+      "clip_score_scores": 0.6591621180119487,
+      "pick_score_scores": 0.6345633813650229,
+      "vqa_score_scores": 0.5714101356883462,
+      "tifa_score_scores": 0.35,
+      "image_reward_score_scores": 0.6601600479975132
+    },
+    "level": 11,
+    "total_descendants": 2
+  },
+  {
+    "name": "rat terrier",
+    "father": "terrier",
+    "definition": "any of several breeds of terrier developed to catch rats",
+    "scores": {
+      "clip_score_scores": 0.5970064133399082,
+      "pick_score_scores": 0.4314825869673008,
+      "vqa_score_scores": 0.5151459579344708,
+      "tifa_score_scores": 0.21570616883116883,
+      "image_reward_score_scores": 0.5398520813320242
+    },
+    "level": 11,
+    "total_descendants": 2
+  },
+  {
+    "name": "schnauzer",
+    "father": "terrier",
+    "definition": "old German breed of sturdy black or greyish wire-haired terriers having a blunt muzzle ranging in size from fairly small to very large; used as ratters and guard dogs or police dogs",
+    "scores": {
+      "clip_score_scores": 0.6033132492710991,
+      "pick_score_scores": 0.43952271856341707,
+      "vqa_score_scores": 0.5127782608673626,
+      "tifa_score_scores": 0.20923611111111112,
+      "image_reward_score_scores": 0.5507414716600008
+    },
+    "level": 11,
+    "total_descendants": 3
+  },
+  {
+    "name": "wirehair",
+    "father": "terrier",
+    "definition": "a terrier with wiry hair",
+    "scores": {
+      "clip_score_scores": 0.49330085351216496,
+      "pick_score_scores": 0.465235280194013,
+      "vqa_score_scores": 0.5016949506588478,
+      "tifa_score_scores": 0.2684722222222222,
+      "image_reward_score_scores": 0.4772832190826932
+    },
+    "level": 11,
+    "total_descendants": 3
+  },
+  {
+    "name": "belgian sheepdog",
+    "father": "shepherd dog",
+    "definition": "hardy working dog developed in Belgium for herding sheep",
+    "scores": {
+      "clip_score_scores": null,
+      "pick_score_scores": null,
+      "vqa_score_scores": null,
+      "tifa_score_scores": null,
+      "image_reward_score_scores": null
+    },
+    "level": 11,
+    "total_descendants": 2
+  },
+  {
+    "name": "pinscher",
+    "father": "watchdog (working dog)",
+    "definition": "any of three breeds of dogs whose ears and tail are usually cropped",
+    "scores": {
+      "clip_score_scores": 0.5772999647203849,
+      "pick_score_scores": 0.5544296528724929,
+      "vqa_score_scores": 0.616746247229395,
+      "tifa_score_scores": 0.29899305555555555,
+      "image_reward_score_scores": 0.5264239024722905
+    },
+    "level": 11,
+    "total_descendants": 3
+  },
+  {
+    "name": "red grouse",
+    "father": "ptarmigan",
+    "definition": "reddish-brown grouse of upland moors of Great Britain",
+    "scores": {
+      "clip_score_scores": 0.5678310609920074,
+      "pick_score_scores": 0.49625517642065703,
+      "vqa_score_scores": 0.6463836733445507,
+      "tifa_score_scores": 0.21534090909090908,
+      "image_reward_score_scores": 0.34681450545358694
+    },
+    "level": 11,
+    "total_descendants": 2
+  },
+  {
+    "name": "peafowl",
+    "father": "pheasant",
+    "definition": "very large terrestrial southeast Asian pheasant often raised as an ornamental bird",
+    "scores": {
+      "clip_score_scores": 0.5331386549562847,
+      "pick_score_scores": 0.46571622432735715,
+      "vqa_score_scores": 0.5386101644433834,
+      "tifa_score_scores": 0.21219949494949497,
+      "image_reward_score_scores": 0.4729033341810556
+    },
+    "level": 11,
+    "total_descendants": 5
+  },
+  {
+    "name": "mite",
+    "father": "acarine",
+    "definition": "any of numerous very small to minute arachnids often infesting animals or plants or stored foods",
+    "scores": {
+      "clip_score_scores": 0.5658759041566027,
+      "pick_score_scores": 0.510246447126912,
+      "vqa_score_scores": 0.5838100012923725,
+      "tifa_score_scores": 0.19605902777777778,
+      "image_reward_score_scores": 0.4731755932183284
+    },
+    "level": 11,
+    "total_descendants": 10
+  },
+  {
+    "name": "tick (acarine)",
+    "father": "acarine",
+    "definition": "any of two families of small parasitic arachnids with barbed proboscis; feed on blood of warm-blooded animals",
+    "scores": {
+      "clip_score_scores": 0.526196904341939,
+      "pick_score_scores": 0.4943255390001662,
+      "vqa_score_scores": 0.5885340580947528,
+      "tifa_score_scores": 0.15570126488095237,
+      "image_reward_score_scores": 0.511994893651576
+    },
+    "level": 11,
+    "total_descendants": 11
+  },
+  {
+    "name": "crab (decapod crustacean)",
+    "father": "decapod crustacean",
+    "definition": "decapod having eyes on short stalks and a broad flattened carapace with a small abdomen folded under the thorax and pincers",
+    "scores": {
+      "clip_score_scores": 0.5686751631828943,
+      "pick_score_scores": 0.5116875121803744,
+      "vqa_score_scores": 0.5453079722911605,
+      "tifa_score_scores": 0.17556647201178452,
+      "image_reward_score_scores": 0.48801635823327366
+    },
+    "level": 11,
+    "total_descendants": 17
+  },
+  {
+    "name": "crayfish",
+    "father": "decapod crustacean",
+    "definition": "small freshwater decapod crustacean that resembles a lobster",
+    "scores": {
+      "clip_score_scores": 0.6059547979347836,
+      "pick_score_scores": 0.4860289888713538,
+      "vqa_score_scores": 0.4802964637895155,
+      "tifa_score_scores": 0.18888888888888888,
+      "image_reward_score_scores": 0.4643692749743115
+    },
+    "level": 11,
+    "total_descendants": 2
+  },
+  {
+    "name": "lobster",
+    "father": "decapod crustacean",
+    "definition": "any of several edible marine crustaceans of the families Homaridae and Nephropsidae and Palinuridae",
+    "scores": {
+      "clip_score_scores": 0.5932965403274788,
+      "pick_score_scores": 0.47576593526173294,
+      "vqa_score_scores": 0.5606699849785378,
+      "tifa_score_scores": 0.22099266474266474,
+      "image_reward_score_scores": 0.3941940445377581
+    },
+    "level": 11,
+    "total_descendants": 6
+  },
+  {
+    "name": "amphipod",
+    "father": "malacostracan crustacean",
+    "definition": "a kind of malacostracan crustacean",
+    "scores": {
+      "clip_score_scores": 0.5102834959853061,
+      "pick_score_scores": 0.503464203777797,
+      "vqa_score_scores": 0.48547381715134547,
+      "tifa_score_scores": 0.18430415263748598,
+      "image_reward_score_scores": 0.38944093137969205
+    },
+    "level": 11,
+    "total_descendants": 3
+  },
+  {
+    "name": "isopod",
+    "father": "malacostracan crustacean",
+    "definition": "any of various small terrestrial or aquatic crustaceans with seven pairs of legs adapted for crawling",
+    "scores": {
+      "clip_score_scores": 0.5583223762707265,
+      "pick_score_scores": 0.533341548456944,
+      "vqa_score_scores": 0.5498622868173114,
+      "tifa_score_scores": 0.18015572390572396,
+      "image_reward_score_scores": 0.4166665506663294
+    },
+    "level": 11,
+    "total_descendants": 4
+  },
+  {
+    "name": "bark beetle",
+    "father": "beetle",
+    "definition": "small beetle that bores tunnels in the bark and wood of trees; related to weevils",
+    "scores": {
+      "clip_score_scores": 0.5649421625709523,
+      "pick_score_scores": 0.5470190066491681,
+      "vqa_score_scores": 0.3558419608339106,
+      "tifa_score_scores": 0.17982954545454546,
+      "image_reward_score_scores": 0.5119453283235184
+    },
+    "level": 11,
+    "total_descendants": 2
+  },
+  {
+    "name": "blister beetle",
+    "father": "beetle",
+    "definition": "beetle that produces a secretion that blisters the skin",
+    "scores": {
+      "clip_score_scores": 0.5449135458032975,
+      "pick_score_scores": 0.5118117449407856,
+      "vqa_score_scores": 0.5617374452867635,
+      "tifa_score_scores": 0.21399290524290526,
+      "image_reward_score_scores": 0.45332959611634416
+    },
+    "level": 11,
+    "total_descendants": 2
+  },
+  {
+    "name": "carpet beetle",
+    "father": "beetle",
+    "definition": "small beetle whose larvae are household pests feeding on woolen fabrics",
+    "scores": {
+      "clip_score_scores": 0.5066914781563153,
+      "pick_score_scores": 0.547558814897836,
+      "vqa_score_scores": 0.4706607374784734,
+      "tifa_score_scores": 0.2520833333333334,
+      "image_reward_score_scores": 0.4849758257556734
+    },
+    "level": 11,
+    "total_descendants": 2
+  },
+  {
+    "name": "elaterid beetle",
+    "father": "beetle",
+    "definition": "any of various widely distributed beetles",
+    "scores": {
+      "clip_score_scores": 0.566333706178537,
+      "pick_score_scores": 0.5775562006480226,
+      "vqa_score_scores": 0.6435062382710707,
+      "tifa_score_scores": 0.2190340909090909,
+      "image_reward_score_scores": 0.4817981998570272
+    },
+    "level": 11,
+    "total_descendants": 2
+  },
+  {
+    "name": "ground beetle",
+    "father": "beetle",
+    "definition": "predacious shining black or metallic terrestrial beetle that destroys many injurious insects",
+    "scores": {
+      "clip_score_scores": 0.5964061744078699,
+      "pick_score_scores": 0.43132347770310453,
+      "vqa_score_scores": 0.5456503684464726,
+      "tifa_score_scores": 0.20990530303030303,
+      "image_reward_score_scores": 0.5331373585303305
+    },
+    "level": 11,
+    "total_descendants": 3
+  },
+  {
+    "name": "ladybug",
+    "father": "beetle",
+    "definition": "small round bright-colored and spotted beetle that usually feeds on aphids and other insect pests",
+    "scores": {
+      "clip_score_scores": 0.6409090287809671,
+      "pick_score_scores": 0.5649387497903487,
+      "vqa_score_scores": 0.6319423674235155,
+      "tifa_score_scores": 0.2111111111111111,
+      "image_reward_score_scores": 0.5538501804990629
+    },
+    "level": 11,
+    "total_descendants": 4
+  },
+  {
+    "name": "lamellicorn beetle",
+    "father": "beetle",
+    "definition": "beetle having antennae with hard platelike terminal segments",
+    "scores": {
+      "clip_score_scores": 0.5822754735752917,
+      "pick_score_scores": 0.5419418669851119,
+      "vqa_score_scores": 0.5148037750161366,
+      "tifa_score_scores": 0.20989297739297738,
+      "image_reward_score_scores": 0.4840111077412551
+    },
+    "level": 11,
+    "total_descendants": 15
+  },
+  {
+    "name": "leaf beetle",
+    "father": "beetle",
+    "definition": "brightly colored beetle that feeds on plant leaves; larvae infest roots and stems",
+    "scores": {
+      "clip_score_scores": 0.5514780988371256,
+      "pick_score_scores": 0.5612143854246645,
+      "vqa_score_scores": 0.4039014393502405,
+      "tifa_score_scores": 0.19333333333333336,
+      "image_reward_score_scores": 0.40673401118193614
+    },
+    "level": 11,
+    "total_descendants": 2
+  },
+  {
+    "name": "long-horned beetle",
+    "father": "beetle",
+    "definition": "long-bodied beetle having very long antennae",
+    "scores": {
+      "clip_score_scores": 0.5952548779446484,
+      "pick_score_scores": 0.5451819971128793,
+      "vqa_score_scores": 0.4646576007879171,
+      "tifa_score_scores": 0.2277777777777778,
+      "image_reward_score_scores": 0.46017287438279275
+    },
+    "level": 11,
+    "total_descendants": 2
+  },
+  {
+    "name": "weevil",
+    "father": "beetle",
+    "definition": "any of several families of mostly small beetles that feed on plants and plant products; especially snout beetles and seed beetles",
+    "scores": {
+      "clip_score_scores": 0.5489210017905086,
+      "pick_score_scores": 0.5500989277226314,
+      "vqa_score_scores": 0.618840635232607,
+      "tifa_score_scores": 0.25039930555555556,
+      "image_reward_score_scores": 0.43760726581078113
+    },
+    "level": 11,
+    "total_descendants": 8
+  },
+  {
+    "name": "cockroach",
+    "father": "dictyopterous insect",
+    "definition": "any of numerous chiefly nocturnal insects; some are domestic pests",
+    "scores": {
+      "clip_score_scores": 0.5786143147813355,
+      "pick_score_scores": 0.45483826126290705,
+      "vqa_score_scores": 0.43843540382107327,
+      "tifa_score_scores": 0.25383670033670036,
+      "image_reward_score_scores": 0.3717263610476067
+    },
+    "level": 11,
+    "total_descendants": 5
+  },
+  {
+    "name": "fly (dipterous insect)",
+    "father": "dipterous insect",
+    "definition": "two-winged insects characterized by active flight",
+    "scores": {
+      "clip_score_scores": 0.5631230523446189,
+      "pick_score_scores": 0.5521761720372103,
+      "vqa_score_scores": 0.5943019451290994,
+      "tifa_score_scores": 0.32357007575757574,
+      "image_reward_score_scores": 0.5892912843815105
+    },
+    "level": 11,
+    "total_descendants": 16
+  },
+  {
+    "name": "fruit fly",
+    "father": "dipterous insect",
+    "definition": "any of numerous small insects whose larvae feed on fruits",
+    "scores": {
+      "clip_score_scores": 0.5276633233282143,
+      "pick_score_scores": 0.5374731982164498,
+      "vqa_score_scores": 0.5386136341556017,
+      "tifa_score_scores": 0.2085290404040404,
+      "image_reward_score_scores": 0.42562282669161466
+    },
+    "level": 11,
+    "total_descendants": 4
+  },
+  {
+    "name": "gnat (dipterous insect)",
+    "father": "dipterous insect",
+    "definition": "any of various small biting flies: midges; biting midges; black flies; sand flies",
+    "scores": {
+      "clip_score_scores": 0.5332032763265907,
+      "pick_score_scores": 0.5167431773497612,
+      "vqa_score_scores": 0.510339317507998,
+      "tifa_score_scores": 0.17293876262626262,
+      "image_reward_score_scores": 0.4464982641798221
+    },
+    "level": 11,
+    "total_descendants": 5
+  },
+  {
+    "name": "louse fly",
+    "father": "dipterous insect",
+    "definition": "bloodsucking dipterous fly parasitic on birds and mammals",
+    "scores": {
+      "clip_score_scores": 0.534038267637187,
+      "pick_score_scores": 0.5731009993210275,
+      "vqa_score_scores": 0.5752338904761626,
+      "tifa_score_scores": 0.23344155844155845,
+      "image_reward_score_scores": 0.5560139678669598
+    },
+    "level": 11,
+    "total_descendants": 2
+  },
+  {
+    "name": "mosquito",
+    "father": "dipterous insect",
+    "definition": "two-winged insect whose female has a long proboscis to pierce the skin and suck the blood of humans and animals",
+    "scores": {
+      "clip_score_scores": 0.5547776963731009,
+      "pick_score_scores": 0.5197715638165066,
+      "vqa_score_scores": 0.5718395788903342,
+      "tifa_score_scores": 0.21665331031402463,
+      "image_reward_score_scores": 0.4897008452122063
+    },
+    "level": 11,
+    "total_descendants": 7
+  },
+  {
+    "name": "coreid bug",
+    "father": "hemipterous insect",
+    "definition": "a true bug",
+    "scores": {
+      "clip_score_scores": 0.5110697067175847,
+      "pick_score_scores": 0.5128461763506079,
+      "vqa_score_scores": 0.5194341611625272,
+      "tifa_score_scores": 0.22166666666666668,
+      "image_reward_score_scores": 0.38972297390867
+    },
+    "level": 11,
+    "total_descendants": 2
+  },
+  {
+    "name": "leaf bug",
+    "father": "hemipterous insect",
+    "definition": "small bright-colored insect that feeds on plant juices",
+    "scores": {
+      "clip_score_scores": 0.5446080249167614,
+      "pick_score_scores": 0.5217700836727813,
+      "vqa_score_scores": 0.5814837560134357,
+      "tifa_score_scores": 0.17731481481481481,
+      "image_reward_score_scores": 0.5156646507663893
+    },
+    "level": 11,
+    "total_descendants": 5
+  },
+  {
+    "name": "assassin bug",
+    "father": "heteropterous insect",
+    "definition": "a true bug: long-legged predacious bug living mostly on other insects; a few suck blood of mammals",
+    "scores": {
+      "clip_score_scores": 0.5377934045864047,
+      "pick_score_scores": 0.4899770669399038,
+      "vqa_score_scores": 0.6071602681036249,
+      "tifa_score_scores": 0.24371212121212124,
+      "image_reward_score_scores": 0.44751381966232495
+    },
+    "level": 11,
+    "total_descendants": 2
+  },
+  {
+    "name": "water bug",
+    "father": "heteropterous insect",
+    "definition": "a true bug: large aquatic bug adapted to living in or on the surface of water",
+    "scores": {
+      "clip_score_scores": 0.5511633498784971,
+      "pick_score_scores": 0.5317050826327281,
+      "vqa_score_scores": 0.5668146939749178,
+      "tifa_score_scores": 0.2479773629148629,
+      "image_reward_score_scores": 0.5033345108973231
+    },
+    "level": 11,
+    "total_descendants": 5
+  },
+  {
+    "name": "cicada",
+    "father": "homopterous insect",
+    "definition": "stout-bodied insect with large membranous wings; male has drum-like organs for producing a high-pitched drone",
+    "scores": {
+      "clip_score_scores": 0.5346555415765972,
+      "pick_score_scores": 0.47450104798911075,
+      "vqa_score_scores": 0.2962218609584404,
+      "tifa_score_scores": 0.1397222222222222,
+      "image_reward_score_scores": 0.45448983777933927
+    },
+    "level": 11,
+    "total_descendants": 2
+  },
+  {
+    "name": "coccid insect",
+    "father": "homopterous insect",
+    "definition": "scale insects and mealybugs",
+    "scores": {
+      "clip_score_scores": 0.566465012927364,
+      "pick_score_scores": 0.5420536500375656,
+      "vqa_score_scores": 0.5239125501952184,
+      "tifa_score_scores": 0.23131481481481483,
+      "image_reward_score_scores": 0.4243541903428156
+    },
+    "level": 11,
+    "total_descendants": 11
+  },
+  {
+    "name": "plant hopper",
+    "father": "homopterous insect",
+    "definition": "related to the leafhoppers and spittlebugs but rarely damages cultivated plants",
+    "scores": {
+      "clip_score_scores": 0.5377056149403469,
+      "pick_score_scores": 0.507442958076315,
+      "vqa_score_scores": 0.6278031495124363,
+      "tifa_score_scores": 0.23750000000000002,
+      "image_reward_score_scores": 0.5468576844321839
+    },
+    "level": 11,
+    "total_descendants": 2
+  },
+  {
+    "name": "plant louse",
+    "father": "homopterous insect",
+    "definition": "any of several small insects especially aphids that feed by sucking the juices from plants",
+    "scores": {
+      "clip_score_scores": 0.547834452524268,
+      "pick_score_scores": 0.5138932918510033,
+      "vqa_score_scores": 0.5200524617294872,
+      "tifa_score_scores": 0.21499841420153917,
+      "image_reward_score_scores": 0.46661384731951244
+    },
+    "level": 11,
+    "total_descendants": 18
+  },
+  {
+    "name": "spittle insect",
+    "father": "homopterous insect",
+    "definition": "small leaping herbivorous insect that lives in a mass of protective froth which it and its larvae secrete",
+    "scores": {
+      "clip_score_scores": 0.5380160933557575,
+      "pick_score_scores": 0.5013966938667684,
+      "vqa_score_scores": 0.5810356108407714,
+      "tifa_score_scores": 0.19011521464646464,
+      "image_reward_score_scores": 0.45363120066928364
+    },
+    "level": 11,
+    "total_descendants": 4
+  },
+  {
+    "name": "whitefly",
+    "father": "homopterous insect",
+    "definition": "minute insect that feeds on plant juices; related to scale insects",
+    "scores": {
+      "clip_score_scores": 0.5580958145511296,
+      "pick_score_scores": 0.5369373277483313,
+      "vqa_score_scores": 0.6085663378132501,
+      "tifa_score_scores": 0.28190235690235693,
+      "image_reward_score_scores": 0.45640798349193695
+    },
+    "level": 11,
+    "total_descendants": 5
+  },
+  {
+    "name": "ant",
+    "father": "hymenopterous insect",
+    "definition": "social insect living in organized colonies; characteristically the males and fertile queen have wings during breeding season; wingless sterile females are the workers",
+    "scores": {
+      "clip_score_scores": 0.5414570140534672,
+      "pick_score_scores": 0.5111261373245739,
+      "vqa_score_scores": 0.6021387636053787,
+      "tifa_score_scores": 0.18240966209716208,
+      "image_reward_score_scores": 0.48984436044146695
+    },
+    "level": 11,
+    "total_descendants": 12
+  },
+  {
+    "name": "bee",
+    "father": "hymenopterous insect",
+    "definition": "any of numerous hairy-bodied insects including social and solitary species",
+    "scores": {
+      "clip_score_scores": 0.5560821805117184,
+      "pick_score_scores": 0.5301650420818105,
+      "vqa_score_scores": 0.4879731206347502,
+      "tifa_score_scores": 0.1986310651154401,
+      "image_reward_score_scores": 0.41798325810851955
+    },
+    "level": 11,
+    "total_descendants": 14
+  },
+  {
+    "name": "wasp (hymenopterous insect)",
+    "father": "hymenopterous insect",
+    "definition": "social or solitary hymenopterans typically having a slender body with the abdomen attached by a narrow stalk and having a formidable sting",
+    "scores": {
+      "clip_score_scores": 0.5415990613652538,
+      "pick_score_scores": 0.5335917050276924,
+      "vqa_score_scores": 0.47844707524512825,
+      "tifa_score_scores": 0.18338254945286195,
+      "image_reward_score_scores": 0.4720275812823853
+    },
+    "level": 11,
+    "total_descendants": 17
+  },
+  {
+    "name": "butterfly",
+    "father": "lepidopterous insect",
+    "definition": "diurnal insect typically having a slender body with knobbed antennae and broad colorful wings",
+    "scores": {
+      "clip_score_scores": 0.5408003633180897,
+      "pick_score_scores": 0.4854578790761427,
+      "vqa_score_scores": 0.5203866173313632,
+      "tifa_score_scores": 0.235279955858185,
+      "image_reward_score_scores": 0.4874453750870792
+    },
+    "level": 11,
+    "total_descendants": 32
+  },
+  {
+    "name": "moth",
+    "father": "lepidopterous insect",
+    "definition": "typically crepuscular or nocturnal insect having a stout body and feathery or hairlike antennae",
+    "scores": {
+      "clip_score_scores": 0.5246076472025673,
+      "pick_score_scores": 0.497954507206443,
+      "vqa_score_scores": 0.541060013959136,
+      "tifa_score_scores": 0.19347287321915294,
+      "image_reward_score_scores": 0.4670053112095512
+    },
+    "level": 11,
+    "total_descendants": 69
+  },
+  {
+    "name": "lacewing",
+    "father": "neuropteron",
+    "definition": "any of two families of insects with gauzy wings (Chrysopidae and Hemerobiidae); larvae feed on insect pests such as aphids",
+    "scores": {
+      "clip_score_scores": 0.5170444045105921,
+      "pick_score_scores": 0.4850981865988336,
+      "vqa_score_scores": 0.448853216709104,
+      "tifa_score_scores": 0.21894841269841267,
+      "image_reward_score_scores": 0.4066448747075199
+    },
+    "level": 11,
+    "total_descendants": 3
+  },
+  {
+    "name": "cricket",
+    "father": "orthopterous insect",
+    "definition": "leaping insect; male makes chirping noises by rubbing the forewings together",
+    "scores": {
+      "clip_score_scores": 0.5935076636758955,
+      "pick_score_scores": 0.5482517192927515,
+      "vqa_score_scores": 0.4558110357919318,
+      "tifa_score_scores": 0.2252651515151515,
+      "image_reward_score_scores": 0.5684074949310802
+    },
+    "level": 11,
+    "total_descendants": 5
+  },
+  {
+    "name": "grasshopper",
+    "father": "orthopterous insect",
+    "definition": "terrestrial plant-eating insect with hind legs adapted for leaping",
+    "scores": {
+      "clip_score_scores": 0.5435197717824125,
+      "pick_score_scores": 0.5184722278815975,
+      "vqa_score_scores": 0.4818210275816119,
+      "tifa_score_scores": 0.2021478675645342,
+      "image_reward_score_scores": 0.5226181860814568
+    },
+    "level": 11,
+    "total_descendants": 8
+  },
+  {
+    "name": "thrips",
+    "father": "thysanopter",
+    "definition": "any of various small to minute sucking insects with narrow feathery wings if any; they feed on plant sap and many are destructive",
+    "scores": {
+      "clip_score_scores": 0.4999409397006211,
+      "pick_score_scores": 0.5807904488772231,
+      "vqa_score_scores": 0.3627378054951598,
+      "tifa_score_scores": 0.2,
+      "image_reward_score_scores": 0.4990772813767582
+    },
+    "level": 11,
+    "total_descendants": 2
+  },
+  {
+    "name": "gorgonian",
+    "father": "coral",
+    "definition": "corals having a horny or calcareous branching skeleton",
+    "scores": {
+      "clip_score_scores": 0.5952274722485201,
+      "pick_score_scores": 0.4853987122988321,
+      "vqa_score_scores": 0.49912952877389954,
+      "tifa_score_scores": 0.2741998106060606,
+      "image_reward_score_scores": 0.48444276137522496
+    },
+    "level": 11,
+    "total_descendants": 3
+  },
+  {
+    "name": "stony coral",
+    "father": "coral",
+    "definition": "corals having calcareous skeletons aggregations of which form reefs and islands",
+    "scores": {
+      "clip_score_scores": 0.5198778011458506,
+      "pick_score_scores": 0.4798641563000902,
+      "vqa_score_scores": 0.43205409472505113,
+      "tifa_score_scores": 0.2676262626262626,
+      "image_reward_score_scores": 0.463689226411964
+    },
+    "level": 11,
+    "total_descendants": 3
+  },
+  {
+    "name": "quahog",
+    "father": "clam",
+    "definition": "an edible American clam; the heavy shells were used as money by some American Indians",
+    "scores": {
+      "clip_score_scores": null,
+      "pick_score_scores": null,
+      "vqa_score_scores": null,
+      "tifa_score_scores": null,
+      "image_reward_score_scores": null
+    },
+    "level": 11,
+    "total_descendants": 2
+  },
+  {
+    "name": "shipworm",
+    "father": "clam",
+    "definition": "wormlike marine bivalve that bores into wooden piers and ships by means of drill-like shells",
+    "scores": {
+      "clip_score_scores": 0.40573281932271177,
+      "pick_score_scores": 0.4904911676356788,
+      "vqa_score_scores": 0.47872394155888554,
+      "tifa_score_scores": 0.1,
+      "image_reward_score_scores": 0.2042678980089533
+    },
+    "level": 11,
+    "total_descendants": 2
+  },
+  {
+    "name": "freshwater mussel",
+    "father": "mussel",
+    "definition": "bivalve mollusk abundant in rivers of central United States",
+    "scores": {
+      "clip_score_scores": 0.5653358506454863,
+      "pick_score_scores": 0.49281598123112086,
+      "vqa_score_scores": 0.5371599875293521,
+      "tifa_score_scores": 0.17285458754208757,
+      "image_reward_score_scores": 0.3903542972147922
+    },
+    "level": 11,
+    "total_descendants": 3
+  },
+  {
+    "name": "squid",
+    "father": "decapod",
+    "definition": "widely distributed fast-moving ten-armed cephalopod mollusk having a long tapered body with triangular tail fins",
+    "scores": {
+      "clip_score_scores": 0.54744400663944,
+      "pick_score_scores": 0.5608888952986082,
+      "vqa_score_scores": 0.6408353674968102,
+      "tifa_score_scores": 0.16244588744588742,
+      "image_reward_score_scores": 0.39262112092896045
+    },
+    "level": 11,
+    "total_descendants": 3
+  },
+  {
+    "name": "limpet",
+    "father": "seasnail",
+    "definition": "any of various usually marine gastropods with low conical shells; found clinging to rocks in littoral areas",
+    "scores": {
+      "clip_score_scores": 0.5296538686279287,
+      "pick_score_scores": 0.4751342023539236,
+      "vqa_score_scores": 0.4868480143465324,
+      "tifa_score_scores": 0.20252314814814812,
+      "image_reward_score_scores": 0.37345642121271977
+    },
+    "level": 11,
+    "total_descendants": 2
+  },
+  {
+    "name": "neritid",
+    "father": "seasnail",
+    "definition": "operculate seasnail of coastal waters with a short spiral shell",
+    "scores": {
+      "clip_score_scores": 0.5783635104706324,
+      "pick_score_scores": 0.5396694469587331,
+      "vqa_score_scores": 0.5714083417966026,
+      "tifa_score_scores": 0.27529431216931216,
+      "image_reward_score_scores": 0.5439834107792252
+    },
+    "level": 11,
+    "total_descendants": 3
+  },
+  {
+    "name": "garden snail",
+    "father": "snail",
+    "definition": "any of several inedible snails of the genus Helix; often destructive pests",
+    "scores": {
+      "clip_score_scores": 0.5138218575854601,
+      "pick_score_scores": 0.4296895658468177,
+      "vqa_score_scores": 0.49693038276320106,
+      "tifa_score_scores": 0.23475378787878787,
+      "image_reward_score_scores": 0.4186759675036681
+    },
+    "level": 11,
+    "total_descendants": 2
+  },
+  {
+    "name": "nazi (fascist)",
+    "father": "fascist",
+    "definition": "a German member of Adolf Hitler's political party",
+    "scores": {
+      "clip_score_scores": 0.5445909254667153,
+      "pick_score_scores": 0.5770400854690289,
+      "vqa_score_scores": 0.5544025665311282,
+      "tifa_score_scores": 0.25908730158730153,
+      "image_reward_score_scores": 0.5801961532279923
+    },
+    "level": 11,
+    "total_descendants": 2
+  },
+  {
+    "name": "professor",
+    "father": "academician (educator)",
+    "definition": "someone who is a member of the faculty at a college or university",
+    "scores": {
+      "clip_score_scores": 0.5252831643160489,
+      "pick_score_scores": 0.5157748080174601,
+      "vqa_score_scores": 0.4909449638340185,
+      "tifa_score_scores": 0.1542222222222222,
+      "image_reward_score_scores": 0.4830702526872444
+    },
+    "level": 11,
+    "total_descendants": 5
+  },
+  {
+    "name": "schoolteacher",
+    "father": "teacher",
+    "definition": "a teacher in a school below the college level",
+    "scores": {
+      "clip_score_scores": 0.5654257382200845,
+      "pick_score_scores": 0.534786006941726,
+      "vqa_score_scores": 0.561917339595063,
+      "tifa_score_scores": 0.26935786435786435,
+      "image_reward_score_scores": 0.5946004555498169
+    },
+    "level": 11,
+    "total_descendants": 2
+  },
+  {
+    "name": "dentist",
+    "father": "medical practitioner",
+    "definition": "a person qualified to practice dentistry",
+    "scores": {
+      "clip_score_scores": 0.5512856508948417,
+      "pick_score_scores": 0.487347809512756,
+      "vqa_score_scores": 0.4697061640547693,
+      "tifa_score_scores": 0.2356766323953824,
+      "image_reward_score_scores": 0.5159408222527284
+    },
+    "level": 11,
+    "total_descendants": 7
+  },
+  {
+    "name": "doctor (medical practitioner)",
+    "father": "medical practitioner",
+    "definition": "a licensed medical practitioner",
+    "scores": {
+      "clip_score_scores": 0.5679817840145448,
+      "pick_score_scores": 0.5240731917453553,
+      "vqa_score_scores": 0.5182071152191404,
+      "tifa_score_scores": 0.19572348154616145,
+      "image_reward_score_scores": 0.4987700099746167
+    },
+    "level": 11,
+    "total_descendants": 50
+  },
+  {
+    "name": "medical officer",
+    "father": "medical practitioner",
+    "definition": "a medical practitioner in the armed forces",
+    "scores": {
+      "clip_score_scores": 0.5258720167476219,
+      "pick_score_scores": 0.49195525168907556,
+      "vqa_score_scores": 0.5747566282030843,
+      "tifa_score_scores": 0.20073863636363637,
+      "image_reward_score_scores": 0.4682718341423359
+    },
+    "level": 11,
+    "total_descendants": 2
+  },
+  {
+    "name": "registered nurse",
+    "father": "nurse",
+    "definition": "a graduate nurse who has passed examinations for registration",
+    "scores": {
+      "clip_score_scores": 0.45777223545020795,
+      "pick_score_scores": 0.41354166752511123,
+      "vqa_score_scores": 0.17732076729976665,
+      "tifa_score_scores": 0.061111111111111116,
+      "image_reward_score_scores": 0.29386487825957724
+    },
+    "level": 11,
+    "total_descendants": 2
+  },
+  {
+    "name": "counsel to the crown",
+    "father": "barrister",
+    "definition": "a barrister selected to serve as counsel to the British ruler",
+    "scores": {
+      "clip_score_scores": 0.5476814685327803,
+      "pick_score_scores": 0.4393374318910091,
+      "vqa_score_scores": 0.4953047866398352,
+      "tifa_score_scores": 0.18040404040404037,
+      "image_reward_score_scores": 0.4789089288905078
+    },
+    "level": 11,
+    "total_descendants": 2
+  },
+  {
+    "name": "accessory (criminal)",
+    "father": "criminal",
+    "definition": "someone who helps another person commit a crime",
+    "scores": {
+      "clip_score_scores": 0.5408080070576705,
+      "pick_score_scores": 0.4860491881861547,
+      "vqa_score_scores": 0.5674418576045304,
+      "tifa_score_scores": 0.20548647186147187,
+      "image_reward_score_scores": 0.42378612020958756
+    },
+    "level": 11,
+    "total_descendants": 5
+  },
+  {
+    "name": "fugitive (criminal)",
+    "father": "criminal",
+    "definition": "someone who is sought by law officers; someone trying to elude justice",
+    "scores": {
+      "clip_score_scores": 0.5086000251804921,
+      "pick_score_scores": 0.5084927945597965,
+      "vqa_score_scores": 0.534679237354484,
+      "tifa_score_scores": 0.19184523809523807,
+      "image_reward_score_scores": 0.5024603705750522
+    },
+    "level": 11,
+    "total_descendants": 3
+  },
+  {
+    "name": "gangster",
+    "father": "criminal",
+    "definition": "a criminal who is a member of gang",
+    "scores": {
+      "clip_score_scores": 0.5851706635742029,
+      "pick_score_scores": 0.42830240185918483,
+      "vqa_score_scores": 0.5052399224272556,
+      "tifa_score_scores": 0.19627525252525255,
+      "image_reward_score_scores": 0.47633255695468635
+    },
+    "level": 11,
+    "total_descendants": 3
+  },
+  {
+    "name": "smuggler",
+    "father": "criminal",
+    "definition": "someone who imports or exports without paying duties",
+    "scores": {
+      "clip_score_scores": 0.5704031267320114,
+      "pick_score_scores": 0.4824545150291894,
+      "vqa_score_scores": 0.5287598885215145,
+      "tifa_score_scores": 0.18410353535353532,
+      "image_reward_score_scores": 0.38323498722153193
+    },
+    "level": 11,
+    "total_descendants": 3
+  },
+  {
+    "name": "thief",
+    "father": "criminal",
+    "definition": "a criminal who takes property belonging to someone else with the intention of keeping it or selling it",
+    "scores": {
+      "clip_score_scores": 0.5436201937094162,
+      "pick_score_scores": 0.4826723374785487,
+      "vqa_score_scores": 0.55965195658311,
+      "tifa_score_scores": 0.18158785501115043,
+      "image_reward_score_scores": 0.4666690081463965
+    },
+    "level": 11,
+    "total_descendants": 24
+  },
+  {
+    "name": "traitor",
+    "father": "criminal",
+    "definition": "someone who betrays his country by committing treason",
+    "scores": {
+      "clip_score_scores": 0.6030538706768194,
+      "pick_score_scores": 0.49016644896512795,
+      "vqa_score_scores": 0.46078529826061,
+      "tifa_score_scores": 0.21388888888888888,
+      "image_reward_score_scores": 0.5874800343083575
+    },
+    "level": 11,
+    "total_descendants": 3
+  },
+  {
+    "name": "patron (owner)",
+    "father": "owner (businessman)",
+    "definition": "the proprietor of an inn",
+    "scores": {
+      "clip_score_scores": 0.5052561938234421,
+      "pick_score_scores": 0.5198573156415923,
+      "vqa_score_scores": 0.4977056247289605,
+      "tifa_score_scores": 0.14293380230880232,
+      "image_reward_score_scores": 0.402193995219322
+    },
+    "level": 11,
+    "total_descendants": 4
+  },
+  {
+    "name": "peddler",
+    "father": "seller",
+    "definition": "someone who travels about selling his wares (as on the streets or at carnivals)",
+    "scores": {
+      "clip_score_scores": 0.4841921246956497,
+      "pick_score_scores": 0.506300009355138,
+      "vqa_score_scores": 0.5201800933980057,
+      "tifa_score_scores": 0.32848765432098764,
+      "image_reward_score_scores": 0.5853825931744778
+    },
+    "level": 11,
+    "total_descendants": 4
+  },
+  {
+    "name": "stock trader",
+    "father": "trader",
+    "definition": "someone who buys and sells stock shares",
+    "scores": {
+      "clip_score_scores": 0.5589277197461341,
+      "pick_score_scores": 0.5460777565341366,
+      "vqa_score_scores": 0.5542022845468604,
+      "tifa_score_scores": 0.19901515151515153,
+      "image_reward_score_scores": 0.5718671215674745
+    },
+    "level": 11,
+    "total_descendants": 2
+  },
+  {
+    "name": "retailer",
+    "father": "distributor (supplier)",
+    "definition": "a merchant who sells goods at retail",
+    "scores": {
+      "clip_score_scores": 0.4928752854831527,
+      "pick_score_scores": 0.513051816171081,
+      "vqa_score_scores": 0.4660821972647791,
+      "tifa_score_scores": 0.1420770202020202,
+      "image_reward_score_scores": 0.4088294637115333
+    },
+    "level": 11,
+    "total_descendants": 3
+  },
+  {
+    "name": "booker",
+    "father": "agent (representative)",
+    "definition": "someone who engages a person or company for performances",
+    "scores": {
+      "clip_score_scores": 0.5318334144642333,
+      "pick_score_scores": 0.5034164408385194,
+      "vqa_score_scores": 0.6168504571685219,
+      "tifa_score_scores": 0.14837085137085138,
+      "image_reward_score_scores": 0.5796032811410456
+    },
+    "level": 11,
+    "total_descendants": 4
+  },
+  {
+    "name": "government agent",
+    "father": "agent (representative)",
+    "definition": "a representative or official of a government or administrative department of a government",
+    "scores": {
+      "clip_score_scores": 0.5615737769203663,
+      "pick_score_scores": 0.5089884982164956,
+      "vqa_score_scores": 0.6252989449747731,
+      "tifa_score_scores": 0.13728354978354976,
+      "image_reward_score_scores": 0.5407827414971678
+    },
+    "level": 11,
+    "total_descendants": 3
+  },
+  {
+    "name": "secret agent",
+    "father": "agent (representative)",
+    "definition": "a person secretly employed in espionage for a government",
+    "scores": {
+      "clip_score_scores": 0.5409417886548413,
+      "pick_score_scores": 0.5213181453100668,
+      "vqa_score_scores": 0.5760478841012733,
+      "tifa_score_scores": 0.18266970498637164,
+      "image_reward_score_scores": 0.5251307500968865
+    },
+    "level": 11,
+    "total_descendants": 15
+  },
+  {
+    "name": "newspaper columnist",
+    "father": "columnist",
+    "definition": "a columnist who writes for newspapers",
+    "scores": {
+      "clip_score_scores": 0.5294871009180215,
+      "pick_score_scores": 0.5169055649183241,
+      "vqa_score_scores": 0.447064037427426,
+      "tifa_score_scores": 0.22471117424242426,
+      "image_reward_score_scores": 0.46387075549938106
+    },
+    "level": 11,
+    "total_descendants": 3
+  },
+  {
+    "name": "infielder",
+    "father": "fielder (ballplayer)",
+    "definition": "(baseball) a person who plays a position in the infield",
+    "scores": {
+      "clip_score_scores": 0.5740093205624378,
+      "pick_score_scores": 0.47496765655625006,
+      "vqa_score_scores": 0.522984124113478,
+      "tifa_score_scores": 0.16778463203463204,
+      "image_reward_score_scores": 0.5028323362015255
+    },
+    "level": 11,
+    "total_descendants": 5
+  },
+  {
+    "name": "outfielder (fielder)",
+    "father": "fielder (ballplayer)",
+    "definition": "(baseball) a person who plays in the outfield",
+    "scores": {
+      "clip_score_scores": 0.6136270435667359,
+      "pick_score_scores": 0.5890180218415764,
+      "vqa_score_scores": 0.8074728553889645,
+      "tifa_score_scores": 0.2,
+      "image_reward_score_scores": 0.564020182981068
+    },
+    "level": 11,
+    "total_descendants": 3
+  },
+  {
+    "name": "running back",
+    "father": "back (football player)",
+    "definition": "(football) a back on the offensive team (a fullback or halfback) who tries to advance the ball by carrying it on plays from the line of scrimmage",
+    "scores": {
+      "clip_score_scores": 0.5168984999555346,
+      "pick_score_scores": 0.4960099520049373,
+      "vqa_score_scores": 0.48899369765382866,
+      "tifa_score_scores": 0.20265151515151514,
+      "image_reward_score_scores": 0.5084059052687359
+    },
+    "level": 11,
+    "total_descendants": 2
+  },
+  {
+    "name": "end (lineman)",
+    "father": "lineman (football player)",
+    "definition": "(football) the person who plays at one end of the line of scrimmage",
+    "scores": {
+      "clip_score_scores": 0.5363560359466171,
+      "pick_score_scores": 0.44360714280808894,
+      "vqa_score_scores": 0.5104686778190427,
+      "tifa_score_scores": 0.23097222222222225,
+      "image_reward_score_scores": 0.46161295304639544
+    },
+    "level": 11,
+    "total_descendants": 2
+  },
+  {
+    "name": "lowerclassman",
+    "father": "undergraduate",
+    "definition": "an undergraduate who is not yet a senior",
+    "scores": {
+      "clip_score_scores": 0.576184530976958,
+      "pick_score_scores": 0.47082732078768125,
+      "vqa_score_scores": 0.5036558276292246,
+      "tifa_score_scores": 0.056344696969696975,
+      "image_reward_score_scores": 0.3607632012270082
+    },
+    "level": 11,
+    "total_descendants": 3
+  },
+  {
+    "name": "soprano",
+    "father": "singer",
+    "definition": "a female singer",
+    "scores": {
+      "clip_score_scores": 0.4969580484936167,
+      "pick_score_scores": 0.484322144710402,
+      "vqa_score_scores": 0.3864233265049355,
+      "tifa_score_scores": 0.14288194444444444,
+      "image_reward_score_scores": 0.3927361289060637
+    },
+    "level": 11,
+    "total_descendants": 2
+  },
+  {
+    "name": "panelist",
+    "father": "critic (evaluator)",
+    "definition": "a member of a panel",
+    "scores": {
+      "clip_score_scores": 0.5396547809103267,
+      "pick_score_scores": 0.48435832814832824,
+      "vqa_score_scores": 0.5924339851928022,
+      "tifa_score_scores": 0.18470433501683503,
+      "image_reward_score_scores": 0.6006288619132194
+    },
+    "level": 11,
+    "total_descendants": 5
+  },
+  {
+    "name": "englishman",
+    "father": "english person",
+    "definition": "a man who is a native or inhabitant of England",
+    "scores": {
+      "clip_score_scores": 0.5705792079339895,
+      "pick_score_scores": 0.491030342237807,
+      "vqa_score_scores": 0.6136985006700828,
+      "tifa_score_scores": 0.17271717171717169,
+      "image_reward_score_scores": 0.4531049402097498
+    },
+    "level": 11,
+    "total_descendants": 6
+  },
+  {
+    "name": "count",
+    "father": "lord",
+    "definition": "a nobleman (in various countries) having rank equal to a British earl",
+    "scores": {
+      "clip_score_scores": 0.5113115108881019,
+      "pick_score_scores": 0.49045154183509354,
+      "vqa_score_scores": 0.42442203269712414,
+      "tifa_score_scores": 0.265,
+      "image_reward_score_scores": 0.43286078896564406
+    },
+    "level": 11,
+    "total_descendants": 2
+  },
+  {
+    "name": "peer (lord)",
+    "father": "lord",
+    "definition": "a nobleman (duke or marquis or earl or viscount or baron) who is a member of the British peerage",
+    "scores": {
+      "clip_score_scores": 0.5187450900456861,
+      "pick_score_scores": 0.5058992271557222,
+      "vqa_score_scores": 0.5786105711245136,
+      "tifa_score_scores": 0.21453122494789156,
+      "image_reward_score_scores": 0.43319901770538877
+    },
+    "level": 11,
+    "total_descendants": 9
+  },
+  {
+    "name": "cabinet minister",
+    "father": "minister (executive)",
+    "definition": "a person who is a member of the cabinet",
+    "scores": {
+      "clip_score_scores": 0.5815350497063585,
+      "pick_score_scores": 0.48441359080260216,
+      "vqa_score_scores": 0.5404937778182834,
+      "tifa_score_scores": 0.20157196969696972,
+      "image_reward_score_scores": 0.4718320042181652
+    },
+    "level": 11,
+    "total_descendants": 6
+  },
+  {
+    "name": "bishop (priest)",
+    "father": "priest (clergyman)",
+    "definition": "a senior member of the Christian clergy having spiritual and administrative authority; appointed in Christian churches to oversee priests or ministers; considered in some churches to be successors of the twelve Apostles of Christ",
+    "scores": {
+      "clip_score_scores": 0.5512625158756708,
+      "pick_score_scores": 0.47070203967570484,
+      "vqa_score_scores": 0.5940407679127874,
+      "tifa_score_scores": 0.20277304292929296,
+      "image_reward_score_scores": 0.4506952808452233
+    },
+    "level": 11,
+    "total_descendants": 9
+  },
+  {
+    "name": "caddo",
+    "father": "plains indian",
+    "definition": "a group of Plains Indians formerly living in what is now North and South Dakota and Nebraska and Kansas and Arkansas and Louisiana and Oklahoma and Texas",
+    "scores": {
+      "clip_score_scores": 0.5572700768321228,
+      "pick_score_scores": 0.4949418478213592,
+      "vqa_score_scores": 0.5574997128427595,
+      "tifa_score_scores": 0.20379629629629628,
+      "image_reward_score_scores": 0.4856146981034828
+    },
+    "level": 11,
+    "total_descendants": 5
+  },
+  {
+    "name": "sioux",
+    "father": "plains indian",
+    "definition": "a member of a group of North American Indian peoples who spoke a Siouan language and who ranged from Lake Michigan to the Rocky Mountains",
+    "scores": {
+      "clip_score_scores": 0.5781548484970526,
+      "pick_score_scores": 0.5240182493241804,
+      "vqa_score_scores": 0.5804521367790786,
+      "tifa_score_scores": 0.18130874218374218,
+      "image_reward_score_scores": 0.5076645887276972
+    },
+    "level": 11,
+    "total_descendants": 25
+  },
+  {
+    "name": "detective (policeman)",
+    "father": "policeman",
+    "definition": "a police officer who investigates crimes",
+    "scores": {
+      "clip_score_scores": 0.5443906225766354,
+      "pick_score_scores": 0.5129751887395272,
+      "vqa_score_scores": 0.5647635053949476,
+      "tifa_score_scores": 0.218013468013468,
+      "image_reward_score_scores": 0.5305408722203702
+    },
+    "level": 11,
+    "total_descendants": 3
+  },
+  {
+    "name": "traffic cop",
+    "father": "policeman",
+    "definition": "a policeman who controls the flow of automobile traffic",
+    "scores": {
+      "clip_score_scores": 0.5091193268378268,
+      "pick_score_scores": 0.5281249590808096,
+      "vqa_score_scores": 0.5232335639820606,
+      "tifa_score_scores": 0.22879238816738814,
+      "image_reward_score_scores": 0.43306215204098264
+    },
+    "level": 11,
+    "total_descendants": 3
+  },
+  {
+    "name": "parent (genitor)",
+    "father": "genitor",
+    "definition": "a father or mother; one who begets or one who gives birth to or nurtures and raises a child; a relative who plays the role of guardian",
+    "scores": {
+      "clip_score_scores": 0.5511799437186935,
+      "pick_score_scores": 0.4866680493259734,
+      "vqa_score_scores": 0.5503907945782616,
+      "tifa_score_scores": 0.1769694392908679,
+      "image_reward_score_scores": 0.4456192066700181
+    },
+    "level": 11,
+    "total_descendants": 19
+  },
+  {
+    "name": "son",
+    "father": "male offspring",
+    "definition": "a male human offspring",
+    "scores": {
+      "clip_score_scores": 0.6555647777431055,
+      "pick_score_scores": 0.47812853593311544,
+      "vqa_score_scores": 0.6822039706995606,
+      "tifa_score_scores": 0.10500000000000001,
+      "image_reward_score_scores": 0.6199625201820534
+    },
+    "level": 11,
+    "total_descendants": 2
+  },
+  {
+    "name": "godchild",
+    "father": "baby (child)",
+    "definition": "an infant who is sponsored by an adult (the godparent) at baptism",
+    "scores": {
+      "clip_score_scores": 0.5711489710881998,
+      "pick_score_scores": 0.4729369562898347,
+      "vqa_score_scores": 0.533515872833819,
+      "tifa_score_scores": 0.26999999999999996,
+      "image_reward_score_scores": 0.49790600036808796
+    },
+    "level": 11,
+    "total_descendants": 2
+  },
+  {
+    "name": "neonate",
+    "father": "baby (child)",
+    "definition": "a baby from birth to four weeks",
+    "scores": {
+      "clip_score_scores": 0.5655121855451188,
+      "pick_score_scores": 0.4996027697443718,
+      "vqa_score_scores": 0.5314299565242253,
+      "tifa_score_scores": 0.19629973201401776,
+      "image_reward_score_scores": 0.4098297514736702
+    },
+    "level": 11,
+    "total_descendants": 7
+  },
+  {
+    "name": "agricultural laborer",
+    "father": "laborer",
+    "definition": "a person who tills the soil for a living",
+    "scores": {
+      "clip_score_scores": 0.5001279569978085,
+      "pick_score_scores": 0.512951277434171,
+      "vqa_score_scores": 0.4163521150448025,
+      "tifa_score_scores": 0.24763888888888885,
+      "image_reward_score_scores": 0.41109711164705254
+    },
+    "level": 11,
+    "total_descendants": 3
+  },
+  {
+    "name": "cleaner (laborer)",
+    "father": "laborer",
+    "definition": "someone whose occupation is cleaning",
+    "scores": {
+      "clip_score_scores": 0.5275375508924877,
+      "pick_score_scores": 0.4572161982306428,
+      "vqa_score_scores": 0.5901216052406102,
+      "tifa_score_scores": 0.18054608585858586,
+      "image_reward_score_scores": 0.5077223832515325
+    },
+    "level": 11,
+    "total_descendants": 5
+  },
+  {
+    "name": "digger",
+    "father": "laborer",
+    "definition": "a laborer who digs",
+    "scores": {
+      "clip_score_scores": 0.5506755358133715,
+      "pick_score_scores": 0.577038441261561,
+      "vqa_score_scores": 0.5897613009362024,
+      "tifa_score_scores": 0.27145833333333336,
+      "image_reward_score_scores": 0.4325883517059064
+    },
+    "level": 11,
+    "total_descendants": 2
+  },
+  {
+    "name": "hired hand",
+    "father": "laborer",
+    "definition": "a hired laborer on a farm or ranch",
+    "scores": {
+      "clip_score_scores": 0.5629121522455716,
+      "pick_score_scores": 0.5365097120315315,
+      "vqa_score_scores": 0.5974708593831752,
+      "tifa_score_scores": 0.22243171296296296,
+      "image_reward_score_scores": 0.5602139377287569
+    },
+    "level": 11,
+    "total_descendants": 24
+  },
+  {
+    "name": "itinerant",
+    "father": "laborer",
+    "definition": "a laborer who moves from place to place as demanded by employment",
+    "scores": {
+      "clip_score_scores": 0.5201937462417501,
+      "pick_score_scores": 0.5373842988430915,
+      "vqa_score_scores": 0.6513060996240038,
+      "tifa_score_scores": 0.31439393939393934,
+      "image_reward_score_scores": 0.5107106095741086
+    },
+    "level": 11,
+    "total_descendants": 2
+  },
+  {
+    "name": "miner",
+    "father": "laborer",
+    "definition": "laborer who works in a mine",
+    "scores": {
+      "clip_score_scores": 0.5783361794705478,
+      "pick_score_scores": 0.5405530825675627,
+      "vqa_score_scores": 0.5389276836557599,
+      "tifa_score_scores": 0.20256531084656085,
+      "image_reward_score_scores": 0.5511640959566995
+    },
+    "level": 11,
+    "total_descendants": 7
+  },
+  {
+    "name": "porter (laborer)",
+    "father": "laborer",
+    "definition": "a person employed to carry luggage and supplies",
+    "scores": {
+      "clip_score_scores": 0.6508889595489686,
+      "pick_score_scores": 0.5106247690784151,
+      "vqa_score_scores": 0.5972143625015065,
+      "tifa_score_scores": 0.14694444444444446,
+      "image_reward_score_scores": 0.6179144447756022
+    },
+    "level": 11,
+    "total_descendants": 2
+  },
+  {
+    "name": "wrecker",
+    "father": "laborer",
+    "definition": "someone who demolishes or dismantles buildings as a job",
+    "scores": {
+      "clip_score_scores": 0.5687995541442679,
+      "pick_score_scores": 0.53483805271811,
+      "vqa_score_scores": 0.5881799003398283,
+      "tifa_score_scores": 0.23986742424242424,
+      "image_reward_score_scores": 0.4640966543834007
+    },
+    "level": 11,
+    "total_descendants": 2
+  },
+  {
+    "name": "combat pilot",
+    "father": "pilot (aviator)",
+    "definition": "airplane pilot who fights in an action between two military forces",
+    "scores": {
+      "clip_score_scores": 0.575688665698695,
+      "pick_score_scores": 0.43933561828381595,
+      "vqa_score_scores": 0.4887653171482136,
+      "tifa_score_scores": 0.2025477994227994,
+      "image_reward_score_scores": 0.4963897281926088
+    },
+    "level": 11,
+    "total_descendants": 3
+  },
+  {
+    "name": "magistrate",
+    "father": "judge",
+    "definition": "a lay judge or civil authority who administers the law (especially one who conducts a court dealing with minor offenses)",
+    "scores": {
+      "clip_score_scores": 0.5769781908068772,
+      "pick_score_scores": 0.5132722040689814,
+      "vqa_score_scores": 0.6006507874609568,
+      "tifa_score_scores": 0.25487103174603176,
+      "image_reward_score_scores": 0.42076691092702057
+    },
+    "level": 11,
+    "total_descendants": 2
+  },
+  {
+    "name": "officer",
+    "father": "mariner",
+    "definition": "a person authorized to serve in a position of authority on a vessel",
+    "scores": {
+      "clip_score_scores": 0.5242582364848354,
+      "pick_score_scores": 0.4733310254051515,
+      "vqa_score_scores": 0.4845317316771821,
+      "tifa_score_scores": 0.22277199074074072,
+      "image_reward_score_scores": 0.4691655384986335
+    },
+    "level": 11,
+    "total_descendants": 7
+  },
+  {
+    "name": "enlisted man",
+    "father": "enlisted person",
+    "definition": "a male enlisted person in the armed forces",
+    "scores": {
+      "clip_score_scores": 0.5508473013275863,
+      "pick_score_scores": 0.5026295228009741,
+      "vqa_score_scores": 0.53784691407534,
+      "tifa_score_scores": 0.23077693602693605,
+      "image_reward_score_scores": 0.5550800664647901
+    },
+    "level": 11,
+    "total_descendants": 8
+  },
+  {
+    "name": "soldier (enlisted person)",
+    "father": "enlisted person",
+    "definition": "an enlisted man or woman who serves in an army",
+    "scores": {
+      "clip_score_scores": 0.5419417878758612,
+      "pick_score_scores": 0.5074514713067197,
+      "vqa_score_scores": 0.5518647209942792,
+      "tifa_score_scores": 0.2170730017543634,
+      "image_reward_score_scores": 0.4657513247390819
+    },
+    "level": 11,
+    "total_descendants": 49
+  },
+  {
+    "name": "commanding officer",
+    "father": "military officer",
+    "definition": "an officer in command of a military unit",
+    "scores": {
+      "clip_score_scores": 0.5719102106556528,
+      "pick_score_scores": 0.5167174290684434,
+      "vqa_score_scores": 0.5646259435721497,
+      "tifa_score_scores": 0.2874627976190476,
+      "image_reward_score_scores": 0.5011204018583381
+    },
+    "level": 11,
+    "total_descendants": 4
+  },
+  {
+    "name": "commissioned officer",
+    "father": "military officer",
+    "definition": "a military officer holding a commission",
+    "scores": {
+      "clip_score_scores": 0.5442759388697987,
+      "pick_score_scores": 0.4924522498171404,
+      "vqa_score_scores": 0.5659727720363655,
+      "tifa_score_scores": 0.2599545368652511,
+      "image_reward_score_scores": 0.5051398166784554
+    },
+    "level": 11,
+    "total_descendants": 41
+  },
+  {
+    "name": "noncommissioned officer",
+    "father": "military officer",
+    "definition": "a military officer appointed from enlisted personnel",
+    "scores": {
+      "clip_score_scores": 0.560795196862003,
+      "pick_score_scores": 0.533271336590321,
+      "vqa_score_scores": 0.5962421341533359,
+      "tifa_score_scores": 0.2728427128427128,
+      "image_reward_score_scores": 0.4943715425097842
+    },
+    "level": 11,
+    "total_descendants": 20
+  },
+  {
+    "name": "spike rush",
+    "father": "sedge",
+    "definition": "a sedge of the genus Eleocharis",
+    "scores": {
+      "clip_score_scores": 0.5679250555611514,
+      "pick_score_scores": 0.4818422754259449,
+      "vqa_score_scores": 0.5044288440505132,
+      "tifa_score_scores": 0.1309722222222222,
+      "image_reward_score_scores": 0.4019896329698917
+    },
+    "level": 11,
+    "total_descendants": 3
+  },
+  {
+    "name": "bearded iris",
+    "father": "iris (iridaceous plant)",
+    "definition": "any of numerous wild or cultivated irises with hairlike structures on the falls (the drooping sepals)",
+    "scores": {
+      "clip_score_scores": 0.48501959102376524,
+      "pick_score_scores": 0.5360667787451876,
+      "vqa_score_scores": 0.5958186061522893,
+      "tifa_score_scores": 0.21871843434343435,
+      "image_reward_score_scores": 0.4512444610558245
+    },
+    "level": 11,
+    "total_descendants": 2
+  },
+  {
+    "name": "beardless iris",
+    "father": "iris (iridaceous plant)",
+    "definition": "any of numerous wild or cultivated irises having no hairs on the drooping sepals (the falls)",
+    "scores": {
+      "clip_score_scores": 0.5932359782149365,
+      "pick_score_scores": 0.4328542022348859,
+      "vqa_score_scores": 0.4258192722589367,
+      "tifa_score_scores": 0.27168560606060604,
+      "image_reward_score_scores": 0.37303262146400984
+    },
+    "level": 11,
+    "total_descendants": 2
+  },
+  {
+    "name": "onion (alliaceous plant)",
+    "father": "alliaceous plant",
+    "definition": "bulbous plant having hollow leaves cultivated worldwide for its rounded edible bulb",
+    "scores": {
+      "clip_score_scores": 0.5592855829442271,
+      "pick_score_scores": 0.5220731977738738,
+      "vqa_score_scores": 0.6155195420684518,
+      "tifa_score_scores": 0.3451509139009139,
+      "image_reward_score_scores": 0.45668980417947275
+    },
+    "level": 11,
+    "total_descendants": 4
+  },
+  {
+    "name": "wild onion",
+    "father": "alliaceous plant",
+    "definition": "any of various plants of the genus Allium with edible bulbs found growing wild",
+    "scores": {
+      "clip_score_scores": 0.5439784177094842,
+      "pick_score_scores": 0.5453301680765761,
+      "vqa_score_scores": 0.4646451039665408,
+      "tifa_score_scores": 0.16666666666666669,
+      "image_reward_score_scores": 0.38442213323436225
+    },
+    "level": 11,
+    "total_descendants": 3
+  },
+  {
+    "name": "head cabbage",
+    "father": "cabbage",
+    "definition": "any of various cultivated cabbage plants having a short thick stalk and large compact head of edible usually green leaves",
+    "scores": {
+      "clip_score_scores": 0.6546188714262516,
+      "pick_score_scores": 0.5093168887405496,
+      "vqa_score_scores": 0.6488060087157229,
+      "tifa_score_scores": 0.30363215488215484,
+      "image_reward_score_scores": 0.5632936405521197
+    },
+    "level": 11,
+    "total_descendants": 2
+  },
+  {
+    "name": "bittercress",
+    "father": "cress",
+    "definition": "any of various herbs of the genus Cardamine, having usually pinnate leaves and racemes of white, pink or purple flowers; cosmopolitan except Antarctic",
+    "scores": {
+      "clip_score_scores": 0.5742663239414045,
+      "pick_score_scores": 0.4563209916476779,
+      "vqa_score_scores": 0.6175634845728925,
+      "tifa_score_scores": 0.3792248376623376,
+      "image_reward_score_scores": 0.5761660065336479
+    },
+    "level": 11,
+    "total_descendants": 5
+  },
+  {
+    "name": "rock cress",
+    "father": "cress",
+    "definition": "any of several rock-loving cresses of the genus Arabis",
+    "scores": {
+      "clip_score_scores": 0.5624178828819666,
+      "pick_score_scores": 0.48117250305949644,
+      "vqa_score_scores": 0.5264972240600444,
+      "tifa_score_scores": 0.3752430555555555,
+      "image_reward_score_scores": 0.4957749694557729
+    },
+    "level": 11,
+    "total_descendants": 2
+  },
+  {
+    "name": "watercress",
+    "father": "cress",
+    "definition": "any of several water-loving cresses",
+    "scores": {
+      "clip_score_scores": 0.5495786814725083,
+      "pick_score_scores": 0.5351813767436153,
+      "vqa_score_scores": 0.5223056942556557,
+      "tifa_score_scores": 0.2536868686868687,
+      "image_reward_score_scores": 0.43662745607079584
+    },
+    "level": 11,
+    "total_descendants": 4
+  },
+  {
+    "name": "bent (grass)",
+    "father": "grass",
+    "definition": "grass for pastures and lawns especially bowling and putting greens",
+    "scores": {
+      "clip_score_scores": 0.5094245732114485,
+      "pick_score_scores": 0.4891721916158125,
+      "vqa_score_scores": 0.4503806568888037,
+      "tifa_score_scores": 0.26595117845117844,
+      "image_reward_score_scores": 0.47822725835867597
+    },
+    "level": 11,
+    "total_descendants": 3
+  },
+  {
+    "name": "brome",
+    "father": "grass",
+    "definition": "any of various woodland and meadow grasses of the genus Bromus; native to temperate regions",
+    "scores": {
+      "clip_score_scores": 0.5216930832900901,
+      "pick_score_scores": 0.4729345450449894,
+      "vqa_score_scores": 0.5434643581203369,
+      "tifa_score_scores": 0.21964242424242425,
+      "image_reward_score_scores": 0.40590337763286677
+    },
+    "level": 11,
+    "total_descendants": 5
+  },
+  {
+    "name": "broom grass",
+    "father": "grass",
+    "definition": "any of several grasses of the genus Andropogon; used in broom making",
+    "scores": {
+      "clip_score_scores": 0.5399389842493356,
+      "pick_score_scores": 0.5252939829217607,
+      "vqa_score_scores": 0.5827544268691602,
+      "tifa_score_scores": 0.27301136363636364,
+      "image_reward_score_scores": 0.4663936841032642
+    },
+    "level": 11,
+    "total_descendants": 2
+  },
+  {
+    "name": "cereal",
+    "father": "grass",
+    "definition": "grass whose starchy grains are used as food: wheat; rice; rye; oats; maize; buckwheat; millet",
+    "scores": {
+      "clip_score_scores": 0.5330371525755156,
+      "pick_score_scores": 0.5012776006593188,
+      "vqa_score_scores": 0.5172199844526323,
+      "tifa_score_scores": 0.2305788756685334,
+      "image_reward_score_scores": 0.4597361930914586
+    },
+    "level": 11,
+    "total_descendants": 54
+  },
+  {
+    "name": "cordgrass",
+    "father": "grass",
+    "definition": "any of several perennial grasses of the genus Spartina; some important as coastal soil binders",
+    "scores": {
+      "clip_score_scores": 0.5719514540663262,
+      "pick_score_scores": 0.49280270471842336,
+      "vqa_score_scores": 0.4225507409056095,
+      "tifa_score_scores": 0.21337301587301583,
+      "image_reward_score_scores": 0.42412681383802137
+    },
+    "level": 11,
+    "total_descendants": 2
+  },
+  {
+    "name": "crabgrass",
+    "father": "grass",
+    "definition": "grasses with creeping stems that root freely; a pest in lawns",
+    "scores": {
+      "clip_score_scores": 0.6251990711731217,
+      "pick_score_scores": 0.5875720200642529,
+      "vqa_score_scores": 0.6748284904667727,
+      "tifa_score_scores": 0.24027777777777776,
+      "image_reward_score_scores": 0.38686458160201054
+    },
+    "level": 11,
+    "total_descendants": 3
+  },
+  {
+    "name": "dropseed",
+    "father": "grass",
+    "definition": "a grass of the genus Sporobolus",
+    "scores": {
+      "clip_score_scores": 0.5273138107812718,
+      "pick_score_scores": 0.5045175472934273,
+      "vqa_score_scores": 0.5792898446165746,
+      "tifa_score_scores": 0.2830357142857142,
+      "image_reward_score_scores": 0.3869662109997886
+    },
+    "level": 11,
+    "total_descendants": 2
+  },
+  {
+    "name": "finger grass",
+    "father": "grass",
+    "definition": "any grass of the genus Chloris; occurs in short grassland especially on waste ground or poor soils",
+    "scores": {
+      "clip_score_scores": 0.5403317828069238,
+      "pick_score_scores": 0.534494704083861,
+      "vqa_score_scores": 0.5229779987871402,
+      "tifa_score_scores": 0.16499999999999998,
+      "image_reward_score_scores": 0.4929056291423062
+    },
+    "level": 11,
+    "total_descendants": 2
+  },
+  {
+    "name": "grama",
+    "father": "grass",
+    "definition": "pasture grass of plains of South America and western North America",
+    "scores": {
+      "clip_score_scores": null,
+      "pick_score_scores": null,
+      "vqa_score_scores": null,
+      "tifa_score_scores": null,
+      "image_reward_score_scores": null
+    },
+    "level": 11,
+    "total_descendants": 2
+  },
+  {
+    "name": "love grass",
+    "father": "grass",
+    "definition": "any of various grasses of the genus Eragrostis; specially useful for forage and for the prevention of erosion",
+    "scores": {
+      "clip_score_scores": 0.5747723706668886,
+      "pick_score_scores": 0.5289783124857212,
+      "vqa_score_scores": 0.6488218756472977,
+      "tifa_score_scores": 0.347390873015873,
+      "image_reward_score_scores": 0.4066713053309607
+    },
+    "level": 11,
+    "total_descendants": 2
+  },
+  {
+    "name": "lyme grass",
+    "father": "grass",
+    "definition": "a grass of the genus Elymus",
+    "scores": {
+      "clip_score_scores": 0.5432133558642358,
+      "pick_score_scores": 0.5139511341311602,
+      "vqa_score_scores": 0.42280678581727815,
+      "tifa_score_scores": 0.14541666666666664,
+      "image_reward_score_scores": 0.45986487926162944
+    },
+    "level": 11,
+    "total_descendants": 2
+  },
+  {
+    "name": "meadowgrass",
+    "father": "grass",
+    "definition": "any of various grasses that thrive in the presence of abundant moisture",
+    "scores": {
+      "clip_score_scores": 0.5363520518934379,
+      "pick_score_scores": 0.5140026076111756,
+      "vqa_score_scores": 0.6143521694129939,
+      "tifa_score_scores": 0.34298280423280425,
+      "image_reward_score_scores": 0.4944765079761361
+    },
+    "level": 11,
+    "total_descendants": 12
+  },
+  {
+    "name": "reed grass",
+    "father": "grass",
+    "definition": "any of various tall perennial grasses of the genus Calamagrostis having feathery plumes; natives of marshland fens and wet woodlands of temperate northern hemisphere",
+    "scores": {
+      "clip_score_scores": 0.6233605840847039,
+      "pick_score_scores": 0.5226781993541749,
+      "vqa_score_scores": 0.5192864766963015,
+      "tifa_score_scores": 0.3622916666666667,
+      "image_reward_score_scores": 0.45603009455119925
+    },
+    "level": 11,
+    "total_descendants": 2
+  },
+  {
+    "name": "rye grass",
+    "father": "grass",
+    "definition": "any of several annual or perennial Eurasian grasses",
+    "scores": {
+      "clip_score_scores": 0.5548044804454411,
+      "pick_score_scores": 0.49941420888268057,
+      "vqa_score_scores": 0.539679268923707,
+      "tifa_score_scores": 0.22089637445887444,
+      "image_reward_score_scores": 0.49578619718406847
+    },
+    "level": 11,
+    "total_descendants": 3
+  },
+  {
+    "name": "wheatgrass",
+    "father": "grass",
+    "definition": "a grass of the genus Agropyron",
+    "scores": {
+      "clip_score_scores": 0.6044127310007227,
+      "pick_score_scores": 0.5541810541973817,
+      "vqa_score_scores": 0.4514516307077518,
+      "tifa_score_scores": 0.48569444444444443,
+      "image_reward_score_scores": 0.4435219760751349
+    },
+    "level": 11,
+    "total_descendants": 6
+  },
+  {
+    "name": "wild rye",
+    "father": "grass",
+    "definition": "any of several grasses of the genus Elymus",
+    "scores": {
+      "clip_score_scores": 0.5501825897733982,
+      "pick_score_scores": 0.4696918149715477,
+      "vqa_score_scores": 0.42714974891663215,
+      "tifa_score_scores": 0.16517857142857142,
+      "image_reward_score_scores": 0.5076623749714713
+    },
+    "level": 11,
+    "total_descendants": 2
+  },
+  {
+    "name": "zoysia",
+    "father": "grass",
+    "definition": "any of several creeping grasses of the genus Zoysia",
+    "scores": {
+      "clip_score_scores": 0.5264427699092281,
+      "pick_score_scores": 0.5134659228416301,
+      "vqa_score_scores": 0.5148709407157221,
+      "tifa_score_scores": 0.2716996753246753,
+      "image_reward_score_scores": 0.42962952098476354
+    },
+    "level": 11,
+    "total_descendants": 3
+  },
+  {
+    "name": "clover fern",
+    "father": "aquatic fern",
+    "definition": "any of several water ferns of the genus Marsilea having four leaflets",
+    "scores": {
+      "clip_score_scores": 0.583805505006692,
+      "pick_score_scores": 0.534701865640379,
+      "vqa_score_scores": 0.5614042853691218,
+      "tifa_score_scores": 0.3385551948051948,
+      "image_reward_score_scores": 0.47755007649262476
+    },
+    "level": 11,
+    "total_descendants": 2
+  },
+  {
+    "name": "hare's-foot fern",
+    "father": "davallia",
+    "definition": "either of two ferns of the genus Davallia having a soft grey hairy rootstock",
+    "scores": {
+      "clip_score_scores": 0.6276238123407051,
+      "pick_score_scores": 0.4780397727662929,
+      "vqa_score_scores": 0.4864068329381363,
+      "tifa_score_scores": 0.12981481481481483,
+      "image_reward_score_scores": 0.4467541664842891
+    },
+    "level": 11,
+    "total_descendants": 2
+  },
+  {
+    "name": "ground pine (club moss)",
+    "father": "club moss",
+    "definition": "any of several club mosses having long creeping stems and erect branches",
+    "scores": {
+      "clip_score_scores": 0.5697970783003072,
+      "pick_score_scores": 0.4994833949353145,
+      "vqa_score_scores": 0.5057404856364416,
+      "tifa_score_scores": 0.24537878787878786,
+      "image_reward_score_scores": 0.518313521887047
+    },
+    "level": 11,
+    "total_descendants": 4
+  },
+  {
+    "name": "spikemoss",
+    "father": "club moss",
+    "definition": "any of numerous fern allies of the genus Selaginella",
+    "scores": {
+      "clip_score_scores": 0.6168209725948566,
+      "pick_score_scores": 0.5242783691888455,
+      "vqa_score_scores": 0.6030692749455527,
+      "tifa_score_scores": 0.2578787878787878,
+      "image_reward_score_scores": 0.5497744638676927
+    },
+    "level": 11,
+    "total_descendants": 5
+  },
+  {
+    "name": "anemone",
+    "father": "flower (angiosperm)",
+    "definition": "any woodland plant of the genus Anemone grown for its beautiful flowers and whorls of dissected leaves",
+    "scores": {
+      "clip_score_scores": 0.575682748018552,
+      "pick_score_scores": 0.5097243397187873,
+      "vqa_score_scores": 0.47748318851146876,
+      "tifa_score_scores": 0.26326704545454543,
+      "image_reward_score_scores": 0.49862667327537613
+    },
+    "level": 11,
+    "total_descendants": 6
+  },
+  {
+    "name": "aster",
+    "father": "flower (angiosperm)",
+    "definition": "any of various chiefly fall-blooming herbs of the genus Aster with showy daisylike flowers",
+    "scores": {
+      "clip_score_scores": 0.5410999716546565,
+      "pick_score_scores": 0.5048179358563787,
+      "vqa_score_scores": 0.5076429398818666,
+      "tifa_score_scores": 0.2713147262973652,
+      "image_reward_score_scores": 0.43600395175768214
+    },
+    "level": 11,
+    "total_descendants": 38
+  },
+  {
+    "name": "begonia",
+    "father": "flower (angiosperm)",
+    "definition": "any of numerous plants of the genus Begonia grown for their attractive glossy asymmetrical leaves and colorful flowers in usually terminal cymes or racemes",
+    "scores": {
+      "clip_score_scores": 0.548664655083715,
+      "pick_score_scores": 0.500304927695568,
+      "vqa_score_scores": 0.4760846237781289,
+      "tifa_score_scores": 0.26691418149751484,
+      "image_reward_score_scores": 0.4361412498839242
+    },
+    "level": 11,
+    "total_descendants": 12
+  },
+  {
+    "name": "calla lily",
+    "father": "flower (angiosperm)",
+    "definition": "South African plant widely cultivated for its showy pure white spathe and yellow spadix",
+    "scores": {
+      "clip_score_scores": 0.5861157525934955,
+      "pick_score_scores": 0.5116243670974455,
+      "vqa_score_scores": 0.428892945738524,
+      "tifa_score_scores": 0.22881944444444446,
+      "image_reward_score_scores": 0.5318215622221426
+    },
+    "level": 11,
+    "total_descendants": 2
+  },
+  {
+    "name": "centaury (flower)",
+    "father": "flower (angiosperm)",
+    "definition": "any of various plants of the genus Centaurium",
+    "scores": {
+      "clip_score_scores": 0.5279551232845968,
+      "pick_score_scores": 0.45727916891579146,
+      "vqa_score_scores": 0.4614916250479297,
+      "tifa_score_scores": 0.19882828282828285,
+      "image_reward_score_scores": 0.43469515286478017
+    },
+    "level": 11,
+    "total_descendants": 6
+  },
+  {
+    "name": "chrysanthemum (flower)",
+    "father": "flower (angiosperm)",
+    "definition": "any of numerous perennial Old World herbs having showy brightly colored flower heads of the genera Chrysanthemum, Argyranthemum, Dendranthema, Tanacetum; widely cultivated",
+    "scores": {
+      "clip_score_scores": 0.5704278706980216,
+      "pick_score_scores": 0.5690560255253336,
+      "vqa_score_scores": 0.5485162429311787,
+      "tifa_score_scores": 0.2648452380952381,
+      "image_reward_score_scores": 0.5024152903592105
+    },
+    "level": 11,
+    "total_descendants": 4
+  },
+  {
+    "name": "columbine",
+    "father": "flower (angiosperm)",
+    "definition": "a plant of the genus Aquilegia having irregular showy spurred flowers; north temperate regions especially mountains",
+    "scores": {
+      "clip_score_scores": 0.5654629877700078,
+      "pick_score_scores": 0.5339823330584784,
+      "vqa_score_scores": 0.5699733119971647,
+      "tifa_score_scores": 0.20301557239057236,
+      "image_reward_score_scores": 0.43562801607827467
+    },
+    "level": 11,
+    "total_descendants": 3
+  },
+  {
+    "name": "composite",
+    "father": "flower (angiosperm)",
+    "definition": "considered the most highly evolved dicotyledonous plants, characterized by florets arranged in dense heads that resemble single flowers",
+    "scores": {
+      "clip_score_scores": 0.537572706592343,
+      "pick_score_scores": 0.5008159473983469,
+      "vqa_score_scores": 0.5445193718876771,
+      "tifa_score_scores": 0.19065949484017664,
+      "image_reward_score_scores": 0.5060017712095447
+    },
+    "level": 11,
+    "total_descendants": 24
+  },
+  {
+    "name": "four o'clock",
+    "father": "flower (angiosperm)",
+    "definition": "any of several plants of the genus Mirabilis having flowers that open in late afternoon",
+    "scores": {
+      "clip_score_scores": 0.5792709406770092,
+      "pick_score_scores": 0.504478753840681,
+      "vqa_score_scores": 0.5425820971165972,
+      "tifa_score_scores": 0.16367045454545454,
+      "image_reward_score_scores": 0.4783042927687835
+    },
+    "level": 11,
+    "total_descendants": 5
+  },
+  {
+    "name": "gentian",
+    "father": "flower (angiosperm)",
+    "definition": "any of various plants of the family Gentianaceae especially the genera Gentiana and Gentianella and Gentianopsis",
+    "scores": {
+      "clip_score_scores": 0.5471749410735782,
+      "pick_score_scores": 0.4875845255247778,
+      "vqa_score_scores": 0.5431818192834627,
+      "tifa_score_scores": 0.19774134199134202,
+      "image_reward_score_scores": 0.4220855515529142
+    },
+    "level": 11,
+    "total_descendants": 15
+  },
+  {
+    "name": "lychnis",
+    "father": "flower (angiosperm)",
+    "definition": "mostly perennial herbs with sticky stems that catch insects; widespread in north temperate zone",
+    "scores": {
+      "clip_score_scores": 0.5513464277419989,
+      "pick_score_scores": 0.5295177212715235,
+      "vqa_score_scores": 0.6053836794077411,
+      "tifa_score_scores": 0.4437499999999999,
+      "image_reward_score_scores": 0.5091071281211289
+    },
+    "level": 11,
+    "total_descendants": 3
+  },
+  {
+    "name": "marigold",
+    "father": "flower (angiosperm)",
+    "definition": "any of various tropical American plants of the genus Tagetes widely cultivated for their showy yellow or orange flowers",
+    "scores": {
+      "clip_score_scores": 0.6224655353717037,
+      "pick_score_scores": 0.5988469098056344,
+      "vqa_score_scores": 0.8170001698484881,
+      "tifa_score_scores": 0.34375,
+      "image_reward_score_scores": 0.6035283185690348
+    },
+    "level": 11,
+    "total_descendants": 2
+  },
+  {
+    "name": "nigella",
+    "father": "flower (angiosperm)",
+    "definition": "any plant of the genus Nigella",
+    "scores": {
+      "clip_score_scores": 0.5240502158736964,
+      "pick_score_scores": 0.5405926506615975,
+      "vqa_score_scores": 0.5515687248673432,
+      "tifa_score_scores": 0.2922050865800866,
+      "image_reward_score_scores": 0.4986346811520192
+    },
+    "level": 11,
+    "total_descendants": 3
+  },
+  {
+    "name": "orchid",
+    "father": "flower (angiosperm)",
+    "definition": "any of numerous plants of the orchid family usually having flowers of unusual shapes and beautiful colors",
+    "scores": {
+      "clip_score_scores": 0.5420407978919399,
+      "pick_score_scores": 0.49537677564753063,
+      "vqa_score_scores": 0.5287534184535497,
+      "tifa_score_scores": 0.23534214188238808,
+      "image_reward_score_scores": 0.45898669317587737
+    },
+    "level": 11,
+    "total_descendants": 113
+  },
+  {
+    "name": "petunia",
+    "father": "flower (angiosperm)",
+    "definition": "any of numerous tropical herbs having fluted funnel-shaped flowers",
+    "scores": {
+      "clip_score_scores": 0.6035739527988387,
+      "pick_score_scores": 0.5407718538236036,
+      "vqa_score_scores": 0.5547479430476688,
+      "tifa_score_scores": 0.3117306397306397,
+      "image_reward_score_scores": 0.5503697582135333
+    },
+    "level": 11,
+    "total_descendants": 3
+  },
+  {
+    "name": "pink",
+    "father": "flower (angiosperm)",
+    "definition": "any of various flowers of plants of the genus Dianthus cultivated for their fragrant flowers",
+    "scores": {
+      "clip_score_scores": 0.555177406412824,
+      "pick_score_scores": 0.5378045229039874,
+      "vqa_score_scores": 0.608068262213982,
+      "tifa_score_scores": 0.3058464856902357,
+      "image_reward_score_scores": 0.5298999393456716
+    },
+    "level": 11,
+    "total_descendants": 9
+  },
+  {
+    "name": "poppy",
+    "father": "flower (angiosperm)",
+    "definition": "annual or biennial or perennial herbs having showy flowers",
+    "scores": {
+      "clip_score_scores": 0.5439676744420127,
+      "pick_score_scores": 0.5211777349356715,
+      "vqa_score_scores": 0.5306277891654768,
+      "tifa_score_scores": 0.2858623436748437,
+      "image_reward_score_scores": 0.4959796532420486
+    },
+    "level": 11,
+    "total_descendants": 14
+  },
+  {
+    "name": "scabious",
+    "father": "flower (angiosperm)",
+    "definition": "any of various plants of the genus Scabiosa",
+    "scores": {
+      "clip_score_scores": 0.5674193831579504,
+      "pick_score_scores": 0.5227289517407654,
+      "vqa_score_scores": 0.46431860300460165,
+      "tifa_score_scores": 0.3499206349206349,
+      "image_reward_score_scores": 0.4469461670932875
+    },
+    "level": 11,
+    "total_descendants": 2
+  },
+  {
+    "name": "silene",
+    "father": "flower (angiosperm)",
+    "definition": "any plant of the genus Silene",
+    "scores": {
+      "clip_score_scores": 0.5869746203855172,
+      "pick_score_scores": 0.5024816388248299,
+      "vqa_score_scores": 0.5557128957010373,
+      "tifa_score_scores": 0.29236812570145904,
+      "image_reward_score_scores": 0.5105210007394655
+    },
+    "level": 11,
+    "total_descendants": 6
+  },
+  {
+    "name": "snapdragon",
+    "father": "flower (angiosperm)",
+    "definition": "a garden plant of the genus Antirrhinum having showy white or yellow or crimson flowers resembling the face of a dragon",
+    "scores": {
+      "clip_score_scores": 0.5686436342564803,
+      "pick_score_scores": 0.5267587296943526,
+      "vqa_score_scores": 0.5295332040215041,
+      "tifa_score_scores": 0.2955428992303993,
+      "image_reward_score_scores": 0.5551061373149697
+    },
+    "level": 11,
+    "total_descendants": 3
+  },
+  {
+    "name": "sunflower",
+    "father": "flower (angiosperm)",
+    "definition": "any plant of the genus Helianthus having large flower heads with dark disk florets and showy yellow rays",
+    "scores": {
+      "clip_score_scores": 0.6185242061500369,
+      "pick_score_scores": 0.5397080567424982,
+      "vqa_score_scores": 0.47952234506739577,
+      "tifa_score_scores": 0.202078373015873,
+      "image_reward_score_scores": 0.5663996546454722
+    },
+    "level": 11,
+    "total_descendants": 7
+  },
+  {
+    "name": "veronica",
+    "father": "flower (angiosperm)",
+    "definition": "any plant of the genus Veronica",
+    "scores": {
+      "clip_score_scores": 0.5359573548279145,
+      "pick_score_scores": 0.4637628593086447,
+      "vqa_score_scores": 0.40359131058575176,
+      "tifa_score_scores": 0.2529882154882155,
+      "image_reward_score_scores": 0.43867700428289846
+    },
+    "level": 11,
+    "total_descendants": 6
+  },
+  {
+    "name": "zinnia",
+    "father": "flower (angiosperm)",
+    "definition": "any of various plants of the genus Zinnia cultivated for their variously and brightly colored flower heads",
+    "scores": {
+      "clip_score_scores": 0.590448165533867,
+      "pick_score_scores": 0.5480618931655452,
+      "vqa_score_scores": 0.5077384046639729,
+      "tifa_score_scores": 0.2875,
+      "image_reward_score_scores": 0.5752818196298058
+    },
+    "level": 11,
+    "total_descendants": 2
+  },
+  {
+    "name": "bean (legume)",
+    "father": "legume (climber)",
+    "definition": "any of various leguminous plants grown for their edible seeds and pods",
+    "scores": {
+      "clip_score_scores": 0.5709649851972007,
+      "pick_score_scores": 0.4869747987577049,
+      "vqa_score_scores": 0.5494474887746853,
+      "tifa_score_scores": 0.1952932224025974,
+      "image_reward_score_scores": 0.3507282493513395
+    },
+    "level": 11,
+    "total_descendants": 13
+  },
+  {
+    "name": "pea (legume)",
+    "father": "legume (climber)",
+    "definition": "a leguminous plant of the genus Pisum with small white flowers and long green pods containing edible green seeds",
+    "scores": {
+      "clip_score_scores": 0.5544478870305594,
+      "pick_score_scores": 0.5254189697589442,
+      "vqa_score_scores": 0.6122166833429032,
+      "tifa_score_scores": 0.27421566859066854,
+      "image_reward_score_scores": 0.4661703019954185
+    },
+    "level": 11,
+    "total_descendants": 5
+  },
+  {
+    "name": "vetch",
+    "father": "legume (climber)",
+    "definition": "any of various climbing plants of the genus Vicia having pinnately compound leaves that terminate in tendrils and small variously colored flowers; includes valuable forage and soil-building plants",
+    "scores": {
+      "clip_score_scores": 0.4851655772491393,
+      "pick_score_scores": 0.4886687392951964,
+      "vqa_score_scores": 0.417000836957752,
+      "tifa_score_scores": 0.2694365079365079,
+      "image_reward_score_scores": 0.4795548629192322
+    },
+    "level": 11,
+    "total_descendants": 6
+  },
+  {
+    "name": "wild pea",
+    "father": "legume (climber)",
+    "definition": "any of various plants of the family Leguminosae that usually grow like vines",
+    "scores": {
+      "clip_score_scores": 0.5701166374860231,
+      "pick_score_scores": 0.5092415802613609,
+      "vqa_score_scores": 0.6056975795928184,
+      "tifa_score_scores": 0.2527295274170274,
+      "image_reward_score_scores": 0.43060671204696926
+    },
+    "level": 11,
+    "total_descendants": 6
+  },
+  {
+    "name": "sweet melon",
+    "father": "melon (gourd)",
+    "definition": "any of several varieties of vine whose fruit has a netted rind and edible flesh and a musky smell",
+    "scores": {
+      "clip_score_scores": 0.5443930930937974,
+      "pick_score_scores": 0.49920948931476894,
+      "vqa_score_scores": 0.49097683376276186,
+      "tifa_score_scores": 0.22108044733044732,
+      "image_reward_score_scores": 0.4287856166023079
+    },
+    "level": 11,
+    "total_descendants": 3
+  },
+  {
+    "name": "pinot",
+    "father": "vinifera",
+    "definition": "any of several purple or white wine grapes used especially for Burgundies and champagnes",
+    "scores": {
+      "clip_score_scores": 0.5194616966796015,
+      "pick_score_scores": 0.5697049972461099,
+      "vqa_score_scores": 0.5204348604135606,
+      "tifa_score_scores": 0.2375,
+      "image_reward_score_scores": 0.5090477309207597
+    },
+    "level": 11,
+    "total_descendants": 2
+  },
+  {
+    "name": "marrow",
+    "father": "summer squash",
+    "definition": "any of various squash plants grown for their elongated fruit with smooth dark green skin and whitish flesh",
+    "scores": {
+      "clip_score_scores": 0.5446912913904488,
+      "pick_score_scores": 0.5051310032172213,
+      "vqa_score_scores": 0.5920260847109823,
+      "tifa_score_scores": 0.3833333333333333,
+      "image_reward_score_scores": 0.4004830691133072
+    },
+    "level": 11,
+    "total_descendants": 2
+  },
+  {
+    "name": "blackberry (bramble bush)",
+    "father": "bramble bush",
+    "definition": "bramble with sweet edible black or dark purple berries that usually do not separate from the receptacle",
+    "scores": {
+      "clip_score_scores": 0.5737146931791762,
+      "pick_score_scores": 0.5425762732436898,
+      "vqa_score_scores": 0.5281602018731921,
+      "tifa_score_scores": 0.24304924242424245,
+      "image_reward_score_scores": 0.41692507284568664
+    },
+    "level": 11,
+    "total_descendants": 11
+  },
+  {
+    "name": "raspberry (bramble bush)",
+    "father": "bramble bush",
+    "definition": "woody brambles bearing usually red but sometimes black or yellow fruits that separate from the receptacle when ripe and are rounder and smaller than blackberries",
+    "scores": {
+      "clip_score_scores": 0.5786878346497307,
+      "pick_score_scores": 0.5180297627305038,
+      "vqa_score_scores": 0.5472719368224624,
+      "tifa_score_scores": 0.20357543690877022,
+      "image_reward_score_scores": 0.54216180282537
+    },
+    "level": 11,
+    "total_descendants": 7
+  },
+  {
+    "name": "silk oak",
+    "father": "grevillea",
+    "definition": "any of several Australian timber trees having usually fernlike foliage and mottled wood used in cabinetry and veneering",
+    "scores": {
+      "clip_score_scores": 0.5917939019907286,
+      "pick_score_scores": 0.5474517548438019,
+      "vqa_score_scores": 0.5752311290596326,
+      "tifa_score_scores": 0.2550421626984127,
+      "image_reward_score_scores": 0.3056062116383993
+    },
+    "level": 11,
+    "total_descendants": 4
+  },
+  {
+    "name": "erica",
+    "father": "heath (shrub)",
+    "definition": "any plant of the genus Erica",
+    "scores": {
+      "clip_score_scores": 0.5204241290503457,
+      "pick_score_scores": 0.49024256628985147,
+      "vqa_score_scores": 0.5674031060600987,
+      "tifa_score_scores": 0.2726010101010101,
+      "image_reward_score_scores": 0.4772769347314861
+    },
+    "level": 11,
+    "total_descendants": 7
+  },
+  {
+    "name": "hibiscus",
+    "father": "mallow",
+    "definition": "any plant of the genus Hibiscus",
+    "scores": {
+      "clip_score_scores": 0.5699002639831827,
+      "pick_score_scores": 0.4871854825758139,
+      "vqa_score_scores": 0.5060849186411507,
+      "tifa_score_scores": 0.2809674122174122,
+      "image_reward_score_scores": 0.5225701573782193
+    },
+    "level": 11,
+    "total_descendants": 10
+  },
+  {
+    "name": "poppy mallow",
+    "father": "mallow",
+    "definition": "a plant of the genus Callirhoe having palmately cleft leaves and white to red or purple flowers borne throughout the summer",
+    "scores": {
+      "clip_score_scores": 0.6181749335913782,
+      "pick_score_scores": 0.5369824964300152,
+      "vqa_score_scores": 0.5192519760077705,
+      "tifa_score_scores": 0.31805555555555554,
+      "image_reward_score_scores": 0.3896476122763181
+    },
+    "level": 11,
+    "total_descendants": 3
+  },
+  {
+    "name": "avens",
+    "father": "subshrub",
+    "definition": "any of various perennials of the genus Geum having usually pinnate basal leaves and variously colored flowers",
+    "scores": {
+      "clip_score_scores": 0.5112310607227449,
+      "pick_score_scores": 0.49395969911861776,
+      "vqa_score_scores": 0.4882756486190392,
+      "tifa_score_scores": 0.222885101010101,
+      "image_reward_score_scores": 0.503595050258722
+    },
+    "level": 11,
+    "total_descendants": 3
+  },
+  {
+    "name": "blue curls",
+    "father": "subshrub",
+    "definition": "any of several plants of the genus Trichostema having whorls of small blue flowers",
+    "scores": {
+      "clip_score_scores": 0.5361897385790733,
+      "pick_score_scores": 0.4869184793581856,
+      "vqa_score_scores": 0.5028950777793448,
+      "tifa_score_scores": 0.18546296296296294,
+      "image_reward_score_scores": 0.3925646549716626
+    },
+    "level": 11,
+    "total_descendants": 3
+  },
+  {
+    "name": "bur marigold",
+    "father": "subshrub",
+    "definition": "any of several plants of the genus Bidens having yellow flowers and prickly fruits that cling to fur and clothing",
+    "scores": {
+      "clip_score_scores": 0.5174422902254014,
+      "pick_score_scores": 0.5328751334022837,
+      "vqa_score_scores": 0.5244456692458656,
+      "tifa_score_scores": 0.20659722222222218,
+      "image_reward_score_scores": 0.4037206829178481
+    },
+    "level": 11,
+    "total_descendants": 4
+  },
+  {
+    "name": "burdock",
+    "father": "subshrub",
+    "definition": "any of several erect biennial herbs of temperate Eurasia having stout taproots and producing burs",
+    "scores": {
+      "clip_score_scores": 0.5117403541504084,
+      "pick_score_scores": 0.5298135984942653,
+      "vqa_score_scores": 0.4820232315110811,
+      "tifa_score_scores": 0.2600126262626263,
+      "image_reward_score_scores": 0.40338956984346613
+    },
+    "level": 11,
+    "total_descendants": 2
+  },
+  {
+    "name": "centaury (subshrub)",
+    "father": "subshrub",
+    "definition": "any plant of the genus Centaurea",
+    "scores": {
+      "clip_score_scores": 0.5575313253140631,
+      "pick_score_scores": 0.4801075026680457,
+      "vqa_score_scores": 0.5028817256910347,
+      "tifa_score_scores": 0.2129608585858586,
+      "image_reward_score_scores": 0.4648552698840742
+    },
+    "level": 11,
+    "total_descendants": 8
+  },
+  {
+    "name": "darling pea",
+    "father": "subshrub",
+    "definition": "either of two Australian plants of the genus Swainsona that are poisonous to sheep",
+    "scores": {
+      "clip_score_scores": 0.5315815841033116,
+      "pick_score_scores": 0.49679205909028684,
+      "vqa_score_scores": 0.5594440099685607,
+      "tifa_score_scores": 0.13166666666666665,
+      "image_reward_score_scores": 0.3476242478202759
+    },
+    "level": 11,
+    "total_descendants": 2
+  },
+  {
+    "name": "eriogonum",
+    "father": "subshrub",
+    "definition": "any plant of the genus Eriogonum with small clustered flowers",
+    "scores": {
+      "clip_score_scores": 0.5702246298362013,
+      "pick_score_scores": 0.5689098509602903,
+      "vqa_score_scores": 0.6133333425943424,
+      "tifa_score_scores": 0.08522727272727273,
+      "image_reward_score_scores": 0.5064236948443288
+    },
+    "level": 11,
+    "total_descendants": 2
+  },
+  {
+    "name": "germander",
+    "father": "subshrub",
+    "definition": "any of various plants of the genus Teucrium",
+    "scores": {
+      "clip_score_scores": 0.530156471756821,
+      "pick_score_scores": 0.4587976190639704,
+      "vqa_score_scores": 0.358993892917762,
+      "tifa_score_scores": 0.12192460317460314,
+      "image_reward_score_scores": 0.3756803008100431
+    },
+    "level": 11,
+    "total_descendants": 4
+  },
+  {
+    "name": "hoary pea",
+    "father": "subshrub",
+    "definition": "a plant of the genus Tephrosia having pinnate leaves and white or purplish flowers and flat hairy pods",
+    "scores": {
+      "clip_score_scores": 0.5282191476359748,
+      "pick_score_scores": 0.4911972932213097,
+      "vqa_score_scores": 0.5761247091746347,
+      "tifa_score_scores": 0.17763257575757577,
+      "image_reward_score_scores": 0.4149251586748604
+    },
+    "level": 11,
+    "total_descendants": 2
+  },
+  {
+    "name": "loosestrife (subshrub)",
+    "father": "subshrub",
+    "definition": "any of numerous herbs and subshrubs of the genus Lythrum",
+    "scores": {
+      "clip_score_scores": 0.6173159208652557,
+      "pick_score_scores": 0.5298782428029153,
+      "vqa_score_scores": 0.6304809955942451,
+      "tifa_score_scores": 0.36167778980278975,
+      "image_reward_score_scores": 0.41922334920993903
+    },
+    "level": 11,
+    "total_descendants": 2
+  },
+  {
+    "name": "matchweed",
+    "father": "subshrub",
+    "definition": "any of several plants of the genus Gutierrezia having tiny flower heads that resemble the heads of matches",
+    "scores": {
+      "clip_score_scores": 0.5026882732680701,
+      "pick_score_scores": 0.5183458408704765,
+      "vqa_score_scores": 0.5325001307095116,
+      "tifa_score_scores": 0.24230076058201058,
+      "image_reward_score_scores": 0.5042625096566975
+    },
+    "level": 11,
+    "total_descendants": 3
+  },
+  {
+    "name": "milkwort",
+    "father": "subshrub",
+    "definition": "any of various plants of the genus Polygala",
+    "scores": {
+      "clip_score_scores": 0.5494226729797583,
+      "pick_score_scores": 0.4877441395707228,
+      "vqa_score_scores": 0.4995580504027803,
+      "tifa_score_scores": 0.27090043290043286,
+      "image_reward_score_scores": 0.3897570589374409
+    },
+    "level": 11,
+    "total_descendants": 5
+  },
+  {
+    "name": "pachysandra",
+    "father": "subshrub",
+    "definition": "any plant of the genus Pachysandra; low-growing evergreen herbs or subshrubs having dentate leaves and used as ground cover",
+    "scores": {
+      "clip_score_scores": 0.49267133764408166,
+      "pick_score_scores": 0.4860105540607174,
+      "vqa_score_scores": 0.5352754117746706,
+      "tifa_score_scores": 0.28,
+      "image_reward_score_scores": 0.3706395844348352
+    },
+    "level": 11,
+    "total_descendants": 2
+  },
+  {
+    "name": "periwinkle (subshrub)",
+    "father": "subshrub",
+    "definition": "chiefly trailing poisonous plants with blue flowers",
+    "scores": {
+      "clip_score_scores": 0.5685011097073109,
+      "pick_score_scores": 0.5190435654887892,
+      "vqa_score_scores": 0.4076199571503931,
+      "tifa_score_scores": 0.18296825396825397,
+      "image_reward_score_scores": 0.4783820214826133
+    },
+    "level": 11,
+    "total_descendants": 2
+  },
+  {
+    "name": "sagebrush",
+    "father": "subshrub",
+    "definition": "any of several North American composite subshrubs of the genera Artemis or Seriphidium",
+    "scores": {
+      "clip_score_scores": 0.6127403605926945,
+      "pick_score_scores": 0.5221547681673193,
+      "vqa_score_scores": 0.5231014209664779,
+      "tifa_score_scores": 0.235234126984127,
+      "image_reward_score_scores": 0.5374915593920944
+    },
+    "level": 11,
+    "total_descendants": 5
+  },
+  {
+    "name": "st john's wort",
+    "father": "subshrub",
+    "definition": "any of numerous plants of the genus Hypericum having yellow flowers and transparently dotted leaves; traditionally gathered on St John's eve to ward off evil",
+    "scores": {
+      "clip_score_scores": 0.5192258959311715,
+      "pick_score_scores": 0.4771986537496433,
+      "vqa_score_scores": 0.4593617928263467,
+      "tifa_score_scores": 0.2200530818387961,
+      "image_reward_score_scores": 0.41530598419290676
+    },
+    "level": 11,
+    "total_descendants": 10
+  },
+  {
+    "name": "wormwood",
+    "father": "subshrub",
+    "definition": "any of several low composite herbs of the genera Artemisia or Seriphidium",
+    "scores": {
+      "clip_score_scores": 0.5570450427159679,
+      "pick_score_scores": 0.5480049830607905,
+      "vqa_score_scores": 0.5723720738486552,
+      "tifa_score_scores": 0.20677057028619528,
+      "image_reward_score_scores": 0.5328169634215278
+    },
+    "level": 11,
+    "total_descendants": 11
+  },
+  {
+    "name": "wattle (acacia)",
+    "father": "acacia",
+    "definition": "any of various Australasian trees yielding slender poles suitable for wattle",
+    "scores": {
+      "clip_score_scores": 0.5000640522934441,
+      "pick_score_scores": 0.5027574420275224,
+      "vqa_score_scores": 0.6194927200263631,
+      "tifa_score_scores": 0.22417424242424241,
+      "image_reward_score_scores": 0.4991509981655957
+    },
+    "level": 11,
+    "total_descendants": 4
+  },
+  {
+    "name": "dogwood",
+    "father": "angiospermous tree",
+    "definition": "a tree of shrub of the genus Cornus often having showy bracts resembling flowers",
+    "scores": {
+      "clip_score_scores": 0.5446345107628119,
+      "pick_score_scores": 0.46804276509797943,
+      "vqa_score_scores": 0.42804056792644307,
+      "tifa_score_scores": 0.17164559884559885,
+      "image_reward_score_scores": 0.3994268950466078
+    },
+    "level": 11,
+    "total_descendants": 7
+  },
+  {
+    "name": "fruit tree",
+    "father": "angiospermous tree",
+    "definition": "tree bearing edible fruit",
+    "scores": {
+      "clip_score_scores": 0.570970101852569,
+      "pick_score_scores": 0.5145881936127794,
+      "vqa_score_scores": 0.5035769874299907,
+      "tifa_score_scores": 0.23085602060809213,
+      "image_reward_score_scores": 0.5009274764418236
+    },
+    "level": 11,
+    "total_descendants": 142
+  },
+  {
+    "name": "holly",
+    "father": "angiospermous tree",
+    "definition": "any tree or shrub of the genus Ilex having red berries and shiny evergreen leaves with prickly edges",
+    "scores": {
+      "clip_score_scores": 0.5816312497306818,
+      "pick_score_scores": 0.49039483596383643,
+      "vqa_score_scores": 0.49900299375440194,
+      "tifa_score_scores": 0.3126944444444445,
+      "image_reward_score_scores": 0.48819868564907515
+    },
+    "level": 11,
+    "total_descendants": 13
+  },
+  {
+    "name": "horse chestnut",
+    "father": "angiospermous tree",
+    "definition": "tree having palmate leaves and large clusters of white to red flowers followed by brown shiny inedible seeds",
+    "scores": {
+      "clip_score_scores": 0.5235599237524579,
+      "pick_score_scores": 0.5111150630083041,
+      "vqa_score_scores": 0.604769992665791,
+      "tifa_score_scores": 0.2563657407407407,
+      "image_reward_score_scores": 0.5083855220849822
+    },
+    "level": 11,
+    "total_descendants": 5
+  },
+  {
+    "name": "laurel (angiospermous tree)",
+    "father": "angiospermous tree",
+    "definition": "any of various aromatic trees of the laurel family",
+    "scores": {
+      "clip_score_scores": 0.5018216376818923,
+      "pick_score_scores": 0.49270372949519337,
+      "vqa_score_scores": 0.534395098714678,
+      "tifa_score_scores": 0.17204071969696969,
+      "image_reward_score_scores": 0.4066754025964114
+    },
+    "level": 11,
+    "total_descendants": 8
+  },
+  {
+    "name": "magnolia (angiospermous tree)",
+    "father": "angiospermous tree",
+    "definition": "any shrub or tree of the genus Magnolia; valued for their longevity and exquisite fragrant blooms",
+    "scores": {
+      "clip_score_scores": 0.5244123372713375,
+      "pick_score_scores": 0.5141959419151233,
+      "vqa_score_scores": 0.44366102653804657,
+      "tifa_score_scores": 0.23220568783068782,
+      "image_reward_score_scores": 0.4451171371576264
+    },
+    "level": 11,
+    "total_descendants": 8
+  },
+  {
+    "name": "maple",
+    "father": "angiospermous tree",
+    "definition": "any of numerous trees or shrubs of the genus Acer bearing winged seeds in pairs; north temperate zone",
+    "scores": {
+      "clip_score_scores": 0.5482287343283303,
+      "pick_score_scores": 0.5033082717504288,
+      "vqa_score_scores": 0.5087837175550071,
+      "tifa_score_scores": 0.2629326198492865,
+      "image_reward_score_scores": 0.5068512855295236
+    },
+    "level": 11,
+    "total_descendants": 14
+  },
+  {
+    "name": "mountain ash (angiospermous tree)",
+    "father": "angiospermous tree",
+    "definition": "any of various trees of the genus Sorbus",
+    "scores": {
+      "clip_score_scores": 0.5216549926111991,
+      "pick_score_scores": 0.4717584382810414,
+      "vqa_score_scores": 0.5440771166013645,
+      "tifa_score_scores": 0.19143109668109667,
+      "image_reward_score_scores": 0.40069574070740555
+    },
+    "level": 11,
+    "total_descendants": 5
+  },
+  {
+    "name": "nut tree",
+    "father": "angiospermous tree",
+    "definition": "tree bearing edible nuts",
+    "scores": {
+      "clip_score_scores": 0.5394982586062409,
+      "pick_score_scores": 0.48725415365420804,
+      "vqa_score_scores": 0.5074420998683041,
+      "tifa_score_scores": 0.2130002541650269,
+      "image_reward_score_scores": 0.48610305393497966
+    },
+    "level": 11,
+    "total_descendants": 28
+  },
+  {
+    "name": "poplar",
+    "father": "angiospermous tree",
+    "definition": "any of numerous trees of north temperate regions having light soft wood and flowers borne in catkins",
+    "scores": {
+      "clip_score_scores": 0.5556559099132902,
+      "pick_score_scores": 0.5038341730637955,
+      "vqa_score_scores": 0.5253962708576326,
+      "tifa_score_scores": 0.26116514850889855,
+      "image_reward_score_scores": 0.4387050317394505
+    },
+    "level": 11,
+    "total_descendants": 13
+  },
+  {
+    "name": "spice tree",
+    "father": "angiospermous tree",
+    "definition": "tree bearing aromatic bark or berries",
+    "scores": {
+      "clip_score_scores": 0.5676732710877728,
+      "pick_score_scores": 0.5071210935622152,
+      "vqa_score_scores": 0.48825117654787037,
+      "tifa_score_scores": 0.19955555555555557,
+      "image_reward_score_scores": 0.40469623131617743
+    },
+    "level": 11,
+    "total_descendants": 4
+  },
+  {
+    "name": "sterculia",
+    "father": "angiospermous tree",
+    "definition": "any tree of the genus Sterculia",
+    "scores": {
+      "clip_score_scores": 0.6451186218102024,
+      "pick_score_scores": 0.5713828854999787,
+      "vqa_score_scores": 0.6000435235761463,
+      "tifa_score_scores": 0.19333333333333336,
+      "image_reward_score_scores": 0.6403428210060026
+    },
+    "level": 11,
+    "total_descendants": 2
+  },
+  {
+    "name": "catalpa",
+    "father": "bean tree",
+    "definition": "tree of the genus Catalpa with large leaves and white flowers followed by long slender pods",
+    "scores": {
+      "clip_score_scores": 0.5047598253870806,
+      "pick_score_scores": 0.49726525661998106,
+      "vqa_score_scores": 0.69350821474453,
+      "tifa_score_scores": 0.2875,
+      "image_reward_score_scores": 0.2202017161905077
+    },
+    "level": 11,
+    "total_descendants": 2
+  },
+  {
+    "name": "eucalyptus",
+    "father": "gum tree",
+    "definition": "a tree of the genus Eucalyptus",
+    "scores": {
+      "clip_score_scores": 0.5657709042642882,
+      "pick_score_scores": 0.5284044455682585,
+      "vqa_score_scores": 0.5085372217235707,
+      "tifa_score_scores": 0.2610845231157731,
+      "image_reward_score_scores": 0.47833660764548874
+    },
+    "level": 11,
+    "total_descendants": 21
+  },
+  {
+    "name": "tupelo",
+    "father": "gum tree",
+    "definition": "any of several gum trees of swampy areas of North America",
+    "scores": {
+      "clip_score_scores": 0.4651301166397447,
+      "pick_score_scores": 0.49803541186796163,
+      "vqa_score_scores": 0.5354833521648432,
+      "tifa_score_scores": 0.20416666666666666,
+      "image_reward_score_scores": 0.4775344230586651
+    },
+    "level": 11,
+    "total_descendants": 2
+  },
+  {
+    "name": "conifer",
+    "father": "gymnospermous tree",
+    "definition": "any gymnospermous tree or shrub bearing cones",
+    "scores": {
+      "clip_score_scores": 0.5560880545771991,
+      "pick_score_scores": 0.4948818759374031,
+      "vqa_score_scores": 0.5428514858224112,
+      "tifa_score_scores": 0.224063130181403,
+      "image_reward_score_scores": 0.4210617852149901
+    },
+    "level": 11,
+    "total_descendants": 151
+  },
+  {
+    "name": "chestnut oak",
+    "father": "oak",
+    "definition": "an oak having leaves resembling those of chestnut trees",
+    "scores": {
+      "clip_score_scores": 0.5824260364504785,
+      "pick_score_scores": 0.5328385516460845,
+      "vqa_score_scores": 0.5215877012882285,
+      "tifa_score_scores": 0.22194083694083694,
+      "image_reward_score_scores": 0.3441677524609921
+    },
+    "level": 11,
+    "total_descendants": 4
+  },
+  {
+    "name": "live oak",
+    "father": "oak",
+    "definition": "any of several American evergreen oaks",
+    "scores": {
+      "clip_score_scores": 0.5510704626732492,
+      "pick_score_scores": 0.5311987727218828,
+      "vqa_score_scores": 0.48483105362911,
+      "tifa_score_scores": 0.2943181818181818,
+      "image_reward_score_scores": 0.3814838560197169
+    },
+    "level": 11,
+    "total_descendants": 4
+  },
+  {
+    "name": "red oak",
+    "father": "oak",
+    "definition": "any of numerous American oaks having 4 stamens in each floret, acorns requiring two years to mature and leaf veins usually extending beyond the leaf margin to form points or bristles",
+    "scores": {
+      "clip_score_scores": 0.5861394132092982,
+      "pick_score_scores": 0.5451559576280925,
+      "vqa_score_scores": 0.5911427546332498,
+      "tifa_score_scores": 0.3009656084656085,
+      "image_reward_score_scores": 0.3012432750639009
+    },
+    "level": 11,
+    "total_descendants": 3
+  },
+  {
+    "name": "scrub oak",
+    "father": "oak",
+    "definition": "any of various chiefly American small shrubby oaks often a dominant form on thin dry soils sometimes forming dense thickets",
+    "scores": {
+      "clip_score_scores": 0.5133798901093797,
+      "pick_score_scores": 0.5264754944984006,
+      "vqa_score_scores": 0.4965167685554433,
+      "tifa_score_scores": 0.17422979797979798,
+      "image_reward_score_scores": 0.3558807262766555
+    },
+    "level": 11,
+    "total_descendants": 3
+  },
+  {
+    "name": "white oak",
+    "father": "oak",
+    "definition": "any of numerous Old World and American oaks having 6 to 8 stamens in each floret, acorns that mature in one year and leaf veins that never extend beyond the margin of the leaf",
+    "scores": {
+      "clip_score_scores": 0.5255665689101512,
+      "pick_score_scores": 0.4636852841543039,
+      "vqa_score_scores": 0.566134918658711,
+      "tifa_score_scores": 0.2035970193001443,
+      "image_reward_score_scores": 0.3774052652694434
+    },
+    "level": 11,
+    "total_descendants": 8
+  },
+  {
+    "name": "calamus (palm)",
+    "father": "palm",
+    "definition": "any tropical Asian palm of the genus Calamus; light tough stems are a source of rattan canes",
+    "scores": {
+      "clip_score_scores": 0.5216672142708928,
+      "pick_score_scores": 0.4995845128361497,
+      "vqa_score_scores": 0.573977159945525,
+      "tifa_score_scores": 0.21499999999999997,
+      "image_reward_score_scores": 0.4653271247348898
+    },
+    "level": 11,
+    "total_descendants": 2
+  },
+  {
+    "name": "fan palm",
+    "father": "palm",
+    "definition": "palm having palmate or fan-shaped leaves",
+    "scores": {
+      "clip_score_scores": 0.5323507130441247,
+      "pick_score_scores": 0.5179630738930758,
+      "vqa_score_scores": 0.5993665132285018,
+      "tifa_score_scores": 0.21031407828282828,
+      "image_reward_score_scores": 0.4227273544852278
+    },
+    "level": 11,
+    "total_descendants": 11
+  },
+  {
+    "name": "feather palm",
+    "father": "palm",
+    "definition": "palm having pinnate or featherlike leaves",
+    "scores": {
+      "clip_score_scores": 0.5880895483668149,
+      "pick_score_scores": 0.5144369730335913,
+      "vqa_score_scores": 0.5567734376422828,
+      "tifa_score_scores": 0.3485858585858586,
+      "image_reward_score_scores": 0.5105236165737795
+    },
+    "level": 11,
+    "total_descendants": 13
+  },
+  {
+    "name": "lady palm",
+    "father": "palm",
+    "definition": "any of several small palms of the genus Rhapis; cultivated as houseplants",
+    "scores": {
+      "clip_score_scores": 0.572421476643364,
+      "pick_score_scores": 0.5559518398870424,
+      "vqa_score_scores": 0.5540065147319778,
+      "tifa_score_scores": 0.2847222222222222,
+      "image_reward_score_scores": 0.4220319476280334
+    },
+    "level": 11,
+    "total_descendants": 2
+  },
+  {
+    "name": "raffia palm",
+    "father": "palm",
+    "definition": "a large feather palm of Africa and Madagascar having very long pinnatisect fronds yielding a strong commercially important fiber from its leafstalks",
+    "scores": {
+      "clip_score_scores": null,
+      "pick_score_scores": null,
+      "vqa_score_scores": null,
+      "tifa_score_scores": null,
+      "image_reward_score_scores": null
+    },
+    "level": 11,
+    "total_descendants": 2
+  },
+  {
+    "name": "sago palm (palm)",
+    "father": "palm",
+    "definition": "any of various tropical Asian palm trees the trunks of which yield sago",
+    "scores": {
+      "clip_score_scores": 0.5932494196392307,
+      "pick_score_scores": 0.556020512017537,
+      "vqa_score_scores": 0.5004343025367107,
+      "tifa_score_scores": 0.36185966810966813,
+      "image_reward_score_scores": 0.45409150264847437
+    },
+    "level": 11,
+    "total_descendants": 3
+  },
+  {
+    "name": "harpullia",
+    "father": "tulipwood tree",
+    "definition": "any of various tree of the genus Harpullia",
+    "scores": {
+      "clip_score_scores": 0.5081343519143438,
+      "pick_score_scores": 0.43102532617459244,
+      "vqa_score_scores": 0.5723783187716236,
+      "tifa_score_scores": 0.2734722222222222,
+      "image_reward_score_scores": 0.46983930609290514
+    },
+    "level": 11,
+    "total_descendants": 2
+  },
+  {
+    "name": "osier (willow)",
+    "father": "willow (tree)",
+    "definition": "any of various willows having pliable twigs used in basketry and furniture",
+    "scores": {
+      "clip_score_scores": 0.5377830432594202,
+      "pick_score_scores": 0.5642004945327382,
+      "vqa_score_scores": 0.4737093707464166,
+      "tifa_score_scores": 0.28428030303030305,
+      "image_reward_score_scores": 0.5152794054503457
+    },
+    "level": 11,
+    "total_descendants": 4
+  },
+  {
+    "name": "angiospermous yellowwood",
+    "father": "yellowwood",
+    "definition": "any of various angiospermous trees having yellow wood",
+    "scores": {
+      "clip_score_scores": 0.5265331098728865,
+      "pick_score_scores": 0.46053500324835417,
+      "vqa_score_scores": 0.5154753136486074,
+      "tifa_score_scores": 0.18854166666666666,
+      "image_reward_score_scores": 0.4222087015507786
+    },
+    "level": 11,
+    "total_descendants": 5
+  },
+  {
+    "name": "gymnospermous yellowwood",
+    "father": "yellowwood",
+    "definition": "any of various gymnospermous trees having yellow wood",
+    "scores": {
+      "clip_score_scores": 0.5338447407878224,
+      "pick_score_scores": 0.4928168908008166,
+      "vqa_score_scores": 0.5397509912036825,
+      "tifa_score_scores": 0.16805555555555557,
+      "image_reward_score_scores": 0.4080169655830432
+    },
+    "level": 11,
+    "total_descendants": 2
+  },
+  {
+    "name": "sour cherry (cherry)",
+    "father": "cherry (drupe)",
+    "definition": "acid cherries used for pies and preserves",
+    "scores": {
+      "clip_score_scores": 0.5837478662106715,
+      "pick_score_scores": 0.4994320816982826,
+      "vqa_score_scores": 0.53722954192849,
+      "tifa_score_scores": 0.18386363636363637,
+      "image_reward_score_scores": 0.5938534097379472
+    },
+    "level": 11,
+    "total_descendants": 2
+  },
+  {
+    "name": "sweet cherry (cherry)",
+    "father": "cherry (drupe)",
+    "definition": "any of several fruits of cultivated cherry trees that have sweet flesh",
+    "scores": {
+      "clip_score_scores": 0.5257396110753536,
+      "pick_score_scores": 0.44964887214120797,
+      "vqa_score_scores": 0.42566060536178085,
+      "tifa_score_scores": 0.19914021164021165,
+      "image_reward_score_scores": 0.4119912724563401
+    },
+    "level": 11,
+    "total_descendants": 3
+  },
+  {
+    "name": "currant (berry)",
+    "father": "berry (edible fruit)",
+    "definition": "any of several tart red or black berries used primarily for jellies and jams",
+    "scores": {
+      "clip_score_scores": 0.5896364416446466,
+      "pick_score_scores": 0.46848298082166195,
+      "vqa_score_scores": 0.4301083496101503,
+      "tifa_score_scores": 0.20703463203463202,
+      "image_reward_score_scores": 0.5013255945731769
+    },
+    "level": 11,
+    "total_descendants": 3
+  },
+  {
+    "name": "mandarin (citrus)",
+    "father": "citrus (edible fruit)",
+    "definition": "a somewhat flat reddish-orange loose skinned citrus of China",
+    "scores": {
+      "clip_score_scores": 0.556731717281652,
+      "pick_score_scores": 0.4913214368942529,
+      "vqa_score_scores": 0.5090209536212416,
+      "tifa_score_scores": 0.24230158730158732,
+      "image_reward_score_scores": 0.5704447718293739
+    },
+    "level": 11,
+    "total_descendants": 3
+  },
+  {
+    "name": "orange (citrus)",
+    "father": "citrus (edible fruit)",
+    "definition": "round yellow to orange fruit of any of several citrus trees",
+    "scores": {
+      "clip_score_scores": 0.6098910146630049,
+      "pick_score_scores": 0.5320488410311773,
+      "vqa_score_scores": 0.6579525868356926,
+      "tifa_score_scores": 0.30728873556998554,
+      "image_reward_score_scores": 0.5989546392477939
+    },
+    "level": 11,
+    "total_descendants": 6
+  },
+  {
+    "name": "raisin",
+    "father": "dried fruit",
+    "definition": "dried grape",
+    "scores": {
+      "clip_score_scores": 0.5401534978140812,
+      "pick_score_scores": 0.5184260545018434,
+      "vqa_score_scores": 0.4654297699983825,
+      "tifa_score_scores": 0.19787037037037036,
+      "image_reward_score_scores": 0.4294003038352093
+    },
+    "level": 11,
+    "total_descendants": 3
+  },
+  {
+    "name": "slipskin grape",
+    "father": "grape (edible fruit)",
+    "definition": "a grape whose skin slips readily from the pulp",
+    "scores": {
+      "clip_score_scores": 0.562990931512934,
+      "pick_score_scores": 0.49517487812758054,
+      "vqa_score_scores": 0.515930300006895,
+      "tifa_score_scores": 0.19824915824915829,
+      "image_reward_score_scores": 0.41685107158578805
+    },
+    "level": 11,
+    "total_descendants": 3
+  },
+  {
+    "name": "vinifera grape",
+    "father": "grape (edible fruit)",
+    "definition": "grape from a cultivated variety of the common grape vine of Europe",
+    "scores": {
+      "clip_score_scores": 0.5776703256860545,
+      "pick_score_scores": 0.5096806595799589,
+      "vqa_score_scores": 0.5188303587227474,
+      "tifa_score_scores": 0.220230278980279,
+      "image_reward_score_scores": 0.48465299195773154
+    },
+    "level": 11,
+    "total_descendants": 7
+  },
+  {
+    "name": "muskmelon",
+    "father": "melon (edible fruit)",
+    "definition": "the fruit of a muskmelon vine; any of several sweet melons related to cucumbers",
+    "scores": {
+      "clip_score_scores": 0.5971831845490674,
+      "pick_score_scores": 0.5212339757732067,
+      "vqa_score_scores": 0.5880750123467586,
+      "tifa_score_scores": 0.24979893804112552,
+      "image_reward_score_scores": 0.47731700805658556
+    },
+    "level": 11,
+    "total_descendants": 6
+  },
+  {
+    "name": "cooking apple",
+    "father": "apple (edible fruit)",
+    "definition": "an apple used primarily in cooking for pies and applesauce etc",
+    "scores": {
+      "clip_score_scores": 0.5338416546127908,
+      "pick_score_scores": 0.4648674932457582,
+      "vqa_score_scores": 0.5184890937687926,
+      "tifa_score_scores": 0.14843055555555554,
+      "image_reward_score_scores": 0.4564122841230672
+    },
+    "level": 11,
+    "total_descendants": 4
+  },
+  {
+    "name": "eating apple",
+    "father": "apple (edible fruit)",
+    "definition": "an apple used primarily for eating raw without cooking",
+    "scores": {
+      "clip_score_scores": 0.5330768101125563,
+      "pick_score_scores": 0.5264795464838696,
+      "vqa_score_scores": 0.5342647732754515,
+      "tifa_score_scores": 0.20816092472342473,
+      "image_reward_score_scores": 0.4796123422857297
+    },
+    "level": 11,
+    "total_descendants": 19
+  },
+  {
+    "name": "edible nut",
+    "father": "nut (seed)",
+    "definition": "a hard-shelled seed consisting of an edible kernel or meat enclosed in a woody or leathery shell",
+    "scores": {
+      "clip_score_scores": 0.5748387624294508,
+      "pick_score_scores": 0.5582124721762711,
+      "vqa_score_scores": 0.5501498479093698,
+      "tifa_score_scores": 0.23823343323343327,
+      "image_reward_score_scores": 0.5064415145486225
+    },
+    "level": 11,
+    "total_descendants": 23
+  }
+]

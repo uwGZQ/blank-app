@@ -1,0 +1,1038 @@
+[
+  {
+    "name": "durables",
+    "father": "consumer goods",
+    "definition": "consumer goods that are not destroyed by use",
+    "scores": {
+      "clip_score_scores": 0.5370208617798085,
+      "pick_score_scores": 0.5045745407633223,
+      "vqa_score_scores": 0.5830960813699861,
+      "tifa_score_scores": 0.1902094541646625,
+      "image_reward_score_scores": 0.44674077760575653
+    },
+    "level": 7,
+    "total_descendants": 51
+  },
+  {
+    "name": "garment",
+    "father": "clothing",
+    "definition": "an article of clothing",
+    "scores": {
+      "clip_score_scores": 0.5489214180098853,
+      "pick_score_scores": 0.5174630942274813,
+      "vqa_score_scores": 0.5613175732888066,
+      "tifa_score_scores": 0.2643345119912126,
+      "image_reward_score_scores": 0.5043413220014442
+    },
+    "level": 7,
+    "total_descendants": 265
+  },
+  {
+    "name": "headdress",
+    "father": "clothing",
+    "definition": "clothing for the head",
+    "scores": {
+      "clip_score_scores": 0.5528697950224891,
+      "pick_score_scores": 0.5056141592874772,
+      "vqa_score_scores": 0.5818141956622117,
+      "tifa_score_scores": 0.27349979013490916,
+      "image_reward_score_scores": 0.5361614733852843
+    },
+    "level": 7,
+    "total_descendants": 82
+  },
+  {
+    "name": "work",
+    "father": "product",
+    "definition": "a product produced or accomplished through the effort or activity or agency of a person or thing",
+    "scores": {
+      "clip_score_scores": 0.5428357022398378,
+      "pick_score_scores": 0.5243166525906571,
+      "vqa_score_scores": 0.5687036490045165,
+      "tifa_score_scores": 0.26436745926399746,
+      "image_reward_score_scores": 0.4981128747767975
+    },
+    "level": 7,
+    "total_descendants": 146
+  },
+  {
+    "name": "vessel (container)",
+    "father": "container",
+    "definition": "an object used as a container (especially for liquids)",
+    "scores": {
+      "clip_score_scores": 0.5778553483040726,
+      "pick_score_scores": 0.5283648607588559,
+      "vqa_score_scores": 0.538064811109639,
+      "tifa_score_scores": 0.26354921932742054,
+      "image_reward_score_scores": 0.4927043456116573
+    },
+    "level": 7,
+    "total_descendants": 134
+  },
+  {
+    "name": "vehicle (conveyance)",
+    "father": "conveyance",
+    "definition": "a conveyance that transports people or objects",
+    "scores": {
+      "clip_score_scores": 0.563564893261996,
+      "pick_score_scores": 0.5409959312311935,
+      "vqa_score_scores": 0.5636020610560176,
+      "tifa_score_scores": 0.30039616942206954,
+      "image_reward_score_scores": 0.5430906516157755
+    },
+    "level": 7,
+    "total_descendants": 482
+  },
+  {
+    "name": "electrical device",
+    "father": "device (instrumentality)",
+    "definition": "a device that produces or is powered by electricity",
+    "scores": {
+      "clip_score_scores": 0.5565746749213865,
+      "pick_score_scores": 0.5187903243802929,
+      "vqa_score_scores": 0.5522845967739224,
+      "tifa_score_scores": 0.2310563551672423,
+      "image_reward_score_scores": 0.43984951009238493
+    },
+    "level": 7,
+    "total_descendants": 171
+  },
+  {
+    "name": "electronic device",
+    "father": "device (instrumentality)",
+    "definition": "a device that accomplishes its purpose electronically",
+    "scores": {
+      "clip_score_scores": 0.5436043198458074,
+      "pick_score_scores": 0.4994772218958994,
+      "vqa_score_scores": 0.5433174797019529,
+      "tifa_score_scores": 0.22954182139481927,
+      "image_reward_score_scores": 0.4234896911540331
+    },
+    "level": 7,
+    "total_descendants": 65
+  },
+  {
+    "name": "instrument (device)",
+    "father": "device (instrumentality)",
+    "definition": "a device that requires skill for proper use",
+    "scores": {
+      "clip_score_scores": 0.5707620006574171,
+      "pick_score_scores": 0.5257479465711594,
+      "vqa_score_scores": 0.5386819086150392,
+      "tifa_score_scores": 0.23206905031759703,
+      "image_reward_score_scores": 0.4501916220642289
+    },
+    "level": 7,
+    "total_descendants": 628
+  },
+  {
+    "name": "machine (device)",
+    "father": "device (instrumentality)",
+    "definition": "any mechanical or electrical device that transmits or modifies energy to perform or assist in the performance of human tasks",
+    "scores": {
+      "clip_score_scores": 0.5498821062926664,
+      "pick_score_scores": 0.515794577967161,
+      "vqa_score_scores": 0.5477511479306646,
+      "tifa_score_scores": 0.23437066022677416,
+      "image_reward_score_scores": 0.46668894308200526
+    },
+    "level": 7,
+    "total_descendants": 224
+  },
+  {
+    "name": "mechanism (device)",
+    "father": "device (instrumentality)",
+    "definition": "device consisting of a piece of machinery; has moving parts that perform some function",
+    "scores": {
+      "clip_score_scores": 0.5487963104419362,
+      "pick_score_scores": 0.5265695021848104,
+      "vqa_score_scores": 0.54997491312113,
+      "tifa_score_scores": 0.24797111603832037,
+      "image_reward_score_scores": 0.48752494872121416
+    },
+    "level": 7,
+    "total_descendants": 297
+  },
+  {
+    "name": "memory device",
+    "father": "device (instrumentality)",
+    "definition": "a device that preserves information for retrieval",
+    "scores": {
+      "clip_score_scores": 0.5538640908905939,
+      "pick_score_scores": 0.495097159730729,
+      "vqa_score_scores": 0.5597421308671918,
+      "tifa_score_scores": 0.23962434764309765,
+      "image_reward_score_scores": 0.45274763139359
+    },
+    "level": 7,
+    "total_descendants": 58
+  },
+  {
+    "name": "musical instrument",
+    "father": "device (instrumentality)",
+    "definition": "any of various devices or contrivances that can be used to produce musical tones or sounds",
+    "scores": {
+      "clip_score_scores": 0.5642253778715386,
+      "pick_score_scores": 0.4910642087586581,
+      "vqa_score_scores": 0.5829660246327507,
+      "tifa_score_scores": 0.22447368337490423,
+      "image_reward_score_scores": 0.4756678115565173
+    },
+    "level": 7,
+    "total_descendants": 163
+  },
+  {
+    "name": "restraint",
+    "father": "device (instrumentality)",
+    "definition": "a device that retards something's motion",
+    "scores": {
+      "clip_score_scores": 0.5268619249673917,
+      "pick_score_scores": 0.5240583273958619,
+      "vqa_score_scores": 0.5355873992189878,
+      "tifa_score_scores": 0.23902021052769726,
+      "image_reward_score_scores": 0.45661846329098815
+    },
+    "level": 7,
+    "total_descendants": 179
+  },
+  {
+    "name": "source of illumination",
+    "father": "device (instrumentality)",
+    "definition": "any device serving as a source of visible electromagnetic radiation",
+    "scores": {
+      "clip_score_scores": 0.5740425597749447,
+      "pick_score_scores": 0.5358174045327063,
+      "vqa_score_scores": 0.5283859009453917,
+      "tifa_score_scores": 0.29493498323267203,
+      "image_reward_score_scores": 0.5366617448681072
+    },
+    "level": 7,
+    "total_descendants": 58
+  },
+  {
+    "name": "support (device)",
+    "father": "device (instrumentality)",
+    "definition": "any device that bears the weight of another thing",
+    "scores": {
+      "clip_score_scores": 0.5504180687602536,
+      "pick_score_scores": 0.5178562844752962,
+      "vqa_score_scores": 0.5210740840632323,
+      "tifa_score_scores": 0.24685702065262646,
+      "image_reward_score_scores": 0.48259642259909247
+    },
+    "level": 7,
+    "total_descendants": 190
+  },
+  {
+    "name": "apparatus",
+    "father": "equipment",
+    "definition": "equipment designed to serve a specific function",
+    "scores": {
+      "clip_score_scores": 0.5554424328200183,
+      "pick_score_scores": 0.5253316949896953,
+      "vqa_score_scores": 0.57812290105631,
+      "tifa_score_scores": 0.21568877376122458,
+      "image_reward_score_scores": 0.48408962537712935
+    },
+    "level": 7,
+    "total_descendants": 75
+  },
+  {
+    "name": "electronic equipment",
+    "father": "equipment",
+    "definition": "equipment that involves the controlled conduction of electrons (especially in a gas or vacuum or semiconductor)",
+    "scores": {
+      "clip_score_scores": 0.5713680371769645,
+      "pick_score_scores": 0.5342486177664092,
+      "vqa_score_scores": 0.5240354808017449,
+      "tifa_score_scores": 0.22679356286075034,
+      "image_reward_score_scores": 0.5018230335935666
+    },
+    "level": 7,
+    "total_descendants": 72
+  },
+  {
+    "name": "game equipment",
+    "father": "equipment",
+    "definition": "equipment or apparatus used in playing a game",
+    "scores": {
+      "clip_score_scores": 0.5647202663972757,
+      "pick_score_scores": 0.5097659404245124,
+      "vqa_score_scores": 0.5210490687499195,
+      "tifa_score_scores": 0.25486387897143514,
+      "image_reward_score_scores": 0.4738304548371652
+    },
+    "level": 7,
+    "total_descendants": 73
+  },
+  {
+    "name": "sports equipment",
+    "father": "equipment",
+    "definition": "equipment needed to participate in a particular sport",
+    "scores": {
+      "clip_score_scores": 0.5833329379534502,
+      "pick_score_scores": 0.5107627357901631,
+      "vqa_score_scores": 0.5374308601448854,
+      "tifa_score_scores": 0.24990706035094346,
+      "image_reward_score_scores": 0.4854609304933206
+    },
+    "level": 7,
+    "total_descendants": 95
+  },
+  {
+    "name": "furniture",
+    "father": "furnishing (instrumentality)",
+    "definition": "furnishings that make a room or other area ready for occupancy",
+    "scores": {
+      "clip_score_scores": 0.5672924825097713,
+      "pick_score_scores": 0.5185831546736559,
+      "vqa_score_scores": 0.5538554421101505,
+      "tifa_score_scores": 0.26656333711089963,
+      "image_reward_score_scores": 0.45176269970155847
+    },
+    "level": 7,
+    "total_descendants": 190
+  },
+  {
+    "name": "bar (implement)",
+    "father": "implement",
+    "definition": "a rigid piece of metal or wood; usually used as a fastening or obstruction or weapon",
+    "scores": {
+      "clip_score_scores": 0.5420775659041479,
+      "pick_score_scores": 0.5062204800730438,
+      "vqa_score_scores": 0.5201897689673025,
+      "tifa_score_scores": 0.22348869935179458,
+      "image_reward_score_scores": 0.46273086386944434
+    },
+    "level": 7,
+    "total_descendants": 60
+  },
+  {
+    "name": "rod (implement)",
+    "father": "implement",
+    "definition": "a long thin implement made of metal or wood",
+    "scores": {
+      "clip_score_scores": 0.5573724537339999,
+      "pick_score_scores": 0.5310786974252996,
+      "vqa_score_scores": 0.474708748677615,
+      "tifa_score_scores": 0.28079134902183844,
+      "image_reward_score_scores": 0.4716813858144828
+    },
+    "level": 7,
+    "total_descendants": 52
+  },
+  {
+    "name": "tool",
+    "father": "implement",
+    "definition": "an implement used in the practice of a vocation",
+    "scores": {
+      "clip_score_scores": 0.549040386320445,
+      "pick_score_scores": 0.5286870544843882,
+      "vqa_score_scores": 0.5182383708686107,
+      "tifa_score_scores": 0.21937325353328305,
+      "image_reward_score_scores": 0.45614874890997
+    },
+    "level": 7,
+    "total_descendants": 345
+  },
+  {
+    "name": "utensil",
+    "father": "implement",
+    "definition": "an implement for practical use (especially in a household)",
+    "scores": {
+      "clip_score_scores": 0.5706825329742643,
+      "pick_score_scores": 0.536928697652503,
+      "vqa_score_scores": 0.5727536099577116,
+      "tifa_score_scores": 0.27090373195599465,
+      "image_reward_score_scores": 0.48615104090990763
+    },
+    "level": 7,
+    "total_descendants": 87
+  },
+  {
+    "name": "enclosure (area)",
+    "father": "area (structure)",
+    "definition": "a structure consisting of an area that has been enclosed for some purpose",
+    "scores": {
+      "clip_score_scores": 0.5521802917637536,
+      "pick_score_scores": 0.49373389087478914,
+      "vqa_score_scores": 0.5058579062429356,
+      "tifa_score_scores": 0.22838735884702682,
+      "image_reward_score_scores": 0.44146071796076275
+    },
+    "level": 7,
+    "total_descendants": 97
+  },
+  {
+    "name": "room",
+    "father": "area (structure)",
+    "definition": "an area within a building enclosed by walls and floor and ceiling",
+    "scores": {
+      "clip_score_scores": 0.5513512403498372,
+      "pick_score_scores": 0.5027765133112506,
+      "vqa_score_scores": 0.5264455053513997,
+      "tifa_score_scores": 0.22949885372983053,
+      "image_reward_score_scores": 0.4489124115098379
+    },
+    "level": 7,
+    "total_descendants": 178
+  },
+  {
+    "name": "place of business",
+    "father": "establishment",
+    "definition": "an establishment (a factory or an assembly plant or retail store or warehouse etc.) where business is conducted, goods are made or stored or processed or where services are rendered",
+    "scores": {
+      "clip_score_scores": 0.5840996890933852,
+      "pick_score_scores": 0.5475752164672284,
+      "vqa_score_scores": 0.5758822349721298,
+      "tifa_score_scores": 0.2676630973770139,
+      "image_reward_score_scores": 0.5017037673973951
+    },
+    "level": 7,
+    "total_descendants": 94
+  },
+  {
+    "name": "dwelling",
+    "father": "housing (structure)",
+    "definition": "housing that someone is living in",
+    "scores": {
+      "clip_score_scores": 0.5619991643024866,
+      "pick_score_scores": 0.5299783726831875,
+      "vqa_score_scores": 0.5541938865789622,
+      "tifa_score_scores": 0.233053611430861,
+      "image_reward_score_scores": 0.496417465636788
+    },
+    "level": 7,
+    "total_descendants": 69
+  },
+  {
+    "name": "barrier (obstruction)",
+    "father": "obstruction",
+    "definition": "a structure or object that impedes free movement",
+    "scores": {
+      "clip_score_scores": 0.5461826864915025,
+      "pick_score_scores": 0.5260933516845397,
+      "vqa_score_scores": 0.543845060917762,
+      "tifa_score_scores": 0.2887002585570294,
+      "image_reward_score_scores": 0.464544595383096
+    },
+    "level": 7,
+    "total_descendants": 71
+  },
+  {
+    "name": "framework",
+    "father": "supporting structure",
+    "definition": "a structure supporting or containing something",
+    "scores": {
+      "clip_score_scores": 0.5446096943235057,
+      "pick_score_scores": 0.5419120304023294,
+      "vqa_score_scores": 0.5710663662057227,
+      "tifa_score_scores": 0.2538675841853635,
+      "image_reward_score_scores": 0.48516387361136454
+    },
+    "level": 7,
+    "total_descendants": 89
+  },
+  {
+    "name": "platform (horizontal surface)",
+    "father": "horizontal surface",
+    "definition": "a raised horizontal surface",
+    "scores": {
+      "clip_score_scores": 0.5259309026842437,
+      "pick_score_scores": 0.5028855008002737,
+      "vqa_score_scores": 0.5418791539305293,
+      "tifa_score_scores": 0.25367718788413235,
+      "image_reward_score_scores": 0.47168044256011227
+    },
+    "level": 7,
+    "total_descendants": 54
+  },
+  {
+    "name": "conduit",
+    "father": "passage",
+    "definition": "a passage (a pipe or tunnel) through which water or electric wires can pass",
+    "scores": {
+      "clip_score_scores": 0.5534417777943783,
+      "pick_score_scores": 0.5117713514791805,
+      "vqa_score_scores": 0.5344330532313096,
+      "tifa_score_scores": 0.2780237757172281,
+      "image_reward_score_scores": 0.4786365998691502
+    },
+    "level": 7,
+    "total_descendants": 89
+  },
+  {
+    "name": "chordate",
+    "father": "animal",
+    "definition": "any animal of the phylum Chordata having a notochord or spinal column",
+    "scores": {
+      "clip_score_scores": 0.5557385537363307,
+      "pick_score_scores": 0.5277944759967118,
+      "vqa_score_scores": 0.5650320120187627,
+      "tifa_score_scores": 0.2613616152172649,
+      "image_reward_score_scores": 0.4849227964111364
+    },
+    "level": 7,
+    "total_descendants": 2757
+  },
+  {
+    "name": "domestic animal",
+    "father": "animal",
+    "definition": "any of various animals that have been tamed and made fit for a human environment",
+    "scores": {
+      "clip_score_scores": 0.5632481088420335,
+      "pick_score_scores": 0.494580794653564,
+      "vqa_score_scores": 0.4940816277301348,
+      "tifa_score_scores": 0.3312200516741062,
+      "image_reward_score_scores": 0.5567544530203932
+    },
+    "level": 7,
+    "total_descendants": 207
+  },
+  {
+    "name": "invertebrate",
+    "father": "animal",
+    "definition": "any animal lacking a backbone or notochord; the term is not used as a scientific classification",
+    "scores": {
+      "clip_score_scores": 0.534482878651409,
+      "pick_score_scores": 0.5026890466485713,
+      "vqa_score_scores": 0.5290562201863134,
+      "tifa_score_scores": 0.2229666054342345,
+      "image_reward_score_scores": 0.45591180983538493
+    },
+    "level": 7,
+    "total_descendants": 758
+  },
+  {
+    "name": "basidiomycete",
+    "father": "fungus",
+    "definition": "any of various fungi of the subdivision Basidiomycota",
+    "scores": {
+      "clip_score_scores": 0.5590139637963587,
+      "pick_score_scores": 0.5018877573845552,
+      "vqa_score_scores": 0.5656177841156113,
+      "tifa_score_scores": 0.2332629319796314,
+      "image_reward_score_scores": 0.46521546175722417
+    },
+    "level": 7,
+    "total_descendants": 117
+  },
+  {
+    "name": "moneran",
+    "father": "microorganism",
+    "definition": "organisms that typically reproduce by asexual budding or fission and whose nutritional mode is absorption or photosynthesis or chemosynthesis",
+    "scores": {
+      "clip_score_scores": 0.5348365088693924,
+      "pick_score_scores": 0.5118329022270207,
+      "vqa_score_scores": 0.5390822921539944,
+      "tifa_score_scores": 0.21800861542007377,
+      "image_reward_score_scores": 0.5189667600685207
+    },
+    "level": 7,
+    "total_descendants": 73
+  },
+  {
+    "name": "protoctist",
+    "father": "microorganism",
+    "definition": "any of the unicellular protists",
+    "scores": {
+      "clip_score_scores": 0.5605567464152741,
+      "pick_score_scores": 0.5031966375730899,
+      "vqa_score_scores": 0.5724602245624912,
+      "tifa_score_scores": 0.1922289552167498,
+      "image_reward_score_scores": 0.5437680315148692
+    },
+    "level": 7,
+    "total_descendants": 83
+  },
+  {
+    "name": "virus",
+    "father": "microorganism",
+    "definition": "(virology) ultramicroscopic infectious agent that replicates itself only within cells of living hosts; many are pathogenic; a piece of nucleic acid (DNA or RNA) wrapped in a thin coat of protein",
+    "scores": {
+      "clip_score_scores": 0.538148772677205,
+      "pick_score_scores": 0.5040217159202091,
+      "vqa_score_scores": 0.5739876805477606,
+      "tifa_score_scores": 0.2523764864250976,
+      "image_reward_score_scores": 0.4845742163623267
+    },
+    "level": 7,
+    "total_descendants": 73
+  },
+  {
+    "name": "adult (person)",
+    "father": "person (causal agent)",
+    "definition": "a fully developed person from maturity onward",
+    "scores": {
+      "clip_score_scores": 0.5264695631358339,
+      "pick_score_scores": 0.4953730176250511,
+      "vqa_score_scores": 0.5404631886972376,
+      "tifa_score_scores": 0.2123878943182136,
+      "image_reward_score_scores": 0.4385560057099484
+    },
+    "level": 7,
+    "total_descendants": 260
+  },
+  {
+    "name": "advocate (person)",
+    "father": "person (causal agent)",
+    "definition": "a person who pleads for a cause or propounds an idea",
+    "scores": {
+      "clip_score_scores": 0.5398437744921823,
+      "pick_score_scores": 0.5154407112293778,
+      "vqa_score_scores": 0.5579105009724694,
+      "tifa_score_scores": 0.17473464952935439,
+      "image_reward_score_scores": 0.5073128643686999
+    },
+    "level": 7,
+    "total_descendants": 100
+  },
+  {
+    "name": "african",
+    "father": "person (causal agent)",
+    "definition": "a native or inhabitant of Africa",
+    "scores": {
+      "clip_score_scores": 0.5456727514157629,
+      "pick_score_scores": 0.50319724946015,
+      "vqa_score_scores": 0.5078249527765872,
+      "tifa_score_scores": 0.19665134780343113,
+      "image_reward_score_scores": 0.518319334307793
+    },
+    "level": 7,
+    "total_descendants": 73
+  },
+  {
+    "name": "bad person",
+    "father": "person (causal agent)",
+    "definition": "a person who does harm to others",
+    "scores": {
+      "clip_score_scores": 0.5233278328182784,
+      "pick_score_scores": 0.5201383838059553,
+      "vqa_score_scores": 0.5389830303601634,
+      "tifa_score_scores": 0.18430607910092975,
+      "image_reward_score_scores": 0.5122349101703959
+    },
+    "level": 7,
+    "total_descendants": 198
+  },
+  {
+    "name": "capitalist (person)",
+    "father": "person (causal agent)",
+    "definition": "a person who invests capital in a business (especially a large business)",
+    "scores": {
+      "clip_score_scores": 0.5416447811166197,
+      "pick_score_scores": 0.5123688462801881,
+      "vqa_score_scores": 0.5508950142322501,
+      "tifa_score_scores": 0.22118783397872505,
+      "image_reward_score_scores": 0.49839069085449966
+    },
+    "level": 7,
+    "total_descendants": 161
+  },
+  {
+    "name": "combatant",
+    "father": "person (causal agent)",
+    "definition": "someone who fights (or is fighting)",
+    "scores": {
+      "clip_score_scores": 0.5536543806875762,
+      "pick_score_scores": 0.5071825986645762,
+      "vqa_score_scores": 0.5583291050684687,
+      "tifa_score_scores": 0.22011956847515554,
+      "image_reward_score_scores": 0.4619380895290961
+    },
+    "level": 7,
+    "total_descendants": 51
+  },
+  {
+    "name": "communicator",
+    "father": "person (causal agent)",
+    "definition": "a person who communicates with others",
+    "scores": {
+      "clip_score_scores": 0.5347855358896395,
+      "pick_score_scores": 0.48756947607482104,
+      "vqa_score_scores": 0.5554901466481296,
+      "tifa_score_scores": 0.20432459718425008,
+      "image_reward_score_scores": 0.4747155980170485
+    },
+    "level": 7,
+    "total_descendants": 282
+  },
+  {
+    "name": "contestant",
+    "father": "person (causal agent)",
+    "definition": "a person who participates in competitions",
+    "scores": {
+      "clip_score_scores": 0.5520203908884747,
+      "pick_score_scores": 0.4903594203259847,
+      "vqa_score_scores": 0.5357414775136202,
+      "tifa_score_scores": 0.19528992389614777,
+      "image_reward_score_scores": 0.4206400066314249
+    },
+    "level": 7,
+    "total_descendants": 201
+  },
+  {
+    "name": "creator",
+    "father": "person (causal agent)",
+    "definition": "a person who grows or makes or invents things",
+    "scores": {
+      "clip_score_scores": 0.5462397353576414,
+      "pick_score_scores": 0.480258809313089,
+      "vqa_score_scores": 0.5166644827842183,
+      "tifa_score_scores": 0.21961079187344992,
+      "image_reward_score_scores": 0.45086361985189616
+    },
+    "level": 7,
+    "total_descendants": 173
+  },
+  {
+    "name": "entertainer",
+    "father": "person (causal agent)",
+    "definition": "a person who tries to please or amuse",
+    "scores": {
+      "clip_score_scores": 0.5532629851032861,
+      "pick_score_scores": 0.48955419857971894,
+      "vqa_score_scores": 0.5329530216896163,
+      "tifa_score_scores": 0.21766388399702932,
+      "image_reward_score_scores": 0.5136002841436229
+    },
+    "level": 7,
+    "total_descendants": 176
+  },
+  {
+    "name": "expert",
+    "father": "person (causal agent)",
+    "definition": "a person with special knowledge or ability who performs skillfully",
+    "scores": {
+      "clip_score_scores": 0.5475188614730925,
+      "pick_score_scores": 0.5100312623646419,
+      "vqa_score_scores": 0.5521526862727324,
+      "tifa_score_scores": 0.20890270662023114,
+      "image_reward_score_scores": 0.46094172741963796
+    },
+    "level": 7,
+    "total_descendants": 175
+  },
+  {
+    "name": "female (person)",
+    "father": "person (causal agent)",
+    "definition": "a person who belongs to the sex that can have babies",
+    "scores": {
+      "clip_score_scores": 0.5467981669015278,
+      "pick_score_scores": 0.4579482998238549,
+      "vqa_score_scores": 0.4762697950314174,
+      "tifa_score_scores": 0.16986023328523328,
+      "image_reward_score_scores": 0.5253427403230204
+    },
+    "level": 7,
+    "total_descendants": 96
+  },
+  {
+    "name": "follower (person)",
+    "father": "person (causal agent)",
+    "definition": "a person who accepts the leadership of another",
+    "scores": {
+      "clip_score_scores": 0.5574531230093591,
+      "pick_score_scores": 0.4953198991339096,
+      "vqa_score_scores": 0.5177087522928054,
+      "tifa_score_scores": 0.2166481553202089,
+      "image_reward_score_scores": 0.4906652124896462
+    },
+    "level": 7,
+    "total_descendants": 77
+  },
+  {
+    "name": "inhabitant",
+    "father": "person (causal agent)",
+    "definition": "a person who inhabits a particular place",
+    "scores": {
+      "clip_score_scores": 0.532071080420644,
+      "pick_score_scores": 0.49858771305955135,
+      "vqa_score_scores": 0.5293416531172149,
+      "tifa_score_scores": 0.18315710191225404,
+      "image_reward_score_scores": 0.4703914345218597
+    },
+    "level": 7,
+    "total_descendants": 336
+  },
+  {
+    "name": "intellectual",
+    "father": "person (causal agent)",
+    "definition": "a person who uses the mind creatively",
+    "scores": {
+      "clip_score_scores": 0.5432919459461784,
+      "pick_score_scores": 0.5013951142853244,
+      "vqa_score_scores": 0.6037076545925683,
+      "tifa_score_scores": 0.2110004778102442,
+      "image_reward_score_scores": 0.5331555565866841
+    },
+    "level": 7,
+    "total_descendants": 143
+  },
+  {
+    "name": "leader",
+    "father": "person (causal agent)",
+    "definition": "a person who rules or guides or inspires others",
+    "scores": {
+      "clip_score_scores": 0.5454679799828894,
+      "pick_score_scores": 0.5014479019962816,
+      "vqa_score_scores": 0.5415203220963357,
+      "tifa_score_scores": 0.20375210757726067,
+      "image_reward_score_scores": 0.4875326493358685
+    },
+    "level": 7,
+    "total_descendants": 391
+  },
+  {
+    "name": "male (person)",
+    "father": "person (causal agent)",
+    "definition": "a person who belongs to the sex that cannot have babies",
+    "scores": {
+      "clip_score_scores": 0.5788510444611679,
+      "pick_score_scores": 0.49353449085465095,
+      "vqa_score_scores": 0.5480641546358102,
+      "tifa_score_scores": 0.29630228731822794,
+      "image_reward_score_scores": 0.5302152961905554
+    },
+    "level": 7,
+    "total_descendants": 91
+  },
+  {
+    "name": "peer (person)",
+    "father": "person (causal agent)",
+    "definition": "a person who is of equal standing with another in a group",
+    "scores": {
+      "clip_score_scores": 0.5403846067079151,
+      "pick_score_scores": 0.512612532438924,
+      "vqa_score_scores": 0.5916639525398835,
+      "tifa_score_scores": 0.22011369186240715,
+      "image_reward_score_scores": 0.5349894165232151
+    },
+    "level": 7,
+    "total_descendants": 68
+  },
+  {
+    "name": "person of color",
+    "father": "person (causal agent)",
+    "definition": "(formal) any non-European non-white person",
+    "scores": {
+      "clip_score_scores": 0.5819286263391602,
+      "pick_score_scores": 0.5082994526237922,
+      "vqa_score_scores": 0.5858210337557134,
+      "tifa_score_scores": 0.23702572194242005,
+      "image_reward_score_scores": 0.4916230760301884
+    },
+    "level": 7,
+    "total_descendants": 318
+  },
+  {
+    "name": "preserver (person)",
+    "father": "person (causal agent)",
+    "definition": "someone who keeps safe from harm or danger",
+    "scores": {
+      "clip_score_scores": 0.5251572585284283,
+      "pick_score_scores": 0.5111966854982658,
+      "vqa_score_scores": 0.5347727461893612,
+      "tifa_score_scores": 0.2579270769485252,
+      "image_reward_score_scores": 0.5324322781020081
+    },
+    "level": 7,
+    "total_descendants": 101
+  },
+  {
+    "name": "relative (person)",
+    "father": "person (causal agent)",
+    "definition": "a person related by blood or marriage",
+    "scores": {
+      "clip_score_scores": 0.543372680243027,
+      "pick_score_scores": 0.49867719664431104,
+      "vqa_score_scores": 0.5528279536387734,
+      "tifa_score_scores": 0.18337479043570493,
+      "image_reward_score_scores": 0.48623321074285497
+    },
+    "level": 7,
+    "total_descendants": 167
+  },
+  {
+    "name": "religious person",
+    "father": "person (causal agent)",
+    "definition": "a person who manifests devotion to a deity",
+    "scores": {
+      "clip_score_scores": 0.5401646753489941,
+      "pick_score_scores": 0.5135197929676903,
+      "vqa_score_scores": 0.5357048300429219,
+      "tifa_score_scores": 0.23056679528686325,
+      "image_reward_score_scores": 0.48961555634989
+    },
+    "level": 7,
+    "total_descendants": 145
+  },
+  {
+    "name": "scientist",
+    "father": "person (causal agent)",
+    "definition": "a person with advanced knowledge of one or more sciences",
+    "scores": {
+      "clip_score_scores": 0.5399823853950476,
+      "pick_score_scores": 0.508787207738977,
+      "vqa_score_scores": 0.523104830423168,
+      "tifa_score_scores": 0.22502637253694968,
+      "image_reward_score_scores": 0.477286151129382
+    },
+    "level": 7,
+    "total_descendants": 123
+  },
+  {
+    "name": "traveler",
+    "father": "person (causal agent)",
+    "definition": "a person who changes location",
+    "scores": {
+      "clip_score_scores": 0.5534974484923558,
+      "pick_score_scores": 0.5023367732935233,
+      "vqa_score_scores": 0.5727878567846432,
+      "tifa_score_scores": 0.2197718465802426,
+      "image_reward_score_scores": 0.5023174828778048
+    },
+    "level": 7,
+    "total_descendants": 149
+  },
+  {
+    "name": "unfortunate",
+    "father": "person (causal agent)",
+    "definition": "a person who suffers misfortune",
+    "scores": {
+      "clip_score_scores": 0.5633456796427033,
+      "pick_score_scores": 0.5322669068495826,
+      "vqa_score_scores": 0.5454283194739514,
+      "tifa_score_scores": 0.23202722714151233,
+      "image_reward_score_scores": 0.4678734984425653
+    },
+    "level": 7,
+    "total_descendants": 117
+  },
+  {
+    "name": "unwelcome person",
+    "father": "person (causal agent)",
+    "definition": "a person who for some reason is not wanted or welcome",
+    "scores": {
+      "clip_score_scores": 0.5604976268378471,
+      "pick_score_scores": 0.5083025301453507,
+      "vqa_score_scores": 0.5676392141495722,
+      "tifa_score_scores": 0.25276942208329334,
+      "image_reward_score_scores": 0.48947385167330953
+    },
+    "level": 7,
+    "total_descendants": 150
+  },
+  {
+    "name": "user",
+    "father": "person (causal agent)",
+    "definition": "a person who makes use of a thing; someone who uses or employs something",
+    "scores": {
+      "clip_score_scores": 0.6177079349593041,
+      "pick_score_scores": 0.516320638423299,
+      "vqa_score_scores": 0.5785232167533705,
+      "tifa_score_scores": 0.2550519646277791,
+      "image_reward_score_scores": 0.44592502198037787
+    },
+    "level": 7,
+    "total_descendants": 70
+  },
+  {
+    "name": "worker (person)",
+    "father": "person (causal agent)",
+    "definition": "a person who works at a specific occupation",
+    "scores": {
+      "clip_score_scores": 0.5528788718402611,
+      "pick_score_scores": 0.4972994159189531,
+      "vqa_score_scores": 0.5391540511468115,
+      "tifa_score_scores": 0.21259546051045358,
+      "image_reward_score_scores": 0.4789815432201621
+    },
+    "level": 7,
+    "total_descendants": 903
+  },
+  {
+    "name": "vascular plant",
+    "father": "plant (organism)",
+    "definition": "green plant having a vascular system: ferns, gymnosperms, angiosperms",
+    "scores": {
+      "clip_score_scores": 0.5363152280392646,
+      "pick_score_scores": 0.5217901765622701,
+      "vqa_score_scores": 0.5573345261932628,
+      "tifa_score_scores": 0.25057889885223233,
+      "image_reward_score_scores": 0.4608529172097801
+    },
+    "level": 7,
+    "total_descendants": 4000
+  },
+  {
+    "name": "wilding",
+    "father": "plant (organism)",
+    "definition": "a wild uncultivated plant (especially a wild apple or crabapple tree)",
+    "scores": {
+      "clip_score_scores": 0.5591052712221588,
+      "pick_score_scores": 0.4938717770196491,
+      "vqa_score_scores": 0.4733623055651066,
+      "tifa_score_scores": 0.20568002424480147,
+      "image_reward_score_scores": 0.5717638298625192
+    },
+    "level": 7,
+    "total_descendants": 141
+  },
+  {
+    "name": "hair",
+    "father": "body covering",
+    "definition": "a covering for the body (or parts of it) consisting of a dense growth of threadlike structures (as on the human head); helps to prevent heat loss",
+    "scores": {
+      "clip_score_scores": 0.559991673840887,
+      "pick_score_scores": 0.537985335930813,
+      "vqa_score_scores": 0.568569173865771,
+      "tifa_score_scores": 0.29219924375098166,
+      "image_reward_score_scores": 0.5231410253608922
+    },
+    "level": 7,
+    "total_descendants": 62
+  },
+  {
+    "name": "leaf (plant organ)",
+    "father": "plant organ",
+    "definition": "the main organ of photosynthesis and transpiration in higher plants",
+    "scores": {
+      "clip_score_scores": 0.5367227388785779,
+      "pick_score_scores": 0.5181058917331376,
+      "vqa_score_scores": 0.5070239584121449,
+      "tifa_score_scores": 0.2710610221409854,
+      "image_reward_score_scores": 0.4801683304542893
+    },
+    "level": 7,
+    "total_descendants": 69
+  },
+  {
+    "name": "reproductive structure",
+    "father": "plant organ",
+    "definition": "the parts of a plant involved in its reproduction",
+    "scores": {
+      "clip_score_scores": 0.5247528446441467,
+      "pick_score_scores": 0.5183550835288321,
+      "vqa_score_scores": 0.5256919309091768,
+      "tifa_score_scores": 0.24667476971593488,
+      "image_reward_score_scores": 0.4287212328631414
+    },
+    "level": 7,
+    "total_descendants": 413
+  },
+  {
+    "name": "stalk",
+    "father": "plant organ",
+    "definition": "a slender or elongated structure that supports a plant or fungus or a plant part or plant organ",
+    "scores": {
+      "clip_score_scores": 0.5531586740905484,
+      "pick_score_scores": 0.5166717227096761,
+      "vqa_score_scores": 0.5716208411532027,
+      "tifa_score_scores": 0.23614597711065102,
+      "image_reward_score_scores": 0.4585380205115174
+    },
+    "level": 7,
+    "total_descendants": 52
+  }
+]

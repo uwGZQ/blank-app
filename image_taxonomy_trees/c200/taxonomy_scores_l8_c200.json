@@ -1,0 +1,142 @@
+[
+  {
+    "name": "wheeled vehicle",
+    "father": "vehicle (conveyance)",
+    "definition": "a vehicle that moves on wheels and usually has a container for transporting things or people",
+    "scores": {
+      "clip_score_scores": 0.5685513952191742,
+      "pick_score_scores": 0.5313573595032876,
+      "vqa_score_scores": 0.531881315838744,
+      "tifa_score_scores": 0.2647473982106236,
+      "image_reward_score_scores": 0.5470501865673406
+    },
+    "level": 8,
+    "total_descendants": 222
+  },
+  {
+    "name": "measuring instrument",
+    "father": "instrument (device)",
+    "definition": "instrument that shows the extent or amount or quantity or degree of something",
+    "scores": {
+      "clip_score_scores": 0.5537160067431937,
+      "pick_score_scores": 0.5272839672244001,
+      "vqa_score_scores": 0.5261175475017699,
+      "tifa_score_scores": 0.23223990086015134,
+      "image_reward_score_scores": 0.4883351890846511
+    },
+    "level": 8,
+    "total_descendants": 237
+  },
+  {
+    "name": "vertebrate",
+    "father": "chordate",
+    "definition": "animals having a bony or cartilaginous skeleton with a segmented spinal column and a large brain enclosed in a skull or cranium",
+    "scores": {
+      "clip_score_scores": 0.5624124602057334,
+      "pick_score_scores": 0.5207384914165972,
+      "vqa_score_scores": 0.5634156135723294,
+      "tifa_score_scores": 0.2596634591679084,
+      "image_reward_score_scores": 0.4839689206019503
+    },
+    "level": 8,
+    "total_descendants": 2747
+  },
+  {
+    "name": "arthropod",
+    "father": "invertebrate",
+    "definition": "invertebrate having jointed limbs and a segmented body with an exoskeleton made of chitin",
+    "scores": {
+      "clip_score_scores": 0.5531398838307557,
+      "pick_score_scores": 0.5235121449467703,
+      "vqa_score_scores": 0.5748895626704337,
+      "tifa_score_scores": 0.24530587389482797,
+      "image_reward_score_scores": 0.4790743911130324
+    },
+    "level": 8,
+    "total_descendants": 571
+  },
+  {
+    "name": "skilled worker",
+    "father": "worker (person)",
+    "definition": "a worker who has acquired special skills",
+    "scores": {
+      "clip_score_scores": 0.5490310055429426,
+      "pick_score_scores": 0.5094137889949659,
+      "vqa_score_scores": 0.5433551545953976,
+      "tifa_score_scores": 0.22905906846339774,
+      "image_reward_score_scores": 0.48340635272031207
+    },
+    "level": 8,
+    "total_descendants": 498
+  },
+  {
+    "name": "herb",
+    "father": "vascular plant",
+    "definition": "a plant lacking a permanent woody stem; many are flowering garden plants or potherbs; some having medicinal properties; some are pests",
+    "scores": {
+      "clip_score_scores": 0.5498188753323549,
+      "pick_score_scores": 0.5123425316124858,
+      "vqa_score_scores": 0.5209480284166855,
+      "tifa_score_scores": 0.22659067139021266,
+      "image_reward_score_scores": 0.46253309352383554
+    },
+    "level": 8,
+    "total_descendants": 949
+  },
+  {
+    "name": "spermatophyte",
+    "father": "vascular plant",
+    "definition": "plant that reproduces by means of seeds not spores",
+    "scores": {
+      "clip_score_scores": 0.5613024059501035,
+      "pick_score_scores": 0.49048527902305744,
+      "vqa_score_scores": 0.5525646473584233,
+      "tifa_score_scores": 0.28006366862657023,
+      "image_reward_score_scores": 0.4388255255456371
+    },
+    "level": 8,
+    "total_descendants": 453
+  },
+  {
+    "name": "vine",
+    "father": "vascular plant",
+    "definition": "a plant with a weak stem that derives support from climbing, twining, or creeping along a surface",
+    "scores": {
+      "clip_score_scores": 0.5391026890164206,
+      "pick_score_scores": 0.5122665269534398,
+      "vqa_score_scores": 0.5235433432717023,
+      "tifa_score_scores": 0.23933780556497075,
+      "image_reward_score_scores": 0.4407844658685481
+    },
+    "level": 8,
+    "total_descendants": 257
+  },
+  {
+    "name": "woody plant",
+    "father": "vascular plant",
+    "definition": "a plant having hard lignified tissues or woody parts especially stems",
+    "scores": {
+      "clip_score_scores": 0.5520122661771288,
+      "pick_score_scores": 0.5242570421892121,
+      "vqa_score_scores": 0.5670389694686679,
+      "tifa_score_scores": 0.24422003526550165,
+      "image_reward_score_scores": 0.4835902595963101
+    },
+    "level": 8,
+    "total_descendants": 1767
+  },
+  {
+    "name": "fruit",
+    "father": "reproductive structure",
+    "definition": "the ripened reproductive body of a seed plant",
+    "scores": {
+      "clip_score_scores": 0.5530309730872505,
+      "pick_score_scores": 0.4988317960116743,
+      "vqa_score_scores": 0.5433938509157302,
+      "tifa_score_scores": 0.2533438644652382,
+      "image_reward_score_scores": 0.48772957182011073
+    },
+    "level": 8,
+    "total_descendants": 314
+  }
+]

@@ -1,0 +1,562 @@
+[
+  {
+    "name": "scum",
+    "father": "film (object)",
+    "definition": "a film of impurities or vegetation that can form on the surface of a liquid",
+    "scores": {
+      "clip_score_scores": 0.5377330921871617,
+      "pick_score_scores": 0.5048454708236444,
+      "vqa_score_scores": 0.46210471632371153,
+      "tifa_score_scores": 0.1610840548340548,
+      "image_reward_score_scores": 0.5614584750533996
+    },
+    "level": 4,
+    "total_descendants": 2
+  },
+  {
+    "name": "cave",
+    "father": "geological formation",
+    "definition": "a geological formation consisting of an underground enclosure with access from the surface of the ground or from the sea",
+    "scores": {
+      "clip_score_scores": 0.5611906339161684,
+      "pick_score_scores": 0.5522991102393893,
+      "vqa_score_scores": 0.564803860219681,
+      "tifa_score_scores": 0.37187499999999996,
+      "image_reward_score_scores": 0.5189087493549928
+    },
+    "level": 4,
+    "total_descendants": 3
+  },
+  {
+    "name": "cliff",
+    "father": "geological formation",
+    "definition": "a steep high face of rock",
+    "scores": {
+      "clip_score_scores": 0.5747621407762119,
+      "pick_score_scores": 0.5128425731726691,
+      "vqa_score_scores": 0.6378506466682908,
+      "tifa_score_scores": 0.2684974747474747,
+      "image_reward_score_scores": 0.4016050792257572
+    },
+    "level": 4,
+    "total_descendants": 2
+  },
+  {
+    "name": "ice mass",
+    "father": "geological formation",
+    "definition": "a large mass of ice",
+    "scores": {
+      "clip_score_scores": 0.5364399274597593,
+      "pick_score_scores": 0.5284687389976024,
+      "vqa_score_scores": 0.44498881212066504,
+      "tifa_score_scores": 0.22196577380952381,
+      "image_reward_score_scores": 0.4877959476230034
+    },
+    "level": 4,
+    "total_descendants": 10
+  },
+  {
+    "name": "natural depression",
+    "father": "geological formation",
+    "definition": "a sunken or depressed geological formation",
+    "scores": {
+      "clip_score_scores": 0.5276613512292216,
+      "pick_score_scores": 0.5081579899905583,
+      "vqa_score_scores": 0.49737674947073146,
+      "tifa_score_scores": 0.20980557885401635,
+      "image_reward_score_scores": 0.4502927348137753
+    },
+    "level": 4,
+    "total_descendants": 58
+  },
+  {
+    "name": "natural elevation",
+    "father": "geological formation",
+    "definition": "a raised or elevated geological formation",
+    "scores": {
+      "clip_score_scores": 0.5390161290637053,
+      "pick_score_scores": 0.5027198993034963,
+      "vqa_score_scores": 0.5672252344866883,
+      "tifa_score_scores": 0.23656867198057677,
+      "image_reward_score_scores": 0.49133818493852605
+    },
+    "level": 4,
+    "total_descendants": 39
+  },
+  {
+    "name": "shore (geological formation)",
+    "father": "geological formation",
+    "definition": "the land along the edge of a body of water",
+    "scores": {
+      "clip_score_scores": 0.5719778259801057,
+      "pick_score_scores": 0.521796647762573,
+      "vqa_score_scores": 0.555328002142475,
+      "tifa_score_scores": 0.23460648148148147,
+      "image_reward_score_scores": 0.5260345867808698
+    },
+    "level": 4,
+    "total_descendants": 7
+  },
+  {
+    "name": "slope",
+    "father": "geological formation",
+    "definition": "an elevated geological formation",
+    "scores": {
+      "clip_score_scores": 0.5340573398553203,
+      "pick_score_scores": 0.5225148428878594,
+      "vqa_score_scores": 0.5231440243474863,
+      "tifa_score_scores": 0.25810170153920153,
+      "image_reward_score_scores": 0.4845198505794352
+    },
+    "level": 4,
+    "total_descendants": 15
+  },
+  {
+    "name": "spring (geological formation)",
+    "father": "geological formation",
+    "definition": "a natural flow of ground water",
+    "scores": {
+      "clip_score_scores": 0.5021784187532474,
+      "pick_score_scores": 0.5172717138399117,
+      "vqa_score_scores": 0.44297661620556583,
+      "tifa_score_scores": 0.31143939393939396,
+      "image_reward_score_scores": 0.5114258644744841
+    },
+    "level": 4,
+    "total_descendants": 3
+  },
+  {
+    "name": "volcanic crater",
+    "father": "geological formation",
+    "definition": "a bowl-shaped geological formation at the top of a volcano",
+    "scores": {
+      "clip_score_scores": 0.5445939010242371,
+      "pick_score_scores": 0.5068296520941697,
+      "vqa_score_scores": 0.4305707280433785,
+      "tifa_score_scores": 0.2770247113997114,
+      "image_reward_score_scores": 0.47565987222321787
+    },
+    "level": 4,
+    "total_descendants": 2
+  },
+  {
+    "name": "bog",
+    "father": "wetland",
+    "definition": "wet spongy ground of decomposing vegetation; has poorer drainage than a swamp; soil is unfit for cultivation but can be cut and dried and used for fuel",
+    "scores": {
+      "clip_score_scores": 0.6023290484027064,
+      "pick_score_scores": 0.5345258742055954,
+      "vqa_score_scores": 0.6236736236474435,
+      "tifa_score_scores": 0.3450441919191919,
+      "image_reward_score_scores": 0.42938369991195235
+    },
+    "level": 4,
+    "total_descendants": 2
+  },
+  {
+    "name": "flat (plain)",
+    "father": "plain",
+    "definition": "a level tract of land",
+    "scores": {
+      "clip_score_scores": 0.3566183061000424,
+      "pick_score_scores": 0.6237132328197774,
+      "vqa_score_scores": 0.5075991708024987,
+      "tifa_score_scores": 0.27,
+      "image_reward_score_scores": 0.5977314626177634
+    },
+    "level": 4,
+    "total_descendants": 2
+  },
+  {
+    "name": "line (location)",
+    "father": "location (object)",
+    "definition": "a spatial location defined by a real or imaginary unidimensional extent",
+    "scores": {
+      "clip_score_scores": 0.5342297447980663,
+      "pick_score_scores": 0.48869279888042216,
+      "vqa_score_scores": 0.5210392702017759,
+      "tifa_score_scores": 0.24013515103478728,
+      "image_reward_score_scores": 0.46056671975523744
+    },
+    "level": 4,
+    "total_descendants": 96
+  },
+  {
+    "name": "pass",
+    "father": "location (object)",
+    "definition": "the location in a range of mountains of a geological formation that is lower than the surrounding peaks",
+    "scores": {
+      "clip_score_scores": 0.5638302735213491,
+      "pick_score_scores": 0.4738260095422408,
+      "vqa_score_scores": 0.619130582209276,
+      "tifa_score_scores": 0.20432098765432097,
+      "image_reward_score_scores": 0.50785090347154
+    },
+    "level": 4,
+    "total_descendants": 5
+  },
+  {
+    "name": "point (location)",
+    "father": "location (object)",
+    "definition": "the precise location of something; a spatially limited location",
+    "scores": {
+      "clip_score_scores": 0.5514715529751656,
+      "pick_score_scores": 0.5028176611392822,
+      "vqa_score_scores": 0.5620925573673381,
+      "tifa_score_scores": 0.24018556101492308,
+      "image_reward_score_scores": 0.4609444433862588
+    },
+    "level": 4,
+    "total_descendants": 258
+  },
+  {
+    "name": "belt (region)",
+    "father": "location (object)",
+    "definition": "an elongated region where a specific condition or characteristic is found",
+    "scores": {
+      "clip_score_scores": 0.5401049913524124,
+      "pick_score_scores": 0.528257997002388,
+      "vqa_score_scores": 0.46475665189649185,
+      "tifa_score_scores": 0.18515211640211637,
+      "image_reward_score_scores": 0.4629089078657555
+    },
+    "level": 4,
+    "total_descendants": 2
+  },
+  {
+    "name": "bottom (region)",
+    "father": "location (object)",
+    "definition": "the lowest part of anything",
+    "scores": {
+      "clip_score_scores": 0.5865082503855809,
+      "pick_score_scores": 0.4962258725573819,
+      "vqa_score_scores": 0.5836753492557359,
+      "tifa_score_scores": 0.2485479797979798,
+      "image_reward_score_scores": 0.5147224983661375
+    },
+    "level": 4,
+    "total_descendants": 3
+  },
+  {
+    "name": "extremity",
+    "father": "location (object)",
+    "definition": "the outermost or farthest region or point",
+    "scores": {
+      "clip_score_scores": 0.5254809508507222,
+      "pick_score_scores": 0.514525975310298,
+      "vqa_score_scores": 0.5581621541056397,
+      "tifa_score_scores": 0.2726834143848751,
+      "image_reward_score_scores": 0.4904064986753866
+    },
+    "level": 4,
+    "total_descendants": 132
+  },
+  {
+    "name": "inside (region)",
+    "father": "location (object)",
+    "definition": "the region that is inside of something",
+    "scores": {
+      "clip_score_scores": 0.527639079756351,
+      "pick_score_scores": 0.5668502501850807,
+      "vqa_score_scores": 0.5474881191148762,
+      "tifa_score_scores": 0.3015151515151515,
+      "image_reward_score_scores": 0.4865656041184572
+    },
+    "level": 4,
+    "total_descendants": 3
+  },
+  {
+    "name": "layer (region)",
+    "father": "location (object)",
+    "definition": "a relatively thin sheetlike expanse or region lying over or under another",
+    "scores": {
+      "clip_score_scores": 0.5496210820907301,
+      "pick_score_scores": 0.5152066754997613,
+      "vqa_score_scores": 0.5926043628068686,
+      "tifa_score_scores": 0.21127263010633546,
+      "image_reward_score_scores": 0.5011267260225194
+    },
+    "level": 4,
+    "total_descendants": 42
+  },
+  {
+    "name": "side (region)",
+    "father": "location (object)",
+    "definition": "a place within a region identified relative to a center or reference location",
+    "scores": {
+      "clip_score_scores": 0.5443902251883989,
+      "pick_score_scores": 0.5188702237607584,
+      "vqa_score_scores": 0.5006669400355871,
+      "tifa_score_scores": 0.2301398909732243,
+      "image_reward_score_scores": 0.41773228837193005
+    },
+    "level": 4,
+    "total_descendants": 9
+  },
+  {
+    "name": "top (region)",
+    "father": "location (object)",
+    "definition": "the upper part of anything",
+    "scores": {
+      "clip_score_scores": 0.5115187275459196,
+      "pick_score_scores": 0.49726838593652634,
+      "vqa_score_scores": 0.6127869800017982,
+      "tifa_score_scores": 0.26114583333333335,
+      "image_reward_score_scores": 0.4224927180450449
+    },
+    "level": 4,
+    "total_descendants": 4
+  },
+  {
+    "name": "zone (region)",
+    "father": "location (object)",
+    "definition": "an area or region distinguished from adjacent parts by a distinctive feature or characteristic",
+    "scores": {
+      "clip_score_scores": 0.5412670837275252,
+      "pick_score_scores": 0.48780127514328986,
+      "vqa_score_scores": 0.5749325190720797,
+      "tifa_score_scores": 0.1895455436196177,
+      "image_reward_score_scores": 0.3794513400376292
+    },
+    "level": 4,
+    "total_descendants": 12
+  },
+  {
+    "name": "area (region)",
+    "father": "location (object)",
+    "definition": "a particular geographical region of indefinite boundary (usually serving some special purpose or distinguished by its people or culture or geography)",
+    "scores": {
+      "clip_score_scores": 0.5548588625828236,
+      "pick_score_scores": 0.5058870650863236,
+      "vqa_score_scores": 0.5254209636626088,
+      "tifa_score_scores": 0.26056318559631453,
+      "image_reward_score_scores": 0.4688050686265261
+    },
+    "level": 4,
+    "total_descendants": 82
+  },
+  {
+    "name": "district",
+    "father": "location (object)",
+    "definition": "a region marked off for administrative or other purposes",
+    "scores": {
+      "clip_score_scores": 0.5395981430000927,
+      "pick_score_scores": 0.5132512664640024,
+      "vqa_score_scores": 0.5200619822084795,
+      "tifa_score_scores": 0.19221995605004263,
+      "image_reward_score_scores": 0.44034366681452836
+    },
+    "level": 4,
+    "total_descendants": 113
+  },
+  {
+    "name": "domain",
+    "father": "location (object)",
+    "definition": "territory over which rule or control is exercised",
+    "scores": {
+      "clip_score_scores": 0.5255976313948275,
+      "pick_score_scores": 0.5003411225574547,
+      "vqa_score_scores": 0.5799657662424837,
+      "tifa_score_scores": 0.22033594877344875,
+      "image_reward_score_scores": 0.5124639245035983
+    },
+    "level": 4,
+    "total_descendants": 14
+  },
+  {
+    "name": "geographical area",
+    "father": "location (object)",
+    "definition": "a demarcated area of the Earth",
+    "scores": {
+      "clip_score_scores": 0.5360287379055033,
+      "pick_score_scores": 0.5067752523228068,
+      "vqa_score_scores": 0.5456521953616478,
+      "tifa_score_scores": 0.22081610776577457,
+      "image_reward_score_scores": 0.4884355592132263
+    },
+    "level": 4,
+    "total_descendants": 234
+  },
+  {
+    "name": "space (amorphous shape)",
+    "father": "location (object)",
+    "definition": "an empty area (usually bounded in some way between things)",
+    "scores": {
+      "clip_score_scores": 0.5336474553705858,
+      "pick_score_scores": 0.5058054412674514,
+      "vqa_score_scores": 0.5965659326978073,
+      "tifa_score_scores": 0.24231012789349862,
+      "image_reward_score_scores": 0.46770536614050956
+    },
+    "level": 4,
+    "total_descendants": 113
+  },
+  {
+    "name": "appendage",
+    "father": "part (object)",
+    "definition": "a part that is joined to something larger",
+    "scores": {
+      "clip_score_scores": 0.5224574604785518,
+      "pick_score_scores": 0.5152060019019802,
+      "vqa_score_scores": 0.4866192650525957,
+      "tifa_score_scores": 0.2533191082906992,
+      "image_reward_score_scores": 0.4590959988054647
+    },
+    "level": 4,
+    "total_descendants": 21
+  },
+  {
+    "name": "butt (part)",
+    "father": "part (object)",
+    "definition": "the small unused part of something (especially the end of a cigarette that is left after smoking)",
+    "scores": {
+      "clip_score_scores": 0.5539749603228534,
+      "pick_score_scores": 0.5078571804651899,
+      "vqa_score_scores": 0.533819591889514,
+      "tifa_score_scores": 0.26078563411896744,
+      "image_reward_score_scores": 0.5377355310778444
+    },
+    "level": 4,
+    "total_descendants": 3
+  },
+  {
+    "name": "component",
+    "father": "part (object)",
+    "definition": "an artifact that is one of the individual parts of which a composite entity is made up; especially a part that can be separated from or attached to a system",
+    "scores": {
+      "clip_score_scores": 0.5344911644597352,
+      "pick_score_scores": 0.4977077388112984,
+      "vqa_score_scores": 0.537043363970547,
+      "tifa_score_scores": 0.259223294021878,
+      "image_reward_score_scores": 0.41022737182597047
+    },
+    "level": 4,
+    "total_descendants": 52
+  },
+  {
+    "name": "piece (part)",
+    "father": "part (object)",
+    "definition": "a separate part of a whole",
+    "scores": {
+      "clip_score_scores": 0.5562788130961506,
+      "pick_score_scores": 0.5559422171814358,
+      "vqa_score_scores": 0.6314681486627542,
+      "tifa_score_scores": 0.2724837512025012,
+      "image_reward_score_scores": 0.5036511807170593
+    },
+    "level": 4,
+    "total_descendants": 12
+  },
+  {
+    "name": "section (part)",
+    "father": "part (object)",
+    "definition": "one of several parts or pieces that fit with others to constitute a whole object",
+    "scores": {
+      "clip_score_scores": 0.565713336827807,
+      "pick_score_scores": 0.5236554621720494,
+      "vqa_score_scores": 0.5857411134853594,
+      "tifa_score_scores": 0.3307744107744108,
+      "image_reward_score_scores": 0.4889535383151582
+    },
+    "level": 4,
+    "total_descendants": 12
+  },
+  {
+    "name": "wreckage",
+    "father": "part (object)",
+    "definition": "the remaining parts of something that has been wrecked",
+    "scores": {
+      "clip_score_scores": 0.5834847498917445,
+      "pick_score_scores": 0.4542880472927406,
+      "vqa_score_scores": 0.5391232628635982,
+      "tifa_score_scores": 0.22055555555555553,
+      "image_reward_score_scores": 0.35888795066417273
+    },
+    "level": 4,
+    "total_descendants": 2
+  },
+  {
+    "name": "fossil",
+    "father": "remains",
+    "definition": "the remains (or an impression) of a plant or animal that existed in a past geological age and that has been excavated from the soil",
+    "scores": {
+      "clip_score_scores": 0.5499822940160969,
+      "pick_score_scores": 0.49582403695111626,
+      "vqa_score_scores": 0.6269776477078298,
+      "tifa_score_scores": 0.18876533189033187,
+      "image_reward_score_scores": 0.4648644140891489
+    },
+    "level": 4,
+    "total_descendants": 6
+  },
+  {
+    "name": "spider web (web)",
+    "father": "web (object)",
+    "definition": "a web spun by spiders to trap insect prey",
+    "scores": {
+      "clip_score_scores": 0.6055046638431503,
+      "pick_score_scores": 0.5691429426929886,
+      "vqa_score_scores": 0.5894228391172927,
+      "tifa_score_scores": 0.29705952380952383,
+      "image_reward_score_scores": 0.5649469516235628
+    },
+    "level": 4,
+    "total_descendants": 4
+  },
+  {
+    "name": "artifact",
+    "father": "whole",
+    "definition": "a man-made object taken as a whole",
+    "scores": {
+      "clip_score_scores": 0.5497859623835366,
+      "pick_score_scores": 0.5170025425943412,
+      "vqa_score_scores": 0.5604486852058055,
+      "tifa_score_scores": 0.25587187172089965,
+      "image_reward_score_scores": 0.47978177644156844
+    },
+    "level": 4,
+    "total_descendants": 10290
+  },
+  {
+    "name": "item",
+    "father": "whole",
+    "definition": "a whole individual unit; especially when included in a list or collection",
+    "scores": {
+      "clip_score_scores": 0.5489431116188619,
+      "pick_score_scores": 0.5060109157520226,
+      "vqa_score_scores": 0.5312290531301483,
+      "tifa_score_scores": 0.24638287638287637,
+      "image_reward_score_scores": 0.47146222194324405
+    },
+    "level": 4,
+    "total_descendants": 3
+  },
+  {
+    "name": "living thing",
+    "father": "whole",
+    "definition": "a living (or once living) entity",
+    "scores": {
+      "clip_score_scores": 0.5736181851575499,
+      "pick_score_scores": 0.518276681008533,
+      "vqa_score_scores": 0.5821161922250855,
+      "tifa_score_scores": 0.27179038038006786,
+      "image_reward_score_scores": 0.524735956716874
+    },
+    "level": 4,
+    "total_descendants": 15824
+  },
+  {
+    "name": "natural object",
+    "father": "whole",
+    "definition": "an object occurring naturally; not made by man",
+    "scores": {
+      "clip_score_scores": 0.5433360319300703,
+      "pick_score_scores": 0.5165258817799501,
+      "vqa_score_scores": 0.5634211318321739,
+      "tifa_score_scores": 0.23098592507627347,
+      "image_reward_score_scores": 0.46572841292757844
+    },
+    "level": 4,
+    "total_descendants": 1086
+  }
+]
